@@ -26,7 +26,7 @@ jobs:
         with:
           node-version: 22
           cache: npm
-      - run: npm ci
+      - run: npm install --no-audit --no-fund
       - run: npm run build:pages
       - uses: actions/upload-pages-artifact@v3
         with:
