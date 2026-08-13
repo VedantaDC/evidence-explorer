@@ -21,17 +21,19 @@ test("server-renders the MNR evidence explorer shell and metadata", async () => 
 
   const html = await response.text();
   assert.match(html, /<title>MNR Evidence Explorer<\/title>/i);
-  assert.match(html, /Preparing the MNR evidence explorer/i);
+  assert.match(html, /Preparing the sleep-device evidence explorer/i);
   assert.match(html, /social-preview\.png/i);
   assert.match(html, /Core, Expanded, and Historical evidence/i);
 });
 
 test("ships the expanded evidence corpus and downloadable workbook", async () => {
-  const [dataText, workbook] = await Promise.all([
+  const [dataText, otherText, workbook] = await Promise.all([
     readFile(new URL("../public/dashboard_data.json", import.meta.url), "utf8"),
+    readFile(new URL("../public/other_codes_data.json", import.meta.url), "utf8"),
     readFile(new URL("../public/MNR_Curated_Analysis.xlsx", import.meta.url)),
   ]);
   const data = JSON.parse(dataText);
+  const other = JSON.parse(otherText);
 
   assert.equal(data.stats.total_families_audited, 105);
   assert.equal(data.stats.included_families, 82);
@@ -40,5 +42,14 @@ test("ships the expanded evidence corpus and downloadable workbook", async () =>
   assert.equal(data.stats.expanded_families, 21);
   assert.equal(data.stats.historical_families, 10);
   assert.ok(data.sensors.some((row) => row.standardized_location === "Location not specified"));
+  assert.equal(other.stats.total_clearances_screened, 101);
+  assert.equal(other.stats.included_families, 7);
+  assert.equal(other.stats.excluded_clearances, 94);
+  assert.equal(other.stats.olv_included, 6);
+  assert.equal(other.stats.olz_included, 1);
+  assert.equal(other.audit.length, 101);
+  assert.match(other.stats.scope_rule, /reduced-channel configurations/i);
+  assert.ok(other.families.some((row) => /Nox Sleep System/.test(row.family_name)));
+  assert.ok(other.families.some((row) => /Level 3 HSAT/.test(row.family_name)));
   assert.ok(workbook.byteLength > 100_000);
 });

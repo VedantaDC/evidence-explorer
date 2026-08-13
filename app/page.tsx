@@ -41,6 +41,12 @@ type Payload = {
   clearances: Clearance[];
 };
 
+type OtherFamily = { family_id:string; family_name:string; product_code:string; k_numbers:string; decision_date:string; applicant:string; indication_role:string; indications_short:string; indications_verbatim:string; scope_basis:string; standardized_outputs:string; source_url:string };
+type OtherSensor = { family_id:string; family_name:string; product_code:string; k_number:string; sensor:string; location:string; measurement:string; sensor_outputs:string; source_url:string };
+type OtherOutput = { family_id:string; family_name:string; product_code:string; k_number:string; standardized_output:string; source_url:string };
+type OtherAudit = { product_code:string; k_number:string; decision_date:string; device_name:string; applicant:string; analysis_decision:string; scope_category:string; decision_reason:string; pdf_status:string; text_available:boolean; evidence_excerpt:string; source_url:string };
+type OtherPayload = { stats:{ product_codes:string[]; total_clearances_screened:number; included_clearances:number; included_families:number; excluded_clearances:number; olv_clearances:number; olz_clearances:number; olv_included:number; olz_included:number; sensor_facts:number; output_facts:number; exclusion_category_counts:Pair[]; scope_rule:string }; families:OtherFamily[]; sensors:OtherSensor[]; outputs:OtherOutput[]; audit:OtherAudit[] };
+
 const palette = ["#00a7a5", "#195b8a", "#f29d49", "#7559a6", "#6a9f58", "#dc6b6b"];
 
 function unique(values: string[]) {
@@ -87,8 +93,40 @@ function SourceBadge({ type }: { type: string }) {
   return <span className={`sourceBadge ${supplemental ? "supplemental" : "fda"}`}>{supplemental ? "Supplemental" : "FDA"}</span>;
 }
 
+function CorpusNav({ corpus, setCorpus }: { corpus:"mnr"|"other"; setCorpus:(value:"mnr"|"other")=>void }) {
+  return <nav className="corpusNav" aria-label="Research corpus">
+    <span>Research corpus</span>
+    <button className={corpus === "mnr" ? "active" : ""} onClick={() => setCorpus("mnr")}>MNR devices</button>
+    <button className={corpus === "other" ? "active" : ""} onClick={() => setCorpus("other")}>Other product codes · OLV / OLZ</button>
+  </nav>;
+}
+
+function OtherCodesView({ data, setCorpus }: { data:OtherPayload; setCorpus:(value:"mnr"|"other")=>void }) {
+  const [view,setView]=useState("overview");
+  const [query,setQuery]=useState("");
+  const [code,setCode]=useState("");
+  const [decision,setDecision]=useState("");
+  const [category,setCategory]=useState("");
+  const outputCounts=useMemo(()=>Object.entries(data.outputs.reduce((a,o)=>{a[o.standardized_output]=(a[o.standardized_output]||0)+1;return a;},{} as Record<string,number>)).sort((a,b)=>b[1]-a[1]) as Pair[],[data]);
+  const sensorCounts=useMemo(()=>Object.entries(data.sensors.reduce((a,s)=>{a[s.sensor]=(a[s.sensor]||0)+1;return a;},{} as Record<string,number>)).sort((a,b)=>b[1]-a[1]) as Pair[],[data]);
+  const audit=data.audit.filter(a=>(!query||`${a.device_name} ${a.applicant} ${a.k_number}`.toLowerCase().includes(query.toLowerCase()))&&(!code||a.product_code===code)&&(!decision||a.analysis_decision===decision)&&(!category||a.scope_category===category));
+  return <main><CorpusNav corpus="other" setCorpus={setCorpus}/>
+    <header className="hero otherHero"><div className="eyebrow">NEUROLOGY · PRODUCT CODES OLV / OLZ · LIMITED-CHANNEL SCOPE</div><div className="heroGrid"><div><h1>Which Neurology clearances actually function as home sleep-apnea tests?</h1><p>Reduced-channel configurations are included when the FDA summary identifies them clearly. Full PSG-only systems and software-only scoring remain outside scope.</p></div><div className="heroStamp"><span>Clearances screened</span><strong>{data.stats.total_clearances_screened}</strong><small>{data.stats.olv_clearances} OLV · {data.stats.olz_clearances} OLZ</small></div></div></header>
+    <nav className="tabs" aria-label="Other code views">{[["overview","Overview"],["families","Included configurations"],["sensors","Sensor facts"],["outputs","Outputs"],["audit","Scope audit"],["methods","Methods"]].map(([id,label])=><button key={id} className={view===id?"active":""} onClick={()=>setView(id)}>{label}</button>)}<a className="download" href="/MNR_Curated_Analysis.xlsx" download>Download combined Excel</a></nav>
+    {view==="overview"&&<div className="page"><section className="metrics"><Metric value={data.stats.included_families} label="included configurations" note={`of ${data.stats.total_clearances_screened} clearances screened`}/><Metric value={data.stats.olv_included} label="OLV included" note={`of ${data.stats.olv_clearances} OLV clearances`}/><Metric value={data.stats.olz_included} label="OLZ included" note={`of ${data.stats.olz_clearances} OLZ clearances`}/><Metric value={data.stats.sensor_facts} label="sensor facts" note={`${data.stats.output_facts} normalized output facts`}/></section><section className="insight"><div><span className="insightNumber">7</span><span className="insightText">qualifying limited-channel configurations. Mixed systems are counted only for their reduced configuration: Nox polygraphy, SOMNOscreen plus cardiorespiratory, and Cerebra Level 3 HSAT. Their full PSG configurations are not analyzed here.</span></div></section><div className="chartGrid"><Donut included={data.stats.included_clearances} excluded={data.stats.excluded_clearances}/><BarChart title="Why clearances were excluded" data={data.stats.exclusion_category_counts}/></div><div className="chartGrid"><BarChart title="Sensors in included configurations" data={sensorCounts}/><BarChart title="Outputs in included configurations" data={outputCounts}/></div></div>}
+    {view==="families"&&<div className="page wide"><div className="sectionHead"><div><h2>Included limited-channel configurations</h2><p>For mixed systems, the configuration name and scope basis explicitly separate HSAT from full PSG.</p></div></div><div className="tableWrap"><table><thead><tr><th>Device / configuration</th><th>Code & 510(k)</th><th>Indication</th><th>Reduced-channel scope</th><th>Sensors</th><th>Outputs</th></tr></thead><tbody>{data.families.map(f=><tr key={f.family_id}><td><strong>{f.family_name}</strong><small>{f.applicant} · {f.decision_date}</small></td><td><a href={f.source_url} target="_blank" rel="noreferrer">{f.product_code} · {f.k_numbers}</a></td><td>{f.indications_short}<small>{f.indications_verbatim}</small></td><td>{f.scope_basis}</td><td>{data.sensors.filter(s=>s.family_id===f.family_id).map(s=>s.sensor).join("; ")}</td><td className="outputTags">{f.standardized_outputs.split("; ").map(o=><span key={o}>{o}</span>)}</td></tr>)}</tbody></table></div></div>}
+    {view==="sensors"&&<div className="page wide"><div className="sectionHead"><div><h2>Sensor → location → measurement</h2><p>Location remains descriptive, not an inclusion requirement.</p></div><div className="resultCount"><strong>{data.sensors.length}</strong> facts</div></div><div className="tableWrap"><table><thead><tr><th>Configuration</th><th>Sensor</th><th>Location</th><th>Measures</th><th>Related outputs</th><th>FDA evidence</th></tr></thead><tbody>{data.sensors.map((s,i)=><tr key={`${s.family_id}-${i}`}><td><strong>{s.family_name}</strong></td><td>{s.sensor}</td><td>{s.location}</td><td>{s.measurement}</td><td>{s.sensor_outputs}</td><td><a href={s.source_url} target="_blank" rel="noreferrer">{s.k_number}</a></td></tr>)}</tbody></table></div></div>}
+    {view==="outputs"&&<div className="page wide"><div className="sectionHead"><div><h2>Normalized outputs</h2><p>Only outputs supported for the included device/configuration are listed.</p></div><div className="resultCount"><strong>{data.outputs.length}</strong> facts</div></div><div className="tableWrap"><table><thead><tr><th>Configuration</th><th>Product code</th><th>Standardized output</th><th>FDA evidence</th></tr></thead><tbody>{data.outputs.map((o,i)=><tr key={`${o.family_id}-${i}`}><td><strong>{o.family_name}</strong></td><td>{o.product_code}</td><td><span className="outputPill">{o.standardized_output}</span></td><td><a href={o.source_url} target="_blank" rel="noreferrer">{o.k_number}</a></td></tr>)}</tbody></table></div></div>}
+    {view==="audit"&&<div className="page wide"><div className="sectionHead"><div><h2>OLV / OLZ scope audit</h2><p>All 101 primary-code clearances remain visible, including unavailable historical PDFs.</p></div><div className="resultCount"><strong>{audit.length}</strong> rows</div></div><section className="filterPanel compact"><label className="filter search"><span>Search device, applicant, or K number</span><input value={query} onChange={e=>setQuery(e.target.value)} placeholder="Search"/></label><Select label="Product code" value={code} options={["OLV","OLZ"]} onChange={setCode}/><Select label="Decision" value={decision} options={["Include","Exclude"]} onChange={setDecision}/><Select label="Category" value={category} options={unique(data.audit.map(a=>a.scope_category))} onChange={setCategory}/><button className="clear" onClick={()=>{setQuery("");setCode("");setDecision("");setCategory("")}}>Clear</button></section><div className="tableWrap"><table><thead><tr><th>Device</th><th>Code / 510(k)</th><th>Decision</th><th>Scope category</th><th>Reason</th><th>PDF</th></tr></thead><tbody>{audit.map(a=><tr key={a.k_number}><td><strong>{a.device_name}</strong><small>{a.applicant} · {a.decision_date}</small></td><td><a href={a.source_url} target="_blank" rel="noreferrer">{a.product_code} · {a.k_number}</a></td><td><span className={`decision ${a.analysis_decision.toLowerCase()}`}>{a.analysis_decision}</span></td><td>{a.scope_category}</td><td>{a.decision_reason}</td><td>{a.pdf_status}</td></tr>)}</tbody></table></div></div>}
+    {view==="methods"&&<div className="page methods"><div className="eyebrow dark">CONFIGURATION-SPECIFIC SCREENING</div><h2>Reduced configurations count; full PSG channels do not</h2><p className="lede">{data.stats.scope_rule}</p><section className="methodGrid"><div className="steps">{["Enumerate every primary OLV and OLZ 510(k) in openFDA.","Download the FDA-hosted summary and OCR scanned pages.","Include direct limited-channel HSAT devices and explicitly documented reduced-channel configurations.","For mixed systems, extract only the reduced polygraphy/Level 3/cardiorespiratory sensor set.","Exclude software-only scoring, full-PSG-only systems, and standalone components; retain every decision in the audit."].map((x,i)=><div key={x}><span>{String(i+1).padStart(2,"0")}</span><p>{x}</p></div>)}</div><aside><h3>Interpretation boundary</h3><p>“Available configuration” must be stated or clearly described in the FDA summary. A hypothetical ability to omit channels is not enough.</p><h3>Review status</h3><p>This remains a machine-assisted research draft and should receive expert adjudication before publication.</p></aside></section></div>}
+    <footer><span>MNR Evidence Explorer · OLV/OLZ extension</span><span>{data.stats.total_clearances_screened} screened → {data.stats.included_families} reduced-channel configurations included</span></footer>
+  </main>;
+}
+
 export default function Home() {
   const [data, setData] = useState<Payload | null>(null);
+  const [otherData, setOtherData] = useState<OtherPayload | null>(null);
+  const [corpus, setCorpus] = useState<"mnr"|"other">("mnr");
   const [tab, setTab] = useState("overview");
   const [search, setSearch] = useState("");
   const [sensor, setSensor] = useState("");
@@ -100,7 +138,7 @@ export default function Home() {
   const [auditDecision, setAuditDecision] = useState("");
   const [expanded, setExpanded] = useState<string | null>(null);
 
-  useEffect(() => { fetch("/dashboard_data.json").then(r => r.json()).then(setData); }, []);
+  useEffect(() => { fetch("/dashboard_data.json").then(r => r.json()).then(setData); fetch("/other_codes_data.json").then(r=>r.json()).then(setOtherData); }, []);
   const sensorOptions = useMemo(() => data ? unique(data.sensors.map(x => x.standardized_sensor)) : [], [data]);
   const locationOptions = useMemo(() => data ? unique(data.sensors.map(x => x.standardized_location)) : [], [data]);
   const outputOptions = useMemo(() => data ? unique(data.outputs.map(x => x.standardized_output)) : [], [data]);
@@ -135,13 +173,14 @@ export default function Home() {
     return data.outputs.filter(o => ids.has(o.device_family_id) && (!output || o.standardized_output === output));
   }, [data, filteredFamilies, output]);
 
-  if (!data) return <main className="loading"><div className="loadingMark" /><h1>Preparing the MNR evidence explorer…</h1></main>;
+  if (!data || !otherData) return <main className="loading"><div className="loadingMark" /><h1>Preparing the sleep-device evidence explorer…</h1></main>;
+  if (corpus === "other") return <OtherCodesView data={otherData} setCorpus={setCorpus}/>;
 
   const kLinks = (familyId: string) => data.clearances.filter(c => c.device_family_id === familyId);
   const clearFilters = () => { setSearch(""); setSensor(""); setLocation(""); setOutput(""); setRole(""); setArchetype(""); setTier(""); };
   const filtersActive = Boolean(search || sensor || location || output || role || archetype || tier);
 
-  return <main>
+  return <main><CorpusNav corpus="mnr" setCorpus={setCorpus}/>
     <header className="hero">
       <div className="eyebrow">FDA PRODUCT CODE MNR · CURATED ANALYSIS</div>
       <div className="heroGrid"><div><h1>What can the strongest records actually tell us?</h1><p>Explore the device families with a complete, traceable sensor → location → physiological measurement → output chain.</p></div>
