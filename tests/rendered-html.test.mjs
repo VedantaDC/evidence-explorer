@@ -14,16 +14,26 @@ async function render() {
   );
 }
 
-test("server-renders the MNR evidence explorer shell and metadata", async () => {
+test("server-renders the evidence explorer shell and metadata", async () => {
   const response = await render();
   assert.equal(response.status, 200);
   assert.match(response.headers.get("content-type") ?? "", /^text\/html\b/i);
 
   const html = await response.text();
-  assert.match(html, /<title>MNR Evidence Explorer<\/title>/i);
+  assert.match(html, /<title>Evidence Explorer<\/title>/i);
   assert.match(html, /Preparing the sleep-device evidence explorer/i);
   assert.match(html, /social-preview\.png/i);
-  assert.match(html, /Core, Expanded, and Historical evidence/i);
+  assert.match(html, /curated FDA 510\(k\) evidence/i);
+});
+
+test("ships separate data and analysis views with case-normalized filters", async () => {
+  const source = await readFile(new URL("../app/page.tsx", import.meta.url), "utf8");
+  assert.match(source, /Data overview/);
+  assert.match(source, /Analysis overview/);
+  assert.match(source, /Sensor facts by latest-clearance era/);
+  assert.match(source, /function unique\(values: string\[\]\)/);
+  assert.match(source, /toLocaleLowerCase/);
+  assert.match(source, /sameLabel\(o\.standardized_output, output\)/);
 });
 
 test("ships the expanded evidence corpus and downloadable workbook", async () => {

@@ -49,8 +49,63 @@ type OtherPayload = { stats:{ product_codes:string[]; total_clearances_screened:
 
 const palette = ["#00a7a5", "#195b8a", "#f29d49", "#7559a6", "#6a9f58", "#dc6b6b"];
 
+function fold(value: string) {
+  return value.trim().replace(/\s+/g, " ").toLocaleLowerCase();
+}
+
+function preferredLabel(values: string[]) {
+  return [...values].sort((a, b) => {
+    const titleA = /^[A-Z]/.test(a) ? 1 : 0;
+    const titleB = /^[A-Z]/.test(b) ? 1 : 0;
+    return titleB - titleA || a.length - b.length || a.localeCompare(b);
+  })[0];
+}
+
 function unique(values: string[]) {
-  return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b));
+  const grouped = new Map<string, string[]>();
+  values.filter(Boolean).forEach(value => {
+    const key = fold(value);
+    grouped.set(key, [...(grouped.get(key) || []), value.trim()]);
+  });
+  return [...grouped.values()].map(preferredLabel).sort((a, b) => a.localeCompare(b));
+}
+
+function sameLabel(a: string, b: string) {
+  return fold(a) === fold(b);
+}
+
+function consolidatePairs(data: Pair[]) {
+  const totals = new Map<string, { labels: string[]; value: number }>();
+  data.forEach(([label, value]) => {
+    const key = fold(label);
+    const row = totals.get(key) || { labels: [], value: 0 };
+    row.labels.push(label);
+    row.value += value;
+    totals.set(key, row);
+  });
+  return [...totals.values()].map(row => [preferredLabel(row.labels), row.value] as Pair).sort((a, b) => b[1] - a[1]);
+}
+
+function countPairs(values: string[]) {
+  return consolidatePairs(Object.entries(values.reduce((counts, value) => {
+    counts[value] = (counts[value] || 0) + 1;
+    return counts;
+  }, {} as Record<string, number>)) as Pair[]);
+}
+
+function timeBand(date: string) {
+  const year = Number(date.slice(0, 4));
+  if (!year) return "Date unavailable";
+  if (year < 2000) return "Before 2000";
+  if (year < 2010) return "2000–2009";
+  if (year < 2020) return "2010–2019";
+  return "2020+";
+}
+
+function orderedBands(values: string[]) {
+  const counts = new Map(countPairs(values));
+  return ["Before 2000", "2000–2009", "2010–2019", "2020+", "Date unavailable"]
+    .filter(label => counts.has(label)).map(label => [label, counts.get(label) || 0] as Pair);
 }
 
 function Metric({ value, label, note }: { value: string | number; label: string; note: string }) {
@@ -101,25 +156,41 @@ function CorpusNav({ corpus, setCorpus }: { corpus:"mnr"|"other"; setCorpus:(val
   </nav>;
 }
 
+function ExplorerBanner({ context, detail }: { context: string; detail: string }) {
+  return <header className="explorerBanner">
+    <div className="bannerCopy"><div className="eyebrow">CURATED FDA 510(K) ANALYSIS</div><h1>Evidence Explorer</h1><p>{context}</p></div>
+    <div className="bannerDetail">{detail}</div>
+  </header>;
+}
+
 function OtherCodesView({ data, setCorpus }: { data:OtherPayload; setCorpus:(value:"mnr"|"other")=>void }) {
-  const [view,setView]=useState("overview");
+  const [view,setView]=useState("data");
   const [query,setQuery]=useState("");
   const [code,setCode]=useState("");
   const [decision,setDecision]=useState("");
   const [category,setCategory]=useState("");
-  const outputCounts=useMemo(()=>Object.entries(data.outputs.reduce((a,o)=>{a[o.standardized_output]=(a[o.standardized_output]||0)+1;return a;},{} as Record<string,number>)).sort((a,b)=>b[1]-a[1]) as Pair[],[data]);
-  const sensorCounts=useMemo(()=>Object.entries(data.sensors.reduce((a,s)=>{a[s.sensor]=(a[s.sensor]||0)+1;return a;},{} as Record<string,number>)).sort((a,b)=>b[1]-a[1]) as Pair[],[data]);
+  const outputCounts=useMemo(()=>countPairs(data.outputs.map(o=>o.standardized_output)),[data]);
+  const sensorCounts=useMemo(()=>countPairs(data.sensors.map(s=>s.sensor)),[data]);
+  const measurementCounts=useMemo(()=>countPairs(data.sensors.map(s=>s.measurement)),[data]);
+  const locationCounts=useMemo(()=>countPairs(data.sensors.map(s=>s.location)),[data]);
+  const indicationCounts=useMemo(()=>countPairs(data.families.map(f=>f.indication_role)),[data]);
+  const includedTime=useMemo(()=>orderedBands(data.families.map(f=>timeBand(f.decision_date))),[data]);
+  const otherFamilyBands=useMemo(()=>new Map(data.families.map(f=>[f.family_id,timeBand(f.decision_date)])),[data]);
+  const otherSensorTime=useMemo(()=>orderedBands(data.sensors.map(s=>otherFamilyBands.get(s.family_id)||"Date unavailable")),[data,otherFamilyBands]);
+  const otherOutputTime=useMemo(()=>orderedBands(data.outputs.map(o=>otherFamilyBands.get(o.family_id)||"Date unavailable")),[data,otherFamilyBands]);
+  const downloadedSummaries=data.audit.filter(a=>a.pdf_status==="downloaded").length;
   const audit=data.audit.filter(a=>(!query||`${a.device_name} ${a.applicant} ${a.k_number}`.toLowerCase().includes(query.toLowerCase()))&&(!code||a.product_code===code)&&(!decision||a.analysis_decision===decision)&&(!category||a.scope_category===category));
   return <main><CorpusNav corpus="other" setCorpus={setCorpus}/>
-    <header className="hero otherHero"><div className="eyebrow">NEUROLOGY · PRODUCT CODES OLV / OLZ · LIMITED-CHANNEL SCOPE</div><div className="heroGrid"><div><h1>Which Neurology clearances actually function as home sleep-apnea tests?</h1><p>Reduced-channel configurations are included when the FDA summary identifies them clearly. Full PSG-only systems and software-only scoring remain outside scope.</p></div><div className="heroStamp"><span>Clearances screened</span><strong>{data.stats.total_clearances_screened}</strong><small>{data.stats.olv_clearances} OLV · {data.stats.olz_clearances} OLZ</small></div></div></header>
-    <nav className="tabs" aria-label="Other code views">{[["overview","Overview"],["families","Included configurations"],["sensors","Sensor facts"],["outputs","Outputs"],["audit","Scope audit"],["methods","Methods"]].map(([id,label])=><button key={id} className={view===id?"active":""} onClick={()=>setView(id)}>{label}</button>)}<a className="download" href="/MNR_Curated_Analysis.xlsx" download>Download combined Excel</a></nav>
-    {view==="overview"&&<div className="page"><section className="metrics"><Metric value={data.stats.included_families} label="included configurations" note={`of ${data.stats.total_clearances_screened} clearances screened`}/><Metric value={data.stats.olv_included} label="OLV included" note={`of ${data.stats.olv_clearances} OLV clearances`}/><Metric value={data.stats.olz_included} label="OLZ included" note={`of ${data.stats.olz_clearances} OLZ clearances`}/><Metric value={data.stats.sensor_facts} label="sensor facts" note={`${data.stats.output_facts} normalized output facts`}/></section><section className="insight"><div><span className="insightNumber">7</span><span className="insightText">qualifying limited-channel configurations. Mixed systems are counted only for their reduced configuration: Nox polygraphy, SOMNOscreen plus cardiorespiratory, and Cerebra Level 3 HSAT. Their full PSG configurations are not analyzed here.</span></div></section><div className="chartGrid"><Donut included={data.stats.included_clearances} excluded={data.stats.excluded_clearances}/><BarChart title="Why clearances were excluded" data={data.stats.exclusion_category_counts}/></div><div className="chartGrid"><BarChart title="Sensors in included configurations" data={sensorCounts}/><BarChart title="Outputs in included configurations" data={outputCounts}/></div></div>}
+    <ExplorerBanner context="Neurology product codes OLV and OLZ" detail={`${data.stats.total_clearances_screened} clearances screened · limited-channel scope`}/>
+    <nav className="tabs" aria-label="Other code views">{[["data","Data overview"],["analysis","Analysis overview"],["families","Included configurations"],["sensors","Sensor facts"],["outputs","Outputs"],["audit","Scope audit"],["methods","Methods"]].map(([id,label])=><button key={id} className={view===id?"active":""} onClick={()=>setView(id)}>{label}</button>)}<a className="download" href="/MNR_Curated_Analysis.xlsx" download>Download combined Excel</a></nav>
+    {view==="data"&&<div className="page"><div className="sectionHead"><div><h2>Data overview</h2><p>What was screened, retained, excluded, and available as an FDA summary.</p></div></div><section className="metrics"><Metric value={data.stats.total_clearances_screened} label="510(k)s screened" note={`${data.stats.olv_clearances} OLV · ${data.stats.olz_clearances} OLZ`}/><Metric value={downloadedSummaries} label="FDA summaries downloaded" note={`${data.stats.total_clearances_screened-downloadedSummaries} unavailable or unresolved`}/><Metric value={data.stats.included_families} label="configurations included" note="limited-channel evidence retained"/><Metric value={data.stats.excluded_clearances} label="clearances excluded" note="all decisions retained in audit"/></section><div className="chartGrid dataCharts"><Donut included={data.stats.included_clearances} excluded={data.stats.excluded_clearances}/><BarChart title="Why clearances were excluded" data={data.stats.exclusion_category_counts}/></div><section className="archetypes"><h2>Product-code accounting</h2><div className="archetypeGrid">{[["OLV screened",data.stats.olv_clearances],["OLZ screened",data.stats.olz_clearances],["OLV included",data.stats.olv_included],["OLZ included",data.stats.olz_included]].map(([name,count],i)=><div key={String(name)}><i style={{background:palette[i]}}/><span>{name}</span><strong>{count}</strong></div>)}</div></section></div>}
+    {view==="analysis"&&<div className="page"><div className="sectionHead"><div><h2>Analysis overview</h2><p>What the included configurations sense, measure, and report—and how the evidence is distributed over time.</p></div></div><section className="metrics"><Metric value={data.stats.sensor_facts} label="sensor facts" note="type, location, and measurement"/><Metric value={data.stats.output_facts} label="output facts" note="standardized for comparison"/><Metric value={unique(data.sensors.map(s=>s.sensor)).length} label="sensor types" note="case-normalized categories"/><Metric value={unique(data.outputs.map(o=>o.standardized_output)).length} label="output types" note="case-normalized categories"/></section><div className="chartGrid"><BarChart title="Sensors in included configurations" data={sensorCounts}/><BarChart title="Physiological measurements" data={measurementCounts}/></div><div className="chartGrid"><BarChart title="Sensor locations" data={locationCounts}/><BarChart title="Standardized outputs" data={outputCounts}/></div><div className="chartGrid"><BarChart title="Indication terminology" data={indicationCounts}/><BarChart title="Included configurations over time" data={includedTime}/></div><div className="chartGrid"><BarChart title="Sensor facts by clearance era" data={otherSensorTime}/><BarChart title="Output facts by clearance era" data={otherOutputTime}/></div></div>}
     {view==="families"&&<div className="page wide"><div className="sectionHead"><div><h2>Included limited-channel configurations</h2><p>For mixed systems, the configuration name and scope basis explicitly separate HSAT from full PSG.</p></div></div><div className="tableWrap"><table><thead><tr><th>Device / configuration</th><th>Code & 510(k)</th><th>Indication</th><th>Reduced-channel scope</th><th>Sensors</th><th>Outputs</th></tr></thead><tbody>{data.families.map(f=><tr key={f.family_id}><td><strong>{f.family_name}</strong><small>{f.applicant} · {f.decision_date}</small></td><td><a href={f.source_url} target="_blank" rel="noreferrer">{f.product_code} · {f.k_numbers}</a></td><td>{f.indications_short}<small>{f.indications_verbatim}</small></td><td>{f.scope_basis}</td><td>{data.sensors.filter(s=>s.family_id===f.family_id).map(s=>s.sensor).join("; ")}</td><td className="outputTags">{f.standardized_outputs.split("; ").map(o=><span key={o}>{o}</span>)}</td></tr>)}</tbody></table></div></div>}
     {view==="sensors"&&<div className="page wide"><div className="sectionHead"><div><h2>Sensor → location → measurement</h2><p>Location remains descriptive, not an inclusion requirement.</p></div><div className="resultCount"><strong>{data.sensors.length}</strong> facts</div></div><div className="tableWrap"><table><thead><tr><th>Configuration</th><th>Sensor</th><th>Location</th><th>Measures</th><th>Related outputs</th><th>FDA evidence</th></tr></thead><tbody>{data.sensors.map((s,i)=><tr key={`${s.family_id}-${i}`}><td><strong>{s.family_name}</strong></td><td>{s.sensor}</td><td>{s.location}</td><td>{s.measurement}</td><td>{s.sensor_outputs}</td><td><a href={s.source_url} target="_blank" rel="noreferrer">{s.k_number}</a></td></tr>)}</tbody></table></div></div>}
     {view==="outputs"&&<div className="page wide"><div className="sectionHead"><div><h2>Normalized outputs</h2><p>Only outputs supported for the included device/configuration are listed.</p></div><div className="resultCount"><strong>{data.outputs.length}</strong> facts</div></div><div className="tableWrap"><table><thead><tr><th>Configuration</th><th>Product code</th><th>Standardized output</th><th>FDA evidence</th></tr></thead><tbody>{data.outputs.map((o,i)=><tr key={`${o.family_id}-${i}`}><td><strong>{o.family_name}</strong></td><td>{o.product_code}</td><td><span className="outputPill">{o.standardized_output}</span></td><td><a href={o.source_url} target="_blank" rel="noreferrer">{o.k_number}</a></td></tr>)}</tbody></table></div></div>}
     {view==="audit"&&<div className="page wide"><div className="sectionHead"><div><h2>OLV / OLZ scope audit</h2><p>All 101 primary-code clearances remain visible, including unavailable historical PDFs.</p></div><div className="resultCount"><strong>{audit.length}</strong> rows</div></div><section className="filterPanel compact"><label className="filter search"><span>Search device, applicant, or K number</span><input value={query} onChange={e=>setQuery(e.target.value)} placeholder="Search"/></label><Select label="Product code" value={code} options={["OLV","OLZ"]} onChange={setCode}/><Select label="Decision" value={decision} options={["Include","Exclude"]} onChange={setDecision}/><Select label="Category" value={category} options={unique(data.audit.map(a=>a.scope_category))} onChange={setCategory}/><button className="clear" onClick={()=>{setQuery("");setCode("");setDecision("");setCategory("")}}>Clear</button></section><div className="tableWrap"><table><thead><tr><th>Device</th><th>Code / 510(k)</th><th>Decision</th><th>Scope category</th><th>Reason</th><th>PDF</th></tr></thead><tbody>{audit.map(a=><tr key={a.k_number}><td><strong>{a.device_name}</strong><small>{a.applicant} · {a.decision_date}</small></td><td><a href={a.source_url} target="_blank" rel="noreferrer">{a.product_code} · {a.k_number}</a></td><td><span className={`decision ${a.analysis_decision.toLowerCase()}`}>{a.analysis_decision}</span></td><td>{a.scope_category}</td><td>{a.decision_reason}</td><td>{a.pdf_status}</td></tr>)}</tbody></table></div></div>}
     {view==="methods"&&<div className="page methods"><div className="eyebrow dark">CONFIGURATION-SPECIFIC SCREENING</div><h2>Reduced configurations count; full PSG channels do not</h2><p className="lede">{data.stats.scope_rule}</p><section className="methodGrid"><div className="steps">{["Enumerate every primary OLV and OLZ 510(k) in openFDA.","Download the FDA-hosted summary and OCR scanned pages.","Include direct limited-channel HSAT devices and explicitly documented reduced-channel configurations.","For mixed systems, extract only the reduced polygraphy/Level 3/cardiorespiratory sensor set.","Exclude software-only scoring, full-PSG-only systems, and standalone components; retain every decision in the audit."].map((x,i)=><div key={x}><span>{String(i+1).padStart(2,"0")}</span><p>{x}</p></div>)}</div><aside><h3>Interpretation boundary</h3><p>“Available configuration” must be stated or clearly described in the FDA summary. A hypothetical ability to omit channels is not enough.</p><h3>Review status</h3><p>This remains a machine-assisted research draft and should receive expert adjudication before publication.</p></aside></section></div>}
-    <footer><span>MNR Evidence Explorer · OLV/OLZ extension</span><span>{data.stats.total_clearances_screened} screened → {data.stats.included_families} reduced-channel configurations included</span></footer>
+    <footer><span>Evidence Explorer · OLV/OLZ extension</span><span>{data.stats.total_clearances_screened} screened → {data.stats.included_families} reduced-channel configurations included</span></footer>
   </main>;
 }
 
@@ -127,7 +198,7 @@ export default function Home() {
   const [data, setData] = useState<Payload | null>(null);
   const [otherData, setOtherData] = useState<OtherPayload | null>(null);
   const [corpus, setCorpus] = useState<"mnr"|"other">("mnr");
-  const [tab, setTab] = useState("overview");
+  const [tab, setTab] = useState("data");
   const [search, setSearch] = useState("");
   const [sensor, setSensor] = useState("");
   const [location, setLocation] = useState("");
@@ -144,6 +215,15 @@ export default function Home() {
   const outputOptions = useMemo(() => data ? unique(data.outputs.map(x => x.standardized_output)) : [], [data]);
   const roleOptions = useMemo(() => data ? unique(data.families.flatMap(x => x.indication_roles.split("; "))) : [], [data]);
   const archetypeOptions = useMemo(() => data ? unique(data.families.map(x => x.device_archetype)) : [], [data]);
+  const outputOverview = useMemo(() => data ? consolidatePairs(data.stats.output_family_counts) : [], [data]);
+  const sensorOverview = useMemo(() => data ? consolidatePairs(data.stats.sensor_counts) : [], [data]);
+  const measurementOverview = useMemo(() => data ? consolidatePairs(data.stats.measurement_counts) : [], [data]);
+  const locationOverview = useMemo(() => data ? consolidatePairs(data.stats.location_counts) : [], [data]);
+  const indicationOverview = useMemo(() => data ? consolidatePairs(data.stats.indication_counts) : [], [data]);
+  const retainedTime = useMemo(() => data ? orderedBands(data.families.map(f => timeBand(f.latest_decision_date))) : [], [data]);
+  const familyBands = useMemo(() => data ? new Map(data.families.map(f => [f.device_family_id, timeBand(f.latest_decision_date)])) : new Map<string,string>(), [data]);
+  const sensorTime = useMemo(() => data ? orderedBands(data.sensors.map(s => familyBands.get(s.device_family_id) || "Date unavailable")) : [], [data, familyBands]);
+  const outputTime = useMemo(() => data ? orderedBands(data.outputs.map(o => familyBands.get(o.device_family_id) || "Date unavailable")) : [], [data, familyBands]);
 
   const filteredFamilies = useMemo(() => {
     if (!data) return [];
@@ -152,11 +232,11 @@ export default function Home() {
       const fs = data.sensors.filter(s => s.device_family_id === f.device_family_id);
       const fo = data.outputs.filter(o => o.device_family_id === f.device_family_id);
       return (!q || `${f.family_name} ${f.latest_applicant} ${f.k_numbers}`.toLowerCase().includes(q)) &&
-        (!sensor || fs.some(s => s.standardized_sensor === sensor)) &&
-        (!location || fs.some(s => s.standardized_location === location)) &&
-        (!output || fo.some(o => o.standardized_output === output)) &&
-        (!role || f.indication_roles.split("; ").includes(role)) &&
-        (!archetype || f.device_archetype === archetype) &&
+        (!sensor || fs.some(s => sameLabel(s.standardized_sensor, sensor))) &&
+        (!location || fs.some(s => sameLabel(s.standardized_location, location))) &&
+        (!output || fo.some(o => sameLabel(o.standardized_output, output))) &&
+        (!role || f.indication_roles.split("; ").some(value => sameLabel(value, role))) &&
+        (!archetype || sameLabel(f.device_archetype, archetype)) &&
         (!tier || f.analysis_tier === tier);
     });
   }, [data, search, sensor, location, output, role, archetype, tier]);
@@ -164,13 +244,13 @@ export default function Home() {
   const filteredSensors = useMemo(() => {
     if (!data) return [];
     const ids = new Set(filteredFamilies.map(f => f.device_family_id));
-    return data.sensors.filter(s => ids.has(s.device_family_id) && (!sensor || s.standardized_sensor === sensor) && (!location || s.standardized_location === location));
+    return data.sensors.filter(s => ids.has(s.device_family_id) && (!sensor || sameLabel(s.standardized_sensor, sensor)) && (!location || sameLabel(s.standardized_location, location)));
   }, [data, filteredFamilies, sensor, location]);
 
   const filteredOutputs = useMemo(() => {
     if (!data) return [];
     const ids = new Set(filteredFamilies.map(f => f.device_family_id));
-    return data.outputs.filter(o => ids.has(o.device_family_id) && (!output || o.standardized_output === output));
+    return data.outputs.filter(o => ids.has(o.device_family_id) && (!output || sameLabel(o.standardized_output, output)));
   }, [data, filteredFamilies, output]);
 
   if (!data || !otherData) return <main className="loading"><div className="loadingMark" /><h1>Preparing the sleep-device evidence explorer…</h1></main>;
@@ -181,30 +261,33 @@ export default function Home() {
   const filtersActive = Boolean(search || sensor || location || output || role || archetype || tier);
 
   return <main><CorpusNav corpus="mnr" setCorpus={setCorpus}/>
-    <header className="hero">
-      <div className="eyebrow">FDA PRODUCT CODE MNR · CURATED ANALYSIS</div>
-      <div className="heroGrid"><div><h1>What can the strongest records actually tell us?</h1><p>Explore the device families with a complete, traceable sensor → location → physiological measurement → output chain.</p></div>
-      <div className="heroStamp"><span>Evidence snapshot</span><strong>{data.stats.snapshot_date}</strong><small>Research draft · expert review required</small></div></div>
-    </header>
+    <ExplorerBanner context="FDA product code MNR" detail={`Evidence snapshot ${data.stats.snapshot_date} · research draft`}/>
 
     <nav className="tabs" aria-label="Analysis views">
-      {[["overview","Overview"],["families","Family explorer"],["sensors","Sensor facts"],["outputs","Outputs"],["quality","Quality audit"],["methods","Methods"]].map(([id,label]) =>
+      {[["data","Data overview"],["analysis","Analysis overview"],["families","Family explorer"],["sensors","Sensor facts"],["outputs","Outputs"],["quality","Quality audit"],["methods","Methods"]].map(([id,label]) =>
         <button key={id} className={tab === id ? "active" : ""} onClick={() => setTab(id)}>{label}</button>)}
       <a className="download" href="/MNR_Curated_Analysis.xlsx" download>Download Excel</a>
     </nav>
 
-    {tab === "overview" && <div className="page">
+    {tab === "data" && <div className="page">
+      <div className="sectionHead"><div><h2>Data overview</h2><p>What the corpus contains, what was retained, and why records were excluded.</p></div></div>
       <section className="metrics">
-        <Metric value={data.stats.included_families} label="families retained" note={`of ${data.stats.total_families_audited} audited`} />
-        <Metric value={data.stats.included_clearances} label="linked 510(k)s" note="across retained families" />
-        <Metric value={data.stats.interpretable_sensor_facts} label="interpretable sensor facts" note="type + measurement; location when known" />
-        <Metric value={data.stats.standardized_output_facts} label="traceable output facts" note="mapped to filterable labels" />
+        <Metric value={data.clearances.length} label="510(k)s represented" note="linked to FDA evidence" />
+        <Metric value={data.stats.total_families_audited} label="families audited" note="every family received a decision" />
+        <Metric value={data.stats.included_families} label="families included" note={`${Math.round(data.stats.inclusion_rate * 100)}% of families audited`} />
+        <Metric value={data.stats.excluded_families} label="families excluded" note="reasons retained in quality audit" />
       </section>
-      <section className="insight"><div><span className="insightNumber">{Math.round(data.stats.inclusion_rate * 100)}%</span><span className="insightText">of provisional families are now retained: {data.stats.core_families} core, {data.stats.expanded_families} expanded, and {data.stats.historical_families} historical. Missing location is shown as “Location not specified” and no longer causes exclusion by itself.</span></div></section>
-      <div className="chartGrid"><Donut included={data.stats.included_families} excluded={data.stats.excluded_families} /><BarChart title="Most common standardized outputs" data={data.stats.output_family_counts} denominator={data.stats.included_families} /></div>
-      <div className="chartGrid"><BarChart title="Most common sensor types" data={data.stats.sensor_counts} /><BarChart title="What the sensors measure" data={data.stats.measurement_counts} /></div>
-      <div className="chartGrid"><BarChart title="Anatomical / use locations" data={data.stats.location_counts} /><BarChart title="Indication terminology" data={data.stats.indication_counts} denominator={data.stats.included_families} /></div>
+      <div className="chartGrid dataCharts"><Donut included={data.stats.included_families} excluded={data.stats.excluded_families} /><BarChart title="Why families were excluded" data={data.stats.exclusion_reason_counts} limit={8} /></div>
       <section className="archetypes"><h2>Evidence tiers</h2><div className="archetypeGrid">{[["Core",data.stats.core_families],["Expanded",data.stats.expanded_families],["Historical",data.stats.historical_families],["Excluded",data.stats.excluded_families]].map(([name,count],i) => <div key={String(name)}><i style={{background: palette[i % palette.length]}} /><span>{name}</span><strong>{count}</strong></div>)}</div></section>
+    </div>}
+
+    {tab === "analysis" && <div className="page">
+      <div className="sectionHead"><div><h2>Analysis overview</h2><p>Sensor types, measurements, locations, outputs, indications, and evidence patterns over time.</p></div></div>
+      <section className="metrics"><Metric value={data.stats.interpretable_sensor_facts} label="sensor facts" note="type + measurement; location when known"/><Metric value={data.stats.standardized_output_facts} label="output facts" note="mapped to comparable labels"/><Metric value={sensorOptions.length} label="sensor types" note="case-normalized filter values"/><Metric value={outputOptions.length} label="output types" note="case-normalized filter values"/></section>
+      <div className="chartGrid"><BarChart title="Most common sensor types" data={sensorOverview}/><BarChart title="What the sensors measure" data={measurementOverview}/></div>
+      <div className="chartGrid"><BarChart title="Anatomical / use locations" data={locationOverview}/><BarChart title="Most common standardized outputs" data={outputOverview} denominator={data.stats.included_families}/></div>
+      <div className="chartGrid"><BarChart title="Indication terminology" data={indicationOverview} denominator={data.stats.included_families}/><BarChart title="Retained families over time" data={retainedTime}/></div>
+      <div className="chartGrid"><BarChart title="Sensor facts by latest-clearance era" data={sensorTime}/><BarChart title="Output facts by latest-clearance era" data={outputTime}/></div>
     </div>}
 
     {tab === "families" && <div className="page wide">
@@ -262,6 +345,6 @@ export default function Home() {
       <section className="methodGrid"><div className="steps">{data.stats.rubric.map((r,i) => <div key={r}><span>{String(i+1).padStart(2,"0")}</span><p>{r}</p></div>)}</div><aside><h3>How to read the evidence</h3><p><SourceBadge type="FDA 510(k)" /> means the fact is traceable to an FDA-hosted 510(k) document.</p><p><SourceBadge type="manufacturer labeling" /> means a documented gap was closed with current manufacturer labeling or peer-reviewed evidence.</p><p>Supplemental evidence never silently replaces FDA wording; the source type and URL remain attached to every added fact.</p><h3>Important limitation</h3><p>Family grouping, semantic extraction, standardization, and the inclusion screen remain machine-assisted and require expert adjudication before publication.</p></aside></section>
     </div>}
 
-    <footer><span>MNR Evidence Explorer</span><span>164 clearances → 105 provisional families → {data.stats.included_families} retained across three tiers</span></footer>
+    <footer><span>Evidence Explorer</span><span>{data.clearances.length} clearances → {data.stats.total_families_audited} provisional families → {data.stats.included_families} retained across three tiers</span></footer>
   </main>;
 }

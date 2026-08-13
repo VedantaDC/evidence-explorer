@@ -20,21 +20,21 @@ export async function generateMetadata(): Promise<Metadata> {
   const previewImage = `${protocol}://${host}/social-preview.png`;
 
   return {
-    title: "MNR Evidence Explorer",
-    description: "Interactive, evidence-tiered analysis of FDA MNR 510(k) device-family sensors, measurements, and outputs.",
+    title: "Evidence Explorer",
+    description: "Curated analysis of FDA 510(k) sleep-device families, configurations, sensors, measurements, and outputs.",
     icons: {
       icon: "/favicon.svg",
       shortcut: "/favicon.svg",
     },
     openGraph: {
-      title: "MNR Evidence Explorer",
-      description: "Explore Core, Expanded, and Historical evidence for FDA-cleared MNR device families.",
-      images: [{ url: previewImage, width: 1200, height: 630, alt: "MNR Evidence Explorer" }],
+      title: "Evidence Explorer",
+      description: "Explore curated FDA 510(k) evidence for MNR and reduced-channel OLV/OLZ sleep-device configurations.",
+      images: [{ url: previewImage, width: 1200, height: 630, alt: "Evidence Explorer" }],
     },
     twitter: {
       card: "summary_large_image",
-      title: "MNR Evidence Explorer",
-      description: "FDA 510(k) sensor and output evidence, organized by device family.",
+      title: "Evidence Explorer",
+      description: "Curated FDA 510(k) sensor, measurement, location, output, and quality evidence.",
       images: [previewImage],
     },
   };
