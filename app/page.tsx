@@ -46,6 +46,9 @@ type OtherSensor = { family_id:string; family_name:string; product_code:string; 
 type OtherOutput = { family_id:string; family_name:string; product_code:string; k_number:string; standardized_output:string; source_url:string };
 type OtherAudit = { product_code:string; k_number:string; decision_date:string; device_name:string; applicant:string; analysis_decision:string; scope_category:string; decision_reason:string; pdf_status:string; text_available:boolean; evidence_excerpt:string; source_url:string };
 type OtherPayload = { stats:{ product_codes:string[]; total_clearances_screened:number; included_clearances:number; included_families:number; excluded_clearances:number; olv_clearances:number; olz_clearances:number; olv_included:number; olz_included:number; sensor_facts:number; output_facts:number; exclusion_category_counts:Pair[]; scope_rule:string }; families:OtherFamily[]; sensors:OtherSensor[]; outputs:OtherOutput[]; audit:OtherAudit[] };
+type Corpus = "mnr"|"other"|"analysis";
+type MeasurementProfile = { id:string; label:string; diseaseRole:string; mechanisms:string[]; relationship:string };
+type InventoryRow = MeasurementProfile & { sensor:string; locations:string[]; aliases:string[]; families:number; facts:number; productCodes:string[] };
 
 const palette = ["#00a7a5", "#195b8a", "#f29d49", "#7559a6", "#6a9f58", "#dc6b6b"];
 
@@ -108,6 +111,92 @@ function orderedBands(values: string[]) {
     .filter(label => counts.has(label)).map(label => [label, counts.get(label) || 0] as Pair);
 }
 
+const measurementProfiles: Record<string, MeasurementProfile> = {
+  airflow:{id:"airflow",label:"Airflow / respiration",diseaseRole:"Upper-airway patency and achieved ventilation during obstructive events; waveform dynamics can describe flow limitation, event depth, ventilatory oscillation, and recovery.",mechanisms:["Airway collapsibility","Loop gain","Dilator muscle responsiveness"],relationship:"Proximal / potentially mechanistic"},
+  effort:{id:"effort",label:"Respiratory effort",diseaseRole:"Respiratory drive and thoracoabdominal response. Paired with airflow, it helps separate obstruction from reduced drive and characterize airflow–effort coupling.",mechanisms:["Airway collapsibility","Loop gain","Dilator muscle responsiveness","Arousal threshold"],relationship:"Proximal / combination-dependent"},
+  oxygen:{id:"oxygen",label:"Oxygen saturation",diseaseRole:"Gas-exchange consequence of reduced ventilation and event severity. Desaturation supports severity assessment but is not a direct measurement of the underlying OSA mechanism.",mechanisms:["Downstream consequence","Arousal-threshold prediction"],relationship:"Downstream / less specific"},
+  cardiac:{id:"cardiac",label:"Cardiac / pulse activity",diseaseRole:"Heart-rate, rhythm, and pulse responses to obstruction, hypoxemia, and arousal; useful as supportive autonomic context rather than a standalone mechanism measure.",mechanisms:["Autonomic arousal","Downstream consequence"],relationship:"Downstream / supportive"},
+  pulse_waveform:{id:"pulse_waveform",label:"Peripheral pulse waveform / arterial tone",diseaseRole:"Peripheral optical or arterial-tone waveform reflecting pulse dynamics and autonomic vasoconstriction around respiratory events and arousal.",mechanisms:["Autonomic arousal","Arousal threshold"],relationship:"Candidate / indirect surrogate"},
+  position:{id:"position",label:"Body / head position",diseaseRole:"Mechanical context that changes airway loading and the expression of position-dependent respiratory events; position modifies disease rather than measuring collapsibility directly.",mechanisms:["Airway collapsibility","Context modifier"],relationship:"Modifier / context"},
+  movement:{id:"movement",label:"Movement / activity",diseaseRole:"Movement, activity, and possible sleep–wake or arousal context. It may mark event termination or awakening but has low specificity for cortical arousal.",mechanisms:["Arousal context","Sleep–wake context"],relationship:"Indirect / contextual"},
+  sounds:{id:"sounds",label:"Respiratory sounds / snoring",diseaseRole:"Acoustic manifestation of airflow and vibration in a narrowed or compliant upper airway; potentially informative about obstruction and airway mechanics.",mechanisms:["Airway collapsibility","Dilator muscle responsiveness"],relationship:"Associated / candidate surrogate"},
+  eeg:{id:"eeg",label:"EEG / brain activity",diseaseRole:"Cortical activity used for sleep staging and reliable cortical-arousal timing, which is necessary for direct or model-derived respiratory arousal-threshold assessment.",mechanisms:["Arousal threshold","Sleep-state context"],relationship:"Direct cortical signal"},
+  eog:{id:"eog",label:"EOG / eye movement",diseaseRole:"Eye movements used principally for REM/non-REM staging; sleep stage modifies the expression of OSA mechanisms and respiratory events.",mechanisms:["Sleep-state context"],relationship:"Modifier / context"},
+  emg:{id:"emg",label:"EMG / muscle activity",diseaseRole:"Electrical muscle activity. Mechanistic relevance depends on location: upper-airway or genioglossus EMG is proximal to dilator responsiveness; generic or limb EMG is contextual.",mechanisms:["Dilator muscle responsiveness","Sleep-state context"],relationship:"Location-dependent"},
+  sleep_state:{id:"sleep_state",label:"Sleep / wake state",diseaseRole:"Sleep state and stage used to contextualize respiratory events and calculate sleep-based indices; stage modifies all four mechanistic traits.",mechanisms:["Sleep-state context","All OSA mechanisms"],relationship:"Derived modifier / context"},
+  ambient_light:{id:"ambient_light",label:"Ambient light",diseaseRole:"Environmental and time-in-bed context that may support sleep/wake interpretation but does not directly measure OSA pathophysiology.",mechanisms:["Sleep–wake context"],relationship:"Environmental context"},
+  temperature:{id:"temperature",label:"Temperature",diseaseRole:"Thermal or environmental context; disease relevance depends on the specific implementation and is not established by the broad parameter label alone.",mechanisms:["Context / unclear"],relationship:"Context / unclear"},
+  therapy:{id:"therapy",label:"Therapy-device data",diseaseRole:"Pressure or treatment-device information used to contextualize respiratory response; it may support perturbation-based physiology only when the protocol and signals are documented.",mechanisms:["Airway collapsibility","Loop gain","Treatment context"],relationship:"Context / protocol-dependent"},
+  patient_marker:{id:"patient_marker",label:"Patient event marker",diseaseRole:"Patient-entered timing annotation rather than a physiological measurement; useful for aligning symptoms or events with recorded signals.",mechanisms:["Annotation / context"],relationship:"Non-physiological context"},
+  mechanical:{id:"mechanical",label:"Mechanical force / vibration",diseaseRole:"Mechanical vibration or force that may reflect movement, respiratory motion, or snoring depending on sensor placement and device documentation.",mechanisms:["Airway mechanics","Movement context"],relationship:"Implementation-dependent"},
+  general:{id:"general",label:"Other / insufficiently specified physiological signal",diseaseRole:"The available documentation does not identify a sufficiently specific physiological parameter for mechanism-level interpretation.",mechanisms:["Unclear"],relationship:"Insufficiently specified"},
+};
+
+function profilesForMeasurement(value:string) {
+  const v=fold(value); const ids:string[]=[];
+  const add=(id:string)=>{if(!ids.includes(id))ids.push(id)};
+  if(/oxygen|spo2|blood oxygen/.test(v)) add("oxygen");
+  if(/airflow|respirat(ion|ory airflow|ory nasal)|nasal\/oral|thermal airflow|pressure-based airflow/.test(v) && !/effort|sound/.test(v)) add("airflow");
+  if(/effort|expansion and contraction/.test(v)) add("effort");
+  if(/heart|heartrate|pulse rate|ecg|cardiac/.test(v)) add("cardiac");
+  if(/plethysm|pulse waveform|arterial tone/.test(v)) add("pulse_waveform");
+  if(/body position|head position/.test(v)) add("position");
+  if(/movement|activity/.test(v)) add("movement");
+  if(/snor|sound|ambient noise/.test(v)) add("sounds");
+  if(/eeg|brain activity/.test(v)) add("eeg");
+  if(/eog|eye movement/.test(v)) add("eog");
+  if(/emg|muscle activity/.test(v)) add("emg");
+  if(/sleep staging|sleep\/wake|sleep.wake state/.test(v)) add("sleep_state");
+  if(/ambient light/.test(v)) add("ambient_light");
+  if(/temperature/.test(v)) add("temperature");
+  if(/therapy device/.test(v)) add("therapy");
+  if(/patient marker/.test(v)) add("patient_marker");
+  if(/mechanical force|vibration/.test(v)) add("mechanical");
+  if(!ids.length || /not specified|physiologic signals|ground potential/.test(v)) add("general");
+  return ids.map(id=>measurementProfiles[id]);
+}
+
+function canonicalSensor(value:string) {
+  const v=fold(value);
+  if(/oxim|spo2|masimo|wristox|comfortoxyring/.test(v)) return "Pulse oximeter / optical PPG";
+  if(/pat probe/.test(v)) return "Peripheral arterial tone (PAT) probe";
+  if(/ppg|plethysmograph|plethysmogram/.test(v)) return "PPG / plethysmography sensor";
+  if(/nasal.*cannula|cannula.*pressure|pressure cannula/.test(v)) return "Nasal pressure cannula + transducer";
+  if(/thermist|thermocouple|thermal flow/.test(v)) return "Thermal airflow sensor";
+  if(/pneumotach/.test(v)) return "Pneumotachograph";
+  if(/pressure transducer/.test(v)) return "Pressure transducer";
+  if(/rip|inductive.*band|effort.*belt|respiratory effort band/.test(v)) return "RIP / inductive effort belt";
+  if(/accelerometer|actigraph/.test(v)) return "Accelerometer / actigraph";
+  if(/position|gravity switch/.test(v)) return "Body-position sensor";
+  if(/microphone|acoustic|breath sounds|snoring sound|ambient sound/.test(v)) return "Microphone / acoustic sensor";
+  if(/exg/.test(v)) return "ExG electrodes";
+  if(/eeg/.test(v)) return "EEG electrodes";
+  if(/eog/.test(v)) return "EOG electrodes";
+  if(/ecg|ekg/.test(v)) return "ECG electrodes";
+  if(/emg/.test(v)) return "EMG electrodes";
+  if(/bioimpedance/.test(v)) return "Bioimpedance electrodes";
+  if(/piezo/.test(v)) return "Piezoelectric sensor";
+  if(/ambient-light/.test(v)) return "Ambient-light sensor";
+  if(/event marker/.test(v)) return "Patient event marker";
+  if(/therapy device input/.test(v)) return "Therapy-device input";
+  if(/ground electrode/.test(v)) return "Ground/reference electrode";
+  if(/effort|thoracic movement|abdominal movement/.test(v)) return "Respiratory-effort sensor";
+  if(/airflow|nasal sensor|respiratory sensor|respiratory transducer/.test(v)) return "Other respiratory sensor";
+  if(/movement sensor|activity sensor/.test(v)) return "Movement/activity sensor";
+  if(/multimodal/.test(v)) return "Multimodal sensor";
+  return "Other / unspecified sensor or transducer";
+}
+
+function canonicalLocation(value:string) {
+  const v=fold(value);
+  if(!v || /not specified|configuration dependent/.test(v)) return "Not specified / configuration dependent";
+  if(v==="near the patient" || v==="near patient") return "Near patient";
+  if(v==="device-integrated") return "Device-integrated";
+  if(v==="nose" || v==="nares" || v==="nose / device") return "Nose / nares";
+  if(v==="mouth/nose" || v==="nose/mouth") return "Nose and mouth";
+  return value.trim().replace(/\s+/g," ");
+}
+
 function Metric({ value, label, note }: { value: string | number; label: string; note: string }) {
   return <div className="metric"><div className="metricValue">{value}</div><div className="metricLabel">{label}</div><div className="metricNote">{note}</div></div>;
 }
@@ -148,11 +237,12 @@ function SourceBadge({ type }: { type: string }) {
   return <span className={`sourceBadge ${supplemental ? "supplemental" : "fda"}`}>{supplemental ? "Supplemental" : "FDA"}</span>;
 }
 
-function CorpusNav({ corpus, setCorpus }: { corpus:"mnr"|"other"; setCorpus:(value:"mnr"|"other")=>void }) {
+function CorpusNav({ corpus, setCorpus }: { corpus:Corpus; setCorpus:(value:Corpus)=>void }) {
   return <nav className="corpusNav" aria-label="Research corpus">
     <span>Research corpus</span>
     <button className={corpus === "mnr" ? "active" : ""} onClick={() => setCorpus("mnr")}>MNR devices</button>
     <button className={corpus === "other" ? "active" : ""} onClick={() => setCorpus("other")}>Other product codes · OLV / OLZ</button>
+    <button className={corpus === "analysis" ? "active" : ""} onClick={() => setCorpus("analysis")}>Cross-corpus analysis</button>
   </nav>;
 }
 
@@ -163,7 +253,7 @@ function ExplorerBanner({ context, detail }: { context: string; detail: string }
   </header>;
 }
 
-function OtherCodesView({ data, setCorpus }: { data:OtherPayload; setCorpus:(value:"mnr"|"other")=>void }) {
+function OtherCodesView({ data, setCorpus }: { data:OtherPayload; setCorpus:(value:Corpus)=>void }) {
   const [view,setView]=useState("data");
   const [query,setQuery]=useState("");
   const [code,setCode]=useState("");
@@ -194,10 +284,54 @@ function OtherCodesView({ data, setCorpus }: { data:OtherPayload; setCorpus:(val
   </main>;
 }
 
+function CrossCorpusAnalysis({ mnr, other, setCorpus }:{mnr:Payload;other:OtherPayload;setCorpus:(value:Corpus)=>void}) {
+  const [subtab,setSubtab]=useState("inventory");
+  const [query,setQuery]=useState("");
+  const [measurement,setMeasurement]=useState("");
+  const [mechanism,setMechanism]=useState("");
+  const [sensorFilter,setSensorFilter]=useState("");
+  const [location,setLocation]=useState("");
+  const [productCode,setProductCode]=useState("");
+  const rows=useMemo(()=>{
+    const facts=[
+      ...mnr.sensors.map(s=>({family:`mnr:${s.device_family_id}`,measurement:s.measurement,sensor:s.standardized_sensor,location:s.standardized_location,productCode:"MNR"})),
+      ...other.sensors.map(s=>({family:`other:${s.family_id}`,measurement:s.measurement,sensor:s.sensor,location:s.location,productCode:s.product_code})),
+    ];
+    const groups=new Map<string,{profile:MeasurementProfile;sensor:string;locations:Set<string>;aliases:Set<string>;families:Set<string>;facts:number;productCodes:Set<string>}>();
+    facts.forEach(fact=>profilesForMeasurement(fact.measurement).forEach(profile=>{
+      const sensor=canonicalSensor(fact.sensor); const key=`${profile.id}|${sensor}`;
+      const group=groups.get(key)||{profile,sensor,locations:new Set(),aliases:new Set(),families:new Set(),facts:0,productCodes:new Set()};
+      group.locations.add(canonicalLocation(fact.location)); group.aliases.add(fact.sensor); group.families.add(fact.family); group.facts++; group.productCodes.add(fact.productCode); groups.set(key,group);
+    }));
+    return [...groups.values()].map(g=>({...g.profile,sensor:g.sensor,locations:[...g.locations].sort(),aliases:[...g.aliases].sort(),families:g.families.size,facts:g.facts,productCodes:[...g.productCodes].sort()} as InventoryRow)).sort((a,b)=>a.label.localeCompare(b.label)||b.families-a.families||a.sensor.localeCompare(b.sensor));
+  },[mnr,other]);
+  const measurementOptions=unique(rows.map(r=>r.label));
+  const mechanismOptions=unique(rows.flatMap(r=>r.mechanisms));
+  const sensorOptions=unique(rows.map(r=>r.sensor));
+  const locationOptions=unique(rows.flatMap(r=>r.locations));
+  const filtered=rows.filter(row=>{
+    const haystack=`${row.label} ${row.diseaseRole} ${row.sensor} ${row.locations.join(" ")} ${row.aliases.join(" ")} ${row.mechanisms.join(" ")}`.toLowerCase();
+    return (!query||haystack.includes(query.toLowerCase()))&&(!measurement||row.label===measurement)&&(!mechanism||row.mechanisms.includes(mechanism))&&(!sensorFilter||row.sensor===sensorFilter)&&(!location||row.locations.includes(location))&&(!productCode||row.productCodes.includes(productCode));
+  });
+  const uniqueFamilies=new Set([...mnr.sensors.map(s=>`mnr:${s.device_family_id}`),...other.sensors.map(s=>`other:${s.family_id}`)]).size;
+  const clear=()=>{setQuery("");setMeasurement("");setMechanism("");setSensorFilter("");setLocation("");setProductCode("")};
+  return <main><CorpusNav corpus="analysis" setCorpus={setCorpus}/><ExplorerBanner context="Cross-corpus physiological measurement inventory" detail="MNR + reduced-channel OLV / OLZ configurations"/>
+    <nav className="tabs analysisTabs" aria-label="Cross-corpus analysis views"><button className={subtab==="inventory"?"active":""} onClick={()=>setSubtab("inventory")}>Measurement inventory</button><span className="futureAnalysis">Additional analysis modules will follow</span><a className="download" href="MNR_Curated_Analysis.xlsx" download>Download combined Excel</a></nav>
+    {subtab==="inventory"&&<div className="page wide analysisPage"><div className="sectionHead"><div><h2>Physiological measurement → sensor → location</h2><p>A cumulative inventory across included MNR families and reduced-channel OLV/OLZ configurations.</p></div><div className="resultCount"><strong>{filtered.length}</strong> measurement–sensor rows</div></div>
+      <section className="analysisPrinciple"><strong>Evidence boundary</strong><span>Sensor types, locations, product codes, and counts are derived from the FDA-device corpus. “OSA relevance” is a separate literature-informed interpretation based on the two supplied research documents; it does not represent an FDA claim.</span></section>
+      <section className="metrics analysisMetrics"><Metric value={measurementOptions.length} label="physiological measurement groups" note="combined measurements can map to more than one group"/><Metric value={sensorOptions.length} label="sensor technology groups" note="original device wording retained as aliases"/><Metric value={locationOptions.length} label="documented location labels" note="unknown locations remain explicit"/><Metric value={uniqueFamilies} label="included device families / configurations" note={`${mnr.stats.included_families} MNR · ${other.stats.included_families} OLV/OLZ`}/></section>
+      <section className="filterPanel analysisFilters"><label className="filter search"><span>Search measurement, relevance, sensor, or location</span><input value={query} onChange={e=>setQuery(e.target.value)} placeholder="e.g., airflow, arousal, finger"/></label><Select label="Measurement" value={measurement} options={measurementOptions} onChange={setMeasurement}/><Select label="OSA mechanism / role" value={mechanism} options={mechanismOptions} onChange={setMechanism}/><Select label="Sensor type" value={sensorFilter} options={sensorOptions} onChange={setSensorFilter}/><Select label="Location" value={location} options={locationOptions} onChange={setLocation}/><Select label="Product code" value={productCode} options={["MNR","OLV","OLZ"]} onChange={setProductCode}/><button className="clear" onClick={clear}>Clear</button></section>
+      <div className="tableWrap analysisTable"><table><thead><tr><th>Physiological measurement</th><th>What it measures in OSA</th><th>Sensor technology</th><th>Documented sensor location(s)</th><th>Corpus coverage</th></tr></thead><tbody>{filtered.map((row,i)=><tr key={`${row.id}-${row.sensor}-${i}`}><td><strong>{row.label}</strong><span className={`relationship ${fold(row.relationship).replace(/[^a-z]+/g,"-")}`}>{row.relationship}</span><div className="mechanismTags">{row.mechanisms.map(m=><span key={m}>{m}</span>)}</div></td><td className="diseaseRole">{row.diseaseRole}</td><td><strong>{row.sensor}</strong><details><summary>{row.aliases.length} source label{row.aliases.length===1?"":"s"}</summary><div className="aliasList">{row.aliases.map(a=><span key={a}>{a}</span>)}</div></details></td><td><div className="locationTags">{row.locations.map(l=><span key={l}>{l}</span>)}</div></td><td><strong>{row.families} families</strong><small>{row.facts} sensor facts</small><div className="codeTags">{row.productCodes.map(c=><span key={c}>{c}</span>)}</div></td></tr>)}</tbody></table></div>
+      <section className="analysisNotes"><h3>How this table was organized</h3><p>The supplied guide recommends <strong>Device × Sensor × Physiological Parameter</strong> as the underlying observation and <strong>Physiological Parameter × Sensor Type</strong> as the cumulative inventory. A sensor that yields several parameters is therefore represented in each applicable measurement group. Counts describe corpus prevalence, not mechanistic validity, waveform accessibility, fidelity, or synchronization.</p></section>
+    </div>}
+    <footer><span>Evidence Explorer · Cross-corpus analysis</span><span>FDA facts separated from literature-based OSA interpretation</span></footer>
+  </main>;
+}
+
 export default function Home() {
   const [data, setData] = useState<Payload | null>(null);
   const [otherData, setOtherData] = useState<OtherPayload | null>(null);
-  const [corpus, setCorpus] = useState<"mnr"|"other">("mnr");
+  const [corpus, setCorpus] = useState<Corpus>("mnr");
   const [tab, setTab] = useState("data");
   const [search, setSearch] = useState("");
   const [sensor, setSensor] = useState("");
@@ -255,6 +389,7 @@ export default function Home() {
 
   if (!data || !otherData) return <main className="loading"><div className="loadingMark" /><h1>Preparing the sleep-device evidence explorer…</h1></main>;
   if (corpus === "other") return <OtherCodesView data={otherData} setCorpus={setCorpus}/>;
+  if (corpus === "analysis") return <CrossCorpusAnalysis mnr={data} other={otherData} setCorpus={setCorpus}/>;
 
   const kLinks = (familyId: string) => data.clearances.filter(c => c.device_family_id === familyId);
   const clearFilters = () => { setSearch(""); setSensor(""); setLocation(""); setOutput(""); setRole(""); setArchetype(""); setTier(""); };
