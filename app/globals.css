@@ -120,7 +120,51 @@ td strong { color:#193f5d; } td small { display:block; color:var(--muted); margi
 .analysisNotes { margin-top:20px; padding:22px 25px; background:white; border:1px solid var(--line); border-radius:9px; }
 .analysisNotes h3 { color:var(--navy); margin:0 0 8px; font-size:17px; }
 .analysisNotes p { color:#50636d; margin:0; line-height:1.62; }
+.table83,.capabilityTable { max-height:calc(100vh - 215px); }
+.table83 th:nth-child(1){min-width:200px}.table83 th:nth-child(2){min-width:250px}.table83 th:nth-child(3){min-width:100px}.table83 th:nth-child(4){min-width:260px}.table83 th:nth-child(5){min-width:300px}.table83 th:nth-child(6){min-width:360px}
+.evidenceList,.featureList { display:flex; flex-direction:column; gap:5px; }
+.evidenceList span { color:#1b6273; background:#e8f4f6; border-radius:4px; padding:4px 7px; font-size:11px; }
+.featureList span { color:#3c5671; border-bottom:1px solid #e4eaec; padding:3px 0; font-size:11px; }
+.notEstablished { color:#8a6a4b; font-style:italic; font-size:11px; }
+.capabilityTable th:nth-child(1){min-width:185px}.capabilityTable th:nth-child(2){min-width:220px}.capabilityTable th:nth-child(3){min-width:190px}.capabilityTable th:nth-child(4){min-width:220px}.capabilityTable th:nth-child(5){min-width:390px}.capabilityTable th:nth-child(6){min-width:230px}.capabilityTable th:nth-child(7){min-width:300px}
+.capabilityTable td { font-size:12px; line-height:1.5; }
+.capabilityLegend { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:15px; }
+.cap { display:inline-block; border-radius:4px; padding:5px 8px; font-size:10px; font-weight:800; line-height:1.25; }
+.cap.explicit{background:#dcefd9;color:#33672d}.cap.potential{background:#fff0c9;color:#7d5b08}.cap.partial{background:#f9dcc6;color:#8a4e23}.cap.missing{background:#f2cccc;color:#8b3434}
+.educationPage { max-width:1450px; }
+.mechanismGrid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:18px; }
+.mechanismGrid>article { position:relative; background:white; border:1px solid var(--line); border-top:5px solid var(--teal); border-radius:10px; padding:26px; box-shadow:0 10px 30px rgba(16,48,65,.04); }
+.mechanismGrid h3 { margin:0 58px 10px 0; color:var(--navy); font-size:23px; }
+.cardNumber { position:absolute; right:22px; top:18px; color:#b9d3dc; font-size:28px; font-weight:800; }
+.plainDefinition { color:#314f5d; font-size:17px; line-height:1.55; }
+.mechanismGrid dl { margin:20px 0 0; display:grid; grid-template-columns:145px 1fr; gap:10px 14px; border-top:1px solid var(--line); padding-top:18px; }
+.mechanismGrid dt { color:#55707e; font-size:11px; font-weight:800; text-transform:uppercase; letter-spacing:.04em; }
+.mechanismGrid dd { margin:0; color:#4e6069; font-size:13px; line-height:1.5; }
+.termGlossary { margin-top:28px; }
+.termGlossary h2,.capabilityEducation h2 { color:var(--navy); font-size:26px; }
+.termGlossary>div { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; }
+.termGlossary article { background:white; border:1px solid var(--line); border-radius:8px; padding:18px; }
+.termGlossary h3 { margin:0 0 7px; color:var(--teal-dark); font-size:15px; }
+.termGlossary p { margin:0; color:#52656f; font-size:13px; line-height:1.5; }
+.educationCards { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; }
+.educationCards>article,.sensorGlossary>article { background:white; border:1px solid var(--line); border-radius:9px; padding:21px; box-shadow:0 8px 24px rgba(16,48,65,.035); }
+.educationCardHead { display:flex; align-items:flex-start; justify-content:space-between; gap:12px; }
+.educationCards h3,.sensorGlossary h3 { margin:0; color:var(--navy); font-size:18px; }
+.educationCards p,.sensorGlossary p { color:#52656f; line-height:1.55; font-size:13px; }
+.educationCards footer { background:transparent; color:#788890; border-top:1px solid var(--line); margin-top:17px; padding:11px 0 0; display:block; }
+.sensorGlossary { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; }
+.sensorGlossary h4 { color:#617580; margin:17px 0 7px; font-size:10px; text-transform:uppercase; letter-spacing:.05em; }
+.evidenceChain { display:flex; align-items:stretch; gap:9px; }
+.evidenceChain>div { flex:1; min-width:0; background:white; border:1px solid var(--line); border-radius:9px; padding:19px; }
+.evidenceChain>i { align-self:center; color:var(--teal); font-size:24px; font-style:normal; }
+.evidenceChain span { color:var(--teal); font-size:12px; font-weight:800; }
+.evidenceChain h3 { color:var(--navy); margin:9px 0; font-size:16px; }
+.evidenceChain p { color:#566872; margin:0; font-size:12px; line-height:1.5; }
+.capabilityEducation { margin-top:30px; }
+.capabilityEducation>div { display:grid; grid-template-columns:repeat(4,1fr); gap:12px; }
+.capabilityEducation article { background:white; border:1px solid var(--line); border-radius:8px; padding:18px; }
+.capabilityEducation p { color:#536770; font-size:12px; line-height:1.5; margin:12px 0 0; }
 .methods { max-width:1200px; }.methods .lede{font-size:20px;line-height:1.6;color:#4f626d;max-width:780px}.methodGrid{display:grid;grid-template-columns:1.25fr .75fr;gap:28px;margin-top:35px}.steps{background:white;border:1px solid var(--line);border-radius:11px;padding:16px 28px}.steps>div{display:grid;grid-template-columns:48px 1fr;gap:15px;padding:18px 0;border-bottom:1px solid var(--line)}.steps>div:last-child{border-bottom:0}.steps span{font-weight:800;color:var(--teal)}.steps p{margin:0;line-height:1.5}.methodGrid aside{background:#163f5f;color:white;border-radius:11px;padding:28px;align-self:start}.methodGrid aside h3{margin:0 0 12px;color:#80d9d6}.methodGrid aside h3:not(:first-child){margin-top:28px}.methodGrid aside p{color:#d7e5eb;line-height:1.6;font-size:14px}
 footer { background:#102f46;color:#c2d3dc;padding:24px max(5vw,32px);display:flex;justify-content:space-between;font-size:12px; }
-@media(max-width:1100px){.metrics,.archetypeGrid{grid-template-columns:repeat(2,1fr)}.filterPanel,.filterPanel.compact,.filterPanel.analysisFilters{grid-template-columns:repeat(3,1fr)}.filter.search{grid-column:span 2}.donutCard{flex-direction:column;align-items:flex-start}.heroGrid{grid-template-columns:1fr}.heroStamp{border-left:0;border-top:1px solid rgba(255,255,255,.3);padding:18px 0 0}.tabs{overflow:auto}.download{white-space:nowrap}.bannerDetail{display:none}.explorerBanner::after{width:68%}.futureAnalysis{display:none}}
-@media(max-width:760px){.corpusNav{align-items:flex-start;flex-wrap:wrap}.corpusNav>span{width:100%}.hero{padding:38px 22px}.explorerBanner{min-height:145px;padding:24px 22px}.explorerBanner::after{width:100%;opacity:.38;background-size:auto 460px}.page,.page.wide{width:calc(100% - 28px);padding-top:28px}.tabs{padding:0 14px}.tabs button{padding:0 11px}.metrics,.chartGrid,.qualitySummary,.archetypeGrid,.methodGrid,.detailGrid{grid-template-columns:1fr}.filterPanel,.filterPanel.compact,.filterPanel.analysisFilters{grid-template-columns:1fr}.filter.search{grid-column:auto}.analysisPrinciple{grid-template-columns:1fr;gap:6px}.insight>div{align-items:flex-start;flex-direction:column;gap:8px}.sectionHead{align-items:flex-start;gap:15px}.barRow{grid-template-columns:120px 1fr 45px}.donutWrap{flex-direction:column;align-items:flex-start}footer{flex-direction:column;gap:8px}}
+@media(max-width:1100px){.metrics,.archetypeGrid{grid-template-columns:repeat(2,1fr)}.filterPanel,.filterPanel.compact,.filterPanel.analysisFilters{grid-template-columns:repeat(3,1fr)}.filter.search{grid-column:span 2}.donutCard{flex-direction:column;align-items:flex-start}.heroGrid{grid-template-columns:1fr}.heroStamp{border-left:0;border-top:1px solid rgba(255,255,255,.3);padding:18px 0 0}.tabs{overflow:auto}.download{white-space:nowrap}.bannerDetail{display:none}.explorerBanner::after{width:68%}.futureAnalysis{display:none}.educationCards,.sensorGlossary,.termGlossary>div{grid-template-columns:repeat(2,1fr)}.evidenceChain{overflow:auto}.evidenceChain>div{min-width:220px}.capabilityEducation>div{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:760px){.corpusNav{align-items:flex-start;flex-wrap:wrap}.corpusNav>span{width:100%}.hero{padding:38px 22px}.explorerBanner{min-height:145px;padding:24px 22px}.explorerBanner::after{width:100%;opacity:.38;background-size:auto 460px}.page,.page.wide{width:calc(100% - 28px);padding-top:28px}.tabs{padding:0 14px}.tabs button{padding:0 11px}.metrics,.chartGrid,.qualitySummary,.archetypeGrid,.methodGrid,.detailGrid,.mechanismGrid,.educationCards,.sensorGlossary,.termGlossary>div,.capabilityEducation>div{grid-template-columns:1fr}.filterPanel,.filterPanel.compact,.filterPanel.analysisFilters{grid-template-columns:1fr}.filter.search{grid-column:auto}.analysisPrinciple{grid-template-columns:1fr;gap:6px}.mechanismGrid dl{grid-template-columns:1fr;gap:4px}.insight>div{align-items:flex-start;flex-direction:column;gap:8px}.sectionHead{align-items:flex-start;gap:15px}.barRow{grid-template-columns:120px 1fr 45px}.donutWrap{flex-direction:column;align-items:flex-start}footer{flex-direction:column;gap:8px}}

@@ -35,10 +35,15 @@ test("ships separate data and analysis views with case-normalized filters", asyn
   assert.match(source, /toLocaleLowerCase/);
   assert.match(source, /sameLabel\(o\.standardized_output, output\)/);
   assert.match(source, /Cross-corpus analysis/);
-  assert.match(source, /Measurement inventory/);
+  assert.match(source, /8\.3 Cumulative FDA measurement inventory/);
+  assert.match(source, /8\.4 Mechanism × feature × FDA capability map/);
   assert.match(source, /Physiological measurement → sensor → location/);
-  assert.match(source, /FDA facts separated from literature-based OSA interpretation/);
+  assert.match(source, /FDA facts separated from literature-based interpretation/);
   assert.match(source, /Device × Sensor × Physiological Parameter/);
+  assert.match(source, /Four physiological mechanisms of OSA/);
+  assert.match(source, /Physiological measurement glossary/);
+  assert.match(source, /Sensor technology glossary/);
+  assert.match(source, /How to read the evidence chain/);
 });
 
 test("ships the expanded evidence corpus and downloadable workbook", async () => {
