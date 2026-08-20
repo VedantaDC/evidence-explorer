@@ -120,12 +120,47 @@ td strong { color:#193f5d; } td small { display:block; color:var(--muted); margi
 .analysisNotes { margin-top:20px; padding:22px 25px; background:white; border:1px solid var(--line); border-radius:9px; }
 .analysisNotes h3 { color:var(--navy); margin:0 0 8px; font-size:17px; }
 .analysisNotes p { color:#50636d; margin:0; line-height:1.62; }
-.table83,.capabilityTable { max-height:calc(100vh - 215px); }
-.table83 th:nth-child(1){min-width:200px}.table83 th:nth-child(2){min-width:250px}.table83 th:nth-child(3){min-width:100px}.table83 th:nth-child(4){min-width:260px}.table83 th:nth-child(5){min-width:300px}.table83 th:nth-child(6){min-width:360px}
+.table83 { max-height:none; border-radius:0 0 9px 9px; box-shadow:none; }
+.capabilityTable { max-height:calc(100vh - 215px); }
+.table83 th:nth-child(1){min-width:250px}.table83 th:nth-child(2){min-width:115px}.table83 th:nth-child(3){min-width:250px}.table83 th:nth-child(4){min-width:285px}.table83 th:nth-child(5){min-width:360px}.table83 th:nth-child(6){min-width:80px}
 .evidenceList,.featureList { display:flex; flex-direction:column; gap:5px; }
-.evidenceList span { color:#1b6273; background:#e8f4f6; border-radius:4px; padding:4px 7px; font-size:11px; }
-.featureList span { color:#3c5671; border-bottom:1px solid #e4eaec; padding:3px 0; font-size:11px; }
+.evidenceItem { width:100%; display:flex; justify-content:space-between; align-items:flex-start; gap:10px; border:1px solid transparent; border-radius:5px; padding:6px 8px; text-align:left; cursor:pointer; }
+.evidenceList .evidenceItem { color:#1b6273; background:#e8f4f6; }
+.featureList .evidenceItem { color:#3c5671; background:#f5f7fa; border-color:#e4eaec; }
+.evidenceItem:hover { border-color:var(--teal); transform:translateY(-1px); }
+.evidenceItem span { font-size:11px; line-height:1.35; }
+.evidenceItem strong { white-space:nowrap; color:var(--navy); font-size:10px; }
 .notEstablished { color:#8a6a4b; font-style:italic; font-size:11px; }
+.accordionActions { display:flex; justify-content:flex-end; gap:7px; margin:-4px 0 12px; }
+.accordionActions button,.educationLink { border:1px solid #c8d6db; border-radius:5px; background:white; color:#385c6d; padding:7px 10px; font-size:11px; font-weight:700; cursor:pointer; }
+.measurementAccordion { display:flex; flex-direction:column; gap:10px; }
+.measurementGroup { overflow:hidden; border:1px solid var(--line); border-radius:10px; background:white; box-shadow:0 7px 24px rgba(16,48,65,.035); }
+.measurementGroup.open { border-color:#bfd8df; box-shadow:0 9px 28px rgba(16,48,65,.07); }
+.measurementSummary { min-height:72px; display:grid; grid-template-columns:minmax(300px,1fr) auto 110px; align-items:center; gap:12px; padding:10px 14px; }
+.measurementToggle { min-width:0; display:flex; align-items:center; gap:12px; border:0; background:transparent; color:var(--navy); text-align:left; cursor:pointer; }
+.measurementToggle .chevron { width:31px; height:31px; display:grid; place-items:center; border-radius:50%; background:#eaf3f5; color:var(--teal-dark); font-size:25px; transition:transform .16s ease; }
+.measurementGroup.open .measurementToggle .chevron { transform:rotate(90deg); }
+.measurementToggle strong { display:block; font-size:19px; }
+.measurementToggle small { display:block; margin-top:4px; color:var(--muted); font-size:11px; }
+.countLink,.familyCountLink { border:0; background:transparent; color:var(--navy); cursor:pointer; text-align:center; }
+.countLink { min-height:48px; border-left:1px solid var(--line); }
+.countLink strong,.familyCountLink strong { display:block; color:var(--teal-dark); font-size:18px; }
+.countLink span,.familyCountLink span { display:block; color:var(--muted); font-size:10px; }
+.familyCountLink { padding:4px 2px; }
+.inlineEducationLink { border:0; border-bottom:1px dotted #557a8b; background:transparent; color:var(--navy); padding:0; text-align:left; font-weight:800; cursor:pointer; }
+.inlineEducationLink:hover,.educationLink:hover { color:var(--teal-dark); border-color:var(--teal); }
+.evidenceDrilldown { position:sticky; bottom:10px; z-index:9; margin:18px 0; border:2px solid var(--teal); border-radius:10px; background:white; box-shadow:0 18px 55px rgba(4,34,49,.2); }
+.drilldownHead { display:flex; justify-content:space-between; gap:20px; padding:20px 22px; border-bottom:1px solid var(--line); background:#f2faf9; }
+.drilldownHead .eyebrow { margin:0 0 5px; }
+.drilldownHead h3 { margin:0; color:var(--navy); font-size:21px; }
+.drilldownHead p { margin:6px 0 0; color:#566d78; font-size:12px; }
+.drilldownHead>button { align-self:flex-start; width:34px; height:34px; border:1px solid #bdd0d6; border-radius:50%; background:white; color:var(--navy); font-size:22px; cursor:pointer; }
+.evidenceFamilies { max-height:330px; overflow:auto; display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:8px; padding:14px; }
+.evidenceFamilies article { border:1px solid var(--line); border-radius:7px; padding:12px; background:#fbfcfc; }
+.evidenceFamilies h4 { margin:0 0 3px; color:var(--navy); font-size:13px; }
+.evidenceFamilies article>span { color:var(--muted); font-size:10px; font-weight:800; }
+.evidenceFamilies .kLinks { margin-top:8px; }
+.educationCards>article,.sensorGlossary>article { scroll-margin-top:82px; }
 .capabilityTable th:nth-child(1){min-width:185px}.capabilityTable th:nth-child(2){min-width:220px}.capabilityTable th:nth-child(3){min-width:190px}.capabilityTable th:nth-child(4){min-width:220px}.capabilityTable th:nth-child(5){min-width:390px}.capabilityTable th:nth-child(6){min-width:230px}.capabilityTable th:nth-child(7){min-width:300px}
 .capabilityTable td { font-size:12px; line-height:1.5; }
 .capabilityLegend { display:flex; flex-wrap:wrap; gap:8px; margin-bottom:15px; }
@@ -166,5 +201,5 @@ td strong { color:#193f5d; } td small { display:block; color:var(--muted); margi
 .capabilityEducation p { color:#536770; font-size:12px; line-height:1.5; margin:12px 0 0; }
 .methods { max-width:1200px; }.methods .lede{font-size:20px;line-height:1.6;color:#4f626d;max-width:780px}.methodGrid{display:grid;grid-template-columns:1.25fr .75fr;gap:28px;margin-top:35px}.steps{background:white;border:1px solid var(--line);border-radius:11px;padding:16px 28px}.steps>div{display:grid;grid-template-columns:48px 1fr;gap:15px;padding:18px 0;border-bottom:1px solid var(--line)}.steps>div:last-child{border-bottom:0}.steps span{font-weight:800;color:var(--teal)}.steps p{margin:0;line-height:1.5}.methodGrid aside{background:#163f5f;color:white;border-radius:11px;padding:28px;align-self:start}.methodGrid aside h3{margin:0 0 12px;color:#80d9d6}.methodGrid aside h3:not(:first-child){margin-top:28px}.methodGrid aside p{color:#d7e5eb;line-height:1.6;font-size:14px}
 footer { background:#102f46;color:#c2d3dc;padding:24px max(5vw,32px);display:flex;justify-content:space-between;font-size:12px; }
-@media(max-width:1100px){.metrics,.archetypeGrid{grid-template-columns:repeat(2,1fr)}.filterPanel,.filterPanel.compact,.filterPanel.analysisFilters{grid-template-columns:repeat(3,1fr)}.filter.search{grid-column:span 2}.donutCard{flex-direction:column;align-items:flex-start}.heroGrid{grid-template-columns:1fr}.heroStamp{border-left:0;border-top:1px solid rgba(255,255,255,.3);padding:18px 0 0}.tabs{overflow:auto}.download{white-space:nowrap}.bannerDetail{display:none}.explorerBanner::after{width:68%}.futureAnalysis{display:none}.educationCards,.sensorGlossary,.termGlossary>div{grid-template-columns:repeat(2,1fr)}.evidenceChain{overflow:auto}.evidenceChain>div{min-width:220px}.capabilityEducation>div{grid-template-columns:repeat(2,1fr)}}
-@media(max-width:760px){.corpusNav{align-items:flex-start;flex-wrap:wrap}.corpusNav>span{width:100%}.hero{padding:38px 22px}.explorerBanner{min-height:145px;padding:24px 22px}.explorerBanner::after{width:100%;opacity:.38;background-size:auto 460px}.page,.page.wide{width:calc(100% - 28px);padding-top:28px}.tabs{padding:0 14px}.tabs button{padding:0 11px}.metrics,.chartGrid,.qualitySummary,.archetypeGrid,.methodGrid,.detailGrid,.mechanismGrid,.educationCards,.sensorGlossary,.termGlossary>div,.capabilityEducation>div{grid-template-columns:1fr}.filterPanel,.filterPanel.compact,.filterPanel.analysisFilters{grid-template-columns:1fr}.filter.search{grid-column:auto}.analysisPrinciple{grid-template-columns:1fr;gap:6px}.mechanismGrid dl{grid-template-columns:1fr;gap:4px}.insight>div{align-items:flex-start;flex-direction:column;gap:8px}.sectionHead{align-items:flex-start;gap:15px}.barRow{grid-template-columns:120px 1fr 45px}.donutWrap{flex-direction:column;align-items:flex-start}footer{flex-direction:column;gap:8px}}
+@media(max-width:1100px){.metrics,.archetypeGrid{grid-template-columns:repeat(2,1fr)}.filterPanel,.filterPanel.compact,.filterPanel.analysisFilters{grid-template-columns:repeat(3,1fr)}.filter.search{grid-column:span 2}.donutCard{flex-direction:column;align-items:flex-start}.heroGrid{grid-template-columns:1fr}.heroStamp{border-left:0;border-top:1px solid rgba(255,255,255,.3);padding:18px 0 0}.tabs{overflow:auto}.download{white-space:nowrap}.bannerDetail{display:none}.explorerBanner::after{width:68%}.futureAnalysis{display:none}.educationCards,.sensorGlossary,.termGlossary>div{grid-template-columns:repeat(2,1fr)}.evidenceChain{overflow:auto}.evidenceChain>div{min-width:220px}.capabilityEducation>div{grid-template-columns:repeat(2,1fr)}.evidenceFamilies{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:760px){.corpusNav{align-items:flex-start;flex-wrap:wrap}.corpusNav>span{width:100%}.hero{padding:38px 22px}.explorerBanner{min-height:145px;padding:24px 22px}.explorerBanner::after{width:100%;opacity:.38;background-size:auto 460px}.page,.page.wide{width:calc(100% - 28px);padding-top:28px}.tabs{padding:0 14px}.tabs button{padding:0 11px}.metrics,.chartGrid,.qualitySummary,.archetypeGrid,.methodGrid,.detailGrid,.mechanismGrid,.educationCards,.sensorGlossary,.termGlossary>div,.capabilityEducation>div{grid-template-columns:1fr}.filterPanel,.filterPanel.compact,.filterPanel.analysisFilters{grid-template-columns:1fr}.filter.search{grid-column:auto}.analysisPrinciple{grid-template-columns:1fr;gap:6px}.mechanismGrid dl{grid-template-columns:1fr;gap:4px}.insight>div{align-items:flex-start;flex-direction:column;gap:8px}.sectionHead{align-items:flex-start;gap:15px}.barRow{grid-template-columns:120px 1fr 45px}.donutWrap{flex-direction:column;align-items:flex-start}.measurementSummary{grid-template-columns:1fr auto}.measurementSummary .educationLink{grid-column:1}.countLink{grid-column:2;grid-row:1 / span 2}.evidenceFamilies{grid-template-columns:1fr}footer{flex-direction:column;gap:8px}}

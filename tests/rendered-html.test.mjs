@@ -44,6 +44,13 @@ test("ships separate data and analysis views with case-normalized filters", asyn
   assert.match(source, /Physiological measurement glossary/);
   assert.match(source, /Sensor technology glossary/);
   assert.match(source, /How to read the evidence chain/);
+  assert.match(source, /One collapsible section per physiological parameter/);
+  assert.match(source, /highConfidenceAcquiredSignal/);
+  assert.match(source, /isHighConfidenceReportedFeature/);
+  assert.match(source, /FILTERED EVIDENCE LIST/);
+  assert.match(source, /Read measurement definition/);
+  assert.match(source, /N=\{item\.familyCount\}/);
+  assert.doesNotMatch(source, /const raw=unique\(outputs\.filter/);
 });
 
 test("ships the expanded evidence corpus and downloadable workbook", async () => {
