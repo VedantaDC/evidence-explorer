@@ -41,8 +41,11 @@ test("ships separate data and analysis views with case-normalized filters", asyn
   assert.match(source, /A consolidated view: each physiological measurement appears once/);
   assert.match(source, /cleanInventoryGroups/);
   assert.match(source, /FDA corpus evidence/);
+  assert.match(source, /High-confidence acquired signal/);
+  assert.match(source, /Explicit derived physiological feature\(s\)/);
+  assert.match(source, /Acquired signals are shown only when the documented sensor and measured parameter establish them directly/);
   assert.match(source, /linked 510\(k\)s · view evidence/);
-  assert.match(source, /evidenceRecords:dedupeEvidence\(sensorEvidence/);
+  assert.match(source, /directRecords=dedupeEvidence\(sensorEvidence/);
   assert.match(source, /FDA facts separated from literature-based interpretation/);
   assert.match(source, /unique device families\/configurations supporting that measurement–sensor row/);
   assert.match(source, /Four physiological mechanisms of OSA/);

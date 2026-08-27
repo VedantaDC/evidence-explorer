@@ -104,6 +104,7 @@ td strong { color:#193f5d; } td small { display:block; color:var(--muted); margi
 .analysisPage { max-width:1800px; }
 .analysisPrinciple { display:grid; grid-template-columns:150px 1fr; gap:20px; background:#e8f3f7; border:1px solid #c7dfe8; border-left:5px solid var(--navy); border-radius:8px; padding:18px 20px; margin-bottom:18px; color:#3d5664; line-height:1.5; }
 .analysisPrinciple strong { color:var(--navy); }
+.compactPrinciple { padding:13px 17px; margin-bottom:14px; font-size:12px; }
 .analysisMetrics { margin-bottom:18px; }
 .analysisTable { max-height:calc(100vh - 205px); }
 .analysisTable th:nth-child(1){min-width:235px}.analysisTable th:nth-child(2){min-width:390px}.analysisTable th:nth-child(3){min-width:280px}.analysisTable th:nth-child(4){min-width:300px}.analysisTable th:nth-child(5){min-width:150px}
@@ -126,7 +127,7 @@ td strong { color:#193f5d; } td small { display:block; color:var(--muted); margi
 .inventoryMeasurementLink { border:0; border-bottom:1px dotted #557a8b; background:transparent; color:var(--navy); padding:0; font-size:20px; font-weight:800; cursor:pointer; }
 .inventoryMeasurementLink:hover { color:var(--teal-dark); border-color:var(--teal); }
 .cleanInventoryTable { max-height:none; border:0; border-radius:0; box-shadow:none; }
-.cleanInventoryTable th:nth-child(1){width:34%;min-width:260px}.cleanInventoryTable th:nth-child(2){width:34%;min-width:260px}.cleanInventoryTable th:nth-child(3){width:32%;min-width:265px}
+.cleanInventoryTable th:nth-child(1){min-width:235px}.cleanInventoryTable th:nth-child(2){min-width:225px}.cleanInventoryTable th:nth-child(3){min-width:260px}.cleanInventoryTable th:nth-child(4){min-width:330px}.cleanInventoryTable th:nth-child(5){min-width:265px}
 .cleanInventoryTable td { padding:14px 18px; vertical-align:middle; }
 .cleanInventoryTable details { margin-top:7px; }
 .cleanInventoryTable summary { cursor:pointer; color:#557180; font-size:10px; font-weight:700; }
