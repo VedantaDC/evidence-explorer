@@ -41,11 +41,12 @@ type Payload = {
   clearances: Clearance[];
 };
 
-type OtherFamily = { family_id:string; family_name:string; product_code:string; k_numbers:string; decision_date:string; applicant:string; indication_role:string; indications_short:string; indications_verbatim:string; scope_basis:string; standardized_outputs:string; source_url:string };
+type OtherFamily = { family_id:string; family_name:string; product_code:string; k_numbers:string; decision_date:string; applicant:string; system_type:string; indication_role:string; indications_short:string; indications_verbatim:string; scope_basis:string; standardized_outputs:string; source_url:string };
 type OtherSensor = { family_id:string; family_name:string; product_code:string; k_number:string; sensor:string; location:string; measurement:string; sensor_outputs:string; source_url:string };
 type OtherOutput = { family_id:string; family_name:string; product_code:string; k_number:string; standardized_output:string; source_url:string };
+type OtherClearance = { family_id:string; family_name:string; product_code:string; k_number:string; decision_date:string; device_name:string; source_url:string };
 type OtherAudit = { product_code:string; k_number:string; decision_date:string; device_name:string; applicant:string; analysis_decision:string; scope_category:string; decision_reason:string; pdf_status:string; text_available:boolean; evidence_excerpt:string; source_url:string };
-type OtherPayload = { stats:{ product_codes:string[]; total_clearances_screened:number; included_clearances:number; included_families:number; excluded_clearances:number; olv_clearances:number; olz_clearances:number; olv_included:number; olz_included:number; sensor_facts:number; output_facts:number; exclusion_category_counts:Pair[]; scope_rule:string }; families:OtherFamily[]; sensors:OtherSensor[]; outputs:OtherOutput[]; audit:OtherAudit[] };
+type OtherPayload = { stats:{ product_codes:string[]; snapshot_date:string; total_clearances_screened:number; included_clearances:number; included_families:number; excluded_clearances:number; olv_clearances:number; olz_clearances:number; olv_included:number; olz_included:number; sensor_facts:number; output_facts:number; system_type_counts:Pair[]; exclusion_category_counts:Pair[]; scope_rule:string }; families:OtherFamily[]; clearances:OtherClearance[]; sensors:OtherSensor[]; outputs:OtherOutput[]; audit:OtherAudit[] };
 type Corpus = "mnr"|"other"|"analysis"|"education";
 type MeasurementProfile = { id:string; label:string; diseaseRole:string; mechanisms:string[]; relationship:string };
 type InventoryRow = MeasurementProfile & { sensor:string; locations:string[]; aliases:string[]; families:number; familyIds:string[]; facts:number; productCodes:string[] };
@@ -78,6 +79,14 @@ function unique(values: string[]) {
 
 function sameLabel(a: string, b: string) {
   return fold(a) === fold(b);
+}
+
+function isPhysiologicalSensorFact(sensor:string,measurement:string) {
+  return !/ambient\s*light|light sensor/i.test(`${sensor} ${measurement}`);
+}
+
+function isPhysiologicalOutputFact(output:string) {
+  return !/ambient\s*light|light detection/i.test(output);
 }
 
 function consolidatePairs(data: Pair[]) {
@@ -118,7 +127,9 @@ const measurementProfiles: Record<string, MeasurementProfile> = {
   airflow:{id:"airflow",label:"Airflow / respiration",diseaseRole:"Upper-airway patency and achieved ventilation during obstructive events; waveform dynamics can describe flow limitation, event depth, ventilatory oscillation, and recovery.",mechanisms:["Airway collapsibility","Loop gain","Dilator muscle responsiveness"],relationship:"Proximal / potentially mechanistic"},
   effort:{id:"effort",label:"Respiratory effort",diseaseRole:"Respiratory drive and thoracoabdominal response. Paired with airflow, it helps separate obstruction from reduced drive and characterize airflow–effort coupling.",mechanisms:["Airway collapsibility","Loop gain","Dilator muscle responsiveness","Arousal threshold"],relationship:"Proximal / combination-dependent"},
   oxygen:{id:"oxygen",label:"Oxygen saturation",diseaseRole:"Gas-exchange consequence of reduced ventilation and event severity. Desaturation supports severity assessment but is not a direct measurement of the underlying OSA mechanism.",mechanisms:["Downstream consequence","Arousal-threshold prediction"],relationship:"Downstream / less specific"},
+  co2:{id:"co2",label:"Carbon dioxide",diseaseRole:"Ventilatory-control and gas-exchange signal that can describe end-tidal or transcutaneous CO2 dynamics relevant to hypoventilation and, with appropriate temporal data, ventilatory instability.",mechanisms:["Loop gain","Gas-exchange consequence"],relationship:"Physiological / modality-dependent"},
   cardiac:{id:"cardiac",label:"Cardiac / pulse activity",diseaseRole:"Heart-rate, rhythm, and pulse responses to obstruction, hypoxemia, and arousal; useful as supportive autonomic context rather than a standalone mechanism measure.",mechanisms:["Autonomic arousal","Downstream consequence"],relationship:"Downstream / supportive"},
+  blood_pressure:{id:"blood_pressure",label:"Blood pressure",diseaseRole:"Hemodynamic response to respiratory events, hypoxemia, and arousal. It provides cardiovascular consequence and autonomic context rather than a direct measure of upper-airway mechanics.",mechanisms:["Autonomic arousal","Downstream consequence"],relationship:"Downstream / supportive"},
   pulse_waveform:{id:"pulse_waveform",label:"Peripheral pulse waveform / arterial tone",diseaseRole:"Peripheral optical or arterial-tone waveform reflecting pulse dynamics and autonomic vasoconstriction around respiratory events and arousal.",mechanisms:["Autonomic arousal","Arousal threshold"],relationship:"Candidate / indirect surrogate"},
   position:{id:"position",label:"Body / head position",diseaseRole:"Mechanical context that changes airway loading and the expression of position-dependent respiratory events; position modifies disease rather than measuring collapsibility directly.",mechanisms:["Airway collapsibility","Context modifier"],relationship:"Modifier / context"},
   movement:{id:"movement",label:"Movement / activity",diseaseRole:"Movement, activity, and possible sleep–wake or arousal context. It may mark event termination or awakening but has low specificity for cortical arousal.",mechanisms:["Arousal context","Sleep–wake context"],relationship:"Indirect / contextual"},
@@ -127,7 +138,6 @@ const measurementProfiles: Record<string, MeasurementProfile> = {
   eog:{id:"eog",label:"EOG / eye movement",diseaseRole:"Eye movements used principally for REM/non-REM staging; sleep stage modifies the expression of OSA mechanisms and respiratory events.",mechanisms:["Sleep-state context"],relationship:"Modifier / context"},
   emg:{id:"emg",label:"EMG / muscle activity",diseaseRole:"Electrical muscle activity. Mechanistic relevance depends on location: upper-airway or genioglossus EMG is proximal to dilator responsiveness; generic or limb EMG is contextual.",mechanisms:["Dilator muscle responsiveness","Sleep-state context"],relationship:"Location-dependent"},
   sleep_state:{id:"sleep_state",label:"Sleep / wake state",diseaseRole:"Sleep state and stage used to contextualize respiratory events and calculate sleep-based indices; stage modifies all four mechanistic traits.",mechanisms:["Sleep-state context","All OSA mechanisms"],relationship:"Derived modifier / context"},
-  ambient_light:{id:"ambient_light",label:"Ambient light",diseaseRole:"Environmental and time-in-bed context that may support sleep/wake interpretation but does not directly measure OSA pathophysiology.",mechanisms:["Sleep–wake context"],relationship:"Environmental context"},
   temperature:{id:"temperature",label:"Temperature",diseaseRole:"Thermal or environmental context; disease relevance depends on the specific implementation and is not established by the broad parameter label alone.",mechanisms:["Context / unclear"],relationship:"Context / unclear"},
   therapy:{id:"therapy",label:"Therapy-device data",diseaseRole:"Pressure or treatment-device information used to contextualize respiratory response; it may support perturbation-based physiology only when the protocol and signals are documented.",mechanisms:["Airway collapsibility","Loop gain","Treatment context"],relationship:"Context / protocol-dependent"},
   patient_marker:{id:"patient_marker",label:"Patient event marker",diseaseRole:"Patient-entered timing annotation rather than a physiological measurement; useful for aligning symptoms or events with recorded signals.",mechanisms:["Annotation / context"],relationship:"Non-physiological context"},
@@ -137,11 +147,14 @@ const measurementProfiles: Record<string, MeasurementProfile> = {
 
 function profilesForMeasurement(value:string) {
   const v=fold(value); const ids:string[]=[];
+  if(/ambient\s*light|light detection/.test(v)) return [];
   const add=(id:string)=>{if(!ids.includes(id))ids.push(id)};
   if(/oxygen|spo2|blood oxygen/.test(v)) add("oxygen");
-  if(/airflow|respirat(ion|ory airflow|ory nasal)|nasal\/oral|thermal airflow|pressure-based airflow/.test(v) && !/effort|sound/.test(v)) add("airflow");
+  if(/carbon dioxide|\bco2\b|etco2|capnograph/.test(v)) add("co2");
+  if(/airflow|respirat(ion|ory airflow|ory nasal|ory activity)|nasal\/oral|thermal airflow|pressure-based airflow/.test(v) && !/effort|sound/.test(v)) add("airflow");
   if(/effort|expansion and contraction/.test(v)) add("effort");
   if(/heart|heartrate|pulse rate|ecg|cardiac/.test(v)) add("cardiac");
+  if(/blood pressure/.test(v)) add("blood_pressure");
   if(/plethysm|pulse waveform|arterial tone/.test(v)) add("pulse_waveform");
   if(/body position|head position/.test(v)) add("position");
   if(/movement|activity/.test(v)) add("movement");
@@ -150,7 +163,6 @@ function profilesForMeasurement(value:string) {
   if(/eog|eye movement/.test(v)) add("eog");
   if(/emg|muscle activity/.test(v)) add("emg");
   if(/sleep staging|sleep\/wake|sleep.wake state/.test(v)) add("sleep_state");
-  if(/ambient light/.test(v)) add("ambient_light");
   if(/temperature/.test(v)) add("temperature");
   if(/therapy device/.test(v)) add("therapy");
   if(/patient marker/.test(v)) add("patient_marker");
@@ -168,6 +180,8 @@ function canonicalSensor(value:string) {
   if(/thermist|thermocouple|thermal flow/.test(v)) return "Thermal airflow sensor";
   if(/pneumotach/.test(v)) return "Pneumotachograph";
   if(/pressure transducer/.test(v)) return "Pressure transducer";
+  if(/capnograph|\bco2\b|etco2/.test(v)) return "CO2 / capnography sensor";
+  if(/blood.pressure/.test(v)) return "Blood-pressure sensor";
   if(/rip|inductive.*band|effort.*belt|respiratory effort band/.test(v)) return "RIP / inductive effort belt";
   if(/accelerometer|actigraph/.test(v)) return "Accelerometer / actigraph";
   if(/position|gravity switch/.test(v)) return "Body-position sensor";
@@ -179,8 +193,8 @@ function canonicalSensor(value:string) {
   if(/emg/.test(v)) return "EMG electrodes";
   if(/bioimpedance/.test(v)) return "Bioimpedance electrodes";
   if(/piezo/.test(v)) return "Piezoelectric sensor";
-  if(/ambient-light/.test(v)) return "Ambient-light sensor";
-  if(/event marker/.test(v)) return "Patient event marker";
+  if(/event marker|patient event/.test(v)) return "Patient event marker";
+  if(/temperature sensor/.test(v)) return "Temperature sensor";
   if(/therapy device input/.test(v)) return "Therapy-device input";
   if(/ground electrode/.test(v)) return "Ground/reference electrode";
   if(/effort|thoracic movement|abdominal movement/.test(v)) return "Respiratory-effort sensor";
@@ -215,8 +229,10 @@ function highConfidenceAcquiredSignal(profileId:string,sensor:string) {
     "effort|Bioimpedance electrodes":"Respiratory impedance signal",
     "effort|Piezoelectric sensor":"Respiratory movement signal",
     "oxygen|Pulse oximeter / optical PPG":"SpO2 signal",
+    "co2|CO2 / capnography sensor":"CO2 / EtCO2 signal",
     "cardiac|ECG electrodes":"ECG waveform",
     "cardiac|Pulse oximeter / optical PPG":"Pulse-rate signal",
+    "blood_pressure|Blood-pressure sensor":"Blood-pressure signal",
     "pulse_waveform|Peripheral arterial tone (PAT) probe":"Peripheral arterial tone waveform",
     "pulse_waveform|PPG / plethysmography sensor":"Plethysmographic waveform",
     "position|Body-position sensor":"Body-position signal",
@@ -229,9 +245,9 @@ function highConfidenceAcquiredSignal(profileId:string,sensor:string) {
     "eog|ExG electrodes":"EOG waveform",
     "emg|EMG electrodes":"EMG waveform",
     "emg|ExG electrodes":"EMG waveform",
-    "ambient_light|Ambient-light sensor":"Ambient-light signal",
     "therapy|Therapy-device input":"Therapy-device data stream",
     "patient_marker|Patient event marker":"Patient event marker",
+    "temperature|Temperature sensor":"Temperature signal",
     "mechanical|Piezoelectric sensor":"Mechanical force / vibration signal",
   };
   return signals[key]||null;
@@ -275,7 +291,9 @@ function outputMatchesMeasurement(profileId:string,value:string) {
     airflow:/airflow|respirat|apnea|hypopnea|ahi|rdi|rei|flow limitation|breath|ventilat/,
     effort:/effort|respirat|apnea classification|central apnea|paradox/,
     oxygen:/spo2|oxygen|desatur|odi|below 90/,
+    co2:/carbon dioxide|\bco2\b|etco2|capnograph/,
     cardiac:/heart|pulse rate|ecg|ekg|rr interval|cardiac/,
+    blood_pressure:/blood pressure|systolic|diastolic/,
     pulse_waveform:/ppg|pleth|pat|arterial tone|autonomic arousal/,
     position:/position|supine/,
     movement:/activity|actigraph|movement|sleep.wake/,
@@ -284,7 +302,6 @@ function outputMatchesMeasurement(profileId:string,value:string) {
     eog:/eog|sleep stage|hypnogram|rem/,
     emg:/emg|muscle|sleep stage|periodic leg/,
     sleep_state:/sleep stage|sleep.wake|hypnogram|total sleep|sleep efficiency|latency|wake after/,
-    ambient_light:/ambient light|light detection/,
     temperature:/temperature/,
     therapy:/therapy|pressure/,
     patient_marker:/event marker|patient marker/,
@@ -303,6 +320,8 @@ function sensorEducation(sensor:string) {
     "Thermal airflow sensor":"Uses inspired-versus-expired temperature differences at the nose and mouth to detect airflow, especially apnea, but is generally less quantitative for waveform shape.",
     "Pneumotachograph":"Measures airflow from pressure drop across a known resistance; it is a quantitative reference-type flow technology when properly calibrated.",
     "Pressure transducer":"Converts physical pressure into an electrical signal. Physiological meaning depends on its connection—for example nasal pressure, PAP pressure, or another pressure source.",
+    "CO2 / capnography sensor":"Measures carbon dioxide through an airway sampling interface or compatible capnography input; the source must distinguish end-tidal from transcutaneous measurement.",
+    "Blood-pressure sensor":"Records cuff-based, continuous, or externally supplied blood-pressure information when the specific compatible method is documented.",
     "RIP / inductive effort belt":"Respiratory inductance plethysmography detects changes in thoracic or abdominal belt inductance as circumference changes, providing respiratory-motion and effort signals.",
     "Accelerometer / actigraph":"Measures acceleration and orientation for movement, activity, body position, head position, or—in some implementations—respiratory motion.",
     "Body-position sensor":"Measures orientation or position, sometimes through an accelerometer or gravity switch; it provides mechanical context rather than a direct OSA mechanism measure.",
@@ -314,8 +333,8 @@ function sensorEducation(sensor:string) {
     "EMG electrodes":"Measure muscle electrical activity. Upper-airway mechanistic interpretation requires specific muscle placement; generic, chin, or limb EMG is not interchangeable with genioglossus EMG.",
     "Bioimpedance electrodes":"Measure changes in electrical impedance that can reflect respiration, body composition, or other physiological changes depending on electrode geometry.",
     "Piezoelectric sensor":"Converts mechanical deformation, force, or vibration into an electrical signal; it can be used for respiratory movement, snoring, or other mechanical events.",
-    "Ambient-light sensor":"Measures environmental light to provide time-in-bed or sleep–wake context.",
     "Patient event marker":"Records a patient-entered time marker; it is an annotation channel, not a physiological sensor.",
+    "Temperature sensor":"Records temperature from the patient or another explicitly documented source; physiological interpretation depends on placement and implementation.",
     "Therapy-device input":"Imports treatment-device information such as pressure or therapy status for synchronized context.",
     "Ground/reference electrode":"Provides a common electrical reference and reduces noise; it does not itself measure a physiological parameter.",
     "Respiratory-effort sensor":"Records respiratory motion or effort when the exact sensing technology is not sufficiently specified in the source.",
@@ -390,7 +409,7 @@ function OtherCodesView({ data, setCorpus }: { data:OtherPayload; setCorpus:(val
   const [code,setCode]=useState("");
   const [decision,setDecision]=useState("");
   const [category,setCategory]=useState("");
-  const outputCounts=useMemo(()=>countPairs(data.outputs.map(o=>o.standardized_output)),[data]);
+  const outputCounts=useMemo(()=>countPairs(data.outputs.filter(o=>isPhysiologicalOutputFact(o.standardized_output)).map(o=>o.standardized_output)),[data]);
   const sensorCounts=useMemo(()=>countPairs(data.sensors.map(s=>s.sensor)),[data]);
   const measurementCounts=useMemo(()=>countPairs(data.sensors.map(s=>s.measurement)),[data]);
   const locationCounts=useMemo(()=>countPairs(data.sensors.map(s=>s.location)),[data]);
@@ -398,20 +417,20 @@ function OtherCodesView({ data, setCorpus }: { data:OtherPayload; setCorpus:(val
   const includedTime=useMemo(()=>orderedBands(data.families.map(f=>timeBand(f.decision_date))),[data]);
   const otherFamilyBands=useMemo(()=>new Map(data.families.map(f=>[f.family_id,timeBand(f.decision_date)])),[data]);
   const otherSensorTime=useMemo(()=>orderedBands(data.sensors.map(s=>otherFamilyBands.get(s.family_id)||"Date unavailable")),[data,otherFamilyBands]);
-  const otherOutputTime=useMemo(()=>orderedBands(data.outputs.map(o=>otherFamilyBands.get(o.family_id)||"Date unavailable")),[data,otherFamilyBands]);
+  const otherOutputTime=useMemo(()=>orderedBands(data.outputs.filter(o=>isPhysiologicalOutputFact(o.standardized_output)).map(o=>otherFamilyBands.get(o.family_id)||"Date unavailable")),[data,otherFamilyBands]);
   const downloadedSummaries=data.audit.filter(a=>a.pdf_status==="downloaded").length;
   const audit=data.audit.filter(a=>(!query||`${a.device_name} ${a.applicant} ${a.k_number}`.toLowerCase().includes(query.toLowerCase()))&&(!code||a.product_code===code)&&(!decision||a.analysis_decision===decision)&&(!category||a.scope_category===category));
   return <main><CorpusNav corpus="other" setCorpus={setCorpus}/>
-    <ExplorerBanner context="Neurology product codes OLV and OLZ" detail={`${data.stats.total_clearances_screened} clearances screened · limited-channel scope`}/>
-    <nav className="tabs" aria-label="Other code views">{[["data","Data overview"],["analysis","Analysis overview"],["families","Included configurations"],["sensors","Sensor facts"],["outputs","Outputs"],["audit","Scope audit"],["methods","Methods"]].map(([id,label])=><button key={id} className={view===id?"active":""} onClick={()=>setView(id)}>{label}</button>)}<a className="download" href="MNR_Curated_Analysis.xlsx" download>Download combined Excel</a></nav>
-    {view==="data"&&<div className="page"><div className="sectionHead"><div><h2>Data overview</h2><p>What was screened, retained, excluded, and available as an FDA summary.</p></div></div><section className="metrics"><Metric value={data.stats.total_clearances_screened} label="510(k)s screened" note={`${data.stats.olv_clearances} OLV · ${data.stats.olz_clearances} OLZ`}/><Metric value={downloadedSummaries} label="FDA summaries downloaded" note={`${data.stats.total_clearances_screened-downloadedSummaries} unavailable or unresolved`}/><Metric value={data.stats.included_families} label="configurations included" note="limited-channel evidence retained"/><Metric value={data.stats.excluded_clearances} label="clearances excluded" note="all decisions retained in audit"/></section><div className="chartGrid dataCharts"><Donut included={data.stats.included_clearances} excluded={data.stats.excluded_clearances}/><BarChart title="Why clearances were excluded" data={data.stats.exclusion_category_counts}/></div><section className="archetypes"><h2>Product-code accounting</h2><div className="archetypeGrid">{[["OLV screened",data.stats.olv_clearances],["OLZ screened",data.stats.olz_clearances],["OLV included",data.stats.olv_included],["OLZ included",data.stats.olz_included]].map(([name,count],i)=><div key={String(name)}><i style={{background:palette[i]}}/><span>{name}</span><strong>{count}</strong></div>)}</div></section></div>}
+    <ExplorerBanner context="Neurology product codes OLV and OLZ" detail={`${data.stats.total_clearances_screened} clearances screened · full PSG + ambulatory + sensor scope`}/>
+    <nav className="tabs" aria-label="Other code views">{[["data","Data overview"],["analysis","Analysis overview"],["families","Included systems"],["sensors","Sensor facts"],["outputs","Outputs"],["audit","Scope audit"],["methods","Methods"]].map(([id,label])=><button key={id} className={view===id?"active":""} onClick={()=>setView(id)}>{label}</button>)}<a className="download" href="MNR_Curated_Analysis.xlsx" download>Download combined Excel</a></nav>
+    {view==="data"&&<div className="page"><div className="sectionHead"><div><h2>Data overview</h2><p>What was screened, retained, excluded, and available as an FDA summary.</p></div></div><section className="metrics"><Metric value={data.stats.total_clearances_screened} label="510(k)s screened" note={`${data.stats.olv_clearances} OLV · ${data.stats.olz_clearances} OLZ`}/><Metric value={downloadedSummaries} label="FDA summaries downloaded" note={`${data.stats.total_clearances_screened-downloadedSummaries} unavailable or unresolved`}/><Metric value={data.stats.included_families} label="device families included" note={`${data.stats.included_clearances} acquisition-related clearances`}/><Metric value={data.stats.excluded_clearances} label="clearances excluded" note="software-only or insufficient sensor evidence"/></section><div className="chartGrid dataCharts"><Donut included={data.stats.included_clearances} excluded={data.stats.excluded_clearances}/><BarChart title="Why clearances were excluded" data={data.stats.exclusion_category_counts}/></div><section className="archetypes"><h2>Included system types</h2><div className="archetypeGrid">{data.stats.system_type_counts.slice(0,8).map(([name,count],i)=><div key={String(name)}><i style={{background:palette[i%palette.length]}}/><span>{name}</span><strong>{count}</strong></div>)}</div></section></div>}
     {view==="analysis"&&<div className="page"><div className="sectionHead"><div><h2>Analysis overview</h2><p>What the included configurations sense, measure, and report—and how the evidence is distributed over time.</p></div></div><section className="metrics"><Metric value={data.stats.sensor_facts} label="sensor facts" note="type, location, and measurement"/><Metric value={data.stats.output_facts} label="output facts" note="standardized for comparison"/><Metric value={unique(data.sensors.map(s=>s.sensor)).length} label="sensor types" note="case-normalized categories"/><Metric value={unique(data.outputs.map(o=>o.standardized_output)).length} label="output types" note="case-normalized categories"/></section><div className="chartGrid"><BarChart title="Sensors in included configurations" data={sensorCounts}/><BarChart title="Physiological measurements" data={measurementCounts}/></div><div className="chartGrid"><BarChart title="Sensor locations" data={locationCounts}/><BarChart title="Standardized outputs" data={outputCounts}/></div><div className="chartGrid"><BarChart title="Indication terminology" data={indicationCounts}/><BarChart title="Included configurations over time" data={includedTime}/></div><div className="chartGrid"><BarChart title="Sensor facts by clearance era" data={otherSensorTime}/><BarChart title="Output facts by clearance era" data={otherOutputTime}/></div></div>}
-    {view==="families"&&<div className="page wide"><div className="sectionHead"><div><h2>Included limited-channel configurations</h2><p>For mixed systems, the configuration name and scope basis explicitly separate HSAT from full PSG.</p></div></div><div className="tableWrap"><table><thead><tr><th>Device / configuration</th><th>Code & 510(k)</th><th>Indication</th><th>Reduced-channel scope</th><th>Sensors</th><th>Outputs</th></tr></thead><tbody>{data.families.map(f=><tr key={f.family_id}><td><strong>{f.family_name}</strong><small>{f.applicant} · {f.decision_date}</small></td><td><a href={f.source_url} target="_blank" rel="noreferrer">{f.product_code} · {f.k_numbers}</a></td><td>{f.indications_short}<small>{f.indications_verbatim}</small></td><td>{f.scope_basis}</td><td>{data.sensors.filter(s=>s.family_id===f.family_id).map(s=>s.sensor).join("; ")}</td><td className="outputTags">{f.standardized_outputs.split("; ").map(o=><span key={o}>{o}</span>)}</td></tr>)}</tbody></table></div></div>}
+    {view==="families"&&<div className="page wide"><div className="sectionHead"><div><h2>Included PSG, sleep-acquisition, and sensor families</h2><p>Full PSG systems now sit alongside configurable, ambulatory, home-testing, and physiological sensor platforms.</p></div></div><div className="tableWrap"><table><thead><tr><th>Device family</th><th>Code & 510(k)</th><th>System type</th><th>Indication</th><th>Scope / evidence</th><th>Sensors</th><th>Outputs</th></tr></thead><tbody>{data.families.map(f=><tr key={f.family_id}><td><strong>{f.family_name}</strong><small>{f.applicant} · {f.decision_date}</small></td><td><div className="kLinks">{data.clearances.filter(c=>c.family_id===f.family_id).map(c=><a key={c.k_number} href={c.source_url} target="_blank" rel="noreferrer" title={`${c.device_name} · ${c.decision_date}`}>{c.product_code} · {c.k_number}</a>)}</div></td><td><span className="typePill">{f.system_type}</span></td><td>{f.indications_short}<small>{f.indications_verbatim}</small></td><td>{f.scope_basis}</td><td>{unique(data.sensors.filter(s=>s.family_id===f.family_id).map(s=>s.sensor)).join("; ")||"Sensor detail unavailable in public summary"}</td><td className="outputTags">{f.standardized_outputs.split("; ").filter(Boolean).map(o=><span key={o}>{o}</span>)}</td></tr>)}</tbody></table></div></div>}
     {view==="sensors"&&<div className="page wide"><div className="sectionHead"><div><h2>Sensor → location → measurement</h2><p>Location remains descriptive, not an inclusion requirement.</p></div><div className="resultCount"><strong>{data.sensors.length}</strong> facts</div></div><div className="tableWrap"><table><thead><tr><th>Configuration</th><th>Sensor</th><th>Location</th><th>Measures</th><th>Related outputs</th><th>FDA evidence</th></tr></thead><tbody>{data.sensors.map((s,i)=><tr key={`${s.family_id}-${i}`}><td><strong>{s.family_name}</strong></td><td>{s.sensor}</td><td>{s.location}</td><td>{s.measurement}</td><td>{s.sensor_outputs}</td><td><a href={s.source_url} target="_blank" rel="noreferrer">{s.k_number}</a></td></tr>)}</tbody></table></div></div>}
     {view==="outputs"&&<div className="page wide"><div className="sectionHead"><div><h2>Normalized outputs</h2><p>Only outputs supported for the included device/configuration are listed.</p></div><div className="resultCount"><strong>{data.outputs.length}</strong> facts</div></div><div className="tableWrap"><table><thead><tr><th>Configuration</th><th>Product code</th><th>Standardized output</th><th>FDA evidence</th></tr></thead><tbody>{data.outputs.map((o,i)=><tr key={`${o.family_id}-${i}`}><td><strong>{o.family_name}</strong></td><td>{o.product_code}</td><td><span className="outputPill">{o.standardized_output}</span></td><td><a href={o.source_url} target="_blank" rel="noreferrer">{o.k_number}</a></td></tr>)}</tbody></table></div></div>}
     {view==="audit"&&<div className="page wide"><div className="sectionHead"><div><h2>OLV / OLZ scope audit</h2><p>All 101 primary-code clearances remain visible, including unavailable historical PDFs.</p></div><div className="resultCount"><strong>{audit.length}</strong> rows</div></div><section className="filterPanel compact"><label className="filter search"><span>Search device, applicant, or K number</span><input value={query} onChange={e=>setQuery(e.target.value)} placeholder="Search"/></label><Select label="Product code" value={code} options={["OLV","OLZ"]} onChange={setCode}/><Select label="Decision" value={decision} options={["Include","Exclude"]} onChange={setDecision}/><Select label="Category" value={category} options={unique(data.audit.map(a=>a.scope_category))} onChange={setCategory}/><button className="clear" onClick={()=>{setQuery("");setCode("");setDecision("");setCategory("")}}>Clear</button></section><div className="tableWrap"><table><thead><tr><th>Device</th><th>Code / 510(k)</th><th>Decision</th><th>Scope category</th><th>Reason</th><th>PDF</th></tr></thead><tbody>{audit.map(a=><tr key={a.k_number}><td><strong>{a.device_name}</strong><small>{a.applicant} · {a.decision_date}</small></td><td><a href={a.source_url} target="_blank" rel="noreferrer">{a.product_code} · {a.k_number}</a></td><td><span className={`decision ${a.analysis_decision.toLowerCase()}`}>{a.analysis_decision}</span></td><td>{a.scope_category}</td><td>{a.decision_reason}</td><td>{a.pdf_status}</td></tr>)}</tbody></table></div></div>}
-    {view==="methods"&&<div className="page methods"><div className="eyebrow dark">CONFIGURATION-SPECIFIC SCREENING</div><h2>Reduced configurations count; full PSG channels do not</h2><p className="lede">{data.stats.scope_rule}</p><section className="methodGrid"><div className="steps">{["Enumerate every primary OLV and OLZ 510(k) in openFDA.","Download the FDA-hosted summary and OCR scanned pages.","Include direct limited-channel HSAT devices and explicitly documented reduced-channel configurations.","For mixed systems, extract only the reduced polygraphy/Level 3/cardiorespiratory sensor set.","Exclude software-only scoring, full-PSG-only systems, and standalone components; retain every decision in the audit."].map((x,i)=><div key={x}><span>{String(i+1).padStart(2,"0")}</span><p>{x}</p></div>)}</div><aside><h3>Interpretation boundary</h3><p>“Available configuration” must be stated or clearly described in the FDA summary. A hypothetical ability to omit channels is not enough.</p><h3>Review status</h3><p>This remains a machine-assisted research draft and should receive expert adjudication before publication.</p></aside></section></div>}
-    <footer><span>Evidence Explorer · OLV/OLZ extension</span><span>{data.stats.total_clearances_screened} screened → {data.stats.included_families} reduced-channel configurations included</span></footer>
+    {view==="methods"&&<div className="page methods"><div className="eyebrow dark">COMPREHENSIVE SLEEP-ACQUISITION SCOPE</div><h2>Full PSG systems and their sensors are included</h2><p className="lede">{data.stats.scope_rule}</p><section className="methodGrid"><div className="steps">{["Enumerate every primary OLV and OLZ 510(k) in the FDA/openFDA snapshot.","Use the FDA-hosted summary and OCR text when available; retain unavailable historical clearances in the audit.","Include full PSG, configurable PSG/polygraphy, ambulatory and home sleep recorders, and cleared physiological sensor or acquisition components.","Extract only sensor or signal capabilities explicitly supported by the device clearance; unknown technology remains labeled as unspecified.","Exclude software that only analyzes previously recorded signals. Do not treat ambient light as a physiological parameter."].map((x,i)=><div key={x}><span>{String(i+1).padStart(2,"0")}</span><p>{x}</p></div>)}</div><aside><h3>Interpretation boundary</h3><p>A supported input channel is not automatically proof of raw-waveform access, calibration, synchronization, or direct mechanistic measurement. Those distinctions remain explicit in Tables 8.3 and 8.4.</p><h3>Review status</h3><p>This remains a machine-assisted research draft and should receive expert adjudication before publication.</p></aside></section></div>}
+    <footer><span>Evidence Explorer · OLV/OLZ comprehensive extension</span><span>{data.stats.total_clearances_screened} screened → {data.stats.included_clearances} clearances across {data.stats.included_families} families included</span></footer>
   </main>;
 }
 
@@ -432,7 +451,7 @@ function CrossCorpusAnalysis({ mnr, other, setCorpus, navigateEducation }:{mnr:P
   const allFamilyClearances=useMemo(()=>{
     const map=new Map<string,EvidenceRef[]>();
     mnr.families.forEach(f=>map.set(`mnr:${f.device_family_id}`,mnr.clearances.filter(c=>c.device_family_id===f.device_family_id).map(c=>({familyKey:`mnr:${f.device_family_id}`,familyName:f.family_name,productCode:"MNR",kNumber:c.k_number,sourceUrl:c.source_url}))));
-    other.families.forEach(f=>map.set(`other:${f.family_id}`,[{familyKey:`other:${f.family_id}`,familyName:f.family_name,productCode:f.product_code,kNumber:f.k_numbers,sourceUrl:f.source_url}]));
+    other.families.forEach(f=>map.set(`other:${f.family_id}`,other.clearances.filter(c=>c.family_id===f.family_id).map(c=>({familyKey:`other:${f.family_id}`,familyName:f.family_name,productCode:c.product_code,kNumber:c.k_number,sourceUrl:c.source_url}))));
     return map;
   },[mnr,other]);
   const table83Groups=useMemo(()=>Object.values(measurementProfiles).map(profile=>{
@@ -450,7 +469,7 @@ function CrossCorpusAnalysis({ mnr, other, setCorpus, navigateEducation }:{mnr:P
   }).filter(group=>group.sensorRows.length).sort((a,b)=>otherLast(a.label)-otherLast(b.label)||a.label.localeCompare(b.label)),[rows,sensorEvidence,outputEvidence,allFamilyClearances]);
   const measurementOptions=unique(rows.map(r=>r.label)); const mechanismOptions=unique(rows.flatMap(r=>r.mechanisms)); const sensorOptions=unique(rows.map(r=>r.sensor)); const locationOptions=unique(rows.flatMap(r=>r.locations));
   const filtered=rows.filter(row=>{const haystack=`${row.label} ${row.diseaseRole} ${row.sensor} ${row.locations.join(" ")} ${row.aliases.join(" ")} ${row.mechanisms.join(" ")}`.toLowerCase();return(!query||haystack.includes(query.toLowerCase()))&&(!measurement||row.label===measurement)&&(!mechanism||row.mechanisms.includes(mechanism))&&(!sensorFilter||row.sensor===sensorFilter)&&(!location||row.locations.includes(location))&&(!productCode||row.productCodes.includes(productCode))});
-  const uniqueFamilies=new Set([...mnr.sensors.map(s=>`mnr:${s.device_family_id}`),...other.sensors.map(s=>`other:${s.family_id}`)]).size; const profileFamilyCount=(id:string)=>new Set(rows.filter(r=>r.id===id).flatMap(r=>r.familyIds)).size; const allOutputText=[...mnr.outputs.map(o=>`${o.standardized_output} ${o.source_output_name}`),...other.outputs.map(o=>o.standardized_output)]; const countOutput=(pattern:RegExp)=>allOutputText.filter(x=>pattern.test(x)).length;
+  const uniqueFamilies=new Set([...mnr.sensors.filter(s=>isPhysiologicalSensorFact(s.standardized_sensor,s.measurement)).map(s=>`mnr:${s.device_family_id}`),...other.sensors.map(s=>`other:${s.family_id}`)]).size; const profileFamilyCount=(id:string)=>new Set(rows.filter(r=>r.id===id).flatMap(r=>r.familyIds)).size; const allOutputText=[...mnr.outputs.filter(o=>isPhysiologicalOutputFact(o.standardized_output)).map(o=>`${o.standardized_output} ${o.source_output_name}`),...other.outputs.filter(o=>isPhysiologicalOutputFact(o.standardized_output)).map(o=>o.standardized_output)]; const countOutput=(pattern:RegExp)=>allOutputText.filter(x=>pattern.test(x)).length;
   const capabilityRows:string[][]=[
     ["Airway collapsibility","Passive Pcrit","Reference measure","Controlled airway pressure + quantitative airflow","Pressure and airflow sensing are represented, but no controlled pressure-perturbation protocol or Pcrit output was identified.","NOT IDENTIFIED","Existing sensing does not establish direct passive Pcrit measurement."],
     ["Airway collapsibility","Peak / mid-inspiratory flow","Validated surrogate of active collapsibility","Quantitative airflow waveform",`${profileFamilyCount("airflow")} families/configurations include airflow or respiration sensing; nasal-pressure and pneumotach technologies are represented.`,"POTENTIALLY DERIVABLE","Requires quantitative waveform fidelity; an airflow label alone is insufficient."],
@@ -473,7 +492,7 @@ function CrossCorpusAnalysis({ mnr, other, setCorpus, navigateEducation }:{mnr:P
   const toggleMeasurement=(id:string)=>setExpandedMeasurements(current=>{const next=new Set(current);next.has(id)?next.delete(id):next.add(id);return next});
   const openEvidence=(title:string,note:string,records:EvidenceRef[])=>setDrilldown({title,note,records:dedupeEvidence(records)});
   const renderEvidenceItems=(items:CountedEvidence[],kind:"raw"|"derived")=>items.length?<div className={kind==="raw"?"evidenceList":"featureList"}>{items.map(item=><button key={item.label} className="evidenceItem" onClick={()=>openEvidence(item.label,`${kind==="raw"?"Direct sensor/acquisition evidence":"Explicit reported output in a family containing this sensor"} · N=${item.familyCount} families · ${item.clearanceCount} linked 510(k)s`,item.records)}><span>{item.label}</span><strong>N={item.familyCount}</strong></button>)}</div>:<span className="notEstablished">Not explicitly established at high confidence</span>;
-  return <main><CorpusNav corpus="analysis" setCorpus={setCorpus}/><ExplorerBanner context="Cross-corpus physiological and mechanistic analysis" detail="MNR + reduced-channel OLV / OLZ configurations"/>
+  return <main><CorpusNav corpus="analysis" setCorpus={setCorpus}/><ExplorerBanner context="Cross-corpus physiological and mechanistic analysis" detail="MNR + comprehensive OLV / OLZ PSG and sleep-acquisition corpus"/>
     <nav className="tabs analysisTabs" aria-label="Cross-corpus analysis views"><button className={subtab==="table83"?"active":""} onClick={()=>setSubtab("table83")}>8.3 Measurement inventory</button><button className={subtab==="table84"?"active":""} onClick={()=>setSubtab("table84")}>8.4 Mechanism capability map</button><button className={subtab==="inventory"?"active":""} onClick={()=>setSubtab("inventory")}>Measurement → sensor → location</button><a className="download" href="MNR_Curated_Analysis.xlsx" download>Download combined Excel</a></nav>
     {subtab==="table83"&&<div className="page wide analysisPage"><div className="sectionHead"><div><h2>8.3 Cumulative FDA measurement inventory</h2><p>One collapsible section per physiological parameter; expand it to inspect sensor technologies and supporting 510(k)s.</p></div><div className="resultCount"><strong>{table83Groups.length}</strong> physiological parameters</div></div><section className="analysisPrinciple"><strong>High-confidence rule</strong><span>A raw/acquired signal is named only when the documented sensor technology and measured parameter support that signal directly. Derived features are explicit reported outputs from the same device family and are not automatically attributed to that sensor.</span></section><div className="accordionActions"><button onClick={()=>setExpandedMeasurements(new Set(table83Groups.map(group=>group.id)))}>Expand all</button><button onClick={()=>setExpandedMeasurements(new Set())}>Collapse all</button></div><div className="measurementAccordion">{table83Groups.map(group=>{const isOpen=expandedMeasurements.has(group.id);const groupRecords=dedupeEvidence(group.familyIds.flatMap(id=>allFamilyClearances.get(id)||[]));return <section className={`measurementGroup ${isOpen?"open":""}`} key={group.id}><div className="measurementSummary"><button className="measurementToggle" aria-expanded={isOpen} onClick={()=>toggleMeasurement(group.id)}><span className="chevron">›</span><span><strong>{group.label}</strong><small>{group.sensorRows.length} sensor types</small></span></button><button className="educationLink" onClick={()=>navigateEducation({view:"measurements",id:group.id})}>Read measurement definition</button><button className="countLink" onClick={()=>openEvidence(`${group.label}: included families`,`All 510(k)s represented by the ${group.families} families/configurations in this physiological-parameter group.`,groupRecords)}><strong>N={group.families}</strong><span>families</span></button></div>{isOpen&&<div className="tableWrap table83"><table><thead><tr><th>Sensor technology</th><th>No. families</th><th>Documented location(s)</th><th>High-confidence raw / acquired signal</th><th>Explicit reported features in same families</th><th>Codes</th></tr></thead><tbody>{group.sensorRows.map(row=><tr key={`${group.id}-${row.sensor}`}><td><button className="inlineEducationLink" onClick={()=>navigateEducation({view:"sensors",id:anchorId(row.sensor)})}>{row.sensor}</button><details><summary>{row.aliases.length} source label{row.aliases.length===1?"":"s"}</summary><div className="aliasList">{row.aliases.map(a=><span key={a}>{a}</span>)}</div></details></td><td><button className="familyCountLink" onClick={()=>openEvidence(`${group.label} · ${row.sensor}`,`All 510(k)s represented by N=${row.families} families/configurations for this parameter–sensor combination.`,row.familyRecords)}><strong>N={row.families}</strong><span>{row.familyRecords.length} linked 510(k)s</span></button></td><td><div className="locationTags">{row.locations.map(l=><span key={l}>{l}</span>)}</div></td><td>{renderEvidenceItems(row.rawSignals,"raw")}</td><td>{renderEvidenceItems(row.derivedFeatures,"derived")}</td><td><div className="codeTags">{row.productCodes.map(c=><span key={c}>{c}</span>)}</div></td></tr>)}</tbody></table></div>}</section>})}</div>{drilldown&&<section className="evidenceDrilldown" aria-live="polite"><div className="drilldownHead"><div><span className="eyebrow dark">FILTERED EVIDENCE LIST</span><h3>{drilldown.title}</h3><p>{drilldown.note}</p></div><button onClick={()=>setDrilldown(null)} aria-label="Close filtered evidence list">×</button></div><div className="evidenceFamilies">{[...new Map(drilldown.records.map(record=>[record.familyKey,record])).values()].map(family=><article key={family.familyKey}><h4>{family.familyName}</h4><span>{family.productCode}</span><div className="kLinks">{drilldown.records.filter(record=>record.familyKey===family.familyKey).map(record=><a key={`${record.kNumber}-${record.sourceUrl}`} href={record.sourceUrl} target="_blank" rel="noreferrer" title="Open FDA 510(k) evidence">{record.kNumber}</a>)}</div></article>)}</div></section>}<section className="analysisNotes"><h3>Interpretation rule</h3><p><strong>N</strong> is the number of unique device families/configurations supporting an item; the drill-through also shows the linked 510(k)s. “Explicit reported features in same families” means the output was documented for a family containing that sensor—not that the output was proven to derive from that sensor alone.</p></section></div>}
     {subtab==="table84"&&<div className="page wide analysisPage"><div className="sectionHead"><div><h2>8.4 Mechanism × feature × FDA capability map</h2><p>Literature-derived feature requirements intersected with sensing capabilities represented in the current FDA corpus.</p></div><div className="resultCount"><strong>{capabilityRows.length}</strong> feature assessments</div></div><section className="capabilityLegend"><span className="cap explicit">Explicit / available</span><span className="cap potential">Potentially derivable</span><span className="cap partial">Partially available</span><span className="cap missing">Not identified</span></section><div className="tableWrap capabilityTable"><table><thead><tr><th>OSA mechanism</th><th>Physiological feature</th><th>Evidence status</th><th>Signal(s) required</th><th>FDA capability identified</th><th>Capability status</th><th>Interpretation</th></tr></thead><tbody>{capabilityRows.map(row=><tr key={`${row[0]}-${row[1]}`}><td><strong>{row[0]}</strong></td><td>{row[1]}</td><td>{row[2]}</td><td>{row[3]}</td><td>{row[4]}</td><td><span className={`cap ${/NOT IDENTIFIED/.test(row[5])?"missing":/PARTIALLY/.test(row[5])?"partial":/EXPLICIT|AVAILABLE/.test(row[5])?"explicit":"potential"}`}>{row[5]}</span></td><td>{row[6]}</td></tr>)}</tbody></table></div><section className="analysisNotes"><h3>Capability boundary</h3><p><strong>Potentially derivable</strong> means a required signal modality is represented and the physiology guide identifies a plausible or validated extraction pathway. It does not mean that a cleared device performs, validates, exposes, or reports that analysis.</p></section></div>}
@@ -519,27 +538,27 @@ export default function Home() {
   const [expanded, setExpanded] = useState<string | null>(null);
 
   useEffect(() => { fetch("dashboard_data.json").then(r => r.json()).then(setData); fetch("other_codes_data.json").then(r=>r.json()).then(setOtherData); }, []);
-  const sensorOptions = useMemo(() => data ? unique(data.sensors.map(x => x.standardized_sensor)) : [], [data]);
-  const locationOptions = useMemo(() => data ? unique(data.sensors.map(x => x.standardized_location)) : [], [data]);
-  const outputOptions = useMemo(() => data ? unique(data.outputs.map(x => x.standardized_output)) : [], [data]);
+  const sensorOptions = useMemo(() => data ? unique(data.sensors.filter(x=>isPhysiologicalSensorFact(x.standardized_sensor,x.measurement)).map(x => x.standardized_sensor)) : [], [data]);
+  const locationOptions = useMemo(() => data ? unique(data.sensors.filter(x=>isPhysiologicalSensorFact(x.standardized_sensor,x.measurement)).map(x => x.standardized_location)) : [], [data]);
+  const outputOptions = useMemo(() => data ? unique(data.outputs.filter(x=>isPhysiologicalOutputFact(x.standardized_output)).map(x => x.standardized_output)) : [], [data]);
   const roleOptions = useMemo(() => data ? unique(data.families.flatMap(x => x.indication_roles.split("; "))) : [], [data]);
   const archetypeOptions = useMemo(() => data ? unique(data.families.map(x => x.device_archetype)) : [], [data]);
-  const outputOverview = useMemo(() => data ? consolidatePairs(data.stats.output_family_counts) : [], [data]);
-  const sensorOverview = useMemo(() => data ? consolidatePairs(data.stats.sensor_counts) : [], [data]);
-  const measurementOverview = useMemo(() => data ? consolidatePairs(data.stats.measurement_counts) : [], [data]);
-  const locationOverview = useMemo(() => data ? consolidatePairs(data.stats.location_counts) : [], [data]);
+  const outputOverview = useMemo(() => data ? countPairs([...new Map(data.outputs.filter(o=>isPhysiologicalOutputFact(o.standardized_output)).map(o=>[`${o.device_family_id}|${fold(o.standardized_output)}`,o.standardized_output])).values()]) : [], [data]);
+  const sensorOverview = useMemo(() => data ? countPairs(data.sensors.filter(x=>isPhysiologicalSensorFact(x.standardized_sensor,x.measurement)).map(x=>x.standardized_sensor)) : [], [data]);
+  const measurementOverview = useMemo(() => data ? countPairs(data.sensors.filter(x=>isPhysiologicalSensorFact(x.standardized_sensor,x.measurement)).map(x=>x.measurement)) : [], [data]);
+  const locationOverview = useMemo(() => data ? countPairs(data.sensors.filter(x=>isPhysiologicalSensorFact(x.standardized_sensor,x.measurement)).map(x=>x.standardized_location)) : [], [data]);
   const indicationOverview = useMemo(() => data ? consolidatePairs(data.stats.indication_counts) : [], [data]);
   const retainedTime = useMemo(() => data ? orderedBands(data.families.map(f => timeBand(f.latest_decision_date))) : [], [data]);
   const familyBands = useMemo(() => data ? new Map(data.families.map(f => [f.device_family_id, timeBand(f.latest_decision_date)])) : new Map<string,string>(), [data]);
-  const sensorTime = useMemo(() => data ? orderedBands(data.sensors.map(s => familyBands.get(s.device_family_id) || "Date unavailable")) : [], [data, familyBands]);
-  const outputTime = useMemo(() => data ? orderedBands(data.outputs.map(o => familyBands.get(o.device_family_id) || "Date unavailable")) : [], [data, familyBands]);
+  const sensorTime = useMemo(() => data ? orderedBands(data.sensors.filter(s=>isPhysiologicalSensorFact(s.standardized_sensor,s.measurement)).map(s => familyBands.get(s.device_family_id) || "Date unavailable")) : [], [data, familyBands]);
+  const outputTime = useMemo(() => data ? orderedBands(data.outputs.filter(o=>isPhysiologicalOutputFact(o.standardized_output)).map(o => familyBands.get(o.device_family_id) || "Date unavailable")) : [], [data, familyBands]);
 
   const filteredFamilies = useMemo(() => {
     if (!data) return [];
     const q = search.toLowerCase().trim();
     return data.families.filter(f => {
-      const fs = data.sensors.filter(s => s.device_family_id === f.device_family_id);
-      const fo = data.outputs.filter(o => o.device_family_id === f.device_family_id);
+      const fs = data.sensors.filter(s => s.device_family_id === f.device_family_id && isPhysiologicalSensorFact(s.standardized_sensor,s.measurement));
+      const fo = data.outputs.filter(o => o.device_family_id === f.device_family_id && isPhysiologicalOutputFact(o.standardized_output));
       return (!q || `${f.family_name} ${f.latest_applicant} ${f.k_numbers}`.toLowerCase().includes(q)) &&
         (!sensor || fs.some(s => sameLabel(s.standardized_sensor, sensor))) &&
         (!location || fs.some(s => sameLabel(s.standardized_location, location))) &&
@@ -553,13 +572,13 @@ export default function Home() {
   const filteredSensors = useMemo(() => {
     if (!data) return [];
     const ids = new Set(filteredFamilies.map(f => f.device_family_id));
-    return data.sensors.filter(s => ids.has(s.device_family_id) && (!sensor || sameLabel(s.standardized_sensor, sensor)) && (!location || sameLabel(s.standardized_location, location)));
+    return data.sensors.filter(s => isPhysiologicalSensorFact(s.standardized_sensor,s.measurement) && ids.has(s.device_family_id) && (!sensor || sameLabel(s.standardized_sensor, sensor)) && (!location || sameLabel(s.standardized_location, location)));
   }, [data, filteredFamilies, sensor, location]);
 
   const filteredOutputs = useMemo(() => {
     if (!data) return [];
     const ids = new Set(filteredFamilies.map(f => f.device_family_id));
-    return data.outputs.filter(o => ids.has(o.device_family_id) && (!output || sameLabel(o.standardized_output, output)));
+    return data.outputs.filter(o => isPhysiologicalOutputFact(o.standardized_output) && ids.has(o.device_family_id) && (!output || sameLabel(o.standardized_output, output)));
   }, [data, filteredFamilies, output]);
 
   if (!data || !otherData) return <main className="loading"><div className="loadingMark" /><h1>Preparing the sleep-device evidence explorer…</h1></main>;
@@ -594,7 +613,7 @@ export default function Home() {
 
     {tab === "analysis" && <div className="page">
       <div className="sectionHead"><div><h2>Analysis overview</h2><p>Sensor types, measurements, locations, outputs, indications, and evidence patterns over time.</p></div></div>
-      <section className="metrics"><Metric value={data.stats.interpretable_sensor_facts} label="sensor facts" note="type + measurement; location when known"/><Metric value={data.stats.standardized_output_facts} label="output facts" note="mapped to comparable labels"/><Metric value={sensorOptions.length} label="sensor types" note="case-normalized filter values"/><Metric value={outputOptions.length} label="output types" note="case-normalized filter values"/></section>
+      <section className="metrics"><Metric value={data.sensors.filter(s=>isPhysiologicalSensorFact(s.standardized_sensor,s.measurement)).length} label="physiological sensor facts" note="ambient-light context excluded"/><Metric value={data.outputs.filter(o=>isPhysiologicalOutputFact(o.standardized_output)).length} label="output facts" note="non-physiological light context excluded"/><Metric value={sensorOptions.length} label="sensor types" note="case-normalized filter values"/><Metric value={outputOptions.length} label="output types" note="case-normalized filter values"/></section>
       <div className="chartGrid"><BarChart title="Most common sensor types" data={sensorOverview}/><BarChart title="What the sensors measure" data={measurementOverview}/></div>
       <div className="chartGrid"><BarChart title="Anatomical / use locations" data={locationOverview}/><BarChart title="Most common standardized outputs" data={outputOverview} denominator={data.stats.included_families}/></div>
       <div className="chartGrid"><BarChart title="Indication terminology" data={indicationOverview} denominator={data.stats.included_families}/><BarChart title="Retained families over time" data={retainedTime}/></div>
@@ -615,8 +634,8 @@ export default function Home() {
       </section>
       <div className="tableWrap"><table className="familyTable"><thead><tr><th>Device family</th><th>510(k)s</th><th>Indication terms</th><th>Sensor summary</th><th>Standardized outputs</th><th /></tr></thead><tbody>
         {filteredFamilies.map(f => {
-          const fs = data.sensors.filter(s => s.device_family_id === f.device_family_id);
-          const fo = unique(data.outputs.filter(o => o.device_family_id === f.device_family_id).map(o => o.standardized_output));
+          const fs = data.sensors.filter(s => s.device_family_id === f.device_family_id && isPhysiologicalSensorFact(s.standardized_sensor,s.measurement));
+          const fo = unique(data.outputs.filter(o => o.device_family_id === f.device_family_id && isPhysiologicalOutputFact(o.standardized_output)).map(o => o.standardized_output));
           const open = expanded === f.device_family_id;
           return <Fragment key={f.device_family_id}><tr className={open ? "open" : ""}>
             <td><strong>{f.family_name}</strong><small>{f.latest_applicant} · latest {f.latest_decision_date}</small><span className={`tierPill ${f.analysis_tier.toLowerCase()}`}>{f.analysis_tier}</span><span className="typePill">{f.device_archetype}</span></td>

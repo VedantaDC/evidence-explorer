@@ -1,8 +1,9 @@
-# vinext-starter
+# Evidence Explorer
 
-A clean full-stack starter running on
-[vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
-Drizzle support.
+An interactive research dashboard for curated FDA 510(k) evidence on MNR devices
+and comprehensive OLV/OLZ PSG, ambulatory, sleep-acquisition, and physiological
+sensor systems. Full PSG devices are included; software-only scoring systems and
+ambient-light sensing are excluded from physiological sensor analysis.
 
 ## Prerequisites
 

@@ -28,7 +28,7 @@ export async function generateMetadata(): Promise<Metadata> {
     },
     openGraph: {
       title: "Evidence Explorer",
-      description: "Explore curated FDA 510(k) evidence for MNR and reduced-channel OLV/OLZ sleep-device configurations.",
+      description: "Explore curated FDA 510(k) evidence for MNR plus comprehensive OLV/OLZ PSG, ambulatory, and sleep-acquisition devices.",
       images: [{ url: previewImage, width: 1200, height: 630, alt: "Evidence Explorer" }],
     },
     twitter: {
