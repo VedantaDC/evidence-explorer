@@ -38,8 +38,13 @@ test("ships separate data and analysis views with case-normalized filters", asyn
   assert.match(source, /8\.3 Cumulative FDA measurement inventory/);
   assert.match(source, /8\.4 Mechanism × feature × FDA capability map/);
   assert.match(source, /Physiological measurement → sensor → location/);
+  assert.match(source, /A consolidated view: each physiological measurement appears once/);
+  assert.match(source, /cleanInventoryGroups/);
+  assert.match(source, /FDA corpus evidence/);
+  assert.match(source, /linked 510\(k\)s · view evidence/);
+  assert.match(source, /evidenceRecords:dedupeEvidence\(sensorEvidence/);
   assert.match(source, /FDA facts separated from literature-based interpretation/);
-  assert.match(source, /Device × Sensor × Physiological Parameter/);
+  assert.match(source, /unique device families\/configurations supporting that measurement–sensor row/);
   assert.match(source, /Four physiological mechanisms of OSA/);
   assert.match(source, /Physiological measurement glossary/);
   assert.match(source, /Sensor technology glossary/);
