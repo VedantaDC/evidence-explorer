@@ -1,0 +1,337 @@
+{
+  "document": {
+    "k_number": "K221179",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "SomnoMetry",
+    "applicant": "Neumetry Medical, Inc.",
+    "decision_date": "2022-09-21",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221179.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K221179",
+    "sha256": "bcfbc870759ff71abeb85dde418df2ceffa6d03f3c2916b857965d0242f8fd5c",
+    "page_count": 11,
+    "native_pages": 11,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 05 . 0 0 \nSilver Spring, MD 20993 \nwww.fda.gov \n\n\n\n\n\n\nSeptember 21, 2022 \n\nNeumetry Medical Inc \nPaul Chen \nCEO \n47102 Mission Falls Ct., Suite 210 \nFremont, California 94539 \n\n\nRe: K221179 \nTrade/Device Name: SomnoMetry \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: August 22, 2022 \nReceived: August 22, 2022 \n\nDear Paul Chen: \n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. Although this letter refers to your product as a device, please be aware that \nsome cleared products may instead be combination products. The 510(k) Premarket Notification Database \nlocated at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register. \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's",
+      "character_count": 2526
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K221179 - Paul Chen Page \n\n2 \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for \ndevices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for \ncombination products; and, if applicable, the electronic product radiation control provisions (Sections 531-\n542 of the Act); 21 CFR 1000-1050. \n\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \n\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). \n\nSincerely, \n\n\n\n\nfor \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional \nand Neurodiagnostic Devices \nOHT5: Office of Neurological \nand Physical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health \n\nEnclosure",
+      "character_count": 2220
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HEALTH AND HUMAN SERVICES\nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 06/30/2023\nSee PRA Statement below.\nSubmission Number (if known)\nK221 179 I\nDevice Name\nSomnoMetry (V 1.0)\nIndications for Use (Describe)\nSomnoMetry is intended for use for the diagnostic evaluation by a physician to assess sleep quality\nand as an aid for the diagnosis of sleep and respiratory-related sleep disorders in adults only.\nSomnoMetry is a software-only medical device to be used to analyze physiological signals and\nautomatically score sleep study results, including the staging of sleep, AHI, and detection of sleep-\ndisordered breathing events including obstructive apneas. It is intended to be used under the\nsupervision of a clinician in a clinical environment. All automatically scored events are subject to\nverification by a qualified clinician.\nType of Use (Select one or both, as applicable)\nZPrescription Use (Part 21 CFR 801 Subpart D) ] Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\"",
+      "character_count": 1969
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "510(k) Summary Page 1 of 8 \n510(\nK) Summary \nPrepared in accordance with 21 CFR 807.92 \n1. Submitter\nName: Neumetry Medical Inc. \nContact Person: Paul Chen \npa\nul@neumetry.com \nAddress & Phone: 47102 Mission Falls Ct, Suite 210 \nFremont, CA -4539 \nPhone: 925 997 9560 \nDate: September 19, 2022 \n2. Subject Device\nDevice Name: SomnoMetry \nModel Number: V1.0 \nCommon Name: Automatic Event Detection Software for Polysomnograph With \nElectroencephalograph \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: II \nProduct Code: OLZ \nReview Panel: Neurology \n3. Predicate Device\nEnsoData Inc., EnsoSleep K162627 \nThis predicate has not been subject to a design-related recall. \nNo reference devices were used in this submission. \n4. Device Description\nThe SomnoMetry is an Artificial Intelligent/Machine Learning (AI/ML)-enabled Software as a \nMedical Device (SaMD) that automatically scores sleep study results by analyzing \npolysomnography (PSG) signals recorded during sleep studies. It is intended to be used under \nthe supervision of a clinician in clinical environments to aid in the diagnosis of sleep and \nrespiratory related sleep disorders. \nAll scored events that are analyzed, displayed, and summarized can be manually marked or \nedited by a qualified clinician during review and verification.",
+      "character_count": 1342
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "510(k) Summary Page 2 of 8 \nThe SomnoMetry SaMD employs a broad array of signal processing, data indexing, conventional \nmachine learning and deep learning algorithms/approaches in PSG physiological signals to \nderive actionable clinical insights. \nSomnoMetry consists of: \n• A web Application Programing Interface (API) to allow authenticated users to upload\nPSG files to SomnoMetry Platform\n• A database to store the input, intermedium output, final output, and associated data\n• A database API to access the database and store/retrieve the output\n• A dashboard to display, retrieve, manage, edit, verify, and summarize the output\n• An AI/ML Engine using AI/ML algorithms/approaches to analyze PSG data\n• A reporting API to generate sleep reports\nSomnoMetry works in the following sequence: \n• Upload PSG data via the upload API (SSL encrypted)\n• Analyze PSG data with SomnoMetry AI/ML Engine\n• The output of the AI/ML Engine is stored in the database\n• The database API queries the database and retrieves output\n• The output of SomnMetry can be reviewed, retrieved, managed, edited, and verified via\nthe dashboard\n• Generate sleep reports via the dashboard\n5. I\nndications For Use\nSomnoMetry is intended for use for the diagnostic evaluation by a physician to assess sleep \nquality and as an aid for the diagnosis of sleep and respiratory-related sleep disorders in adults \nonly. SomnoMetry is a software-only medical device to be used to analyze physiological signals \nand automatically score sleep study results, including the staging of sleep, AHI, and detection of \nsleep-disordered breathing events including obstructive apneas. It is intended to be used under \nthe supervision of a clinician in a clinical environment. All automatically scored events are \nsubject to verification by a qualified clinician. \n6. Summary of Technological Ch aracteristics\nThe SomnoMetry software employs a broad array of signal processing, data indexing, \nconventional machine learning and deep learning algorithms/approaches in PSG signals to score \nthe sleep study results automatically which has similar intended use and indications for use as the \npredicate device. The main difference in the intended use is that the predicate and subject devices \nuse different algorithms. The two devices have similar technological characteristics: both \nalgorithms automatically process and score sleep staging and respiratory events, and both \nSomnoMetry’s AI/ML and the predicate’s automated algorithms have optimized to ensure the \naccuracy and precision in scoring. The AI/ML algorithms do not introduce any new risks or \nunexpected results. Clinical performance testing confirmed that the SomnoMetry’s AI/ML",
+      "character_count": 2692
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "510(k) Summary Page 3 of 8 \nalgorithms performances are substantially equivalent to those by the device predicate’s \nautomated algorithms. \nTable 1： Technological Characteristics Comparison \nElements Predicate Device \nEnsoSleep K162627 \nSubject Device \nSomnoMetry \nClassification OLZ, Automated Event Detection \nSoftware for Polysomnograph with \nElectroencephalograph \nOLZ, Automated Event Detection \nSoftware for Polysomnograph with \nElectroencephalograph \nIndications for \nuse \nEnsoSleep is intended for use for the \ndiagnostic evaluation by a physician \nto assess sleep quality and as an aid \nfor the diagnosis of sleep and \nrespiratory related sleep disorders in \nadults only. EnsoSleep is a software-\nonly medical device to be used \nunder the supervision of a clinician \nto analyze physiological signals and \nautomatically score sleep study \nresults, including the staging of \nsleep, detection of arousals, leg \nmovements, and sleep disordered \nbreathing events including \nobstructive apneas. All \nautomatically scored events are \nsubject to verification by a qualified \nclinician. Central apneas, mixed \napneas, and hypopneas must be \nmanually marked within records. \nSomnoMetry is intended for use for the \ndiagnostic evaluation by a physician to \nassess sleep quality and as an aid for the \ndiagnosis of sleep and respiratory-\nrelated sleep disorders in adults only. \nSomnoMetry is a software-only medical \ndevice to be used to analyze \nphysiological signals and automatically \nscore sleep study results, including the \nstaging of sleep, AHI, and detection of \nsleep-disordered breathing events \nincluding obstructive apneas. It is \nintended to be used under the \nsupervision of a clinician in a clinical \nenvironment. All automatically scored \nevents are subject to verification by a \nqualified clinician. \nIntended Use Analyze pre-recorded physiological \ndata acquired during sleep. \nAnalyze pre-recorded physiological data \nacquired during sleep and derive \nactionable clinical insights. \nPatient \npopulation \nAdults only Adults only \nScoring rules American Academy of Sleep \nMedicine scoring manual and \nguidelines. \nAmerican Academy of Sleep Medicine \nscoring manual and guidelines. \nEnvironment \nof use \nPhysician office (data analysis and \nreporting). No limitation on where \ndata are acquired. \nPhysician office. No limitation on where \ndata are acquired. \nScore sleep \nstaging \nYes Yes \nScore sleep \ndisorder \nYes Yes",
+      "character_count": 2434
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "510(k) Summary Page 4 of 8 \nrespiratory \nevents \nAutomatically \ninitiates sleep \nstudy scoring \nYes Yes \nAlgorithm \ndescription \nAutomated algorithms are applied to \nthe raw signals in order to derive \nadditional signals and interpret the \nraw and derived signal information. \nA broad array of signal processing, data \nindexing, conventional machine \nlearning and deep learning \nalgorithms/approaches are applied to the \nraw signals to derive actionable clinical \ninsights. \nPhysical \nCharacteristics \nOperates on any PC with Windows \n7 and 8 operating system platforms. \nWeb-based software operates in the \ncloud with Windows, Mac OS, or Linux \nCybersecurity Authentication controls, \nauthorization controls, \ncryptographic controls, access \ncontrols, checksum controls, \nsoftware distribution controls, \nintrusion detection system controls, \nnetwork and systems controls, and \ndatabase controls. \nUser authentication with strong \npassword, authorization, end to end SSL \nencryption, access controls, checksum, \nnetwork and database controls, intrusion \nprevention system, and anonymization. \n7. Performance Data\nNeumetry conducted the necessary non-clinical testing and clinical evaluations on the \nSomnoMetry with past results supporting the determination of substantial equivalence. \nPerformance testing and activities that were conducted included the followings: \n• Software verification and validation which included software code reviews, automated\ntesting, acceptance testing and labeling review.\n• Study that utilized retrospective clinical data to demonstrate automatic scoring sleep\nstudy results.\n• Design traceability that confirms all requirement tracing is complete from design inputs\nto verification/validation and that all risk controls are implemented.\n• Design verification testing which confirmed that all software requirements are developed\nas expected\n• Design validation testing which simulated the intended use to confirm that the end-to-end\nfunctionality of the SomnoMetry in conjunction with the AI/ML algorithms meets the\ndesign requirements\n• A cybersecurity and data security testing were conducted to verify that data and patient\nprotected health information security measures are thoroughly included in the design of\nthe software.\nNon-clinical Testing \nSafety and performance of the SomnoMetry have been verified and validated through software \ntesting and analytical validation. Software development and testing were performed in",
+      "character_count": 2461
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "510(k) Summary Page 5 of 8 \naccordance with “IEC 62304:2006/A1:2015, Medical Device Software – Software life cycle \nprocesses”. Risk has been assessed in accordance with “ISO 14971:2007, Medical Devices – \nApplication of Risk Management to Medical Devices”. During software testing, all pre-defined \nacceptance criteria for the SomnoMetry were met and all software test cases passed. The same \nverification and validation methodology, risk assessment and acceptance criterion were used for \npredicate device. \nRetrospective Clinical Performance Testing – Clinical Evaluation \nThe clinical evaluation was provided in this submission in accordance with “Software as a \nMedical Device (SaMD): Clinical Evaluation - Guidance for Industry and Food and Drug \nAdministration Staff” (December 2017). The clinical evaluation included a total of 201 \npolysomnography (PSG) files obtained from 2 AASM accredited Sleep Testing Facilities in \nCalifornia as the ground truths to validate the SomnoMetry AI/ML algorithms. \nAn archived collection of retrospective diagnostic clinical PSG subject data was obtained from \nthe 2 AASM Accredited Sleep Testing Facilities and were verified to meet the specified disease \nspectrum, medical condition, medication, and demographic requirements. \nTo construct the final study sample from the archived collection population, a randomized \nsampling with proportionate allocation across each sleep apnea disease severity quantile \n(normative, mild, moderate, and severe sleep apnea) and sleep cycles was used to construct a \nvalid sample of N=201 adult subjects. Age of subjects from 20 to 84 was selected. No \nrace/ethnicity information was collected in either AASM Accredited Sleep Test Facility. \nSomnoMetry SaMD performance was evaluated across the following 2 experimental endpoints: \n• Endpoint 1: As SomnoMetry is intended to assist clinicians with the assessment of sleep\nquality, therefore device performance for sleep staging scoring must be validated.\n• Endpoint 2: As SomnoMetry is intended to assist clinicians with scoring sleep disordered\nrespiratory events used in diagnostic evaluation, therefore device performance for\ndiagnosing sleep apnea must be validated.\nTable 2 confusion matrix with conditional probabilities shows that the performance of \nSomnoMetry is non-inferior compared to AASM gold standard of manually scored PSG data. \nThe results confirm that clinical performance achieved by the SomnoMetry for sleep staging is \nsubstantially equivalent to the predicate device. \nTable 2: Confusion Matrix \nW 1 2 3 R \nSubjects # 167 167 167 167 167 \nEvent # 28789 5791 47881 12888 13733 \nW 92.7 \n(91.8, 93.6) \n29.8 \n(28.6, 31.1) \n3.0 \n(2.9, 3.1) \n0 \n(0, 0) \n4.6 \n(3.6, 5.6) \n1 0 \n(0, 0) \n47.1 \n(46.1, 48.8) \n0 \n(0, 0) \n0 \n(0, 0) \n0 \n(0, 0)",
+      "character_count": 2781
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "P\nage 6 of 8 \n2 6.0 \n(5.9, 6.1) \n20.2 \n(19.0, 21.4) \n94.5 \n(93.5, 95.5) \n11.5 \n(10.5, 12.5) \n14.3 \n(13.4, 15.2) \n3 0 \n(0, 0) \n0 \n(0, 0) \n2.0 \n(2.0, 2.0) \n88.3 \n(87.4, 89.1) \n0 \n(0, 0) \nR 1.0 \n(1.0, 1.0) \n2.4 \n(1.4, 3.4) \n1.0 \n(1.0, 1.0) \n0 \n(0, 0) \n80.8 \n(79.8, 81,7) \nTrue Labels \nTable 3 shows the performance results in sleep apnea diagnostic agreement for endpoint 2 by \nSomnoMetry and the predicate device, SomnoMetry’s performances showed no statistically \nsignificant differences from the predicate device's performance. The results confirm that the \nclinical performance achieved by SomnoMetry for diagnosing sleep apnea is substantially \nequivalent to the predicate device. \nTable 3: Diagnosing Sleep Apnea Clinical Performance Comparison \nTable 3a - Younger group age under 65, N=96 subjects \n510(k) Summary \nSleep Apnea \nDiagnostic Agreement \nClinical Performance \nComparisons \nThe Subject Device SomnoMetry The Predicate Device \nEnsoSleep \nBootstrapped point-\nestimate of median \npercent agreement \n(%) with 95% \npercentile bootstrap \nconfident interval \n(R=1000 resamples) \nand likelihood ratio \npairs \nAll REM All REM \nAHI ≥ 5 AHI ≥ \n15 \nAHI ≥ \n30 AHI ≥ 5 AHI ≥ \n15 \nAHI ≥ \n30 AHI ≥ 5 AHI ≥ \n15 AHI ≥ 5 AHI ≥ \n15 \nSample Size (N) 167 167 167 167 167 167 72 72 72 72 \nPositive Agreement \n(PA) \n90.6% \n(90.2%, \n91.0%) \n89.1% \n(88.6%, \n89.6%) \n83.3% \n(82.2%, \n84.4%) \n85.6% \n(85.1%, \n86.1%) \n80.0% \n(79.4%, \n80.6%) \n78.8% \n(77.8%, \n79.8%) \n91% \n(82%, \n98%) \n95% \n(83%, \n100%) \n83% \n(72%, \n94%) \n79% \n(56%, \n94%) \nNegative Agreement \n(NA) \n92.2% \n(91.7%, \n92.7%) \n94.9% \n(94.6%, \n95.2%) \n97.5% \n(97.3%, \n97.7%) \n94.7% \n(94.4%, \n95.0%) \n94.7% \n(94.4%, \n95.1%) \n95.6% \n(95.4%, \n95.8%) \n76% \n(61%, \n90%) \n98% \n(94%, \n100%) \n89% \n(79%, \n97%) \n96% \n(90%, \n100%) \nOverall Agreement \n(OA) \n91.2% \n(90.9%, \n91.5%) \n92.8% \n(92.5%, \n93.1% \n95.6% \n(95.4%, \n95.8%) \n88.9% \n(88.5%, \n89.3%) \n88.9% \n(88.7%, \n89.3%) \n92.4% \n(92.1%, \n92.8%) \n85% \n(77%, \n92%) \n97% \n(93%, \n100%) \n86% \n(79%, \n93%) \n92% \n(85%, \n97%) \nLikelihood Ratio (+) 11.62 17.47 33.32 16.15 15.09 17.91 3.76 52.25 7.71 22.0 \nLikelihood Ratio (-) 0.10 0.11 0.17 0.15 0.21 0.22 0.12 0.05 0.19 0.22 \nPredicted Labels",
+      "character_count": 2176
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "510(k) Summary Page 7 of 8 \nAll REM \nAHI ≥ 5 AHI ≥ 15 AHI ≥ 30 AHI ≥ 5 AHI ≥ 15 AHI ≥ 30 \nSample size 96 96 96 96 96 96 \nPositive \nAgreement (PA) 87.9% \n(87.3%, 88.5%) \n85.7% \n(84.7%, 86.7%) \n100% \n(100%, 100%) \n85.6% \n(85.1%, 86.3%) \n84.6% \n(83.9%, 85.3%) \n81.0% \n(79.8%, 82.2%) \nNegative \nAgreement \n(NA) \n88.1% \n(87.3%, 88.9%) \n91.7% \n(91.2%, 92.2%) \n97.8% \n(97.6%, 97.9%) \n93.9% \n(93.3%, 94.6%) \n93.0% \n(92.5%, 93.4%) \n97.3% \n(97.0%, 97.6%) \nOverall (OA) 88.0% \n(87.5%, 88.5%) \n89.9% \n(89.5%, 90.2%) \n98.0% \n(97.8%, 98.2%) \n89.1% \n(88.7%, 89.5%) \n89.8% \n(89.4%, 90.2%) \n94.1% \n(93.8%, 94.4%) \nLikelihood ratio \n(+) \n7.39 10.33 45.45 14.03 12.09 30.0 \nLikelihood ratio \n(-) \n0.14 0.16 0 0.15 0.17 0.20 \nT\nable 3b - Older group age over 65, N=71 subjects. \nAll REM \nAHI >= 5 AHI >= 15 AHI >= 30 AHI >= 5 AHI >= 15 AHI >= 30 \nSample size 71 71 71 71 71 71 \nPositive \nAgreement (PA) 93.1% \n(92.6%, 93.6%) \n91.4% \n(90.8%, 92.0%) \n73.3% \n(71.7%, 74.9%) \n85.2% \n(84.5%, 85.9%) \n75.0% \n(73.9%, 76.1%) \n74.9% \n(73.0%, 76.9%) \nNegative \nAgreement \n(NA) \n100% \n(100%, 100%) \n100% \n(100%, 100%) \n96.9% \n(96.6%, 97.2%) \n94.4% \n(93.6%, 95.2%) \n97.2% \n(96.8%, 97.6%) \n93.3% \n(92.8%, 93.8%) \nOverall (OA) 95.3% \n(95.0%, 95.6%) \n96.6% \n(96.4%, 96.8%) \n93.1% \n(92.8%, 93.4%) \n88.4% \n(88.0%, 88.8%) \n88.6% \n(88.2%, 88.9%) \n90.0% \n(89.5%, 90.5%) \nLikelihood ratio \n(+) +∞ +∞ 23.65 15.21 26.79 11.19 \nLikelihood ratio \n(-) \n0 0 0.28 0.16 0.26 0.27 \nT\nable 3a and Table 3b show that there is no significant difference between the two subgroups. \nThe subgroup performance matrixes demonstrated the generalizability of the SomnoMetry AI \nalgorithm. \nIn\nthe retrospective diagnostic clinical study, the final study results and statistical analysis were \nreported for each endpoint. The subject SomnoMetry SaMD performance showed no statistically \nsignificant differences from the predicate device performance. The results confirm that the \nclinical performance delivered by SomnoMetry is substantially equivalent to the predicate device \nacross all endpoints evaluated. \nThe results of the software and performance testing validate that the SomnoMetry meets its \nrequirements, performs as intended, and is as safe and effective as the predicate device. No new \nor different questions of safety or effectiveness have been raised.",
+      "character_count": 2307
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "510(k) Summary Page 8 of 8 \n8. Conclusion\nThe SomnoMetry is as safe and effective as the predicate device. The SomnoMetry has the same \nintended use and the indications for use fall within the scope of that for the predicate device. \nMany of the technological characteristics are the same for the subject and predicate devices. Any \ndifferences in technological characteristics between the subject and predicate devices have been \naddressed through software verification/validation testing and performance testing and do not \nraise any new or different questions of safety or effectiveness. \nBased upon the results of the software verification and validation testing, and a clinical \nevaluation process consisting of valid clinical association identification, analytical validation, \nand clinical validation, it was determined the SomnoMetry was substantially equivalent to the \npredicate device.",
+      "character_count": 896
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K221179-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 05 . 0 0 \nSilver Spring, MD 20993 \nwww.fda.gov",
+      "extraction_method": "native",
+      "character_count": 130
+    },
+    {
+      "block_id": "K221179-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "September 21, 2022",
+      "extraction_method": "native",
+      "character_count": 18
+    },
+    {
+      "block_id": "K221179-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Neumetry Medical Inc \nPaul Chen \nCEO \n47102 Mission Falls Ct., Suite 210 \nFremont, California 94539",
+      "extraction_method": "native",
+      "character_count": 99
+    },
+    {
+      "block_id": "K221179-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K221179 \nTrade/Device Name: SomnoMetry \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: August 22, 2022 \nReceived: August 22, 2022",
+      "extraction_method": "native",
+      "character_count": 216
+    },
+    {
+      "block_id": "K221179-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Dear Paul Chen:",
+      "text": "Dear Paul Chen:",
+      "extraction_method": "native",
+      "character_count": 15
+    },
+    {
+      "block_id": "K221179-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. Although this letter refers to your product as a device, please be aware that \nsome cleared products may instead be combination products. The 510(k) Premarket Notification Database \nlocated at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "native",
+      "character_count": 1345
+    },
+    {
+      "block_id": "K221179-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K221179-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's",
+      "extraction_method": "native",
+      "character_count": 306
+    },
+    {
+      "block_id": "K221179-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "K221179 - Paul Chen Page",
+      "extraction_method": "native",
+      "character_count": 24
+    },
+    {
+      "block_id": "K221179-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "2 \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for \ndevices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for \ncombination products; and, if applicable, the electronic product radiation control provisions (Sections 531-\n542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 774
+    },
+    {
+      "block_id": "K221179-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems.",
+      "extraction_method": "native",
+      "character_count": 356
+    },
+    {
+      "block_id": "K221179-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "For comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "extraction_method": "native",
+      "character_count": 760
+    },
+    {
+      "block_id": "K221179-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "Sincerely,",
+      "extraction_method": "native",
+      "character_count": 10
+    },
+    {
+      "block_id": "K221179-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "for \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional \nand Neurodiagnostic Devices \nOHT5: Office of Neurological \nand Physical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health",
+      "extraction_method": "native",
+      "character_count": 266
+    },
+    {
+      "block_id": "K221179-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "Enclosure",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K221179-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "DEPARTMENT OF HEALTH AND HUMAN SERVICES\nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 06/30/2023\nSee PRA Statement below.\nSubmission Number (if known)\nK221 179 I\nDevice Name\nSomnoMetry (V 1.0)\nIndications for Use (Describe)\nSomnoMetry is intended for use for the diagnostic evaluation by a physician to assess sleep quality\nand as an aid for the diagnosis of sleep and respiratory-related sleep disorders in adults only.\nSomnoMetry is a software-only medical device to be used to analyze physiological signals and\nautomatically score sleep study results, including the staging of sleep, AHI, and detection of sleep-\ndisordered breathing events including obstructive apneas. It is intended to be used under the\nsupervision of a clinician in a clinical environment. All automatically scored events are subject to\nverification by a qualified clinician.\nType of Use (Select one or both, as applicable)\nZPrescription Use (Part 21 CFR 801 Subpart D) ] Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\"",
+      "extraction_method": "native",
+      "character_count": 1969
+    },
+    {
+      "block_id": "K221179-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "510(k) Summary Page 1 of 8 \n510(\nK) Summary \nPrepared in accordance with 21 CFR 807.92 \n1. Submitter\nName: Neumetry Medical Inc. \nContact Person: Paul Chen \npa\nul@neumetry.com \nAddress & Phone: 47102 Mission Falls Ct, Suite 210 \nFremont, CA -4539 \nPhone: 925 997 9560 \nDate: September 19, 2022 \n2. Subject Device\nDevice Name: SomnoMetry \nModel Number: V1.0 \nCommon Name: Automatic Event Detection Software for Polysomnograph With \nElectroencephalograph \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: II \nProduct Code: OLZ \nReview Panel: Neurology \n3. Predicate Device\nEnsoData Inc., EnsoSleep K162627 \nThis predicate has not been subject to a design-related recall. \nNo reference devices were used in this submission. \n4. Device Description\nThe SomnoMetry is an Artificial Intelligent/Machine Learning (AI/ML)-enabled Software as a \nMedical Device (SaMD) that automatically scores sleep study results by analyzing \npolysomnography (PSG) signals recorded during sleep studies. It is intended to be used under \nthe supervision of a clinician in clinical environments to aid in the diagnosis of sleep and \nrespiratory related sleep disorders. \nAll scored events that are analyzed, displayed, and summarized can be manually marked or \nedited by a qualified clinician during review and verification.",
+      "extraction_method": "native",
+      "character_count": 1342
+    },
+    {
+      "block_id": "K221179-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "510(k) Summary Page 2 of 8 \nThe SomnoMetry SaMD employs a broad array of signal processing, data indexing, conventional \nmachine learning and deep learning algorithms/approaches in PSG physiological signals to \nderive actionable clinical insights. \nSomnoMetry consists of: \n• A web Application Programing Interface (API) to allow authenticated users to upload\nPSG files to SomnoMetry Platform\n• A database to store the input, intermedium output, final output, and associated data\n• A database API to access the database and store/retrieve the output\n• A dashboard to display, retrieve, manage, edit, verify, and summarize the output\n• An AI/ML Engine using AI/ML algorithms/approaches to analyze PSG data\n• A reporting API to generate sleep reports\nSomnoMetry works in the following sequence: \n• Upload PSG data via the upload API (SSL encrypted)\n• Analyze PSG data with SomnoMetry AI/ML Engine\n• The output of the AI/ML Engine is stored in the database\n• The database API queries the database and retrieves output\n• The output of SomnMetry can be reviewed, retrieved, managed, edited, and verified via\nthe dashboard\n• Generate sleep reports via the dashboard\n5. I\nndications For Use\nSomnoMetry is intended for use for the diagnostic evaluation by a physician to assess sleep \nquality and as an aid for the diagnosis of sleep and respiratory-related sleep disorders in adults \nonly. SomnoMetry is a software-only medical device to be used to analyze physiological signals \nand automatically score sleep study results, including the staging of sleep, AHI, and detection of \nsleep-disordered breathing events including obstructive apneas. It is intended to be used under \nthe supervision of a clinician in a clinical environment. All automatically scored events are \nsubject to verification by a qualified clinician. \n6. Summary of Technological Ch aracteristics\nThe SomnoMetry software employs a broad array of signal processing, data indexing, \nconventional machine learning and deep learning algorithms/approaches in PSG signals to score \nthe sleep study results automatically which has similar intended use and indications for use as the \npredicate device. The main difference in the intended use is that the predicate and subject devices \nuse different algorithms. The two devices have similar technological characteristics: both \nalgorithms automatically process and score sleep staging and respiratory events, and both \nSomnoMetry’s AI/ML and the predicate’s automated algorithms have optimized to ensure the \naccuracy and precision in scoring. The AI/ML algorithms do not introduce any new risks or \nunexpected results. Clinical performance testing confirmed that the SomnoMetry’s AI/ML",
+      "extraction_method": "native",
+      "character_count": 2692
+    },
+    {
+      "block_id": "K221179-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "510(k) Summary Page 3 of 8 \nalgorithms performances are substantially equivalent to those by the device predicate’s \nautomated algorithms. \nTable 1： Technological Characteristics Comparison \nElements Predicate Device \nEnsoSleep K162627 \nSubject Device \nSomnoMetry \nClassification OLZ, Automated Event Detection \nSoftware for Polysomnograph with \nElectroencephalograph \nOLZ, Automated Event Detection \nSoftware for Polysomnograph with \nElectroencephalograph \nIndications for \nuse \nEnsoSleep is intended for use for the \ndiagnostic evaluation by a physician \nto assess sleep quality and as an aid \nfor the diagnosis of sleep and \nrespiratory related sleep disorders in \nadults only. EnsoSleep is a software-\nonly medical device to be used \nunder the supervision of a clinician \nto analyze physiological signals and \nautomatically score sleep study \nresults, including the staging of \nsleep, detection of arousals, leg \nmovements, and sleep disordered \nbreathing events including \nobstructive apneas. All \nautomatically scored events are \nsubject to verification by a qualified \nclinician. Central apneas, mixed \napneas, and hypopneas must be \nmanually marked within records. \nSomnoMetry is intended for use for the \ndiagnostic evaluation by a physician to \nassess sleep quality and as an aid for the \ndiagnosis of sleep and respiratory-\nrelated sleep disorders in adults only. \nSomnoMetry is a software-only medical \ndevice to be used to analyze \nphysiological signals and automatically \nscore sleep study results, including the \nstaging of sleep, AHI, and detection of \nsleep-disordered breathing events \nincluding obstructive apneas. It is \nintended to be used under the \nsupervision of a clinician in a clinical \nenvironment. All automatically scored \nevents are subject to verification by a \nqualified clinician. \nIntended Use Analyze pre-recorded physiological \ndata acquired during sleep. \nAnalyze pre-recorded physiological data \nacquired during sleep and derive \nactionable clinical insights. \nPatient \npopulation \nAdults only Adults only \nScoring rules American Academy of Sleep \nMedicine scoring manual and \nguidelines. \nAmerican Academy of Sleep Medicine \nscoring manual and guidelines. \nEnvironment \nof use \nPhysician office (data analysis and \nreporting). No limitation on where \ndata are acquired. \nPhysician office. No limitation on where \ndata are acquired. \nScore sleep \nstaging \nYes Yes \nScore sleep \ndisorder \nYes Yes",
+      "extraction_method": "native",
+      "character_count": 2434
+    },
+    {
+      "block_id": "K221179-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "510(k) Summary Page 4 of 8 \nrespiratory \nevents \nAutomatically \ninitiates sleep \nstudy scoring \nYes Yes \nAlgorithm \ndescription \nAutomated algorithms are applied to \nthe raw signals in order to derive \nadditional signals and interpret the \nraw and derived signal information. \nA broad array of signal processing, data \nindexing, conventional machine \nlearning and deep learning \nalgorithms/approaches are applied to the \nraw signals to derive actionable clinical \ninsights. \nPhysical \nCharacteristics \nOperates on any PC with Windows \n7 and 8 operating system platforms. \nWeb-based software operates in the \ncloud with Windows, Mac OS, or Linux \nCybersecurity Authentication controls, \nauthorization controls, \ncryptographic controls, access \ncontrols, checksum controls, \nsoftware distribution controls, \nintrusion detection system controls, \nnetwork and systems controls, and \ndatabase controls. \nUser authentication with strong \npassword, authorization, end to end SSL \nencryption, access controls, checksum, \nnetwork and database controls, intrusion \nprevention system, and anonymization. \n7. Performance Data\nNeumetry conducted the necessary non-clinical testing and clinical evaluations on the \nSomnoMetry with past results supporting the determination of substantial equivalence. \nPerformance testing and activities that were conducted included the followings: \n• Software verification and validation which included software code reviews, automated\ntesting, acceptance testing and labeling review.\n• Study that utilized retrospective clinical data to demonstrate automatic scoring sleep\nstudy results.\n• Design traceability that confirms all requirement tracing is complete from design inputs\nto verification/validation and that all risk controls are implemented.\n• Design verification testing which confirmed that all software requirements are developed\nas expected\n• Design validation testing which simulated the intended use to confirm that the end-to-end\nfunctionality of the SomnoMetry in conjunction with the AI/ML algorithms meets the\ndesign requirements\n• A cybersecurity and data security testing were conducted to verify that data and patient\nprotected health information security measures are thoroughly included in the design of\nthe software.\nNon-clinical Testing \nSafety and performance of the SomnoMetry have been verified and validated through software \ntesting and analytical validation. Software development and testing were performed in",
+      "extraction_method": "native",
+      "character_count": 2461
+    },
+    {
+      "block_id": "K221179-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "510(k) Summary Page 5 of 8 \naccordance with “IEC 62304:2006/A1:2015, Medical Device Software – Software life cycle \nprocesses”. Risk has been assessed in accordance with “ISO 14971:2007, Medical Devices – \nApplication of Risk Management to Medical Devices”. During software testing, all pre-defined \nacceptance criteria for the SomnoMetry were met and all software test cases passed. The same \nverification and validation methodology, risk assessment and acceptance criterion were used for \npredicate device. \nRetrospective Clinical Performance Testing – Clinical Evaluation \nThe clinical evaluation was provided in this submission in accordance with “Software as a \nMedical Device (SaMD): Clinical Evaluation - Guidance for Industry and Food and Drug \nAdministration Staff” (December 2017). The clinical evaluation included a total of 201 \npolysomnography (PSG) files obtained from 2 AASM accredited Sleep Testing Facilities in \nCalifornia as the ground truths to validate the SomnoMetry AI/ML algorithms. \nAn archived collection of retrospective diagnostic clinical PSG subject data was obtained from \nthe 2 AASM Accredited Sleep Testing Facilities and were verified to meet the specified disease \nspectrum, medical condition, medication, and demographic requirements. \nTo construct the final study sample from the archived collection population, a randomized \nsampling with proportionate allocation across each sleep apnea disease severity quantile \n(normative, mild, moderate, and severe sleep apnea) and sleep cycles was used to construct a \nvalid sample of N=201 adult subjects. Age of subjects from 20 to 84 was selected. No \nrace/ethnicity information was collected in either AASM Accredited Sleep Test Facility. \nSomnoMetry SaMD performance was evaluated across the following 2 experimental endpoints: \n• Endpoint 1: As SomnoMetry is intended to assist clinicians with the assessment of sleep\nquality, therefore device performance for sleep staging scoring must be validated.\n• Endpoint 2: As SomnoMetry is intended to assist clinicians with scoring sleep disordered\nrespiratory events used in diagnostic evaluation, therefore device performance for\ndiagnosing sleep apnea must be validated.\nTable 2 confusion matrix with conditional probabilities shows that the performance of \nSomnoMetry is non-inferior compared to AASM gold standard of manually scored PSG data. \nThe results confirm that clinical performance achieved by the SomnoMetry for sleep staging is \nsubstantially equivalent to the predicate device. \nTable 2: Confusion Matrix \nW 1 2 3 R \nSubjects # 167 167 167 167 167 \nEvent # 28789 5791 47881 12888 13733 \nW 92.7 \n(91.8, 93.6) \n29.8 \n(28.6, 31.1) \n3.0 \n(2.9, 3.1) \n0 \n(0, 0) \n4.6 \n(3.6, 5.6) \n1 0 \n(0, 0) \n47.1 \n(46.1, 48.8) \n0 \n(0, 0) \n0 \n(0, 0) \n0 \n(0, 0)",
+      "extraction_method": "native",
+      "character_count": 2781
+    },
+    {
+      "block_id": "K221179-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "P\nage 6 of 8 \n2 6.0 \n(5.9, 6.1) \n20.2 \n(19.0, 21.4) \n94.5 \n(93.5, 95.5) \n11.5 \n(10.5, 12.5) \n14.3 \n(13.4, 15.2) \n3 0 \n(0, 0) \n0 \n(0, 0) \n2.0 \n(2.0, 2.0) \n88.3 \n(87.4, 89.1) \n0 \n(0, 0) \nR 1.0 \n(1.0, 1.0) \n2.4 \n(1.4, 3.4) \n1.0 \n(1.0, 1.0) \n0 \n(0, 0) \n80.8 \n(79.8, 81,7) \nTrue Labels \nTable 3 shows the performance results in sleep apnea diagnostic agreement for endpoint 2 by \nSomnoMetry and the predicate device, SomnoMetry’s performances showed no statistically \nsignificant differences from the predicate device's performance. The results confirm that the \nclinical performance achieved by SomnoMetry for diagnosing sleep apnea is substantially \nequivalent to the predicate device. \nTable 3: Diagnosing Sleep Apnea Clinical Performance Comparison \nTable 3a - Younger group age under 65, N=96 subjects \n510(k) Summary \nSleep Apnea \nDiagnostic Agreement \nClinical Performance \nComparisons \nThe Subject Device SomnoMetry The Predicate Device \nEnsoSleep \nBootstrapped point-\nestimate of median \npercent agreement \n(%) with 95% \npercentile bootstrap \nconfident interval \n(R=1000 resamples) \nand likelihood ratio \npairs \nAll REM All REM \nAHI ≥ 5 AHI ≥ \n15 \nAHI ≥ \n30 AHI ≥ 5 AHI ≥ \n15 \nAHI ≥ \n30 AHI ≥ 5 AHI ≥ \n15 AHI ≥ 5 AHI ≥ \n15 \nSample Size (N) 167 167 167 167 167 167 72 72 72 72 \nPositive Agreement \n(PA) \n90.6% \n(90.2%, \n91.0%) \n89.1% \n(88.6%, \n89.6%) \n83.3% \n(82.2%, \n84.4%) \n85.6% \n(85.1%, \n86.1%) \n80.0% \n(79.4%, \n80.6%) \n78.8% \n(77.8%, \n79.8%) \n91% \n(82%, \n98%) \n95% \n(83%, \n100%) \n83% \n(72%, \n94%) \n79% \n(56%, \n94%) \nNegative Agreement \n(NA) \n92.2% \n(91.7%, \n92.7%) \n94.9% \n(94.6%, \n95.2%) \n97.5% \n(97.3%, \n97.7%) \n94.7% \n(94.4%, \n95.0%) \n94.7% \n(94.4%, \n95.1%) \n95.6% \n(95.4%, \n95.8%) \n76% \n(61%, \n90%) \n98% \n(94%, \n100%) \n89% \n(79%, \n97%) \n96% \n(90%, \n100%) \nOverall Agreement \n(OA) \n91.2% \n(90.9%, \n91.5%) \n92.8% \n(92.5%, \n93.1% \n95.6% \n(95.4%, \n95.8%) \n88.9% \n(88.5%, \n89.3%) \n88.9% \n(88.7%, \n89.3%) \n92.4% \n(92.1%, \n92.8%) \n85% \n(77%, \n92%) \n97% \n(93%, \n100%) \n86% \n(79%, \n93%) \n92% \n(85%, \n97%) \nLikelihood Ratio (+) 11.62 17.47 33.32 16.15 15.09 17.91 3.76 52.25 7.71 22.0 \nLikelihood Ratio (-) 0.10 0.11 0.17 0.15 0.21 0.22 0.12 0.05 0.19 0.22 \nPredicted Labels",
+      "extraction_method": "native",
+      "character_count": 2176
+    },
+    {
+      "block_id": "K221179-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "510(k) Summary Page 7 of 8 \nAll REM \nAHI ≥ 5 AHI ≥ 15 AHI ≥ 30 AHI ≥ 5 AHI ≥ 15 AHI ≥ 30 \nSample size 96 96 96 96 96 96 \nPositive \nAgreement (PA) 87.9% \n(87.3%, 88.5%) \n85.7% \n(84.7%, 86.7%) \n100% \n(100%, 100%) \n85.6% \n(85.1%, 86.3%) \n84.6% \n(83.9%, 85.3%) \n81.0% \n(79.8%, 82.2%) \nNegative \nAgreement \n(NA) \n88.1% \n(87.3%, 88.9%) \n91.7% \n(91.2%, 92.2%) \n97.8% \n(97.6%, 97.9%) \n93.9% \n(93.3%, 94.6%) \n93.0% \n(92.5%, 93.4%) \n97.3% \n(97.0%, 97.6%) \nOverall (OA) 88.0% \n(87.5%, 88.5%) \n89.9% \n(89.5%, 90.2%) \n98.0% \n(97.8%, 98.2%) \n89.1% \n(88.7%, 89.5%) \n89.8% \n(89.4%, 90.2%) \n94.1% \n(93.8%, 94.4%) \nLikelihood ratio \n(+) \n7.39 10.33 45.45 14.03 12.09 30.0 \nLikelihood ratio \n(-) \n0.14 0.16 0 0.15 0.17 0.20 \nT\nable 3b - Older group age over 65, N=71 subjects. \nAll REM \nAHI >= 5 AHI >= 15 AHI >= 30 AHI >= 5 AHI >= 15 AHI >= 30 \nSample size 71 71 71 71 71 71 \nPositive \nAgreement (PA) 93.1% \n(92.6%, 93.6%) \n91.4% \n(90.8%, 92.0%) \n73.3% \n(71.7%, 74.9%) \n85.2% \n(84.5%, 85.9%) \n75.0% \n(73.9%, 76.1%) \n74.9% \n(73.0%, 76.9%) \nNegative \nAgreement \n(NA) \n100% \n(100%, 100%) \n100% \n(100%, 100%) \n96.9% \n(96.6%, 97.2%) \n94.4% \n(93.6%, 95.2%) \n97.2% \n(96.8%, 97.6%) \n93.3% \n(92.8%, 93.8%) \nOverall (OA) 95.3% \n(95.0%, 95.6%) \n96.6% \n(96.4%, 96.8%) \n93.1% \n(92.8%, 93.4%) \n88.4% \n(88.0%, 88.8%) \n88.6% \n(88.2%, 88.9%) \n90.0% \n(89.5%, 90.5%) \nLikelihood ratio \n(+) +∞ +∞ 23.65 15.21 26.79 11.19 \nLikelihood ratio \n(-) \n0 0 0.28 0.16 0.26 0.27 \nT\nable 3a and Table 3b show that there is no significant difference between the two subgroups. \nThe subgroup performance matrixes demonstrated the generalizability of the SomnoMetry AI \nalgorithm. \nIn\nthe retrospective diagnostic clinical study, the final study results and statistical analysis were \nreported for each endpoint. The subject SomnoMetry SaMD performance showed no statistically \nsignificant differences from the predicate device performance. The results confirm that the \nclinical performance delivered by SomnoMetry is substantially equivalent to the predicate device \nacross all endpoints evaluated. \nThe results of the software and performance testing validate that the SomnoMetry meets its \nrequirements, performs as intended, and is as safe and effective as the predicate device. No new \nor different questions of safety or effectiveness have been raised.",
+      "extraction_method": "native",
+      "character_count": 2307
+    },
+    {
+      "block_id": "K221179-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Paul Chen:",
+      "text": "510(k) Summary Page 8 of 8 \n8. Conclusion\nThe SomnoMetry is as safe and effective as the predicate device. The SomnoMetry has the same \nintended use and the indications for use fall within the scope of that for the predicate device. \nMany of the technological characteristics are the same for the subject and predicate devices. Any \ndifferences in technological characteristics between the subject and predicate devices have been \naddressed through software verification/validation testing and performance testing and do not \nraise any new or different questions of safety or effectiveness. \nBased upon the results of the software verification and validation testing, and a clinical \nevaluation process consisting of valid clinical association identification, analytical validation, \nand clinical validation, it was determined the SomnoMetry was substantially equivalent to the \npredicate device.",
+      "extraction_method": "native",
+      "character_count": 896
+    }
+  ],
+  "claims": []
+}

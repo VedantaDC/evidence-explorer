@@ -1,0 +1,595 @@
+{
+  "document": {
+    "k_number": "K241288",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "Noxturnal Web",
+    "applicant": "Nox Medical Ehf",
+    "decision_date": "2024-12-23",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K241288.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K241288",
+    "sha256": "3f3ecbb5be7490ed9685323ba4b5e4662a3fe0f1aa31c9b01075a4d8b57cd083",
+    "page_count": 14,
+    "native_pages": 13,
+    "ocr_pages": 1,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 07 . 0 4 \nSilver Spring, MD 20993 \nwww.fda.gov \n\n\n\n\n\n\n\n\nDecember 23, 2024 \n\nNox Medical ehf \n℅ Hrishikesh Gadagkar \nSenior Principal \nRQM+ \n2790 Mosside Blvd #800 \nMonroeville, Pennsylvania 15146 \n\n\nRe: K241288 \nTrade/Device Name: Noxturnal Web \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLV \nDated: May 7, 2024 \nReceived: May 7, 2024 \n\nDear Hrishikesh Gadagkar: \n\nWe have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "character_count": 2249
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K241288 - Hrishikesh Gadagkar Page \n\n2 \n\nAdditional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\" \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download). \n\nYour device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part \n820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming \nproduct; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a \nchange requires premarket review, the QS regulation requires device manufacturers to review and approve \nchanges to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and \napprovals in the device master record (21 CFR 820.181). \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart \nA) for combination products; and, if applicable, the electronic product radiation control provisions (Sections \n531-542 of the Act); 21 CFR Parts 1000-1050. \n\nAll medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system. \n\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \n\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-",
+      "character_count": 3965
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "K241288 - Hrishikesh Gadagkar Page \n\n3 \nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). \n\nSincerely, \n\n\n\n\n\n\nfor \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health \n\nEnclosure \n\n\nPatrick \nAntkowiak -S",
+      "character_count": 542
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "DEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120\nFood and Drug Administration Expiration Date: 07/31/2026\n\nIndications for Use See PRA Statement below.\n\nSubmission Number (if known)\n\nK241288\n\nDevice Name\n\nNoxturnal Web\n\nIndications for Use (Describe)\n\nNoxturnal Web is intended to be used for the diagnostic evaluation by a physician to assess sleep\nquality and as an aid for the diagnosis of sleep and respiratory-related sleep disorders in adults\nonly.\n\nNoxturnal Web is a software-only medical device to be used to analyze physiological signals and\nmanually score sleep study results, including the staging of sleep, AHI, and detection of sleep\ndisordered breathing events including obstructive apneas.\n\nIt is intended to be used under the supervision of a clinician in a clinical environment.\n\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) [| Over-The-Counter Use (21 CFR 801 Subpart C)\n\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\n\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\n\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\n\nDepartment of Health and Human Services\nFood and Drug Administration\n\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”",
+      "character_count": 1894
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "TEMP-0140 Controlled Document Template 04 Page 1 of 10 Company \nCopyright © 2023 Nox Medical ehf \n510(k) Summary\nNoxturnal Web (K241288) – \nTraditional 510(k)",
+      "character_count": 158
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 2 of 10 \nCopyright © 2023 Nox Medical ehf \n510(k) Summary \nAPPLICANT INFORMATION \nCompany: Nox Medical ehf \nKatrinartuni 2, \nIS - 105 Reykjavik, Iceland \nTelephone: +354 570 7170 \nEstablishment Registration Number: 3007389703 \nContact Person: Kolbrun E Ottosdottir \nChief Compliance Officer \nKatrinartuni 2, \nIS-105 Reykjavik, \nIceland \nOFFICIAL \nCORRESPONDENT/CONSULTANT \nINFORMATION \nDr. Hrishikesh Gadagkar, \nSr. Principal \nRQM+ \n2790 Mosside Blvd #800, Monroeville, \nPA 15146 \nUnited States \nTelephone: +1 (410) 245-0501 \nPREPARATION DATE November 21, 2024 \nDEVICE INFORMATION \nDevice Proprietary Name/Trade Name: Noxturnal Web \nDevice Classification Name: Standard Polysomnograph with \nElectroencephalograph \nRegulation Number: 21 CFR 882.1400 \nClassification: Class II \nClassification Product Code: OLV \n510k Review Panel: Neurology \nPREDICATE DEVICE IDENTIFICATION \nSubstantial equivalence is claimed to: \nPrimary Predicate Device Somnomedics GmbH, SOMNOscreen plus, K201054 \nAdditional Predicate Device Neumetry Medical Inc, SomnoMetry, K221179 \nReference Device Nox Medical, Nox Sleep System, K192469 \nAll predicate and reference devices have not been subject to a design-related recall.",
+      "character_count": 1349
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 3 of 10 \nCopyright © 2023 Nox Medical ehf \nDEVICE DESCRIPTION \nNoxturnal Web is a web-based software that can be utilized to screen various sleep and respiratory-\nrelated sleep disorders. The users of Noxturnal Web are medical professionals who have received \ntraining in the areas of hospital/clinical procedures, physiological monitoring of human subjects, or sleep \ndisorder investigation. Users can input a sleep study recording stored on the cloud (electronic medical \nrecord repository) using their established credentials. Once the sleep study data has been retrieved, the \nNoxturnal Web software can be used to display, manually analyze, generate reports and print the pre-\nrecorded physiological signals. \nNoxturnal Web is used to read sleep study data for the display, analysis, summarization, and retrieval of \nphysiological parameters recorded during sleep and awake. Noxturnal Web facilitates a user to review or \nmanually score a sleep study either before the initiation of treatment or during the treatment follow-up \nfor various sleep and respiratory-related sleep disorders. \nNoxturnal Web presents information from the input sleep study data in an organized layout. Multiple \nvisualization layouts (e.g., Study Overview, Respiratory Signal Sheet, etc.) are available to allow the \nusers to optimize the visualization of key data components. The reports generated by Noxturnal Web \nallow the inclusion of custom user comments, and these reports can then be viewed on the screen \nand/or printed. \nI\nNTENDED USE \nNoxturnal Web is indicated for use in the displaying, analysis and printing of pre-recorded biophysical \nparameters acquired during sleep for the purpose of assisting in the diagnosis of sleep and respiratory-\nrelated sleep disorders. \nNoxturnal Web is intended to be used as an aid for the diagnosis of sleep and respiratory-related sleep \ndisorders in adults only. \nIN\nDICATIONS FOR USE \nNoxturnal Web is intended to be used for the diagnostic evaluation by a physician to assess sleep \nquality and as an aid for the diagnosis of sleep and respiratory-related sleep disorders in adults only. \nNoxturnal Web is a software-only medical device to be used to analyze physiological signals and \nmanually score sleep study results, including the staging of sleep, AHI, and detection of sleep \ndisordered breathing events including obstructive apneas. \nIt is intended to be used under the supervision of a clinician in a clinical environment. \nC\nOMPARISON OF TECHNOLOGICAL CHARACTERISTICS \nNox Medical believes that the Noxturnal Web is substantially equivalent to the predicate devices \nSOMNOscreen plus (K201054) and SomnoMetry (K221179) based on the information summarized here: \n• T\nhe subject device has the same intended use as the predicate devices cleared in K201054 and\nK221179, i.e., a software intended to analyze pre-recorded physiological data acquired during\nsleep and derive actionable clinical insights.\n• The subject device and the predicates are intended to assess sleep quality and as an aid for\nthe diagnosis of sleep and respiratory-related sleep disorders by supporting the display,\nanalysis, summary, and retrieval of physiological parameters already recorded by sleep\nrecording devices/systems. The devices use the same basic data inputs to be analyzed as part\nof the manual scoring process including sleep staging and marking of respiratory (e.g. apnea\nand hypopnea) and sleep events (e.g. arousal and leg movements) and do calculate the\nAmerican Academy of Sleep Medicine (AASM) standardized indices (e.g. AHI) and support\nreport generation.\n• The primary predicate device, SOMNOscreen plus (K201054), is a portable physiological signal\nrecording system supporting manual scoring of sleep studies. The subject device, Noxturnal\nWeb (K241288), is Software as a Medical Device (SaMD) and does not include the functionality\nof recording physiological signals. The substantial equivalence is being drawn to the software\nportion of SOMNOscreen plus, DOMINO, which is used as a tool to display, analyze, and print\nthe physiological signals recorded by the recording device. Both Noxturnal Web and DOMINO",
+      "character_count": 4299
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 4 of 10 \nCopyright © 2023 Nox Medical ehf \nprovide a manual scoring workflow for interpreting data recorded by systems (e.g., PSG \nsignals). Both systems rely on manual scoring for sleep stages including sleep stages W, \nN1/N2/N3, and REM, and sleep and respiratory events. Regarding the data inputs and outputs, \nboth the subject device and the primary predicate device have similarities in the types of \nphysiological signals processed, such as EEG, EOG, EMG, ECG, oxygen saturation, airflow and \nrespiratory effort, and both systems support calculation of AASM standardized indices and \ngenerate sleep study reports. Based on the detailed comparison of the workflow, appearance, \nfunction, indexes calculated and reporting, it has been demonstrated that the technological \ncharacteristics relating to the manual annotation/scoring process of sleep study data may be \nconsidered the same or substantially equivalent for the subject device and the primary \npredicate (K201054). \n• The subject device and additional predicate (K221179) are Web-based software operating in\nthe cloud. Both the subject device and additional predicate device do not require installation on\nthe user’s computer.\n• The Nox Sleep System (K192469) has been selected as a reference device to support the\ntechnology and scientific methods of the subject device. The backend implementation for the\nsubject device is identical to the corresponding qualitative and quantitative functionality\nimplemented in the reference device. Nox Medical has implemented cybersecurity controls for\nNoxturnal Web and Nox Sleep System to assure the medical device cybersecurity and to\nmaintain medical device functionality, safety, and effectiveness. The assessment was\nperformed in accordance with FDA’s Guidance “Cybersecurity for Networked Medical Devices\nContaining Off-the-Shelf (OTS) Software” and “Cybersecurity in Medical Devices: Quality\nSystem Considerations and Content of Premarket Submissions”.",
+      "character_count": 2115
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 5 of 10 \nCopyright © 2023 Nox Medical ehf \nTrade/Device Name \nSubject Device: \nNoxturnal Web \n(K241288) \nPrimary Predicate Device: \nSOMNOscreen plus \n(K201054) \nAdditional Predicate \nDevice: \nSomnoMetry \n(K221179) \nReference Device: \nNox Sleep System \n(K192469) \nComparison of Subject, \nPredicates, and Reference \nDevice \nDescription \nManufacturer Nox Medical Somnomedics GmbH Neumetry Medical, Inc. Nox Medical N/A \n510(k) Number K241288 K201054 K221179 K192469 N/A \nRegulation Description 21 CFR 882.1400 21 CFR 882.1400 21 CFR 882.1400 21 CFR 882.1400 Same. \nRegulation Name Electroencephalograph Electroencephalograph Electroencephalograph Electroencephalograph Same. \nRegulatory Class Class II Class II Class II Class II Same. \nProduct Code(s) OLV Main: OLV; Sub: MNR OLZ Main: OLZ; Sub: KZM Same as primary predicate. \nComparison of Intended and Indications of Use \nIntended Use \nNoxturnal Web is indicated for \nu\nse in the displaying, analysis \nand printing of pre-recorded \nbiophysical parameters \nacquired during sleep for the \npurpose of assisting in the \ndiagnosis of sleep and \nrespiratory-related sleep \ndisorders. \nN\noxturnal Web is intended to \nbe used as an aid for the \ndiagnosis of sleep and \nrespiratory-related sleep \ndisorders in adults only. \nT\nhe SOMNOscreen® plus is \nindicated for use in the \nrecording, displaying, \nmonitoring, printing, and \nstorage of biophysical \nparameters for the purpose of \nassisting in the diagnosis of \nNeurological and Sleep \nDisorders. The device is a non-\nlife-supporting physiological \nsignal recording device \nintended to be used for studies \ntesting adults and \nchildren/adolescents suspected \nof having sleep-related \nbreathing disorders. \nT\nhis device is NOT designed to \nbe used in a Life Support \nsituation. \nT\nhis device is not designed for \nuse on patients with cardiac \npacemakers. \nA\nnalyze pre-recorded \nphysiological data acquired \nduring sleep and derive \nactionable clinical insights. \nThe Nox Sleep System is used \nas an aid in the diagnosis of \ndifferent sleep disorders and \nfor the assessment of sleep. \nThe Nox Sleep System is used \nto measure, record, display, \norganize, analyze, summarize, \nand retrieve physiological \nparameters during sleep and \nwake. \nThe Nox Sleep System allows \nthe user to decide on the \ncomplexity of the study by \nvarying the number and types \nof physiological signals \nmeasured. \nThe Nox Sleep System allows \nfor generation of user/pre-\ndefined reports based on \nsubject´s data. \nSame. \nN\noxturnal Web, as well as the \npredicate devices, is indicated \nfor use in the displaying, \nanalysis and printing of pre-\nrecorded biophysical \nparameters for the purpose of \nassisting in the diagnosis of \nsleep and respiratory-related \nsleep disorders. \nT\nhe intended population of the \nsubject device, Noxturnal Web \nis limited to adults only, \nthereby aligning with the \nindications for use of the \nidentified primary predicate \ndevice, SOMNOscreen plus \n(K201054) and additional \npredicate device, SomnoMetry \n(K221179).",
+      "character_count": 3169
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 6 of 10 \nCopyright © 2023 Nox Medical ehf \nTrade/Device Name \nSubject Device: \nNoxturnal Web \n(K241288) \nPrimary Predicate Device: \nSOMNOscreen plus \n(K201054) \nAdditional Predicate \nDevice: \nSomnoMetry \n(K221179) \nReference Device: \nNox Sleep System \n(K192469) \nComparison of Subject, \nPredicates, and Reference \nDevice \nThe user of the Nox Sleep \nSystem are medical \nprofessionals who have \nreceived training in the areas \nof hospital/clinical procedures, \nphysiological monitoring of \nhuman subjects, or sleep \ndisorder investigation. \nThe intended environments are \nhospitals, institutions, sleep \ncenters, sleep clinics, or other \ntest environments, including \npatient’s home. \nIndications for Use \nNoxturnal Web is intended to \nbe\nused for the diagnostic \nevaluation by a physician to \nassess sleep quality and as an \naid for the diagnosis of sleep \nand respiratory-related sleep \ndisorders in adults only. \nN\noxturnal Web is a software-\nonly medical device to be used \nto analyze physiological signals \nand manually score sleep study \nresults, including the staging of \nsleep, AHI, and detection of \nsleep disordered breathing \nevents including obstructive \napneas. \nI\nt is intended to be used under \nthe supervision of a clinician in \na clinical environment. \nT\nhe SOMNOscreen® plus is a \nnon-life-supporting portable \nphysiological signal recording \ndevice intended to be used for \ntesting adults and children (age \n2 to 12 years)/adolescents (age \n12 and above) suspected of \nhaving sleep-related breathing \ndisorders. \nSomnoMetry is intended for \nuse for diagnostic evaluation \nby a physician to assess sleep \nquality and as an aid for the \ndiagnosis of sleep and \nrespiratory-related sleep \ndisorders in adults only. \nSomnoMetry plus is a \nsoftware-only medical device \nto be used to analyze \nphysiological signals and \nautomatically score sleep study \nresults, including the staging of \nsleep, AHI, and detection of \nsleep-disordered breathing \nevents including obstructive \napneas. It is intended to be \nused under the supervision of \na clinician in a clinical \nenvironment. All automatically \nscored events are subject to \nverification by a qualified \nclinician. \nThe Nox Sleep System is used \nas an aid in the diagnosis of \ndifferent sleep disorders and \nfor the assessment of sleep. \nT\nhe Nox Sleep System is used \nto measure, record, display, \norganize, analyze, summarize, \nand retrieve physiological \nparameters during sleep and \nwake. \nT\nhe Nox Sleep System allows \nthe user to decide on the \ncomplexity of the study by \nvarying the number and types \nof physiological signals \nmeasured. \nThe Nox Sleep System allows \nfor generation of user/pre-\nThe primary predicate device \nincludes hardware that is used \nto record the physiological \nsignals. The subject device \ndoes not contain any hardware \n/ recording function. This \ndifference does not raise any \nconcerns of safety or \neffectiveness. \nThe primary predicate device \ncontains software, DOMINO, \nthat is used for display, \nanalysis, and printing of the \nphysiological signals recorded \nby the SOMNOscreen plus. \nSame target patient population. \nThe intended population of the \nsubject device, Noxturnal Web, \nis limited to adults only, \nthereby aligning with the \nindications for use of the",
+      "character_count": 3420
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 7 of 10 \nCopyright © 2023 Nox Medical ehf \nTrade/Device Name \nSubject Device: \nNoxturnal Web \n(K241288) \nPrimary Predicate Device: \nSOMNOscreen plus \n(K201054) \nAdditional Predicate \nDevice: \nSomnoMetry \n(K221179) \nReference Device: \nNox Sleep System \n(K192469) \nComparison of Subject, \nPredicates, and Reference \nDevice \ndefined reports based on \nsubject´s data. \nThe user of the Nox Sleep \nSystem are medical \nprofessionals who have \nreceived training in the areas \nof hospital/clinical procedures, \nphysiological monitoring of \nhuman subjects, or sleep \ndisorder investigation. \nThe intended environments are \nhospitals, institutions, sleep \ncenters, sleep clinics, or other \ntest environments, including \npatient’s home. \nidentified primary predicate \ndevice, SOMNOscreen plus \n(K201054) and additional \npredicate device, SomnoMetry \n(K221179). \nSame intended use. \nT\nhe subject and predicate \ndevices are intended to be \nused as an aid for the \ndiagnosis of sleep and \nrespiratory-related sleep \ndisorders. \nEnvironment of Use Clinical Environment C linical Environment Clinical Environment Clinical Environment / Home \nEnvironment Same. \nTarget Users Medical Professionals Medical Professionals Medical Professionals Medical Professionals Same. \nTarget Patient \nPopulation A dults only General Population (adults and \nchildren/adolescents) Adults only General Population (adults and \nchildren/adolescents) Same. \nType of Use Prescription Use only Prescription Use only Prescription Use only Prescription Use only Same. \nComparison of Technological Characteristics \nClinical Criteria: \nAid/Assist in the \ndiagnosis of sleep and \nrespiratory-related \nsleep disorders \nYes Yes Yes Yes Same. \nArousal Scoring Yes Yes Yes Yes Same. \nRespiratory Events \nScoring Yes Yes Yes Yes Same. \nLeg Movement Events \nScoring Yes Yes Yes Yes Same. \nSleep Study Scoring \nMethod Manual Manual Automatic and Manual Automatic and Manual Same.",
+      "character_count": 2079
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 8 of 10 \nCopyright © 2023 Nox Medical ehf \nTrade/Device Name \nSubject Device: \nNoxturnal Web \n(K241288) \nPrimary Predicate Device: \nSOMNOscreen plus \n(K201054) \nAdditional Predicate \nDevice: \nSomnoMetry \n(K221179) \nReference Device: \nNox Sleep System \n(K192469) \nComparison of Subject, \nPredicates, and Reference \nDevice \nThe subject device provides \ntools for manual scoring of \nsleep parameters, similar to the \nsoftware features of DOMINO \nin the primary predicate device, \nSOMNOscreen plus. \nSleep Stage Scoring \n(Stage W, Stages \nN1/N2/N3, Stage R) \nYes Yes Yes Yes Same. \nReport Generation Yes Yes Yes Yes Same. \nCalculation of AASM \nstandardized indices Yes Yes Yes Yes Same. \nData inputs \nEEG Yes Yes Yes Yes Same. \nEOG Yes Yes Yes Yes Same. \nEMG Yes Yes Yes Yes Same. \nECG Yes Yes Yes Yes Same. \nChest/Abdomen \nmovements / \nRespiratory Effort \nYes Yes Yes Yes Same. \nAirflow Yes Yes Yes Yes Same. \nOxygen Saturation Yes Yes Yes Yes Same. \nBody Position / Activity Yes Yes Information not available Yes Same. \nDevice Characteristics \nHardware Components Not included I ncluded Not included Included \nSame as the additional \npredicate device; Noxturnal \nWeb and SomnoMetry are \nsoftware-only devices. \nSoftware Type Web-ba sed Computer program Web-based Computer program \nSame as the additional \npredicate; Noxturnal Web and \nSomnoMetry are web-based \nand, therefore, installation is \nnot required. \nPhysical Characteristics \nWeb-based software operating \nin the cloud with Windows or \nMac OS \nMS Windows-based application \nWeb-based software operating \nin the cloud with Windows, \nLinux, or Mac OS \nMS Windows-based application \nSimilar to the additional \npredicate; Noxturnal Web and \nSomnoMetry are web-based",
+      "character_count": 1871
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 9 of 10 \nCopyright © 2023 Nox Medical ehf \nTrade/Device Name \nSubject Device: \nNoxturnal Web \n(K241288) \nPrimary Predicate Device: \nSOMNOscreen plus \n(K201054) \nAdditional Predicate \nDevice: \nSomnoMetry \n(K221179) \nReference Device: \nNox Sleep System \n(K192469) \nComparison of Subject, \nPredicates, and Reference \nDevice \nand, therefore, installation is \nnot required. \nOther: \nPerformance Testing \n•IEC 62304 Edition 1.1 2015-\n06 CONSOLIDATED VERSION\n• ANSI AAMI ISO 14971:2019\n• ANSI AAMI SW96:2023\n•IEC 82304-1 Edition 1.0\n2016-10 \n•ISO 20417 First edition 2021-\n04 Corrected version 2021-12\n•ISO IEC 29147 First edition\n2014-02-15 \n•AAMI TIR57:2016\n•ANSI AAMI IEC 62366-\n1:2015+AMD1:2020\n(Consolidated Text) \n• IEC/ANSI 60601-1:2005\n• EN 60601-1-2:2015\n• IEC 62366-1:2015\n•IEC 62304:2006+A1:2015\n•ISO 14971:2007\n• IEC 62304:2006\n• ISO 14971:2007\nThe subject device is Software \nas a Medical Device and, as \nsuch, relevant standards have \nbeen applied. This difference \ndoes not raise any concerns \nrelating to safety or \neffectiveness. \nStandard of Scoring \nManual \nThe American Academy of \nSleep Medicine (AASM) Manual \nfor the Scoring of Sleep and \nAssociated Events \nThe American Academy of \nSleep Medicine (AASM) Manual \nfor the Scoring of Sleep and \nAssociated Events \nThe American Academy of \nSleep Medicine (AASM) Manual \nfor the Scoring of Sleep and \nAssociated Events \nThe American Academy of \nSleep Medicine (AASM) Manual \nfor the Scoring of Sleep and \nAssociated Events \nSame.",
+      "character_count": 1644
+    },
+    {
+      "page": 14,
+      "extraction_method": "native",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 10 of 10\nCopyright © 2023 Nox Medical ehf \nSUMMARY OF NON-CLINICAL TESTING \nThe FDA-recognized standards were applied throughout the design process of Noxturnal Web. \nVerification and Validation testing of all requirement specifications defined for Noxturnal Web was \nconducted and passed according to the device’s intended use to ensure product safety, effectiveness, \nand reliability. \nS\noftware verification and validation testing was performed per IEC 62304 Edition 1.1 2015-06 \nCONSOLIDATED VERSION Medical device software – Software life cycle processes to demonstrate \nsafety and performance based on current industry standards. \nT\nhe substantial equivalence between Noxturnal Web (K241288) and the software application, DOMINO, \nof the primary predicate (K201054) has been demonstrated through a comparative analysis concluding \nthat both software applications support the same main functions of selecting and opening an existing \nsleep study, displaying and navigating the signals/sleep study data, manually annotating/scoring the \nsleep study data by adding applicable events/markers on top of the signal traces, calculating the AASM \nstandardized indexes, providing trend/summary overviews, creating interpretation reports, and \nsaving/storing the scored recording. The software applications both visualize the signals and events in \nessentially the same way, allow the same editing to be made on the scored events, provide the same \nbasic information for the scorer and physician in the form of overviews and indexes and report the basic \nAASM standardized sleep indexes/parameters into editable reports that aid the physician in the sleep \nstudy data interpretation and diagnosis. \nS\nUMMARY OF CLINICAL TESTING \nClinical data were not relied upon for a determination of substantial equivalence. \nC\nONCLUSION \nNoxturnal Web (K241288) is substantially equivalent to the predicate devices , SOMNOscreen plus \n(K201054) and SomnoMetry (K221179). Noxturnal Web has the same intended use and the indications \nfor use fall within the scope of that for the predicate devices. Many of the technological characteristics \nare the same for the subject and predicate devices. The differences in technological char acteristics \nbetween the subject and predicate devices have been addressed through software verification/validation \ntesting and performance testing. The results of the comparative analysis , software and performance \ntesting validate that Noxturnal Web meets its pre-specified requirements, performs as intended, and is as \nsafe and effective as the predicate devices. No new concerns or questions about safety or effectiveness \nhave been raised. \nBased on the methods and results of comparative analysis, software verification and validation testing, it \nis determined that Noxturnal Web is substantially equivalent to the predicate devices and is safe and \neffective for its intended use in the adult patient population.",
+      "character_count": 3090
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K241288-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 07 . 0 4 \nSilver Spring, MD 20993 \nwww.fda.gov",
+      "extraction_method": "native",
+      "character_count": 130
+    },
+    {
+      "block_id": "K241288-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "December 23, 2024",
+      "extraction_method": "native",
+      "character_count": 17
+    },
+    {
+      "block_id": "K241288-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Nox Medical ehf \n℅ Hrishikesh Gadagkar \nSenior Principal \nRQM+ \n2790 Mosside Blvd #800 \nMonroeville, Pennsylvania 15146",
+      "extraction_method": "native",
+      "character_count": 119
+    },
+    {
+      "block_id": "K241288-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K241288 \nTrade/Device Name: Noxturnal Web \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLV \nDated: May 7, 2024 \nReceived: May 7, 2024",
+      "extraction_method": "native",
+      "character_count": 211
+    },
+    {
+      "block_id": "K241288-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "Dear Hrishikesh Gadagkar:",
+      "extraction_method": "native",
+      "character_count": 25
+    },
+    {
+      "block_id": "K241288-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "We have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "native",
+      "character_count": 1351
+    },
+    {
+      "block_id": "K241288-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K241288-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "K241288 - Hrishikesh Gadagkar Page",
+      "extraction_method": "native",
+      "character_count": 34
+    },
+    {
+      "block_id": "K241288-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "2",
+      "extraction_method": "native",
+      "character_count": 1
+    },
+    {
+      "block_id": "K241288-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "Additional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\" \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download).",
+      "extraction_method": "native",
+      "character_count": 377
+    },
+    {
+      "block_id": "K241288-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part \n820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming \nproduct; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a \nchange requires premarket review, the QS regulation requires device manufacturers to review and approve \nchanges to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and \napprovals in the device master record (21 CFR 820.181).",
+      "extraction_method": "native",
+      "character_count": 579
+    },
+    {
+      "block_id": "K241288-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart \nA) for combination products; and, if applicable, the electronic product radiation control provisions (Sections \n531-542 of the Act); 21 CFR Parts 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 1100
+    },
+    {
+      "block_id": "K241288-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "All medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.",
+      "extraction_method": "native",
+      "character_count": 920
+    },
+    {
+      "block_id": "K241288-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems.",
+      "extraction_method": "native",
+      "character_count": 351
+    },
+    {
+      "block_id": "K241288-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "For comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-",
+      "extraction_method": "native",
+      "character_count": 582
+    },
+    {
+      "block_id": "K241288-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "K241288 - Hrishikesh Gadagkar Page",
+      "extraction_method": "native",
+      "character_count": 34
+    },
+    {
+      "block_id": "K241288-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "3 \nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "extraction_method": "native",
+      "character_count": 180
+    },
+    {
+      "block_id": "K241288-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "Sincerely,",
+      "extraction_method": "native",
+      "character_count": 10
+    },
+    {
+      "block_id": "K241288-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "for \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health",
+      "extraction_method": "native",
+      "character_count": 267
+    },
+    {
+      "block_id": "K241288-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "Enclosure",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K241288-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "Patrick \nAntkowiak -S",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K241288-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Hrishikesh Gadagkar:",
+      "text": "DEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120\nFood and Drug Administration Expiration Date: 07/31/2026",
+      "extraction_method": "ocr",
+      "character_count": 129
+    },
+    {
+      "block_id": "K241288-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "Indications for Use See PRA Statement below.",
+      "text": "Indications for Use See PRA Statement below.",
+      "extraction_method": "ocr",
+      "character_count": 44
+    },
+    {
+      "block_id": "K241288-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Indications for Use See PRA Statement below.",
+      "text": "Submission Number (if known)",
+      "extraction_method": "ocr",
+      "character_count": 28
+    },
+    {
+      "block_id": "K241288-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "K241288",
+      "text": "K241288",
+      "extraction_method": "ocr",
+      "character_count": 7
+    },
+    {
+      "block_id": "K241288-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "K241288",
+      "text": "Device Name",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K241288-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "K241288",
+      "text": "Noxturnal Web",
+      "extraction_method": "ocr",
+      "character_count": 13
+    },
+    {
+      "block_id": "K241288-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "heading",
+      "section": "Indications for Use (Describe)",
+      "text": "Indications for Use (Describe)",
+      "extraction_method": "ocr",
+      "character_count": 30
+    },
+    {
+      "block_id": "K241288-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "Noxturnal Web is intended to be used for the diagnostic evaluation by a physician to assess sleep\nquality and as an aid for the diagnosis of sleep and respiratory-related sleep disorders in adults\nonly.",
+      "extraction_method": "ocr",
+      "character_count": 202
+    },
+    {
+      "block_id": "K241288-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "Noxturnal Web is a software-only medical device to be used to analyze physiological signals and\nmanually score sleep study results, including the staging of sleep, AHI, and detection of sleep\ndisordered breathing events including obstructive apneas.",
+      "extraction_method": "ocr",
+      "character_count": 249
+    },
+    {
+      "block_id": "K241288-P004-B010",
+      "page": 4,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "It is intended to be used under the supervision of a clinician in a clinical environment.",
+      "extraction_method": "ocr",
+      "character_count": 89
+    },
+    {
+      "block_id": "K241288-P004-B011",
+      "page": 4,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "Type of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) [| Over-The-Counter Use (21 CFR 801 Subpart C)",
+      "extraction_method": "ocr",
+      "character_count": 139
+    },
+    {
+      "block_id": "K241288-P004-B012",
+      "page": 4,
+      "ordinal": 12,
+      "type": "heading",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K241288-P004-B013",
+      "page": 4,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "This section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*",
+      "extraction_method": "ocr",
+      "character_count": 153
+    },
+    {
+      "block_id": "K241288-P004-B014",
+      "page": 4,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "The burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:",
+      "extraction_method": "ocr",
+      "character_count": 410
+    },
+    {
+      "block_id": "K241288-P004-B015",
+      "page": 4,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Department of Health and Human Services\nFood and Drug Administration",
+      "extraction_method": "ocr",
+      "character_count": 68
+    },
+    {
+      "block_id": "K241288-P004-B016",
+      "page": 4,
+      "ordinal": 16,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Office of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov",
+      "extraction_method": "ocr",
+      "character_count": 92
+    },
+    {
+      "block_id": "K241288-P004-B017",
+      "page": 4,
+      "ordinal": 17,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "ocr",
+      "character_count": 160
+    },
+    {
+      "block_id": "K241288-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "TEMP-0140 Controlled Document Template 04 Page 1 of 10 Company \nCopyright © 2023 Nox Medical ehf \n510(k) Summary\nNoxturnal Web (K241288) – \nTraditional 510(k)",
+      "extraction_method": "native",
+      "character_count": 158
+    },
+    {
+      "block_id": "K241288-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 2 of 10 \nCopyright © 2023 Nox Medical ehf \n510(k) Summary \nAPPLICANT INFORMATION \nCompany: Nox Medical ehf \nKatrinartuni 2, \nIS - 105 Reykjavik, Iceland \nTelephone: +354 570 7170 \nEstablishment Registration Number: 3007389703 \nContact Person: Kolbrun E Ottosdottir \nChief Compliance Officer \nKatrinartuni 2, \nIS-105 Reykjavik, \nIceland \nOFFICIAL \nCORRESPONDENT/CONSULTANT \nINFORMATION \nDr. Hrishikesh Gadagkar, \nSr. Principal \nRQM+ \n2790 Mosside Blvd #800, Monroeville, \nPA 15146 \nUnited States \nTelephone: +1 (410) 245-0501 \nPREPARATION DATE November 21, 2024 \nDEVICE INFORMATION \nDevice Proprietary Name/Trade Name: Noxturnal Web \nDevice Classification Name: Standard Polysomnograph with \nElectroencephalograph \nRegulation Number: 21 CFR 882.1400 \nClassification: Class II \nClassification Product Code: OLV \n510k Review Panel: Neurology \nPREDICATE DEVICE IDENTIFICATION \nSubstantial equivalence is claimed to: \nPrimary Predicate Device Somnomedics GmbH, SOMNOscreen plus, K201054 \nAdditional Predicate Device Neumetry Medical Inc, SomnoMetry, K221179 \nReference Device Nox Medical, Nox Sleep System, K192469 \nAll predicate and reference devices have not been subject to a design-related recall.",
+      "extraction_method": "native",
+      "character_count": 1349
+    },
+    {
+      "block_id": "K241288-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 3 of 10 \nCopyright © 2023 Nox Medical ehf \nDEVICE DESCRIPTION \nNoxturnal Web is a web-based software that can be utilized to screen various sleep and respiratory-\nrelated sleep disorders. The users of Noxturnal Web are medical professionals who have received \ntraining in the areas of hospital/clinical procedures, physiological monitoring of human subjects, or sleep \ndisorder investigation. Users can input a sleep study recording stored on the cloud (electronic medical \nrecord repository) using their established credentials. Once the sleep study data has been retrieved, the \nNoxturnal Web software can be used to display, manually analyze, generate reports and print the pre-\nrecorded physiological signals. \nNoxturnal Web is used to read sleep study data for the display, analysis, summarization, and retrieval of \nphysiological parameters recorded during sleep and awake. Noxturnal Web facilitates a user to review or \nmanually score a sleep study either before the initiation of treatment or during the treatment follow-up \nfor various sleep and respiratory-related sleep disorders. \nNoxturnal Web presents information from the input sleep study data in an organized layout. Multiple \nvisualization layouts (e.g., Study Overview, Respiratory Signal Sheet, etc.) are available to allow the \nusers to optimize the visualization of key data components. The reports generated by Noxturnal Web \nallow the inclusion of custom user comments, and these reports can then be viewed on the screen \nand/or printed. \nI\nNTENDED USE \nNoxturnal Web is indicated for use in the displaying, analysis and printing of pre-recorded biophysical \nparameters acquired during sleep for the purpose of assisting in the diagnosis of sleep and respiratory-\nrelated sleep disorders. \nNoxturnal Web is intended to be used as an aid for the diagnosis of sleep and respiratory-related sleep \ndisorders in adults only. \nIN\nDICATIONS FOR USE \nNoxturnal Web is intended to be used for the diagnostic evaluation by a physician to assess sleep \nquality and as an aid for the diagnosis of sleep and respiratory-related sleep disorders in adults only. \nNoxturnal Web is a software-only medical device to be used to analyze physiological signals and \nmanually score sleep study results, including the staging of sleep, AHI, and detection of sleep \ndisordered breathing events including obstructive apneas. \nIt is intended to be used under the supervision of a clinician in a clinical environment. \nC\nOMPARISON OF TECHNOLOGICAL CHARACTERISTICS \nNox Medical believes that the Noxturnal Web is substantially equivalent to the predicate devices \nSOMNOscreen plus (K201054) and SomnoMetry (K221179) based on the information summarized here: \n• T\nhe subject device has the same intended use as the predicate devices cleared in K201054 and\nK221179, i.e., a software intended to analyze pre-recorded physiological data acquired during\nsleep and derive actionable clinical insights.\n• The subject device and the predicates are intended to assess sleep quality and as an aid for\nthe diagnosis of sleep and respiratory-related sleep disorders by supporting the display,\nanalysis, summary, and retrieval of physiological parameters already recorded by sleep\nrecording devices/systems. The devices use the same basic data inputs to be analyzed as part\nof the manual scoring process including sleep staging and marking of respiratory (e.g. apnea\nand hypopnea) and sleep events (e.g. arousal and leg movements) and do calculate the\nAmerican Academy of Sleep Medicine (AASM) standardized indices (e.g. AHI) and support\nreport generation.\n• The primary predicate device, SOMNOscreen plus (K201054), is a portable physiological signal\nrecording system supporting manual scoring of sleep studies. The subject device, Noxturnal\nWeb (K241288), is Software as a Medical Device (SaMD) and does not include the functionality\nof recording physiological signals. The substantial equivalence is being drawn to the software\nportion of SOMNOscreen plus, DOMINO, which is used as a tool to display, analyze, and print\nthe physiological signals recorded by the recording device. Both Noxturnal Web and DOMINO",
+      "extraction_method": "native",
+      "character_count": 4299
+    },
+    {
+      "block_id": "K241288-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 4 of 10 \nCopyright © 2023 Nox Medical ehf \nprovide a manual scoring workflow for interpreting data recorded by systems (e.g., PSG \nsignals). Both systems rely on manual scoring for sleep stages including sleep stages W, \nN1/N2/N3, and REM, and sleep and respiratory events. Regarding the data inputs and outputs, \nboth the subject device and the primary predicate device have similarities in the types of \nphysiological signals processed, such as EEG, EOG, EMG, ECG, oxygen saturation, airflow and \nrespiratory effort, and both systems support calculation of AASM standardized indices and \ngenerate sleep study reports. Based on the detailed comparison of the workflow, appearance, \nfunction, indexes calculated and reporting, it has been demonstrated that the technological \ncharacteristics relating to the manual annotation/scoring process of sleep study data may be \nconsidered the same or substantially equivalent for the subject device and the primary \npredicate (K201054). \n• The subject device and additional predicate (K221179) are Web-based software operating in\nthe cloud. Both the subject device and additional predicate device do not require installation on\nthe user’s computer.\n• The Nox Sleep System (K192469) has been selected as a reference device to support the\ntechnology and scientific methods of the subject device. The backend implementation for the\nsubject device is identical to the corresponding qualitative and quantitative functionality\nimplemented in the reference device. Nox Medical has implemented cybersecurity controls for\nNoxturnal Web and Nox Sleep System to assure the medical device cybersecurity and to\nmaintain medical device functionality, safety, and effectiveness. The assessment was\nperformed in accordance with FDA’s Guidance “Cybersecurity for Networked Medical Devices\nContaining Off-the-Shelf (OTS) Software” and “Cybersecurity in Medical Devices: Quality\nSystem Considerations and Content of Premarket Submissions”.",
+      "extraction_method": "native",
+      "character_count": 2115
+    },
+    {
+      "block_id": "K241288-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 5 of 10 \nCopyright © 2023 Nox Medical ehf \nTrade/Device Name \nSubject Device: \nNoxturnal Web \n(K241288) \nPrimary Predicate Device: \nSOMNOscreen plus \n(K201054) \nAdditional Predicate \nDevice: \nSomnoMetry \n(K221179) \nReference Device: \nNox Sleep System \n(K192469) \nComparison of Subject, \nPredicates, and Reference \nDevice \nDescription \nManufacturer Nox Medical Somnomedics GmbH Neumetry Medical, Inc. Nox Medical N/A \n510(k) Number K241288 K201054 K221179 K192469 N/A \nRegulation Description 21 CFR 882.1400 21 CFR 882.1400 21 CFR 882.1400 21 CFR 882.1400 Same. \nRegulation Name Electroencephalograph Electroencephalograph Electroencephalograph Electroencephalograph Same. \nRegulatory Class Class II Class II Class II Class II Same. \nProduct Code(s) OLV Main: OLV; Sub: MNR OLZ Main: OLZ; Sub: KZM Same as primary predicate. \nComparison of Intended and Indications of Use \nIntended Use \nNoxturnal Web is indicated for \nu\nse in the displaying, analysis \nand printing of pre-recorded \nbiophysical parameters \nacquired during sleep for the \npurpose of assisting in the \ndiagnosis of sleep and \nrespiratory-related sleep \ndisorders. \nN\noxturnal Web is intended to \nbe used as an aid for the \ndiagnosis of sleep and \nrespiratory-related sleep \ndisorders in adults only. \nT\nhe SOMNOscreen® plus is \nindicated for use in the \nrecording, displaying, \nmonitoring, printing, and \nstorage of biophysical \nparameters for the purpose of \nassisting in the diagnosis of \nNeurological and Sleep \nDisorders. The device is a non-\nlife-supporting physiological \nsignal recording device \nintended to be used for studies \ntesting adults and \nchildren/adolescents suspected \nof having sleep-related \nbreathing disorders. \nT\nhis device is NOT designed to \nbe used in a Life Support \nsituation. \nT\nhis device is not designed for \nuse on patients with cardiac \npacemakers. \nA\nnalyze pre-recorded \nphysiological data acquired \nduring sleep and derive \nactionable clinical insights. \nThe Nox Sleep System is used \nas an aid in the diagnosis of \ndifferent sleep disorders and \nfor the assessment of sleep. \nThe Nox Sleep System is used \nto measure, record, display, \norganize, analyze, summarize, \nand retrieve physiological \nparameters during sleep and \nwake. \nThe Nox Sleep System allows \nthe user to decide on the \ncomplexity of the study by \nvarying the number and types \nof physiological signals \nmeasured. \nThe Nox Sleep System allows \nfor generation of user/pre-\ndefined reports based on \nsubject´s data. \nSame. \nN\noxturnal Web, as well as the \npredicate devices, is indicated \nfor use in the displaying, \nanalysis and printing of pre-\nrecorded biophysical \nparameters for the purpose of \nassisting in the diagnosis of \nsleep and respiratory-related \nsleep disorders. \nT\nhe intended population of the \nsubject device, Noxturnal Web \nis limited to adults only, \nthereby aligning with the \nindications for use of the \nidentified primary predicate \ndevice, SOMNOscreen plus \n(K201054) and additional \npredicate device, SomnoMetry \n(K221179).",
+      "extraction_method": "native",
+      "character_count": 3169
+    },
+    {
+      "block_id": "K241288-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 6 of 10 \nCopyright © 2023 Nox Medical ehf \nTrade/Device Name \nSubject Device: \nNoxturnal Web \n(K241288) \nPrimary Predicate Device: \nSOMNOscreen plus \n(K201054) \nAdditional Predicate \nDevice: \nSomnoMetry \n(K221179) \nReference Device: \nNox Sleep System \n(K192469) \nComparison of Subject, \nPredicates, and Reference \nDevice \nThe user of the Nox Sleep \nSystem are medical \nprofessionals who have \nreceived training in the areas \nof hospital/clinical procedures, \nphysiological monitoring of \nhuman subjects, or sleep \ndisorder investigation. \nThe intended environments are \nhospitals, institutions, sleep \ncenters, sleep clinics, or other \ntest environments, including \npatient’s home. \nIndications for Use \nNoxturnal Web is intended to \nbe\nused for the diagnostic \nevaluation by a physician to \nassess sleep quality and as an \naid for the diagnosis of sleep \nand respiratory-related sleep \ndisorders in adults only. \nN\noxturnal Web is a software-\nonly medical device to be used \nto analyze physiological signals \nand manually score sleep study \nresults, including the staging of \nsleep, AHI, and detection of \nsleep disordered breathing \nevents including obstructive \napneas. \nI\nt is intended to be used under \nthe supervision of a clinician in \na clinical environment. \nT\nhe SOMNOscreen® plus is a \nnon-life-supporting portable \nphysiological signal recording \ndevice intended to be used for \ntesting adults and children (age \n2 to 12 years)/adolescents (age \n12 and above) suspected of \nhaving sleep-related breathing \ndisorders. \nSomnoMetry is intended for \nuse for diagnostic evaluation \nby a physician to assess sleep \nquality and as an aid for the \ndiagnosis of sleep and \nrespiratory-related sleep \ndisorders in adults only. \nSomnoMetry plus is a \nsoftware-only medical device \nto be used to analyze \nphysiological signals and \nautomatically score sleep study \nresults, including the staging of \nsleep, AHI, and detection of \nsleep-disordered breathing \nevents including obstructive \napneas. It is intended to be \nused under the supervision of \na clinician in a clinical \nenvironment. All automatically \nscored events are subject to \nverification by a qualified \nclinician. \nThe Nox Sleep System is used \nas an aid in the diagnosis of \ndifferent sleep disorders and \nfor the assessment of sleep. \nT\nhe Nox Sleep System is used \nto measure, record, display, \norganize, analyze, summarize, \nand retrieve physiological \nparameters during sleep and \nwake. \nT\nhe Nox Sleep System allows \nthe user to decide on the \ncomplexity of the study by \nvarying the number and types \nof physiological signals \nmeasured. \nThe Nox Sleep System allows \nfor generation of user/pre-\nThe primary predicate device \nincludes hardware that is used \nto record the physiological \nsignals. The subject device \ndoes not contain any hardware \n/ recording function. This \ndifference does not raise any \nconcerns of safety or \neffectiveness. \nThe primary predicate device \ncontains software, DOMINO, \nthat is used for display, \nanalysis, and printing of the \nphysiological signals recorded \nby the SOMNOscreen plus. \nSame target patient population. \nThe intended population of the \nsubject device, Noxturnal Web, \nis limited to adults only, \nthereby aligning with the \nindications for use of the",
+      "extraction_method": "native",
+      "character_count": 3420
+    },
+    {
+      "block_id": "K241288-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 7 of 10 \nCopyright © 2023 Nox Medical ehf \nTrade/Device Name \nSubject Device: \nNoxturnal Web \n(K241288) \nPrimary Predicate Device: \nSOMNOscreen plus \n(K201054) \nAdditional Predicate \nDevice: \nSomnoMetry \n(K221179) \nReference Device: \nNox Sleep System \n(K192469) \nComparison of Subject, \nPredicates, and Reference \nDevice \ndefined reports based on \nsubject´s data. \nThe user of the Nox Sleep \nSystem are medical \nprofessionals who have \nreceived training in the areas \nof hospital/clinical procedures, \nphysiological monitoring of \nhuman subjects, or sleep \ndisorder investigation. \nThe intended environments are \nhospitals, institutions, sleep \ncenters, sleep clinics, or other \ntest environments, including \npatient’s home. \nidentified primary predicate \ndevice, SOMNOscreen plus \n(K201054) and additional \npredicate device, SomnoMetry \n(K221179). \nSame intended use. \nT\nhe subject and predicate \ndevices are intended to be \nused as an aid for the \ndiagnosis of sleep and \nrespiratory-related sleep \ndisorders. \nEnvironment of Use Clinical Environment C linical Environment Clinical Environment Clinical Environment / Home \nEnvironment Same. \nTarget Users Medical Professionals Medical Professionals Medical Professionals Medical Professionals Same. \nTarget Patient \nPopulation A dults only General Population (adults and \nchildren/adolescents) Adults only General Population (adults and \nchildren/adolescents) Same. \nType of Use Prescription Use only Prescription Use only Prescription Use only Prescription Use only Same. \nComparison of Technological Characteristics \nClinical Criteria: \nAid/Assist in the \ndiagnosis of sleep and \nrespiratory-related \nsleep disorders \nYes Yes Yes Yes Same. \nArousal Scoring Yes Yes Yes Yes Same. \nRespiratory Events \nScoring Yes Yes Yes Yes Same. \nLeg Movement Events \nScoring Yes Yes Yes Yes Same. \nSleep Study Scoring \nMethod Manual Manual Automatic and Manual Automatic and Manual Same.",
+      "extraction_method": "native",
+      "character_count": 2079
+    },
+    {
+      "block_id": "K241288-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 8 of 10 \nCopyright © 2023 Nox Medical ehf \nTrade/Device Name \nSubject Device: \nNoxturnal Web \n(K241288) \nPrimary Predicate Device: \nSOMNOscreen plus \n(K201054) \nAdditional Predicate \nDevice: \nSomnoMetry \n(K221179) \nReference Device: \nNox Sleep System \n(K192469) \nComparison of Subject, \nPredicates, and Reference \nDevice \nThe subject device provides \ntools for manual scoring of \nsleep parameters, similar to the \nsoftware features of DOMINO \nin the primary predicate device, \nSOMNOscreen plus. \nSleep Stage Scoring \n(Stage W, Stages \nN1/N2/N3, Stage R) \nYes Yes Yes Yes Same. \nReport Generation Yes Yes Yes Yes Same. \nCalculation of AASM \nstandardized indices Yes Yes Yes Yes Same. \nData inputs \nEEG Yes Yes Yes Yes Same. \nEOG Yes Yes Yes Yes Same. \nEMG Yes Yes Yes Yes Same. \nECG Yes Yes Yes Yes Same. \nChest/Abdomen \nmovements / \nRespiratory Effort \nYes Yes Yes Yes Same. \nAirflow Yes Yes Yes Yes Same. \nOxygen Saturation Yes Yes Yes Yes Same. \nBody Position / Activity Yes Yes Information not available Yes Same. \nDevice Characteristics \nHardware Components Not included I ncluded Not included Included \nSame as the additional \npredicate device; Noxturnal \nWeb and SomnoMetry are \nsoftware-only devices. \nSoftware Type Web-ba sed Computer program Web-based Computer program \nSame as the additional \npredicate; Noxturnal Web and \nSomnoMetry are web-based \nand, therefore, installation is \nnot required. \nPhysical Characteristics \nWeb-based software operating \nin the cloud with Windows or \nMac OS \nMS Windows-based application \nWeb-based software operating \nin the cloud with Windows, \nLinux, or Mac OS \nMS Windows-based application \nSimilar to the additional \npredicate; Noxturnal Web and \nSomnoMetry are web-based",
+      "extraction_method": "native",
+      "character_count": 1871
+    },
+    {
+      "block_id": "K241288-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 9 of 10 \nCopyright © 2023 Nox Medical ehf \nTrade/Device Name \nSubject Device: \nNoxturnal Web \n(K241288) \nPrimary Predicate Device: \nSOMNOscreen plus \n(K201054) \nAdditional Predicate \nDevice: \nSomnoMetry \n(K221179) \nReference Device: \nNox Sleep System \n(K192469) \nComparison of Subject, \nPredicates, and Reference \nDevice \nand, therefore, installation is \nnot required. \nOther: \nPerformance Testing \n•IEC 62304 Edition 1.1 2015-\n06 CONSOLIDATED VERSION\n• ANSI AAMI ISO 14971:2019\n• ANSI AAMI SW96:2023\n•IEC 82304-1 Edition 1.0\n2016-10 \n•ISO 20417 First edition 2021-\n04 Corrected version 2021-12\n•ISO IEC 29147 First edition\n2014-02-15 \n•AAMI TIR57:2016\n•ANSI AAMI IEC 62366-\n1:2015+AMD1:2020\n(Consolidated Text) \n• IEC/ANSI 60601-1:2005\n• EN 60601-1-2:2015\n• IEC 62366-1:2015\n•IEC 62304:2006+A1:2015\n•ISO 14971:2007\n• IEC 62304:2006\n• ISO 14971:2007\nThe subject device is Software \nas a Medical Device and, as \nsuch, relevant standards have \nbeen applied. This difference \ndoes not raise any concerns \nrelating to safety or \neffectiveness. \nStandard of Scoring \nManual \nThe American Academy of \nSleep Medicine (AASM) Manual \nfor the Scoring of Sleep and \nAssociated Events \nThe American Academy of \nSleep Medicine (AASM) Manual \nfor the Scoring of Sleep and \nAssociated Events \nThe American Academy of \nSleep Medicine (AASM) Manual \nfor the Scoring of Sleep and \nAssociated Events \nThe American Academy of \nSleep Medicine (AASM) Manual \nfor the Scoring of Sleep and \nAssociated Events \nSame.",
+      "extraction_method": "native",
+      "character_count": 1644
+    },
+    {
+      "block_id": "K241288-P014-B001",
+      "page": 14,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "510(k) Summary Document Number: REG-0005 \nNoxturnal Web – Traditional 510(k) Revision Number: 02 \nTEMP-0140 Controlled Document Template 04 Company Page 10 of 10\nCopyright © 2023 Nox Medical ehf \nSUMMARY OF NON-CLINICAL TESTING \nThe FDA-recognized standards were applied throughout the design process of Noxturnal Web. \nVerification and Validation testing of all requirement specifications defined for Noxturnal Web was \nconducted and passed according to the device’s intended use to ensure product safety, effectiveness, \nand reliability. \nS\noftware verification and validation testing was performed per IEC 62304 Edition 1.1 2015-06 \nCONSOLIDATED VERSION Medical device software – Software life cycle processes to demonstrate \nsafety and performance based on current industry standards. \nT\nhe substantial equivalence between Noxturnal Web (K241288) and the software application, DOMINO, \nof the primary predicate (K201054) has been demonstrated through a comparative analysis concluding \nthat both software applications support the same main functions of selecting and opening an existing \nsleep study, displaying and navigating the signals/sleep study data, manually annotating/scoring the \nsleep study data by adding applicable events/markers on top of the signal traces, calculating the AASM \nstandardized indexes, providing trend/summary overviews, creating interpretation reports, and \nsaving/storing the scored recording. The software applications both visualize the signals and events in \nessentially the same way, allow the same editing to be made on the scored events, provide the same \nbasic information for the scorer and physician in the form of overviews and indexes and report the basic \nAASM standardized sleep indexes/parameters into editable reports that aid the physician in the sleep \nstudy data interpretation and diagnosis. \nS\nUMMARY OF CLINICAL TESTING \nClinical data were not relied upon for a determination of substantial equivalence. \nC\nONCLUSION \nNoxturnal Web (K241288) is substantially equivalent to the predicate devices , SOMNOscreen plus \n(K201054) and SomnoMetry (K221179). Noxturnal Web has the same intended use and the indications \nfor use fall within the scope of that for the predicate devices. Many of the technological characteristics \nare the same for the subject and predicate devices. The differences in technological char acteristics \nbetween the subject and predicate devices have been addressed through software verification/validation \ntesting and performance testing. The results of the comparative analysis , software and performance \ntesting validate that Noxturnal Web meets its pre-specified requirements, performs as intended, and is as \nsafe and effective as the predicate devices. No new concerns or questions about safety or effectiveness \nhave been raised. \nBased on the methods and results of comparative analysis, software verification and validation testing, it \nis determined that Noxturnal Web is substantially equivalent to the predicate devices and is safe and \neffective for its intended use in the adult patient population.",
+      "extraction_method": "native",
+      "character_count": 3090
+    }
+  ],
+  "claims": []
+}

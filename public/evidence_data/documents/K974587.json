@@ -1,0 +1,611 @@
+{
+  "document": {
+    "k_number": "K974587",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "H2O",
+    "applicant": "Grass-Telefactor Product Group",
+    "decision_date": "1998-03-09",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf/K974587.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K974587",
+    "sha256": "0372e10c258a69f2b24d6669407641ed6f64df3968f9eca5097037fea6822585",
+    "page_count": 5,
+    "native_pages": 0,
+    "ocr_pages": 5,
+    "family_id": "PSG-012",
+    "family_name": "DEEG-LITE / H2O",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "Section 2: 510(K) Summary & Certification .\n2.0 Summary i 7 ? 4587 MAR ~ 9 i998\n\nThis summary is submitted in accordance with the content and format requirements as stated in section\n807.92 of CFR, by Telefactor Corporation, and is a part of the Premarket Notification 510(k) Application\nfor their new device H20. .\n\nRequirement: CFR807.92 paragraph (a)\na. Date: March 03, 1998\n\nName & address of the submitter : Telefactor Corporation\n1094 New Dehaven Street\nWest Conshohocken, PA 19428\n\nb. Establishment registration number: 2523420\n\nContact person: James S. Bryan\nChief Engineer\nTel: (610) 825-4555\nFAX: (610) 941-0348\n\nc. TradeName: H20\na Common Name: Portable EEG Recorder\n\ne. Product Classification (per CDRH Database):\nProduct Category: ELECTROENCEPHALOGRAPH\nRegulation Number: 882.1400\nMedical Specialty: NE\nProduct Code: GWQ ; OL-V DA\nProduct class: Class II Device! Tier: 2\n\nf. This device claims equivalence to: Telefactor Corporation's “DEEG-LITE” EEG-Recorder\nfor which previously granted 510(k) number is: #K972202\n\neg Brief functional description of the device: H20 receives signals from an EEG Amplifier, formats\n& records them on the digital media for subsequent evaluation by a qualified clinician.\n\nb. Intended use for the device: The H20 is intended primarily to be used for the long term monitoring,\nof EEG of patients with suspected seizure disorders, and sleep disorders.\nH20 Indications For Use:\n\nThis device is intended for use in long-term recording of voltages produced by the brain and\nmeasured on the scalp (EEG) for subsequent diagnostic review with a digital workstation supplied by\nthe manufacturer (Telefactor Beekeeper) or similar compatible device. An integrated pulse oximeter\nprovides supplemental diagnostic data in the form of blood oxygen saturation (SpO2 percent).",
+      "character_count": 1805
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "Technological characteristics: The H2O system is battery powered, wearable, 32 channel EEG\namplifier/recorder. The H2O system operates on a pack of eight Alkaline batteries for twelve hours\nor a pack of two lithium batteries for 24 hours. Unlike DEEG-LITE, the H20 recorder never operates\nfrom mains power, but only from batteries. Like DEEG-LITE, a binary, optically isolated output data\nstream is utilized by a notebook or desktop computer for initial setup. Unlike DEEG-LITE, all data\nrecording in H2O is performed internally in the wearable device in a Flash-RAM for short recordings,\nor on an internal rotating disk for long recordings. The DEEG-LITE utilizes DSPs (Digital Signal\nProcessors) for data manipulation and preparation. It uses a Intel-486 or Pentium processor in a\nnotebook computer for data recording and display. H2O uses a single internal INTEL 186 processor\nfor data manipulation and recording and an external notebook or desktop computer only for initial set-\nup and electrode application to verify good EEG waveform at the beginning of the data recording\nsession. To provide an added sensor modality useful in sleep recordings, the H2O incorporates a\nNONIN puise oximeter board (NONIN OEM2 Pulse Oximeter Module), with a DB9 Female\nconnector for one of the compatible NONIN finger probes.\n\n(Requirement: CFR807.92 paragraph (b))\n\nj.\n\nI certify, that to the best of my knowledge, the information provides inthis\nNotification 510(k) for the H2O, is true and accurate. Gj\n\nDate: March 03, 1998\n\nBrief statement of substantial equivalence to Telefactor DEEG-LITE: The H20 System has\nrecording performance identical to the Telefactor DEEG-LITE System. The wearable armplifters\nalthough of a different design, have equal or better signal to noise ratio, equal digital resolution, and\nidentical sample rates. The inclusion of an internal pulse oximeter parallels the frequent use ofan\nexternal pulse oximeter with the DEEG-LITE instrument.\n\n(1) Nonclinical (Bench Tests): The results of the Bench Tests described in Volume 3 of the\noriginal premarket 510(k) application # K974587, document the equivalent noise performance\nof the DEEG-LITE system.\n\n(2) Clinical Tests: Because of the identical performance confirmed by Bench Tests, clinical\nperformance tests are deemed unnecessary.\n\n(3) Summary of Safety & Effectiveness: Electrical safety for EEG monitoring equipment is\nwell specified by the UL2601-1 and IEC601-1 General Safety Standards for Medical Devices.\nThe design of the electronics for both the predicate device DEEG-LITE, and the new device\nH20 have been carried out with careful attention to compliance with these standards.\n\n(4) Conclusion: It is our conclusion that the nonclinical (Bench Tests) demonstrate that the\ndevice is safe, effective and performs as well as the predicate device.\n\n2.1 Certification\n\n1094 New Nehaven Street\nWest Conshohocken, PA 19428",
+      "character_count": 2892
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "216\nweeevters |\nty\n\n(d DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\nweary\nof by\n\n“y,\n\ntera Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room ~W066-G609\nSilver Spring, MD 20993-0002\n\nMr. James S. Bryan\nChief Engineer\nTelefactor Corporation\n1094 New DeHaven Street\nWest Conshohocken, Pennsylvania 19428\nAPR -9 20i2\nRe: K974587\nTrade/Device Name: H20\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ, DQA\nDated (Date on orig SE ltr): December 4, 1997\nReceived (Date on orig SE ltr): December 9, 1997\n\nDear Mr. Bryan:\nThis letter corrects our substantially equivalent letter of March 9, 1998.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 2105
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Mr. James S. Bryan\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutF DA/CentersOffices/CDRH/CDRHOffices/ucm1 15809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, “Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gov/MedicalDevices/Resourcesfor Y ou/Industry/default.htm.\n\nSincerely yours,\n\n<\n\nLa\n\nMalvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health\n\nEnclosure",
+      "character_count": 1961
+    },
+    {
+      "page": 5,
+      "extraction_method": "ocr",
+      "text": "Page 1} of _ 1\n\n510(k) NUMBER (IF KNOWN): _K974587\n\nDEVICE NAME: H20\n\nINDICATIONS FOR USE:\n\nTHIS DEVICE IS INTENDED FOR USE IN LONG-TERM RECORDING\nOF VOLTAGES PRODUCED BY THE BRAIN AND MEASURED ON THE SCALP\n(EEG) FOR SUBSEQUENT DIAGNOSTIC REVIEW WITH A DIGITAL WORK-\nSTATION SUPPLIED BY THE MANUFACTURER (TELEFACTOR BEEKEEPER)\nOR SIMILAR COMPATIBLE DEVICE. AN INTEGRATED PULSE OXIMETER\nPROVIDES SUPPLEMENTAL DIAGNOSTIC DATA IN THE FORM OF BLOOD\nOXYGEN SATURATION (SpOy percent).\n\n(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE\nIF NEEDED. )\n\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n\nOver-The-Counter-Use\n\n(Optional Format 1-2-96)\n\nPrescription Use\n(Per 21 CFR 801.109)\n\nLecstnl) x\n\n(Divisiohi]Sign-Off)\nDovisige Moi General Reeseegeties EMR 97115 8.°7\n\n5 1Uik) Number",
+      "character_count": 796
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K974587-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Section 2: 510(K) Summary & Certification .\n2.0 Summary i 7 ? 4587 MAR ~ 9 i998",
+      "extraction_method": "ocr",
+      "character_count": 79
+    },
+    {
+      "block_id": "K974587-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "This summary is submitted in accordance with the content and format requirements as stated in section\n807.92 of CFR, by Telefactor Corporation, and is a part of the Premarket Notification 510(k) Application\nfor their new device H20. .",
+      "extraction_method": "ocr",
+      "character_count": 234
+    },
+    {
+      "block_id": "K974587-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Requirement: CFR807.92 paragraph (a)\na. Date: March 03, 1998",
+      "extraction_method": "ocr",
+      "character_count": 60
+    },
+    {
+      "block_id": "K974587-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Name & address of the submitter : Telefactor Corporation\n1094 New Dehaven Street\nWest Conshohocken, PA 19428",
+      "extraction_method": "ocr",
+      "character_count": 108
+    },
+    {
+      "block_id": "K974587-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "list",
+      "section": "Document",
+      "text": "b. Establishment registration number: 2523420",
+      "extraction_method": "ocr",
+      "character_count": 45
+    },
+    {
+      "block_id": "K974587-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Contact person: James S. Bryan\nChief Engineer\nTel: (610) 825-4555\nFAX: (610) 941-0348",
+      "extraction_method": "ocr",
+      "character_count": 85
+    },
+    {
+      "block_id": "K974587-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "c. TradeName: H20\na Common Name: Portable EEG Recorder",
+      "extraction_method": "ocr",
+      "character_count": 54
+    },
+    {
+      "block_id": "K974587-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "e. Product Classification (per CDRH Database):\nProduct Category: ELECTROENCEPHALOGRAPH\nRegulation Number: 882.1400\nMedical Specialty: NE\nProduct Code: GWQ ; OL-V DA\nProduct class: Class II Device! Tier: 2",
+      "extraction_method": "ocr",
+      "character_count": 204
+    },
+    {
+      "block_id": "K974587-P001-B009",
+      "page": 1,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "f. This device claims equivalence to: Telefactor Corporation's “DEEG-LITE” EEG-Recorder\nfor which previously granted 510(k) number is: #K972202",
+      "extraction_method": "ocr",
+      "character_count": 143
+    },
+    {
+      "block_id": "K974587-P001-B010",
+      "page": 1,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "eg Brief functional description of the device: H20 receives signals from an EEG Amplifier, formats\n& records them on the digital media for subsequent evaluation by a qualified clinician.",
+      "extraction_method": "ocr",
+      "character_count": 186
+    },
+    {
+      "block_id": "K974587-P001-B011",
+      "page": 1,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "b. Intended use for the device: The H20 is intended primarily to be used for the long term monitoring,\nof EEG of patients with suspected seizure disorders, and sleep disorders.\nH20 Indications For Use:",
+      "extraction_method": "ocr",
+      "character_count": 201
+    },
+    {
+      "block_id": "K974587-P001-B012",
+      "page": 1,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "This device is intended for use in long-term recording of voltages produced by the brain and\nmeasured on the scalp (EEG) for subsequent diagnostic review with a digital workstation supplied by\nthe manufacturer (Telefactor Beekeeper) or similar compatible device. An integrated pulse oximeter\nprovides supplemental diagnostic data in the form of blood oxygen saturation (SpO2 percent).",
+      "extraction_method": "ocr",
+      "character_count": 384
+    },
+    {
+      "block_id": "K974587-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Technological characteristics: The H2O system is battery powered, wearable, 32 channel EEG\namplifier/recorder. The H2O system operates on a pack of eight Alkaline batteries for twelve hours\nor a pack of two lithium batteries for 24 hours. Unlike DEEG-LITE, the H20 recorder never operates\nfrom mains power, but only from batteries. Like DEEG-LITE, a binary, optically isolated output data\nstream is utilized by a notebook or desktop computer for initial setup. Unlike DEEG-LITE, all data\nrecording in H2O is performed internally in the wearable device in a Flash-RAM for short recordings,\nor on an internal rotating disk for long recordings. The DEEG-LITE utilizes DSPs (Digital Signal\nProcessors) for data manipulation and preparation. It uses a Intel-486 or Pentium processor in a\nnotebook computer for data recording and display. H2O uses a single internal INTEL 186 processor\nfor data manipulation and recording and an external notebook or desktop computer only for initial set-\nup and electrode application to verify good EEG waveform at the beginning of the data recording\nsession. To provide an added sensor modality useful in sleep recordings, the H2O incorporates a\nNONIN puise oximeter board (NONIN OEM2 Pulse Oximeter Module), with a DB9 Female\nconnector for one of the compatible NONIN finger probes.",
+      "extraction_method": "ocr",
+      "character_count": 1312
+    },
+    {
+      "block_id": "K974587-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "(Requirement: CFR807.92 paragraph (b))",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K974587-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "j.",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K974587-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "I certify, that to the best of my knowledge, the information provides inthis\nNotification 510(k) for the H2O, is true and accurate. Gj",
+      "extraction_method": "ocr",
+      "character_count": 134
+    },
+    {
+      "block_id": "K974587-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Date: March 03, 1998",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K974587-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Brief statement of substantial equivalence to Telefactor DEEG-LITE: The H20 System has\nrecording performance identical to the Telefactor DEEG-LITE System. The wearable armplifters\nalthough of a different design, have equal or better signal to noise ratio, equal digital resolution, and\nidentical sample rates. The inclusion of an internal pulse oximeter parallels the frequent use ofan\nexternal pulse oximeter with the DEEG-LITE instrument.",
+      "extraction_method": "ocr",
+      "character_count": 440
+    },
+    {
+      "block_id": "K974587-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "(1) Nonclinical (Bench Tests): The results of the Bench Tests described in Volume 3 of the\noriginal premarket 510(k) application # K974587, document the equivalent noise performance\nof the DEEG-LITE system.",
+      "extraction_method": "ocr",
+      "character_count": 206
+    },
+    {
+      "block_id": "K974587-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "(2) Clinical Tests: Because of the identical performance confirmed by Bench Tests, clinical\nperformance tests are deemed unnecessary.",
+      "extraction_method": "ocr",
+      "character_count": 133
+    },
+    {
+      "block_id": "K974587-P002-B009",
+      "page": 2,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "(3) Summary of Safety & Effectiveness: Electrical safety for EEG monitoring equipment is\nwell specified by the UL2601-1 and IEC601-1 General Safety Standards for Medical Devices.\nThe design of the electronics for both the predicate device DEEG-LITE, and the new device\nH20 have been carried out with careful attention to compliance with these standards.",
+      "extraction_method": "ocr",
+      "character_count": 353
+    },
+    {
+      "block_id": "K974587-P002-B010",
+      "page": 2,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "(4) Conclusion: It is our conclusion that the nonclinical (Bench Tests) demonstrate that the\ndevice is safe, effective and performs as well as the predicate device.",
+      "extraction_method": "ocr",
+      "character_count": 164
+    },
+    {
+      "block_id": "K974587-P002-B011",
+      "page": 2,
+      "ordinal": 11,
+      "type": "heading",
+      "section": "2.1 Certification",
+      "text": "2.1 Certification",
+      "extraction_method": "ocr",
+      "character_count": 17
+    },
+    {
+      "block_id": "K974587-P002-B012",
+      "page": 2,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "1094 New Nehaven Street\nWest Conshohocken, PA 19428",
+      "extraction_method": "ocr",
+      "character_count": 51
+    },
+    {
+      "block_id": "K974587-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "216\nweeevters |\nty",
+      "extraction_method": "ocr",
+      "character_count": 18
+    },
+    {
+      "block_id": "K974587-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "(d DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "ocr",
+      "character_count": 62
+    },
+    {
+      "block_id": "K974587-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "weary\nof by",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K974587-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "“y,",
+      "extraction_method": "ocr",
+      "character_count": 3
+    },
+    {
+      "block_id": "K974587-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "tera Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room ~W066-G609\nSilver Spring, MD 20993-0002",
+      "extraction_method": "ocr",
+      "character_count": 122
+    },
+    {
+      "block_id": "K974587-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "Mr. James S. Bryan\nChief Engineer\nTelefactor Corporation\n1094 New DeHaven Street\nWest Conshohocken, Pennsylvania 19428\nAPR -9 20i2\nRe: K974587\nTrade/Device Name: H20\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ, DQA\nDated (Date on orig SE ltr): December 4, 1997\nReceived (Date on orig SE ltr): December 9, 1997",
+      "extraction_method": "ocr",
+      "character_count": 383
+    },
+    {
+      "block_id": "K974587-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "Dear Mr. Bryan:\nThis letter corrects our substantially equivalent letter of March 9, 1998.",
+      "extraction_method": "ocr",
+      "character_count": 90
+    },
+    {
+      "block_id": "K974587-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "ocr",
+      "character_count": 1033
+    },
+    {
+      "block_id": "K974587-P003-B009",
+      "page": 3,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "ocr",
+      "character_count": 367
+    },
+    {
+      "block_id": "K974587-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "Page 2 - Mr. James S. Bryan",
+      "extraction_method": "ocr",
+      "character_count": 27
+    },
+    {
+      "block_id": "K974587-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K974587-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutF DA/CentersOffices/CDRH/CDRHOffices/ucm1 15809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, “Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 652
+    },
+    {
+      "block_id": "K974587-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "You may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gov/MedicalDevices/Resourcesfor Y ou/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 317
+    },
+    {
+      "block_id": "K974587-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "Sincerely yours,",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K974587-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "<",
+      "extraction_method": "ocr",
+      "character_count": 1
+    },
+    {
+      "block_id": "K974587-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "La",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K974587-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "Malvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 176
+    },
+    {
+      "block_id": "K974587-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "Enclosure",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K974587-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "Page 1} of _ 1",
+      "extraction_method": "ocr",
+      "character_count": 14
+    },
+    {
+      "block_id": "K974587-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "510(k) NUMBER (IF KNOWN): _K974587",
+      "extraction_method": "ocr",
+      "character_count": 34
+    },
+    {
+      "block_id": "K974587-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "DEVICE NAME: H20",
+      "text": "DEVICE NAME: H20",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K974587-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "INDICATIONS FOR USE:",
+      "text": "INDICATIONS FOR USE:",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K974587-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "THIS DEVICE IS INTENDED FOR USE IN LONG-TERM RECORDING\nOF VOLTAGES PRODUCED BY THE BRAIN AND MEASURED ON THE SCALP\n(EEG) FOR SUBSEQUENT DIAGNOSTIC REVIEW WITH A DIGITAL WORK-\nSTATION SUPPLIED BY THE MANUFACTURER (TELEFACTOR BEEKEEPER)\nOR SIMILAR COMPATIBLE DEVICE. AN INTEGRATED PULSE OXIMETER\nPROVIDES SUPPLEMENTAL DIAGNOSTIC DATA IN THE FORM OF BLOOD\nOXYGEN SATURATION (SpOy percent).",
+      "extraction_method": "ocr",
+      "character_count": 386
+    },
+    {
+      "block_id": "K974587-P005-B006",
+      "page": 5,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE\nIF NEEDED. )",
+      "extraction_method": "ocr",
+      "character_count": 74
+    },
+    {
+      "block_id": "K974587-P005-B007",
+      "page": 5,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "Concurrence of CDRH, Office of Device Evaluation (ODE)",
+      "extraction_method": "ocr",
+      "character_count": 54
+    },
+    {
+      "block_id": "K974587-P005-B008",
+      "page": 5,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "Over-The-Counter-Use",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K974587-P005-B009",
+      "page": 5,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "(Optional Format 1-2-96)",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K974587-P005-B010",
+      "page": 5,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "Prescription Use\n(Per 21 CFR 801.109)",
+      "extraction_method": "ocr",
+      "character_count": 37
+    },
+    {
+      "block_id": "K974587-P005-B011",
+      "page": 5,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "Lecstnl) x",
+      "extraction_method": "ocr",
+      "character_count": 10
+    },
+    {
+      "block_id": "K974587-P005-B012",
+      "page": 5,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "(Divisiohi]Sign-Off)\nDovisige Moi General Reeseegeties EMR 97115 8.°7",
+      "extraction_method": "ocr",
+      "character_count": 69
+    },
+    {
+      "block_id": "K974587-P005-B013",
+      "page": 5,
+      "ordinal": 13,
+      "type": "heading",
+      "section": "5 1Uik) Number",
+      "text": "5 1Uik) Number",
+      "extraction_method": "ocr",
+      "character_count": 14
+    }
+  ],
+  "claims": []
+}

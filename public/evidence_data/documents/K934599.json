@@ -1,0 +1,359 @@
+{
+  "document": {
+    "k_number": "K934599",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "SANDMAN",
+    "applicant": "Melville Software , Ltd.",
+    "decision_date": "1994-01-27",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf/K934599.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K934599",
+    "sha256": "7105b0648a5aef6e84e3bd079249f9ca2f90cff8beb42d5eb0dfe5edda8ed58f",
+    "page_count": 3,
+    "native_pages": 0,
+    "ocr_pages": 3,
+    "family_id": "PSG-009",
+    "family_name": "Sandman / Sandman Elite",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "K4G3 4599\nSafety and Effectiveness Information / [ o a/ 94\n\nThe SANDMAN device is used solely for the collection, storage and display of data either:\na) collected by SANDMAN from FDA approved equipment that requires no modification to support\nthis function, or b) input by the qualified technologist. The system is not directly connected to\nthe patient and does not control any alarms, delivery of energy, drugs of any kind or functions\nthat would effect the well being of the patient.\n\nSafety\n\nSince SANDMAN is connected to the output side of existing FDA approved amplifiers and only\nacts to replace the pen and ink recorder there is no threat to the patient’s life under any\nconditions. We have also assessed that there are no circumstances under which SANDMAN could\ncause illness or permanent injury. It is not necessary to change, reconfigure or adjust the FDA\namplifiers to support the SANDMAN system and SANDMAN system is configured such that it is\nplugged into existing output plugs designed for this purpose.\n\nSANDMAN does not provide alarms in the case of life threatening conditions. These alarms are\nprovided by other equipment which is not replaced by SANDMAN and is independent and\nunaffected by the presence, or absence, of SANDMAN. Further SANDMAN does not consolidate or\nobscure any information that is available in the predicate device or similar device.\n\nEffectiveness\n\nSANDMAN presents data on a computer monitor in a similar fashion as if the data was presented\non paper. Paper printouts of the data are also available should the technologist or doctor require\nthem, The software has no diagnostic functions although modules have been designed and\nvalidated that will identify specific data trends, defined by the operator. These trends are\nmathematically defined and only considered to be a tool for the use of experienced technologists.\nSANDMAN does not provide any information on the data or evaluate the quality of the data or any\ninterpretation of the data. This is the sole responsibility of the experienced technologists.\n\nSANDMAN is designed to be used by competent sleep technologists who must exercise judgement\nin the use of the data in the same way as they currently exercise judgement in the use of paper\nrecording systems. All data which is collected and stored by the system has been extensively\ntested to ensure that the data reproduced after collection replicates that which was collected.\n\nThrough extensive testing inhouse, at beta and alpha sites, and through research studies conducted\nin Canada, it has been determined that following the standard calibration procedures described\nin the SANDMAN manual, software errors could not cause diagnostic or monitoring information\nto be missed or inaccurate.\n\n2),\n\nM4",
+      "character_count": 2751
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "SSenviCEs.\ny iS\n\n: 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\nWEALTH\no 6%\n\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room —W066-G609\nSilver Spring, MD 20993-0002\n\nMelville Software Ltd.\n\nc/o Mr. Tom Anderson Sn aan\nVice President -\nSuite 1007, 350 Sparks Street\n\nOttawa, Ontario KIR 7S8\n\nCANADA\n\nRe: K934599\nTrade/Device Name: SANDMAN Sleep EEG System\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV\nDated (Date on orig SE ltr): December 1, 1993\nReceived (Date on orig SE ltr): December 3, 1993\n\nDear Mr. Anderson:\nThis letter corrects our substantially equivalent letter of January 27, 1994.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it\nmay be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 2112
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Mr. Anderson\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutFDA/CentersOffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\n\nhttp://www. fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.\n\nSincerely yours,\n\nMen. Aang\n\nMalvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health",
+      "character_count": 1947
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K934599-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "K4G3 4599\nSafety and Effectiveness Information / [ o a/ 94",
+      "extraction_method": "ocr",
+      "character_count": 58
+    },
+    {
+      "block_id": "K934599-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The SANDMAN device is used solely for the collection, storage and display of data either:\na) collected by SANDMAN from FDA approved equipment that requires no modification to support\nthis function, or b) input by the qualified technologist. The system is not directly connected to\nthe patient and does not control any alarms, delivery of energy, drugs of any kind or functions\nthat would effect the well being of the patient.",
+      "extraction_method": "ocr",
+      "character_count": 425
+    },
+    {
+      "block_id": "K934599-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Safety",
+      "extraction_method": "ocr",
+      "character_count": 6
+    },
+    {
+      "block_id": "K934599-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Since SANDMAN is connected to the output side of existing FDA approved amplifiers and only\nacts to replace the pen and ink recorder there is no threat to the patient’s life under any\nconditions. We have also assessed that there are no circumstances under which SANDMAN could\ncause illness or permanent injury. It is not necessary to change, reconfigure or adjust the FDA\namplifiers to support the SANDMAN system and SANDMAN system is configured such that it is\nplugged into existing output plugs designed for this purpose.",
+      "extraction_method": "ocr",
+      "character_count": 522
+    },
+    {
+      "block_id": "K934599-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "SANDMAN does not provide alarms in the case of life threatening conditions. These alarms are\nprovided by other equipment which is not replaced by SANDMAN and is independent and\nunaffected by the presence, or absence, of SANDMAN. Further SANDMAN does not consolidate or\nobscure any information that is available in the predicate device or similar device.",
+      "extraction_method": "ocr",
+      "character_count": 353
+    },
+    {
+      "block_id": "K934599-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Effectiveness",
+      "extraction_method": "ocr",
+      "character_count": 13
+    },
+    {
+      "block_id": "K934599-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "SANDMAN presents data on a computer monitor in a similar fashion as if the data was presented\non paper. Paper printouts of the data are also available should the technologist or doctor require\nthem, The software has no diagnostic functions although modules have been designed and\nvalidated that will identify specific data trends, defined by the operator. These trends are\nmathematically defined and only considered to be a tool for the use of experienced technologists.\nSANDMAN does not provide any information on the data or evaluate the quality of the data or any\ninterpretation of the data. This is the sole responsibility of the experienced technologists.",
+      "extraction_method": "ocr",
+      "character_count": 660
+    },
+    {
+      "block_id": "K934599-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "SANDMAN is designed to be used by competent sleep technologists who must exercise judgement\nin the use of the data in the same way as they currently exercise judgement in the use of paper\nrecording systems. All data which is collected and stored by the system has been extensively\ntested to ensure that the data reproduced after collection replicates that which was collected.",
+      "extraction_method": "ocr",
+      "character_count": 376
+    },
+    {
+      "block_id": "K934599-P001-B009",
+      "page": 1,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Through extensive testing inhouse, at beta and alpha sites, and through research studies conducted\nin Canada, it has been determined that following the standard calibration procedures described\nin the SANDMAN manual, software errors could not cause diagnostic or monitoring information\nto be missed or inaccurate.",
+      "extraction_method": "ocr",
+      "character_count": 313
+    },
+    {
+      "block_id": "K934599-P001-B010",
+      "page": 1,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "2),",
+      "extraction_method": "ocr",
+      "character_count": 3
+    },
+    {
+      "block_id": "K934599-P001-B011",
+      "page": 1,
+      "ordinal": 11,
+      "type": "heading",
+      "section": "M4",
+      "text": "M4",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K934599-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "M4",
+      "text": "SSenviCEs.\ny iS",
+      "extraction_method": "ocr",
+      "character_count": 15
+    },
+    {
+      "block_id": "K934599-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "M4",
+      "text": ": 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "ocr",
+      "character_count": 63
+    },
+    {
+      "block_id": "K934599-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "M4",
+      "text": "WEALTH\no 6%",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K934599-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "M4",
+      "text": "Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room —W066-G609\nSilver Spring, MD 20993-0002",
+      "extraction_method": "ocr",
+      "character_count": 117
+    },
+    {
+      "block_id": "K934599-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "M4",
+      "text": "Melville Software Ltd.",
+      "extraction_method": "ocr",
+      "character_count": 22
+    },
+    {
+      "block_id": "K934599-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "M4",
+      "text": "c/o Mr. Tom Anderson Sn aan\nVice President -\nSuite 1007, 350 Sparks Street",
+      "extraction_method": "ocr",
+      "character_count": 74
+    },
+    {
+      "block_id": "K934599-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "M4",
+      "text": "Ottawa, Ontario KIR 7S8",
+      "extraction_method": "ocr",
+      "character_count": 23
+    },
+    {
+      "block_id": "K934599-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "heading",
+      "section": "CANADA",
+      "text": "CANADA",
+      "extraction_method": "ocr",
+      "character_count": 6
+    },
+    {
+      "block_id": "K934599-P002-B009",
+      "page": 2,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "CANADA",
+      "text": "Re: K934599\nTrade/Device Name: SANDMAN Sleep EEG System\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV\nDated (Date on orig SE ltr): December 1, 1993\nReceived (Date on orig SE ltr): December 3, 1993",
+      "extraction_method": "ocr",
+      "character_count": 263
+    },
+    {
+      "block_id": "K934599-P002-B010",
+      "page": 2,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "CANADA",
+      "text": "Dear Mr. Anderson:\nThis letter corrects our substantially equivalent letter of January 27, 1994.",
+      "extraction_method": "ocr",
+      "character_count": 96
+    },
+    {
+      "block_id": "K934599-P002-B011",
+      "page": 2,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "CANADA",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "ocr",
+      "character_count": 1033
+    },
+    {
+      "block_id": "K934599-P002-B012",
+      "page": 2,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "CANADA",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it\nmay be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "ocr",
+      "character_count": 367
+    },
+    {
+      "block_id": "K934599-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CANADA",
+      "text": "Page 2 - Mr. Anderson",
+      "extraction_method": "ocr",
+      "character_count": 21
+    },
+    {
+      "block_id": "K934599-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "CANADA",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K934599-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "CANADA",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutFDA/CentersOffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to",
+      "extraction_method": "ocr",
+      "character_count": 492
+    },
+    {
+      "block_id": "K934599-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "CANADA",
+      "text": "http://www. fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 158
+    },
+    {
+      "block_id": "K934599-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "CANADA",
+      "text": "You may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 316
+    },
+    {
+      "block_id": "K934599-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "CANADA",
+      "text": "Sincerely yours,",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K934599-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "CANADA",
+      "text": "Men. Aang",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K934599-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "CANADA",
+      "text": "Malvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 176
+    }
+  ],
+  "claims": []
+}

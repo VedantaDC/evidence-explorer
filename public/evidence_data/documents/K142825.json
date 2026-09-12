@@ -1,0 +1,369 @@
+{
+  "document": {
+    "k_number": "K142825",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "Zmachine",
+    "applicant": "Consolidated Research of Richmond, Inc.",
+    "decision_date": "2015-01-20",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K142825.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K142825",
+    "sha256": "d090e94450f5cd02a9125871e3b49143313088d4f74cf3b057b6a5077b8b83dd",
+    "page_count": 8,
+    "native_pages": 8,
+    "ocr_pages": 0,
+    "family_id": "PSG-031",
+    "family_name": "Zmachine family",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\n\nFood and Drug Administration \n10903 New Hampshire Avenue \nDocument Control Center - WO66-G609 \nSilver Spring, MD 20993-0002\n\n\n\n\n\nConsolidated Research Of Richmond, Inc \nƏ Richard Kaplan \nPresident \n26250 Euclid Ave \nSuite 709 \nEuclid, Ohio 44132 \n\nRe: K142825 \nTrade/Device Name: Zmachine DT-200 \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ, OLV, OMC \nDated: December 15, 2014 \nReceived: December 19, 2014 \n\nDear Dr. Kaplan, \n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device \nreferenced above and have determined the device is substantially equivalent (for the indications \nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate \ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to \ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug, \nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). \nYou may, therefore, market the device, subject to the general controls provisions of the Act. The \ngeneral controls provisions of the Act include requirements for annual registration, listing of \ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability \nwarranties. We remind you, however, that device labeling must be truthful and not misleading. \n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), \nit may be subject to additional controls. Existing major regulations affecting your device can be \nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may \npublish further announcements concerning your device in the Federal Register. \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean \nthat FDA has made a determination that your device complies with other requirements of the Act \nor any Federal statutes and regulations administered by other Federal agencies. You must comply \nwith all the Act's requirements, including, but not limited to: registration and listing (21 CFR \nPart 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-\nJanuary 20, 2015",
+      "character_count": 2483
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "- Richard Kaplan Page 2\nrelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in \nthe quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product \nradiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050. \n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please \ncontact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041 \nor (301) 796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note \nthe regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 \nCFR Part 803), please go to \nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office \nof Surveillance and Biometrics/Division of Postmarket Surveillance. \nYou may obtain other general information on your responsibilities under the Act from the \nDivision of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) \n796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. \nSincerely yours, \nCarlos L. Peña, PhD, MS \nDirector \nDivision of Neurological \nand Physical Medicine Devices \nOffice of Device Evaluation \nCenter for Devices and Radiological Health \nEnclosure \nfor\u0003\nFelipe Aguel -S",
+      "character_count": 1514
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK142825\nDevice Name\nZmachine DT-200\nIndications for Use (Describe)\nThe CRI Zmachine is a single-channel, EEG acquisition and analysis system, designed for use in the home or clinical \nenvironments. This device is intended to be used by qualified healthcare practitioners to monitor the wake and sleep states \nof adult patients and as an adjunct to their diagnosis of sleep disorders.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "character_count": 1735
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "Page 17-1 \n\n\n510(k) Summary \n\nZmachine® 510(k) Notification \nConsolidated Research of Richmond, Inc. \n\n\n510(k) Owner Consolidated Research of Richmond, Inc. \nAddress 26250 Euclid Avenue, Suite 709 \nEuclid, Ohio 44132 \nPhone: (216) 289-2331 \nFax: (216) 393-0079 \nContact \nPerson \nRichard F. Kaplan, Ph.D., President \nPhone: (216) 289-2331 Extension 1001 \nE-mail: kaplan@cri-systems.com \nDate \nPrepared \nDecember 16, 2014 \nTrade Name Zmachine\n® DT-200 \nCommon \nName \nSleep monitoring system \nClassification \nName \nElectroencephalograph \n21 CFR 882.1400 \nProduct \nCodes \nOLZ, OLV and OMC \nIndications \nfor Use \nThe CRI Zmachine is a single-channel, EEG acquisition and analysis \nsystem, designed for use in the home or clinical environments. This \ndevice is intended to be used by qualified healthcare practitioners to \nmonitor the wake and sleep states of adult patients and as an adjunct to \ntheir diagnosis of sleep disorders.",
+      "character_count": 926
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "Page 17-2 \nDevice \nDescription \nThe CRI Zmachine is a battery-operated, single-channel, EEG \nacquisition and analysis system. The Zmachine system includes the \nZmachine device, disposable EEG sensors, sensor cable, and a wall \ncharger. The device operates on data from the differential-mastoid \nEEG channel to determine the wake and sleep states (wake, light sleep, \ndeep sleep and REM) of the patient every 30 seconds. \nSubstantial \nEquivalence \nThe Zmachine DT-200 is substantially equivalent to the Zmachine DT-\n100 (K101830) by Consolidated Research of Richmond, Inc., sharing \nthe same indications for use, the same primary wake/sleep detection \nalgorithm, and the same hardware platform. The firmware of \nZmachine DT-200 has been upgraded to further subdivide epochs \ndetected as sleep by the primary wake/sleep detection algorithm into \nlight sleep (stages N1 and N2), deep sleep (N3) and REM. The further \nsubdivision of sleep stages are substantially equivalent to the Sleep \nProfiler algorithm (K120450) by Advanced Brain Monitoring, Inc. \n\n\nThe table below summarizes the technological characteristics of the Zmachine DT-200 in \ncomparison to the predicate devices. \n\n\nZmachine DT-200 \n(New) \nZmachine DT-100 \n(K101830) \nSleep Profiler \n(K120450) \nManufacturer \nName \nConsolidated \nResearch of \nRichmond, Inc. \nConsolidated \nResearch of \nRichmond, Inc. \nAdvanced Brain \nMonitoring, Inc. \n510(k) Number This 510(k) K101830 K120450 \nClassification \nRegulation 882.1400 882.1400 882.1400 \nProduct Code OLZ, OLV and \nOMC OLV and OMC OLZ",
+      "character_count": 1543
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "Page 17-3 \nZmachine DT-200 \n(New) \nZmachine DT-100 \n(K101830) \nSleep Profiler \n(K120450) \nIndications for Use \nThe CRI Zmachine \nis a single-channel, \nEEG acquisition and \nanalysis system, \ndesigned for use in \nthe home or clinical \nenvironments. This \ndevice is intended to \nbe used by qualified \nhealthcare \npractitioners to \nmonitor the wake \nand sleep states of \nadult patients and as \nan adjunct to their \ndiagnosis of sleep \ndisorders. \nThe CRI Zmachine \nis a single-channel, \nEEG acquisition and \nanalysis system, \ndesigned for use in \nthe home or clinical \nenvironments. This \ndevice is intended to \nbe used by qualified \nhealthcare \npractitioners to \nmonitor the wake \nand sleep states of \nadult patients and as \nan adjunct to their \ndiagnosis of sleep \ndisorders. \nSleep Profiler is \nintended for the \ndiagnostic \nevaluation by a \nphysician to assess \nsleep quality in \nadults only. The \nSleep Profiler is a \nsoftware-only \ndevice to be used \nunder the \nsupervision of a \nclinician to analyze \nphysiological \nsignals and \nautomatically score \nsleep study results, \nincluding the \nstaging of sleep, \ndetection of \narousals and \nsnoring. \nPatient Population Adults Adults Adults \nType of Device EEG-based sleep \nmonitor \nEEG-based sleep \nmonitor \nEEG-based sleep \nstaging software \nNo. of EEG \nChannels 1 1 1 \nElectrode \nPlacement Mastoid Mastoid Frontal \nAnalyzes EEG \nData in Real Time Yes Yes Yes \nSleep \nClassification \nWake and N1+N2 \n(light sleep), N3 \n(deep sleep), and \nREM \nWake and Sleep Wake and N1, N2, \nN3, and REM \nEEG Analysis \nMethodology \nProprietary \nalgorithm using \ntime and frequency \ndomain features \nProprietary \nalgorithm using \ntime and frequency \ndomain features \nProprietary \nalgorithm using \ntime and frequency \ndomain features",
+      "character_count": 1763
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Page 17-4 \nZmachine DT-200 \n(New) \nZmachine DT-100 \n(K101830) \nSleep Profiler \n(K120450) \nProvides \nInformation to \nAssist the \nHealthcare \nProvider in \nEvaluation of \nTreatment \nEfficacy? \nYes Yes Yes \nCalculates \nSummary Sleep \nStatistics? \nYes Yes Yes \nBattery Powered? Yes Yes Yes \n\n\nPerformance Testing - Clinical \nA clinical study was conducted in which overnight laboratory polysomnographic (PSG) \ndata, and data from the differential-mastoids (A\n1-A2), were acquired from 99 subjects \n(52F/47M, 18-60 years, median age 32.7 years), including those reporting normal sleep \nand those reporting complaints consistent with various sleep disorders. \n\nThe standard PSG channels were scored independently by two to four certified \npolysomnographic technologists, using the Rechtschaffen and Kales (R&K) visual sleep \nstaging guidelines. The individual score files were then combined, on a 30-second epoch \nbasis, using a majority voting rule, to generate a single score file per subject (“Human \nScores”). EEG data acquired from A\n1-A2 was processed by the Zmachine Algorithm \nwhich determines wake, light sleep (N1&N2), deep sleep (N3) and REM on a 30-second \nepoch basis. \n\nThe performance of the Zmachine Algorithm was evaluated by comparing against the \nHuman Scores for stages wake, light sleep (N1&N2), deep sleep (N3) and REM. \nOverall, kappa agreement between Zmachine Algorithm and Human Scores for 85,206 \nepochs is 0.716, with P1 (the probability that Zmachine will correctly assign an epoch \nwhen the PSG Consensus assigns the epoch to a particular stage) and P2 (when the \nZmachine assigns an epoch to a particular stage, the probability of such assignment is \ncorrect) for each stage summarized in the table below. \n\nZmachine DT-200 \nWake Light Sleep Deep Sleep REM \nP1 0.908 0.835 0.738 0.721 \nP2 0.843 0.848 0.782 0.732 \n\nUsing the performance data published in K120450 (44 subject study) of the predicate \nSleep Profiler algorithm, stages N1 and N2 were combined into Light Sleep for both the",
+      "character_count": 2010
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Page 17-5 \nalgorithm and scorers (to permit a direct comparison with the Zmachine Algorithm) with \na resulting P1 and P2 for each stage summarized in the table below. \n\nSleep Profiler \nWake Light Sleep Deep Sleep REM \nP1 0.789 0.855 0.757 0.719 \nP2 0.831 0.812 0.787 0.782 \n\nThe P1 and P2 values obtained during clinical validation of the Zmachine Algorithm are \nsimilar to those obtained by the predicate Sleep Profiler algorithm, which was validated \nusing its own data set. \n\n\nConclusion \nThis submission demonstrates that the Zmachine is substantially equivalent to the \npredicate devices based on descriptive information and clinical performance testing.",
+      "character_count": 659
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K142825-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "native",
+      "character_count": 59
+    },
+    {
+      "block_id": "K142825-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Food and Drug Administration \n10903 New Hampshire Avenue \nDocument Control Center - WO66-G609 \nSilver Spring, MD 20993-0002",
+      "extraction_method": "native",
+      "character_count": 123
+    },
+    {
+      "block_id": "K142825-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Consolidated Research Of Richmond, Inc \nƏ Richard Kaplan \nPresident \n26250 Euclid Ave \nSuite 709 \nEuclid, Ohio 44132",
+      "extraction_method": "native",
+      "character_count": 116
+    },
+    {
+      "block_id": "K142825-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K142825 \nTrade/Device Name: Zmachine DT-200 \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ, OLV, OMC \nDated: December 15, 2014 \nReceived: December 19, 2014",
+      "extraction_method": "native",
+      "character_count": 235
+    },
+    {
+      "block_id": "K142825-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Dear Dr. Kaplan,",
+      "extraction_method": "native",
+      "character_count": 16
+    },
+    {
+      "block_id": "K142825-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device \nreferenced above and have determined the device is substantially equivalent (for the indications \nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate \ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to \ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug, \nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). \nYou may, therefore, market the device, subject to the general controls provisions of the Act. The \ngeneral controls provisions of the Act include requirements for annual registration, listing of \ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability \nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "native",
+      "character_count": 1043
+    },
+    {
+      "block_id": "K142825-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), \nit may be subject to additional controls. Existing major regulations affecting your device can be \nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may \npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K142825-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean \nthat FDA has made a determination that your device complies with other requirements of the Act \nor any Federal statutes and regulations administered by other Federal agencies. You must comply \nwith all the Act's requirements, including, but not limited to: registration and listing (21 CFR \nPart 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-\nJanuary 20, 2015",
+      "extraction_method": "native",
+      "character_count": 497
+    },
+    {
+      "block_id": "K142825-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "- Richard Kaplan Page 2\nrelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in \nthe quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product \nradiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 295
+    },
+    {
+      "block_id": "K142825-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please \ncontact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041 \nor (301) 796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note \nthe regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 \nCFR Part 803), please go to \nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office \nof Surveillance and Biometrics/Division of Postmarket Surveillance. \nYou may obtain other general information on your responsibilities under the Act from the \nDivision of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) \n796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. \nSincerely yours, \nCarlos L. Peña, PhD, MS \nDirector \nDivision of Neurological \nand Physical Medicine Devices \nOffice of Device Evaluation \nCenter for Devices and Radiological Health \nEnclosure \nfor\u0003\nFelipe Aguel -S",
+      "extraction_method": "native",
+      "character_count": 1216
+    },
+    {
+      "block_id": "K142825-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK142825\nDevice Name\nZmachine DT-200\nIndications for Use (Describe)\nThe CRI Zmachine is a single-channel, EEG acquisition and analysis system, designed for use in the home or clinical \nenvironments. This device is intended to be used by qualified healthcare practitioners to monitor the wake and sleep states \nof adult patients and as an adjunct to their diagnosis of sleep disorders.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "native",
+      "character_count": 1735
+    },
+    {
+      "block_id": "K142825-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Page 17-1",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K142825-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "510(k) Summary",
+      "text": "510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K142825-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Zmachine® 510(k) Notification \nConsolidated Research of Richmond, Inc.",
+      "extraction_method": "native",
+      "character_count": 70
+    },
+    {
+      "block_id": "K142825-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "510(k) Owner Consolidated Research of Richmond, Inc. \nAddress 26250 Euclid Avenue, Suite 709 \nEuclid, Ohio 44132 \nPhone: (216) 289-2331 \nFax: (216) 393-0079 \nContact \nPerson \nRichard F. Kaplan, Ph.D., President \nPhone: (216) 289-2331 Extension 1001 \nE-mail: kaplan@cri-systems.com \nDate \nPrepared \nDecember 16, 2014 \nTrade Name Zmachine\n® DT-200 \nCommon \nName \nSleep monitoring system \nClassification \nName \nElectroencephalograph \n21 CFR 882.1400 \nProduct \nCodes \nOLZ, OLV and OMC \nIndications \nfor Use \nThe CRI Zmachine is a single-channel, EEG acquisition and analysis \nsystem, designed for use in the home or clinical environments. This \ndevice is intended to be used by qualified healthcare practitioners to \nmonitor the wake and sleep states of adult patients and as an adjunct to \ntheir diagnosis of sleep disorders.",
+      "extraction_method": "native",
+      "character_count": 822
+    },
+    {
+      "block_id": "K142825-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Page 17-2 \nDevice \nDescription \nThe CRI Zmachine is a battery-operated, single-channel, EEG \nacquisition and analysis system. The Zmachine system includes the \nZmachine device, disposable EEG sensors, sensor cable, and a wall \ncharger. The device operates on data from the differential-mastoid \nEEG channel to determine the wake and sleep states (wake, light sleep, \ndeep sleep and REM) of the patient every 30 seconds. \nSubstantial \nEquivalence \nThe Zmachine DT-200 is substantially equivalent to the Zmachine DT-\n100 (K101830) by Consolidated Research of Richmond, Inc., sharing \nthe same indications for use, the same primary wake/sleep detection \nalgorithm, and the same hardware platform. The firmware of \nZmachine DT-200 has been upgraded to further subdivide epochs \ndetected as sleep by the primary wake/sleep detection algorithm into \nlight sleep (stages N1 and N2), deep sleep (N3) and REM. The further \nsubdivision of sleep stages are substantially equivalent to the Sleep \nProfiler algorithm (K120450) by Advanced Brain Monitoring, Inc.",
+      "extraction_method": "native",
+      "character_count": 1048
+    },
+    {
+      "block_id": "K142825-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "The table below summarizes the technological characteristics of the Zmachine DT-200 in \ncomparison to the predicate devices.",
+      "extraction_method": "native",
+      "character_count": 124
+    },
+    {
+      "block_id": "K142825-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Zmachine DT-200 \n(New) \nZmachine DT-100 \n(K101830) \nSleep Profiler \n(K120450) \nManufacturer \nName \nConsolidated \nResearch of \nRichmond, Inc. \nConsolidated \nResearch of \nRichmond, Inc. \nAdvanced Brain \nMonitoring, Inc. \n510(k) Number This 510(k) K101830 K120450 \nClassification \nRegulation 882.1400 882.1400 882.1400 \nProduct Code OLZ, OLV and \nOMC OLV and OMC OLZ",
+      "extraction_method": "native",
+      "character_count": 363
+    },
+    {
+      "block_id": "K142825-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Page 17-3 \nZmachine DT-200 \n(New) \nZmachine DT-100 \n(K101830) \nSleep Profiler \n(K120450) \nIndications for Use \nThe CRI Zmachine \nis a single-channel, \nEEG acquisition and \nanalysis system, \ndesigned for use in \nthe home or clinical \nenvironments. This \ndevice is intended to \nbe used by qualified \nhealthcare \npractitioners to \nmonitor the wake \nand sleep states of \nadult patients and as \nan adjunct to their \ndiagnosis of sleep \ndisorders. \nThe CRI Zmachine \nis a single-channel, \nEEG acquisition and \nanalysis system, \ndesigned for use in \nthe home or clinical \nenvironments. This \ndevice is intended to \nbe used by qualified \nhealthcare \npractitioners to \nmonitor the wake \nand sleep states of \nadult patients and as \nan adjunct to their \ndiagnosis of sleep \ndisorders. \nSleep Profiler is \nintended for the \ndiagnostic \nevaluation by a \nphysician to assess \nsleep quality in \nadults only. The \nSleep Profiler is a \nsoftware-only \ndevice to be used \nunder the \nsupervision of a \nclinician to analyze \nphysiological \nsignals and \nautomatically score \nsleep study results, \nincluding the \nstaging of sleep, \ndetection of \narousals and \nsnoring. \nPatient Population Adults Adults Adults \nType of Device EEG-based sleep \nmonitor \nEEG-based sleep \nmonitor \nEEG-based sleep \nstaging software \nNo. of EEG \nChannels 1 1 1 \nElectrode \nPlacement Mastoid Mastoid Frontal \nAnalyzes EEG \nData in Real Time Yes Yes Yes \nSleep \nClassification \nWake and N1+N2 \n(light sleep), N3 \n(deep sleep), and \nREM \nWake and Sleep Wake and N1, N2, \nN3, and REM \nEEG Analysis \nMethodology \nProprietary \nalgorithm using \ntime and frequency \ndomain features \nProprietary \nalgorithm using \ntime and frequency \ndomain features \nProprietary \nalgorithm using \ntime and frequency \ndomain features",
+      "extraction_method": "native",
+      "character_count": 1763
+    },
+    {
+      "block_id": "K142825-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Page 17-4 \nZmachine DT-200 \n(New) \nZmachine DT-100 \n(K101830) \nSleep Profiler \n(K120450) \nProvides \nInformation to \nAssist the \nHealthcare \nProvider in \nEvaluation of \nTreatment \nEfficacy? \nYes Yes Yes \nCalculates \nSummary Sleep \nStatistics? \nYes Yes Yes \nBattery Powered? Yes Yes Yes",
+      "extraction_method": "native",
+      "character_count": 284
+    },
+    {
+      "block_id": "K142825-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Performance Testing - Clinical \nA clinical study was conducted in which overnight laboratory polysomnographic (PSG) \ndata, and data from the differential-mastoids (A\n1-A2), were acquired from 99 subjects \n(52F/47M, 18-60 years, median age 32.7 years), including those reporting normal sleep \nand those reporting complaints consistent with various sleep disorders.",
+      "extraction_method": "native",
+      "character_count": 363
+    },
+    {
+      "block_id": "K142825-P007-B003",
+      "page": 7,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "The standard PSG channels were scored independently by two to four certified \npolysomnographic technologists, using the Rechtschaffen and Kales (R&K) visual sleep \nstaging guidelines. The individual score files were then combined, on a 30-second epoch \nbasis, using a majority voting rule, to generate a single score file per subject (“Human \nScores”). EEG data acquired from A\n1-A2 was processed by the Zmachine Algorithm \nwhich determines wake, light sleep (N1&N2), deep sleep (N3) and REM on a 30-second \nepoch basis.",
+      "extraction_method": "native",
+      "character_count": 520
+    },
+    {
+      "block_id": "K142825-P007-B004",
+      "page": 7,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "The performance of the Zmachine Algorithm was evaluated by comparing against the \nHuman Scores for stages wake, light sleep (N1&N2), deep sleep (N3) and REM. \nOverall, kappa agreement between Zmachine Algorithm and Human Scores for 85,206 \nepochs is 0.716, with P1 (the probability that Zmachine will correctly assign an epoch \nwhen the PSG Consensus assigns the epoch to a particular stage) and P2 (when the \nZmachine assigns an epoch to a particular stage, the probability of such assignment is \ncorrect) for each stage summarized in the table below.",
+      "extraction_method": "native",
+      "character_count": 552
+    },
+    {
+      "block_id": "K142825-P007-B005",
+      "page": 7,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Zmachine DT-200 \nWake Light Sleep Deep Sleep REM \nP1 0.908 0.835 0.738 0.721 \nP2 0.843 0.848 0.782 0.732",
+      "extraction_method": "native",
+      "character_count": 104
+    },
+    {
+      "block_id": "K142825-P007-B006",
+      "page": 7,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Using the performance data published in K120450 (44 subject study) of the predicate \nSleep Profiler algorithm, stages N1 and N2 were combined into Light Sleep for both the",
+      "extraction_method": "native",
+      "character_count": 171
+    },
+    {
+      "block_id": "K142825-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Page 17-5 \nalgorithm and scorers (to permit a direct comparison with the Zmachine Algorithm) with \na resulting P1 and P2 for each stage summarized in the table below.",
+      "extraction_method": "native",
+      "character_count": 166
+    },
+    {
+      "block_id": "K142825-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Sleep Profiler \nWake Light Sleep Deep Sleep REM \nP1 0.789 0.855 0.757 0.719 \nP2 0.831 0.812 0.787 0.782",
+      "extraction_method": "native",
+      "character_count": 103
+    },
+    {
+      "block_id": "K142825-P008-B003",
+      "page": 8,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "The P1 and P2 values obtained during clinical validation of the Zmachine Algorithm are \nsimilar to those obtained by the predicate Sleep Profiler algorithm, which was validated \nusing its own data set.",
+      "extraction_method": "native",
+      "character_count": 201
+    },
+    {
+      "block_id": "K142825-P008-B004",
+      "page": 8,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Conclusion \nThis submission demonstrates that the Zmachine is substantially equivalent to the \npredicate devices based on descriptive information and clinical performance testing.",
+      "extraction_method": "native",
+      "character_count": 179
+    }
+  ],
+  "claims": []
+}

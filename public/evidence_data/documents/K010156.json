@@ -1,0 +1,29 @@
+{
+  "document": {
+    "k_number": "K010156",
+    "corpus": "MNR",
+    "product_code": "MNR",
+    "device_name": "SLEEP PAT 200 DEVICE",
+    "applicant": "Itamar Medical (C.M.) 1997 , Ltd.",
+    "decision_date": "2002-06-19",
+    "document_type": "Statement",
+    "source_status": "unavailable",
+    "download_status": "public_pdf_unavailable",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf1/K010156.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K010156",
+    "sha256": "",
+    "page_count": 0,
+    "native_pages": 0,
+    "ocr_pages": 0,
+    "family_id": "DF-0100",
+    "family_name": "WatchPAT",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "source unavailable"
+  },
+  "pages": [],
+  "blocks": [],
+  "claims": []
+}

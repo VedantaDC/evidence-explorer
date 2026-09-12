@@ -1,0 +1,493 @@
+{
+  "document": {
+    "k_number": "K261747",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "Report Studio",
+    "applicant": "Beacon Biosignals, Inc.",
+    "decision_date": "2026-08-25",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf26/K261747.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K261747",
+    "sha256": "54049446c797916e628c631227694a304896be03eeef07e8cc1c9c20f21966cb",
+    "page_count": 12,
+    "native_pages": 11,
+    "ocr_pages": 1,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 08 . 0 5 \nSilver Spring, MD 20993 \nwww.fda.gov \n\n\n\n\n\n\nAugust 25, 2026 \n\nBeacon Biosignals, Inc. \nTahir Rizvi \nVice President, Regulatory Affairs \n22 Boston Wharf Rd. \n7th Floor, Unit 41 \nBoston, Massachusetts 02210 \n\n\nRe: K261747 \nTrade/Device Name: Report Studio \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLV \nDated: May 27, 2026 \nReceived: May 27, 2026 \n\nDear Tahir Rizvi: \n\nWe have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register. \n\nAdditional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\"",
+      "character_count": 2470
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K261747 - Tahir Rizvi Page \n\n2 \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download). \n\nYour device is also subject to, among other requirements, the Quality Management System Regulation \n(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), \nISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 \nclause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, \nthe QMSR requires device manufacturers to review and approve changes to device design and production \n(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical \nDevice File (ISO 13485 clause 4.2.3). \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the Quality Management \nSystem Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR \nPart 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control \nprovisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. \n\nAll medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system. \n\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \n\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "character_count": 4021
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "K261747 - Tahir Rizvi Page \n\n3 \n\nSincerely, \n\n\n\n\n\nPatrick Antkowiak \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health \n\nEnclosure \n\n\nPatrick Antkowiak -S",
+      "character_count": 356
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "Please type in the marketing application/submission number, if it is known. This\ntextbox will be left blank for original applications/submissions.\n\nK261747\n\n] Please provide the device trade name(s).\n\nReport Studio\n\n| Please provide your Indications for Use below. i\n\nReport Studio is a web-based software-only medical device indicated for use in diagnostic evaluation by\nqualified healthcare professionals to assess sleep quality and as an aid for the diagnosis of sleep and\nrespiratory-related disorders.\n\nReport Studio supports the display, review, and manual scoring of physiological recordings containing\ncardiopulmonary, electroencephalographic (EEG), and/or other polysomnographic (PSG) signals. Report\nStudio supports display and user adjudication of recording metadata and annotations, can report basic\nstatistical information regarding such content, and can aid in the generation of summary reports from user\ninput, but does not itself independently provide automated sleep staging or similar capabilities.\n\nPlease select the types of uses (select one or both, as Prescription Use (21 CFR 801 Subpart D\napplicable). [_] Over-The-Counter Use (21 CFR 801 Subpart C)\n\nPlease select the age group(s) for which the device(s) is _[_] Neonates/Newborns (Birth to < 29 days old)\nto be used. [_] Infants (29 days old to < 2 years old)\n\nCT Children (2 years old to < 12 years old)\nCT] Adolescents (12 years old to < 22 years old)\nCT] Adults (22 years old and greater)",
+      "character_count": 1467
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "Page 1 of 8 \n510(K) SUMMARY In accordance with 21 CFR 807.92 the following summary of information is provided: Submitter Date Prepared August 16, 2026 510(k) Number K261747 Device Manufacturer Beacon Biosignals, Inc. 22 Boston Wharf Road 7th floor, Unit 41 Boston, MA 02210 United States of America \nPrimary Contact Person Tahir Rizvi, Vice President of Regulatory Affairs Email: tahir.rizvi@beacon.bio Phone: +1 925 577 7605 \nDevice Information Device Name/Trade Name Report Studio Regulation Number 21 CFR 882.1400 (Electroencephalograph) Classification Class II Device Standard Polysomnograph With Electroencephalograph Product Code OLV 510(k) Review Panel Neurology Predicate Device Predicate Manufacturer Nox Medical ehf Katrinartuni 2, IS - 105 Reykjavik, Iceland Predicate Device/Trade Name Noxturnal Web Predicate 510(k) K241288",
+      "character_count": 836
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "Page 2 of 8 \n1. DEVICE DESCRIPTION Report Studio is a software-only medical device (SaMD) delivered as a web-based application, intended for use by qualified healthcare professionals including sleep physicians, interpreting physicians, and Registered Polysomnographic Technologists (RPSGTs), in a supervised clinical environment. The device is indicated for diagnostic evaluation to assess sleep quality and as an aid in the diagnosis of sleep and respiratory-related disorders. It supports the display, review, and manual scoring of physiological recordings containing cardiopulmonary, electroencephalographic (EEG), and/or other polysomnographic (PSG) signals. Report Studio operates through two integrated software modules. The Signal Viewer renders biosignal data with flexible navigation modes, adjustable display settings, and tools for epoch-by-epoch manual sleep staging (Wake, N1, N2, N3, and REM per AASM guidelines) and event editing, including the ability to add, move, and delete scored events on any channel. The Report Builder enables clinicians to compile findings, enter interpretive text, reuse saved text snippets, collaborate via section-level comments, apply a digital signature, and export a finalized PDF report. The device performs basic statistical calculations on user-adjudicated annotations but does not autonomously generate clinical conclusions or perform automated sleep staging. 2. INTENDED USE/INDICATIONS FOR USE Intended Use: Report Studio is intended to be used by qualified healthcare professionals to display, review, and analyze physiological signals collected during sleep studies. It is a software-only medical device that provides tools to assist in the assessment of sleep quality and in the diagnosis of sleep and respiratory-related sleep disorders. Report Studio supports manual adjudication of metadata and annotations, and calculations of basic statistical information regarding such content. The device is intended for use in a clinical environment under the supervision of a qualified clinician. Indications for Use: Report Studio is a web-based software-only medical device indicated for use in diagnostic evaluation by qualified healthcare professionals to assess sleep quality and as an aid for the diagnosis of sleep and respiratory-related disorders. Report Studio supports the display, review, and manual scoring of physiological recordings containing cardiopulmonary, electroencephalographic (EEG), and/or",
+      "character_count": 2462
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Page 3 of 8 \nother polysomnographic (PSG) signals. Report Studio supports display and user adjudication of recording metadata and annotations, can report basic statistical information regarding such content, and can aid in the generation of summary reports from user input, but does not itself independently provide automated sleep staging or similar capabilities. 3. SUMMARY OF TECHNOLOGICAL CHARACTERISTICS Report Studio and the predicate device, Noxturnal Web (K241288), share the same fundamental intended use and technological characteristics in all clinically material respects. Both are web-based, software-only medical devices indicated for use by qualified healthcare professionals to display, review, manually score, and generate clinical reports from pre-recorded physiological sleep study data, as an aid in assessing sleep quality and diagnosing sleep and respiratory-related disorders in a supervised clinical environment. Neither device performs autonomous scoring or diagnosis and for both medical devices, the clinician retains full responsibility for interpretation and clinical conclusions. Technologically, the two devices are equivalent across all relevant dimensions. Both accept physiological inputs (EEG, EOG, EMG, ECG, respiratory effort, airflow, oxygen saturation, and body position/activity), provide a multi-channel signal viewer for navigating and configuring pre-recorded sleep data, support manual sleep staging across all AASM-defined stages (Wake, N1, N2, N3, and REM), enable manual annotation of respiratory and arousal events, calculate AASM-standardized indices including the AHI, and generate clinician-authored reports with digital signature. Both operate as cloud-based software accessible via modern internet browsers, requiring no installation on the user’s computing machine. There are no significant differences in technological characteristics between the two medical devices. A substantial equivalence table is provided in Table 1. 4. NONCLINICAL TESTING Software verification and validation testing were conducted, and documentation was provided as recommended by FDA’s Guidance “Content of Premarket Submission for Device Software Functions” (issued June 14, 2023) for devices classified as “Basic” Level of Concern as defined in the Guidance. Report Studio was developed and tested in accordance with Beacon Biosignals’ Quality Management System. Software documentation generated as part of the design process included: ● Software/Firmware Description ● Risk Management File ● Software Requirements Specifications",
+      "character_count": 2563
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Page 4 of 8 \n● System and Software Architecture ● Software Lifecycle Process Description ● Software Testing as Part of Verification and Validation ● Software Version/Revision Level History ● Unresolved Software Anomalies ● Cybersecurity 5. CLINICAL TESTING Clinical data was not relied upon for a determination of substantial equivalence. 6. CONCLUSION Report Studio is substantially equivalent to the predicate device, Noxturnal Web (K241288). Report Studio has the same intended use as the predicate device. Many of the technological characteristics are the same for the subject and predicate devices. The differences in technological characteristics between the subject and predicate devices, including the absence of an age restriction on the indicated patient population of Report Studio, do not raise new questions of safety or effectiveness. The results of the comparative analysis, software and performance testing validate that Report Studio meets its pre-specified requirements, performs as intended, and is as safe and effective as the predicate device. Therefore, it is determined that Report Studio is substantially equivalent to Noxturnal Web (K241288).",
+      "character_count": 1167
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "Table 1: Substantial Equivalence Table Category Subject Device: Report Studio Predicate Device: Noxturnal Web (K241288) Comparison Description Manufacturer Beacon Biosignals, Inc. Nox Medical ehf N/A Regulation Description 21 CFR 882.1400 21 CFR 882.1400 Same Regulation Name Electroencephalograph Electroencephalograph Same Regulatory Class Class II Class II Same Product Code OLV OLV Same Comparison of Intended and Indications of Use Intended Use Report Studio is intended to be used by qualified healthcare professionals to display, review, and analyze physiological signals collected during sleep studies. It is a software-only medical device that provides tools to assist in the assessment of sleep quality and in the diagnosis of sleep and respiratory-related sleep disorders. Report Studio supports manual adjudication of metadata and annotations; and calculations of basic statistical information regarding such content. The device is intended for use in a clinical environment under the supervision of a qualified clinician. \nNoxturnal Web is indicated for use in the displaying, analysis and printing of pre-recorded biophysical parameters acquired during sleep for the purpose of assisting in the diagnosis of sleep and respiratory related sleep disorders. Noxturnal Web is intended to be used as an aid for the diagnosis of sleep and respiratory-related sleep disorders in adults only. \nSame intended use. Both are web-based, software only medical devices used by qualified healthcare professionals to display, review, manually score, and generate clinical reports from pre-recorded physiological sleep study recordings, with all clinical interpretation and diagnostic conclusions remaining the responsibility of the supervising clinician. Indications for Use Report Studio is a web-based software only medical device indicated for use in Noxturnal Web is intended to be used for the diagnostic evaluation by a Similar.",
+      "character_count": 1932
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "diagnostic evaluation by qualified healthcare professionals to assess sleep quality and as an aid for the diagnosis of sleep and respiratory related disorders. Report Studio supports the display, review, and manual scoring of physiological recordings containing cardiopulmonary, electroencephalographic (EEG), and/or other polysomnographic (PSG) signals. Report Studio supports display and user adjudication of recording metadata and annotations, can report basic statistical information regarding such content, and can aid in the generation of summary reports from user input, but does not itself independently provide automated sleep staging or similar capabilities. \nphysician to assess sleep quality and as an aid for the diagnosis of sleep and respiratory-related sleep disorders in adults only. Noxturnal Web is a software-only medical device to be used to analyze physiological signals and manually score sleep study results, including the staging of sleep, AHI, and detection of sleep disordered breathing events including obstructive apneas. It is intended to be used under the supervision of a clinician in a clinical environment. \nBoth devices are indicated for diagnostic evaluation by a physician to assess sleep quality and as an aid in the diagnosis of sleep and respiratory-related sleep disorders, with Report Studio's indication differing only in that it does not restrict the patient population to adults, a distinction addressed separately in the target patient population rationale below. \nEnvironment of Use Clinical environments Clinical Environments Same Target Users Medical Professionals Medical Professionals Same Target Patient Population General population Adults Expanded. Report Studio does not impose an age restriction on its indicated patient population because it is a passive display and manual annotation tool whose software function is identical regardless of patient age. This",
+      "character_count": 1915
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "difference does not raise questions of safety or effectiveness as the responsibility for applying age-appropriate scoring criteria rests entirely with the qualified clinician user, not the device. Type of Use Prescription use only Prescription use only Same Comparison of the Technological Characteristics Clinical Criteria: Aid/Assist in the diagnosis of sleep and respiratory related sleep disorders \nYes Yes Same \nArousal Scoring Yes Yes Same Respiratory Events Scoring Yes Yes Same Sleep Study Scoring Method Manual Scoring Manual Scoring Same Sleep Stage Scoring (W, N1/N2/N3, R) Yes Yes Same Report Generation Yes Yes Both subject device and predicate device automatically generate draft reports by the software but require clinician review and sign off before the report can be finalized.",
+      "character_count": 795
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "Calculation of AASM Standardized Indices Yes Yes Same \nData Inputs: EEG Yes Yes Same EOG Yes Yes Same EMG Yes Yes Same ECG Yes Yes Same Chest / Abdomen movements / Respiratory Effort Yes Yes Same \nAirflow Yes Yes Same Oxygen Saturation Yes Yes Same Body Position / Activity Yes Yes Same Device Characteristics Hardware Components Not included Not included Same Software Type Web-based Web-based Same Physical Characteristics Web-based software operating in the cloud with Windows or Mac OS Web-based software operating in the cloud with Windows or Mac OS Same Other Standard of Scoring Manual American Academy of Sleep Medicine (AASM) Manual for the Scoring of Sleep and Associated Events American Academy of Sleep Medicine (AASM) Manual for the Scoring of Sleep and Associated Events \nSame",
+      "character_count": 790
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K261747-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 08 . 0 5 \nSilver Spring, MD 20993 \nwww.fda.gov",
+      "extraction_method": "native",
+      "character_count": 130
+    },
+    {
+      "block_id": "K261747-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "August 25, 2026",
+      "extraction_method": "native",
+      "character_count": 15
+    },
+    {
+      "block_id": "K261747-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Beacon Biosignals, Inc. \nTahir Rizvi \nVice President, Regulatory Affairs \n22 Boston Wharf Rd. \n7th Floor, Unit 41 \nBoston, Massachusetts 02210",
+      "extraction_method": "native",
+      "character_count": 142
+    },
+    {
+      "block_id": "K261747-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K261747 \nTrade/Device Name: Report Studio \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLV \nDated: May 27, 2026 \nReceived: May 27, 2026",
+      "extraction_method": "native",
+      "character_count": 213
+    },
+    {
+      "block_id": "K261747-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Dear Tahir Rizvi:",
+      "text": "Dear Tahir Rizvi:",
+      "extraction_method": "native",
+      "character_count": 17
+    },
+    {
+      "block_id": "K261747-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "We have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "native",
+      "character_count": 1351
+    },
+    {
+      "block_id": "K261747-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K261747-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "Additional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\"",
+      "extraction_method": "native",
+      "character_count": 205
+    },
+    {
+      "block_id": "K261747-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "K261747 - Tahir Rizvi Page",
+      "extraction_method": "native",
+      "character_count": 26
+    },
+    {
+      "block_id": "K261747-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "2 \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download).",
+      "extraction_method": "native",
+      "character_count": 173
+    },
+    {
+      "block_id": "K261747-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "Your device is also subject to, among other requirements, the Quality Management System Regulation \n(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), \nISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 \nclause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, \nthe QMSR requires device manufacturers to review and approve changes to device design and production \n(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical \nDevice File (ISO 13485 clause 4.2.3).",
+      "extraction_method": "native",
+      "character_count": 661
+    },
+    {
+      "block_id": "K261747-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the Quality Management \nSystem Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR \nPart 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control \nprovisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 1112
+    },
+    {
+      "block_id": "K261747-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "All medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.",
+      "extraction_method": "native",
+      "character_count": 920
+    },
+    {
+      "block_id": "K261747-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems.",
+      "extraction_method": "native",
+      "character_count": 351
+    },
+    {
+      "block_id": "K261747-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "For comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "extraction_method": "native",
+      "character_count": 760
+    },
+    {
+      "block_id": "K261747-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "K261747 - Tahir Rizvi Page",
+      "extraction_method": "native",
+      "character_count": 26
+    },
+    {
+      "block_id": "K261747-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "3",
+      "extraction_method": "native",
+      "character_count": 1
+    },
+    {
+      "block_id": "K261747-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "Sincerely,",
+      "extraction_method": "native",
+      "character_count": 10
+    },
+    {
+      "block_id": "K261747-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "Patrick Antkowiak \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health",
+      "extraction_method": "native",
+      "character_count": 270
+    },
+    {
+      "block_id": "K261747-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "Enclosure",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K261747-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "Patrick Antkowiak -S",
+      "extraction_method": "native",
+      "character_count": 20
+    },
+    {
+      "block_id": "K261747-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Tahir Rizvi:",
+      "text": "Please type in the marketing application/submission number, if it is known. This\ntextbox will be left blank for original applications/submissions.",
+      "extraction_method": "ocr",
+      "character_count": 146
+    },
+    {
+      "block_id": "K261747-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "K261747",
+      "text": "K261747",
+      "extraction_method": "ocr",
+      "character_count": 7
+    },
+    {
+      "block_id": "K261747-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "K261747",
+      "text": "] Please provide the device trade name(s).",
+      "extraction_method": "ocr",
+      "character_count": 42
+    },
+    {
+      "block_id": "K261747-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "K261747",
+      "text": "Report Studio",
+      "extraction_method": "ocr",
+      "character_count": 13
+    },
+    {
+      "block_id": "K261747-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "| Please provide your Indications for Use below. i",
+      "extraction_method": "ocr",
+      "character_count": 50
+    },
+    {
+      "block_id": "K261747-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "Report Studio is a web-based software-only medical device indicated for use in diagnostic evaluation by\nqualified healthcare professionals to assess sleep quality and as an aid for the diagnosis of sleep and\nrespiratory-related disorders.",
+      "extraction_method": "ocr",
+      "character_count": 238
+    },
+    {
+      "block_id": "K261747-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "Report Studio supports the display, review, and manual scoring of physiological recordings containing\ncardiopulmonary, electroencephalographic (EEG), and/or other polysomnographic (PSG) signals. Report\nStudio supports display and user adjudication of recording metadata and annotations, can report basic\nstatistical information regarding such content, and can aid in the generation of summary reports from user\ninput, but does not itself independently provide automated sleep staging or similar capabilities.",
+      "extraction_method": "ocr",
+      "character_count": 508
+    },
+    {
+      "block_id": "K261747-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "Please select the types of uses (select one or both, as Prescription Use (21 CFR 801 Subpart D\napplicable). [_] Over-The-Counter Use (21 CFR 801 Subpart C)",
+      "extraction_method": "ocr",
+      "character_count": 155
+    },
+    {
+      "block_id": "K261747-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "Please select the age group(s) for which the device(s) is _[_] Neonates/Newborns (Birth to < 29 days old)\nto be used. [_] Infants (29 days old to < 2 years old)",
+      "extraction_method": "ocr",
+      "character_count": 160
+    },
+    {
+      "block_id": "K261747-P004-B010",
+      "page": 4,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "CT Children (2 years old to < 12 years old)\nCT] Adolescents (12 years old to < 22 years old)\nCT] Adults (22 years old and greater)",
+      "extraction_method": "ocr",
+      "character_count": 130
+    },
+    {
+      "block_id": "K261747-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "Page 1 of 8 \n510(K) SUMMARY In accordance with 21 CFR 807.92 the following summary of information is provided: Submitter Date Prepared August 16, 2026 510(k) Number K261747 Device Manufacturer Beacon Biosignals, Inc. 22 Boston Wharf Road 7th floor, Unit 41 Boston, MA 02210 United States of America \nPrimary Contact Person Tahir Rizvi, Vice President of Regulatory Affairs Email: tahir.rizvi@beacon.bio Phone: +1 925 577 7605 \nDevice Information Device Name/Trade Name Report Studio Regulation Number 21 CFR 882.1400 (Electroencephalograph) Classification Class II Device Standard Polysomnograph With Electroencephalograph Product Code OLV 510(k) Review Panel Neurology Predicate Device Predicate Manufacturer Nox Medical ehf Katrinartuni 2, IS - 105 Reykjavik, Iceland Predicate Device/Trade Name Noxturnal Web Predicate 510(k) K241288",
+      "extraction_method": "native",
+      "character_count": 836
+    },
+    {
+      "block_id": "K261747-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "Page 2 of 8 \n1. DEVICE DESCRIPTION Report Studio is a software-only medical device (SaMD) delivered as a web-based application, intended for use by qualified healthcare professionals including sleep physicians, interpreting physicians, and Registered Polysomnographic Technologists (RPSGTs), in a supervised clinical environment. The device is indicated for diagnostic evaluation to assess sleep quality and as an aid in the diagnosis of sleep and respiratory-related disorders. It supports the display, review, and manual scoring of physiological recordings containing cardiopulmonary, electroencephalographic (EEG), and/or other polysomnographic (PSG) signals. Report Studio operates through two integrated software modules. The Signal Viewer renders biosignal data with flexible navigation modes, adjustable display settings, and tools for epoch-by-epoch manual sleep staging (Wake, N1, N2, N3, and REM per AASM guidelines) and event editing, including the ability to add, move, and delete scored events on any channel. The Report Builder enables clinicians to compile findings, enter interpretive text, reuse saved text snippets, collaborate via section-level comments, apply a digital signature, and export a finalized PDF report. The device performs basic statistical calculations on user-adjudicated annotations but does not autonomously generate clinical conclusions or perform automated sleep staging. 2. INTENDED USE/INDICATIONS FOR USE Intended Use: Report Studio is intended to be used by qualified healthcare professionals to display, review, and analyze physiological signals collected during sleep studies. It is a software-only medical device that provides tools to assist in the assessment of sleep quality and in the diagnosis of sleep and respiratory-related sleep disorders. Report Studio supports manual adjudication of metadata and annotations, and calculations of basic statistical information regarding such content. The device is intended for use in a clinical environment under the supervision of a qualified clinician. Indications for Use: Report Studio is a web-based software-only medical device indicated for use in diagnostic evaluation by qualified healthcare professionals to assess sleep quality and as an aid for the diagnosis of sleep and respiratory-related disorders. Report Studio supports the display, review, and manual scoring of physiological recordings containing cardiopulmonary, electroencephalographic (EEG), and/or",
+      "extraction_method": "native",
+      "character_count": 2462
+    },
+    {
+      "block_id": "K261747-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "Page 3 of 8 \nother polysomnographic (PSG) signals. Report Studio supports display and user adjudication of recording metadata and annotations, can report basic statistical information regarding such content, and can aid in the generation of summary reports from user input, but does not itself independently provide automated sleep staging or similar capabilities. 3. SUMMARY OF TECHNOLOGICAL CHARACTERISTICS Report Studio and the predicate device, Noxturnal Web (K241288), share the same fundamental intended use and technological characteristics in all clinically material respects. Both are web-based, software-only medical devices indicated for use by qualified healthcare professionals to display, review, manually score, and generate clinical reports from pre-recorded physiological sleep study data, as an aid in assessing sleep quality and diagnosing sleep and respiratory-related disorders in a supervised clinical environment. Neither device performs autonomous scoring or diagnosis and for both medical devices, the clinician retains full responsibility for interpretation and clinical conclusions. Technologically, the two devices are equivalent across all relevant dimensions. Both accept physiological inputs (EEG, EOG, EMG, ECG, respiratory effort, airflow, oxygen saturation, and body position/activity), provide a multi-channel signal viewer for navigating and configuring pre-recorded sleep data, support manual sleep staging across all AASM-defined stages (Wake, N1, N2, N3, and REM), enable manual annotation of respiratory and arousal events, calculate AASM-standardized indices including the AHI, and generate clinician-authored reports with digital signature. Both operate as cloud-based software accessible via modern internet browsers, requiring no installation on the user’s computing machine. There are no significant differences in technological characteristics between the two medical devices. A substantial equivalence table is provided in Table 1. 4. NONCLINICAL TESTING Software verification and validation testing were conducted, and documentation was provided as recommended by FDA’s Guidance “Content of Premarket Submission for Device Software Functions” (issued June 14, 2023) for devices classified as “Basic” Level of Concern as defined in the Guidance. Report Studio was developed and tested in accordance with Beacon Biosignals’ Quality Management System. Software documentation generated as part of the design process included: ● Software/Firmware Description ● Risk Management File ● Software Requirements Specifications",
+      "extraction_method": "native",
+      "character_count": 2563
+    },
+    {
+      "block_id": "K261747-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "Page 4 of 8 \n● System and Software Architecture ● Software Lifecycle Process Description ● Software Testing as Part of Verification and Validation ● Software Version/Revision Level History ● Unresolved Software Anomalies ● Cybersecurity 5. CLINICAL TESTING Clinical data was not relied upon for a determination of substantial equivalence. 6. CONCLUSION Report Studio is substantially equivalent to the predicate device, Noxturnal Web (K241288). Report Studio has the same intended use as the predicate device. Many of the technological characteristics are the same for the subject and predicate devices. The differences in technological characteristics between the subject and predicate devices, including the absence of an age restriction on the indicated patient population of Report Studio, do not raise new questions of safety or effectiveness. The results of the comparative analysis, software and performance testing validate that Report Studio meets its pre-specified requirements, performs as intended, and is as safe and effective as the predicate device. Therefore, it is determined that Report Studio is substantially equivalent to Noxturnal Web (K241288).",
+      "extraction_method": "native",
+      "character_count": 1167
+    },
+    {
+      "block_id": "K261747-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "Table 1: Substantial Equivalence Table Category Subject Device: Report Studio Predicate Device: Noxturnal Web (K241288) Comparison Description Manufacturer Beacon Biosignals, Inc. Nox Medical ehf N/A Regulation Description 21 CFR 882.1400 21 CFR 882.1400 Same Regulation Name Electroencephalograph Electroencephalograph Same Regulatory Class Class II Class II Same Product Code OLV OLV Same Comparison of Intended and Indications of Use Intended Use Report Studio is intended to be used by qualified healthcare professionals to display, review, and analyze physiological signals collected during sleep studies. It is a software-only medical device that provides tools to assist in the assessment of sleep quality and in the diagnosis of sleep and respiratory-related sleep disorders. Report Studio supports manual adjudication of metadata and annotations; and calculations of basic statistical information regarding such content. The device is intended for use in a clinical environment under the supervision of a qualified clinician. \nNoxturnal Web is indicated for use in the displaying, analysis and printing of pre-recorded biophysical parameters acquired during sleep for the purpose of assisting in the diagnosis of sleep and respiratory related sleep disorders. Noxturnal Web is intended to be used as an aid for the diagnosis of sleep and respiratory-related sleep disorders in adults only. \nSame intended use. Both are web-based, software only medical devices used by qualified healthcare professionals to display, review, manually score, and generate clinical reports from pre-recorded physiological sleep study recordings, with all clinical interpretation and diagnostic conclusions remaining the responsibility of the supervising clinician. Indications for Use Report Studio is a web-based software only medical device indicated for use in Noxturnal Web is intended to be used for the diagnostic evaluation by a Similar.",
+      "extraction_method": "native",
+      "character_count": 1932
+    },
+    {
+      "block_id": "K261747-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "diagnostic evaluation by qualified healthcare professionals to assess sleep quality and as an aid for the diagnosis of sleep and respiratory related disorders. Report Studio supports the display, review, and manual scoring of physiological recordings containing cardiopulmonary, electroencephalographic (EEG), and/or other polysomnographic (PSG) signals. Report Studio supports display and user adjudication of recording metadata and annotations, can report basic statistical information regarding such content, and can aid in the generation of summary reports from user input, but does not itself independently provide automated sleep staging or similar capabilities. \nphysician to assess sleep quality and as an aid for the diagnosis of sleep and respiratory-related sleep disorders in adults only. Noxturnal Web is a software-only medical device to be used to analyze physiological signals and manually score sleep study results, including the staging of sleep, AHI, and detection of sleep disordered breathing events including obstructive apneas. It is intended to be used under the supervision of a clinician in a clinical environment. \nBoth devices are indicated for diagnostic evaluation by a physician to assess sleep quality and as an aid in the diagnosis of sleep and respiratory-related sleep disorders, with Report Studio's indication differing only in that it does not restrict the patient population to adults, a distinction addressed separately in the target patient population rationale below. \nEnvironment of Use Clinical environments Clinical Environments Same Target Users Medical Professionals Medical Professionals Same Target Patient Population General population Adults Expanded. Report Studio does not impose an age restriction on its indicated patient population because it is a passive display and manual annotation tool whose software function is identical regardless of patient age. This",
+      "extraction_method": "native",
+      "character_count": 1915
+    },
+    {
+      "block_id": "K261747-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "difference does not raise questions of safety or effectiveness as the responsibility for applying age-appropriate scoring criteria rests entirely with the qualified clinician user, not the device. Type of Use Prescription use only Prescription use only Same Comparison of the Technological Characteristics Clinical Criteria: Aid/Assist in the diagnosis of sleep and respiratory related sleep disorders \nYes Yes Same \nArousal Scoring Yes Yes Same Respiratory Events Scoring Yes Yes Same Sleep Study Scoring Method Manual Scoring Manual Scoring Same Sleep Stage Scoring (W, N1/N2/N3, R) Yes Yes Same Report Generation Yes Yes Both subject device and predicate device automatically generate draft reports by the software but require clinician review and sign off before the report can be finalized.",
+      "extraction_method": "native",
+      "character_count": 795
+    },
+    {
+      "block_id": "K261747-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. i",
+      "text": "Calculation of AASM Standardized Indices Yes Yes Same \nData Inputs: EEG Yes Yes Same EOG Yes Yes Same EMG Yes Yes Same ECG Yes Yes Same Chest / Abdomen movements / Respiratory Effort Yes Yes Same \nAirflow Yes Yes Same Oxygen Saturation Yes Yes Same Body Position / Activity Yes Yes Same Device Characteristics Hardware Components Not included Not included Same Software Type Web-based Web-based Same Physical Characteristics Web-based software operating in the cloud with Windows or Mac OS Web-based software operating in the cloud with Windows or Mac OS Same Other Standard of Scoring Manual American Academy of Sleep Medicine (AASM) Manual for the Scoring of Sleep and Associated Events American Academy of Sleep Medicine (AASM) Manual for the Scoring of Sleep and Associated Events \nSame",
+      "extraction_method": "native",
+      "character_count": 790
+    }
+  ],
+  "claims": []
+}

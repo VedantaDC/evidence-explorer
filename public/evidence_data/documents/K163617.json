@@ -1,0 +1,955 @@
+{
+  "document": {
+    "k_number": "K163617",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "REMbrandt",
+    "applicant": "Embla Systems",
+    "decision_date": "2017-04-11",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K163617.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K163617",
+    "sha256": "728c29248853a2f9cd4215bcc6bfeba160eddc104c9c4869dc545edfde130324",
+    "page_count": 14,
+    "native_pages": 14,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Center - WO66-G609\nSilver Spring, MD 20993-0002\nEmbla Systems\nShane Sawall\nRegulatory Affairs Manager\n1 Hines Road Suite 202\nKanata, Ontario, CA K2K 3C7\nRe: K163617\nTrade/Device Name: REMbrandt\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLZ\nDated: March 8, 2017\nReceived: March 10, 2017\nDear Mr. Sawall:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device \nreferenced above and have determined the device is substantially equivalent (for the indications \nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate \ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to \ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug, \nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). \nYou may, therefore, market the device, subject to the general controls provisions of the Act. The \ngeneral controls provisions of the Act include requirements for annual registration, listing of \ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability \nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), \nit may be subject to additional controls. Existing major regulations affecting your device can be \nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may \npublish further announcements concerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean \nthat FDA has made a determination that your device complies with other requirements of the Act \nor any Federal statutes and regulations administered by other Federal agencies. You must comply \nwith all the Act's requirements, including, but not limited to: registration and listing (21 CFR \nPart 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-\nrelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in \nthe quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product \nradiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\nApril 11, 2017",
+      "character_count": 2691
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "- Shane SawallPage 2\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please \ncontact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041\nor (301) 796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note \nthe regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 \nCFR Part 803), please go to \nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office \nof Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the \nDivision of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) \n796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.\nSincerely,\nCarlos L. Peña, PhD, MS\nDirector\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure\nfor\nMichael J. Hoffmann -S",
+      "character_count": 1226
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK163617\nDevice Name\nREMbrandt\nIndications for Use (Describe)\nThe REMbrandt software is intended for Polysomnography studies and allows recording, displaying, analysis, printing \nand storage of physiological signals to assist in the diagnosis of various sleep disorders and sleep related respiratory \ndisorders. The REMbrandt software allows: \n\nAutomated analysis of physiological signals that is intended for use only in adults; \n\nAn optional audio/visual alert for user defined threshold on calibrated DC input. These alerts are not intended for use \nas life support such as vital signs monitoring or continuous medical surveillance in intensive care units. \n\nSleep report templates which summarize recorded and scored sleep data using simple measures including count, \naverage, maximum and minimum values as well as data ranges for trended values; \n\nThe REMbrandt software does not provide any diagnostic conclusion about the patient's condition and is intended to be \nused only by qualified and trained medical practitioners, in research and clinical environments.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "character_count": 2419
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 1 of 11 \n\n510(K) Summary \n\nSubmitted by: Embla Systems \n1 Hines Road Suite 202 \nKanata, Ontario \nCanada K2K 3C7 \n\nContact Person: Shane Sawall \nRegulatory Affairs Manager \nTel.: (800) 356-0007 x8673 \nE-mail: shane.sawall@natus.com \n\nDate Prepared: March 8, 2017 \n\nProprietary Name: REMbrandt \nCommon Name: Polysomnograph software \n\nClassification Name: Automatic Event Detection Software for \nPolysomnograph with Electroencephalograph \n\nProduct code: OLZ \n\nDevice Class: II \n\nRegulation Number: 21 CFR 882.1400 \n\nPredicate Device: Natus SleepWorks K090277 (primary), REMbrandt K962865 \n\nDescription: \n\n1. Overview REMbrandt Software \nThe REMbrandt software consists of three applications, DataLab, Analysis \nManager and REMbrandt Manager, which run on a desktop or laptop computer \nand require no specialized hardware. They are Windows based applications \nused by trained medical professionals to investigate sleep disorders. \n\n2. Main Functional Areas \nThe REMbrandt software collects and digitizes the electrical voltages of patient \nphysiological signals. After collecting and saving the signals, it provides tools \nand detectors to analyze the signals, which aid in the interpretation of a sleep \nstudy. The software consists of four main functional areas: \n\nA. Data Acquisition & Display (REMbrandt DataLab)",
+      "character_count": 1350
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 2 of 11 \n\nB. Scoring/Review & Analysis (REMbrandt Analysis Manager) \nC. Report Generation (REMbrandt Analysis Manager) \nD. Archiving & Data Management (REMbrandt Manager) \n\nData Acquisition & Display: \nThe REMbrandt DataLab application collects and displays continuous \nphysiological waveform data (via a digital polysomnography amplifier), and \ndigital audio/video (via standard audio/video equipment). The data is stored \nand displayed in real time by the REMbrandt DataLab software on the \nacquisition computer and made available for subsequent review and scoring by \na sleep technologist followed by review and interpretation by a certified sleep \nmedicine physician. \n\nStudy Scoring/Review & Analysis: \nThe REMbrandt Analysis Manager application has features that facilitate study \nnavigation, event marking, sleep stage scoring, review of synchronized digital \nvideo, and data trends required by medical professionals in order to properly \nanalyze and interpret sleep study data. (See figure 1). In addition to allowing \nusers to manually mark sleep events including Arousals, Respiratory Events \n(Apnea & Hypopnea), Oxygen Desaturations, Limb Movements, Snoring and \nsleep stages, the REMbrandt software also optionally provides computer \nassisted event marking analyzers for a subset of these events as well as \nanalyzers that summarize digital data in data ranges. \n\nComputer-assisted scoring modules: \nThe REMbrandt software contains eight (8) computer-assisted scoring \nanalyzers. All automatic detection tools are provided as time saving aids to \nassist trained medical practitioners in the review and analysis of vast amounts of \ndata. Each computer-assisted scoring analyzer runs a specific type of event \nmarking or numeric value processing in the study and each can be enabled \nindividually as needed at the discretion of the user. The scoring rule parameters \nused in the computer-assisted scoring analyzers depend on available input \nsignals in the study as well as user defined settings. All output from computer \nassisted scoring analyzers require medical professional review and acceptance. \n\nThe computer-assisted scoring analyzers are as follows: \n• Apnea/Hypopnea Detector: Marks potential Apneas & Hypopnea events. \n• Limb Movement Detector: Marks potential limb movement events \n• Arousal Detector: Marks arousal events on EEG traces \n• Snore Detector: Marks potential snore events \n• Desaturation Detector: Marks drops in oxygen saturation based on user \nset threshold CO2 Analyzer: Summarizes CO2 data recorded from a third \nparty Capnograph device.",
+      "character_count": 2615
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 3 of 11 \n\n• Heart Rate Detector: Indicates heart rate by processing EKG waveform \nand shows Heart Rate values; marks tachy-bradycardia events based on \nheart rate value thresholds that are user configurable. \n• Body Position Detector: Converts DC inputs or values from gravity xy \nbased position sensor into the body positions tagged in sleep studies \n(Upright, Supine, Left, Right, Prone and Unknown). \n• Pulse Transit Time (PTT) Trace Generator: Derived calculation of pulse \ntransit time (PTT) which is a measure of time difference between the ECG \nR top and the peak of the pleth waveform from a pulse oximeter. \n\nReport Generation: \nOnce the digital polysomnography data has been acquired scored and reviewed \nby both a polysomnographic technologist and a sleep physician the REMbrandt \nsoftware is used to generate a summary report of the sleep study which includes \nsummary statistics of sleep staging describing the patients sleep architecture, \nsummary of sleep events including maximum, minimum counts, indexes, \nduration, and range based data as well as graphical representations of each \n(trends). The generated sleep reports are part of the digital polysomnograph and \nthe REMbrandt software also includes tools to customize report templates to \nconform to individual sleep center standards/policies and graphic norms. \n\nArchiving & Data Management: \nAll data are stored either locally or on a remote hard disk (network server) \nProvisions exist for archiving to several appropriate types of digital storage. \nREMbrandt Manager also allows the user to copy, move, back up, and delete \ncollected studies. \n\n3. Diagnosis \nThe REMbrandt software does not make any decisions that result in any \nautomatic diagnosis or treatment. All software output is subject to review by the \nmedical professional, and can be modified, overridden or deleted. The software \nallows the qualified user to review all raw data collected and perform data \nanalysis as required. REMbrandt does not provide any final diagnostic \nconclusion about the patient's condition. Neither the computer nor the software \ncontrols the delivery of energy, the administration of drugs, or another form of \nlife sustaining function to the patient. \n\nThe intended environments are hospitals, institutions, sleep centers, sleep \nclinics, or other test environments. Users of the REMbrandt software are solely \nresponsible for all data collected, and are expected to assess and analyze this \ndata to ensure its accuracy and completeness.",
+      "character_count": 2543
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 4 of 11 \n\n\nIndications for Use: \n\nThe REMbrandt software is intended for Polysomnography studies and allows \nrecording, displaying, analysis, printing and storage of physiological signals to \nassist in the diagnosis of various sleep disorders and sleep related respiratory \ndisorders. The REMbrandt software allows: \n\n• A utomated analysis of physiological signals that is intended for use only in \nadults; \n\n• An optional audio/visual alert for user defined threshold on calibrated DC \ninput. These alerts are not intended for use as life support such as vital \nsigns monitoring or continuous medical surveillance in intensive care \nunits. \n\n• Sleep report templates which summarize recorded and scored sleep data \nusing simple measures including count, average, maximum and minimum \nvalues as well as data ranges for trended values; \n\nThe REMbrandt software does not provide any diagnostic conclusions about the \npatient’s condition and is intended to be used only by qualified and trained \nmedical practitioners, in research and clinical environments. \n\nComparison to Predicate Device: \n\nPredicate Predicate Subject Device \nRembrandt K962865 SleepWorks K090277 REMbrandt \nDevice Class Class II Class II Class II \nClass Name Apnea Monitor Electroencephalograph Electroencephalograph \nProduct Code FLS = Monitor (Apnea \nDetector), Ventilatory \nEffort \nOLZ = Automatic Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph \nSame as SleepWorks \nIntended User Medical Professional Medical Professional Medical Professional",
+      "character_count": 1578
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 5 of 11 \n\n\nIndications for \nUse \nThe Medcare \nRembrandt System is a \nphysiological signal \nrecorder intended for \nuse in sleep \nLaboratories. It is used \nas a paperless \npolygraph, collecting \nraw data. It is used to \nmanually analyze the \nrecorded data. The \nuser may manually tag \nsleep stages, arousals, \napnea and hypopnea \nand Periodic Leg \nMovement. The \nRembrandt System \nprocesses the manual \nscoring to generate \nSummary Reports. \nA polysomnographer \nwould typically review \nthe recorded signals. \nThe Rembrandt \nSystem by Medcare \nAutomation does not \nprovide any indications \nduring recording. It \ndoes not do any \nanalysis, monitoring or \ndiagnosis of the \npatient. It does not \nissue any alarms. \nThe Sleepworks software \nworks in conjunction with \nConnex, Trex or Netlink \namplifiers \nintended for \npolysomnography studies. \nThe software allows \nrecording, displaying, \nanalysis, printing and \nstorage of physiological \nsignals to assist in the \ndiagnosis of various \nsleep disorders and sleep \nrelated respiratory \ndisorders. \nThe Sleepworks allows: \nAutomated analysis of \nphysiological signals that \nis intended for use only in \nadults. \nAn optional Audio / \nvisual alert for user \ndefined threshold on \ncalibrated DC input. \nThese alerts are not \nintended for use as life \nsupport such as vital \nsigns monitoring \nor continuous medical \nsurveillance in intensive \ncare units. \nSleep report templates \nare provided which \nsummarize recorded and \nscored sleep \ndata using simple \nmeasures including count, \naverage, maximum and \nminimum \nvalues as well as data \nranges for trended values; \nSleep Works software \ndoes not provide any \ndiagnostic conclusion \nabout the patient's \ncondition and is intended \nto be used only by \nThe REMbrandt \nsoftware is intended for \nPolysomnography \nstudies and allows \nrecording, displaying, \nanalysis, printing and \nstorage of physiological \nsignals to assist in the \ndiagnosis of various \nsleep disorders and \nsleep related respiratory \ndisorders. The \nREMbrandt software \nallows: \nAutomated analysis \nof physiological signals \nthat is intended for use \nonly in adults; \nAn optional \naudio/visual alert for \nuser defined threshold \non calibrated DC input. \nThese alerts are not \nintended for use as life \nsupport such as vital \nsigns monitoring or \ncontinuous medical \nsurveillance in intensive \ncare units. \nSleep report \ntemplates which \nsummarize recorded \nand scored sleep data \nusing simple measures \nincluding count, \naverage, maximum and \nminimum values as well \nas data ranges for \ntrended values; \nThe REMbrandt \nsoftware does not \nprovide any diagnostic \nconclusion about the \npatient's condition and \nis intended to be used \nonly by qualified and \ntrained medical",
+      "character_count": 2764
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 6 of 11 \n\nqualified and trained \nmedical practitioners; \nin research and clinical \nenvironments. \npractitioners, in \nresearch and clinical \nenvironments. \nUser input Mouse/keyboard Mouse/keyboard Mouse/keyboard \nAcquire, \ndisplay, store, \nand archive \nPSG data \nYes (post acquisition \nanalysis only) \nYes (post acquisition and \nreal-time analysis \nYes (post acquisition \nand real-time analysis) \nSignal digitized Amplifier included as \npart of the system \nBy separate proprietary \namplifier \nBy separate proprietary \namplifier \nFFT Analysis \n(Spectral \nanalysis on any \ndigitized \nchannel \nYes Yes Yes \nSoftware \nDetectors \n\nRespiratory \nevent marking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nSleep staging/ \nscoring \nYes (Manual) Yes (Manual/computer \nassisted) \nYes (Manual) \nArousal Event \nMarking \nYes (Manual) Yes (Manual/computer \nassisted) \nYes (Manual & \nComputer Assisted) \nLimb \nmovements \nevent marking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nSnore event \nmarking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nOxygen \nDesaturation \nevent marking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nHeart Rate data \ntrend & \nsummary \n(including Heart \nRate Variability) \nNo Yes Yes \nCO2 data trend \n& summary \nNo Yes Yes \nAssociate \nrelated events \nNo Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nDerived \nrespiratory \ntraces \nNo Yes, Effort Sum, \ndifference, average, Flow \nVolume Loop \nYes, XactTrace module \ncleared to market via \nK162140 \nSynchronized \npatient video \nYes Yes Yes",
+      "character_count": 1713
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 7 of 11 \n\n\nOximetry data \ndisplay and \nreporting \nYes Yes Yes \nData storage Local or remote, hard \ndisk \nLocal or remote, hard disk Local or remote, hard \ndisk \nAudio/ Visual \nAlerts On \nCalibrated \nChannels \nNo Yes Yes \nSignals \nrecorded \n(output) \n Respiratory Effort \n(abdomen and \nchest) \n Airflow \n Pressure \n Snore \n Body Position \n Pulse Rate \n Oximeter \n ECG \n EEG \n EMG \n EOG \n DC \n Leg Movement \nand other signals \nrequired for sleep \nstudies \n Respiratory Effort \n(abdomen and chest) \n\n Airflow \n Pressure \n Snore \n Body Position \n Pulse Rate \n Oximeter \n ECG \n EEG \n EMG \n EOG \n DC \n Leg Movement and \nother signals required \nfor sleep studies \n Respiratory Effort \n(abdomen and \nchest) \n Airflow \n Pressure \n Snore \n Body Position \n Pulse Rate \n Oximeter \n ECG \n EEG \n EMG \n EOG \n DC \n Leg Movement and \nother signals \nrequired for sleep \nstudies \nReport \ngeneration \nincluding counts \nindexes, \nmax/min/averag\ne/duration, \nrange based \ndata \nsummaries. \nNumeric & \ngraphical \nrepresentations \nYes, customizable \ntemplates \nYes, customizable \ntemplates \nYes, customizable \ntemplates \n\nREMbrandt also includes derived calculation of pulse transit time (PTT) which is a \nmeasure of time difference between the ECG R top and the peak of the pleth waveform \nfrom the pulse oximeter. The reference predicate for this feature of REMbrandt is \nK142988 Sleepware G3. \n\nBrief Summary of Performance Tests:",
+      "character_count": 1486
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 8 of 11 \n\nBiocompatibility \nThe REMbrandt is a software-only device. Biocompatibility testing is not applicable. \n\n\nElectrical Safety and EMC \nThe REMbrandt is a software-only device. Electrical safety evaluation and EMC \nevaluation is not applicable. \n\n\nSoftware Verification \nTesting of the REMbrandt was performed in compliance with the Natus Medical \nincorporated design control process. It was found that the REMbrandt software meets \nthe design specification and performs as specified. \n\n\nAnimal Study \nThere were no animal studies performed for this submission. \n\n\nClinical Study Summary – Respiratory, Limb Movement and Snore Event Assisted-\nscoring Detectors \n\n1.1. Participants \nFifty (50) diagnostic PSG sleep studies were collected (one study per subject). All \nsubjects involved in this study were adult (>18 years old) subjects with a clinical \nindication for a sleep study. The subject data were de-identified and applied as subject \ndata to this study. \n\n1.2. Dataset description \nTotal Number of Subjects: 50 per event evaluated \nTotal Number of scored Epochs (30 Sec): > 45,074 \nTotal Number of Hours: 375:37:00 \nMean number of epochs per subject: >903.5 \nMinimum number of epochs per subject: 698 \nMaximum number of epochs per subject: 1078 \n\nData from 50 subjects were evaluated for respiratory, arousal, limb movement and snore \nevents. All epochs from these subjects were scored. \n\n1.3. Objective of the study \nThe goal of the validation study reported here is to establish that REMbrandt \nperformance is equivalent to the performance of the predicate device. For the purpose of \nthis study “Reference standard” is defined using majority rule, that is, at least two out of \nthree expert scorings (medical professionals certified on PSG recording and analysis) \nagree on the presence of an event within an epoch. \n\n1.4. PSG acquisition protocol \nFor this study, the following signals were recorded from each subject:",
+      "character_count": 1975
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 9 of 11 \n\n• Six (6) Electroencephalogram ([EEG] channels: F3, F4, C3, C4, O1, and O2. \n• Two (2) Electrooculogram (EOG) channels \n• Submental and bilateral tibial electromyogram (EMG) \n• Electrocardiogram (ECG) \n• Airflow (nasal-oral thermistor and nasal pressure sensors or PAP flow) \n• Chest and abdominal movement using respiratory inductance Plethysmography. \n• Pulse oximetry (SpO2) and pulse rate \n• Body position \n• Snoring \n\n1.5. PSG analysis protocol \nAll physiologic data were collected and stored on a REMbrandt System. The ECG, EEG, \nEMG, EOG and Snoring channels were sampled at 200 Hz. The Airflow and Chest, \nabdominal movement channels were sampled at 25 Hz. The Pulse oximetry channel \nwas sampled at 10 Hz. The Body Position channel was sampled at 1 Hz. \n\nThe raw PSG recordings were de-identified, randomized and provided to three \nexperienced and certified PSG specialists, including one board certified sleep specialist, \nwho independently marked events of interest in each epoch, applying the following \ncriteria: \n• Apnea is scored when both of the following criteria are met: \na. There is a drop in the peak signal excursion by > 90% of pre-event baseline \nrespiratory nasal pressure or flow sensor signal. \nb. The duration of the > 90% drop in sensor signal is > 10 seconds. \n\n• The apnea is Obstructive if it meets apnea criteria and is associated with \ncontinued or increased inspiratory effort throughout the entire period of \nabsent airflow. \n\n• The apnea is Central if it meets apnea criteria and is associated with absent \ninspiratory effort throughout the entire period of absent airflow. \n\n• The apnea is Mixed if it meets apnea criteria and is associated with absent \ninspiratory effort in the initial portion of the event followed by resumption of \ninspiratory effort in the second portion of the event. \n\n• Hypopnea is scored \nif all of the following criteria are met: \na. The peak signal excursions drop by > 30% of pre-event baseline using \nnasal pressure, PAP device flow or alternative hypopnea sensor. \nb. The duration of the > 30% drop in signal excursion is > 10 seconds. \nc. There is a > 3% oxygen desaturation from pre-event baseline or the event \nis associated with an arousal. \n\n• Limb movement is scored if the following significant leg movement (LM) events \nare indicated: \na. The minimum duration of a LM event is 0.5 seconds. \nb. The maximum duration of a LM event is 10 seconds.",
+      "character_count": 2468
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 10 of 11 \n\nc. The minimum amplitude of a LM event is an 8 µ V increase in EMG voltage \nabove resting EMG. \n\n• Snore: The scoring of snore events relies on clinical interpretation \n\n• Arousals: Score arousals during sleep stages (N1, N2, N3 or R) if there is an \nabrupt shift of EEG frequency including alpha, theta and/or frequencies greater \nthan 16 Hz (but not spindles) that lasts at least 3 seconds, with at least 10 \nseconds of stable sleep preceding the change. Scoring of arousal in REM \nrequires a concurrent increase in submental EMG lasting at least 1 second. \n\nSeparate from the expert review, all PSG studies were also analyzed by REMbrandt \nassisted-scoring detectors at default values for: \n• Central apnea \n• Mixed apnea \n• Obstructive apnea \n• Hypopnea \n• Limb movement \n• Snoring \n• Arousals \n\n1.6. Outcomes \nPositive Percent Agreement (PPA) between REMbrandt assisted-scoring detectors \ncompared to the Reference standard were measured on an epoch basis. The mean and \n95% confidence interval (CI) of the PPA and false detection rate per hour for event \ndetection assisted-scoring detectors are shown in the following table. \n\nPPA and False Detection Rate Per Hour of REMbrandt Event Detection Assisted \nScoring Detectors \n\nEvent \nREMbrandt \nPPA FD/h \nMean 95% CI Mean 95% CI \nCentral Apnea 99% 98.3% to 99.4% 0.7 0.4 to 1.5 \nMixed Apnea 99.5% 98.6% to 99.8% 0.3 0.1 to 0.7 \nObstructive Apnea 98% 96.6% to 98.7% 1.6 1.0 to 3.0 \nHypopnea 90.4% 87.9% to 92.1% 4.0 3.2 to 5.1 \nArousal 87.6% 84.3% to 89.6% 9.6 7.2 to 13.4 \nLimb Movement 88.7% 86.0% to 91.0% 11.1 8.5 to 14.6 \nSnore 87.1% 84.1% to 89.5% 12.3 9.5 to 16.2",
+      "character_count": 1672
+    },
+    {
+      "page": 14,
+      "extraction_method": "native",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 11 of 11 \n\n\n1.7. Clinical Study Conclusion \nCompared to the Reference standard, REMbrandt assisted-scoring detectors showed \nperformance levels comparable to the manual markings of expert reviewers. The device \nperformance is clinically equivalent to the Reference standard (majority rule) as \nconstructed for this study, similar to results reported in the literature and to performance \nreported for other commercially available devices. \n\n\n510(k) Summary Conclusions: \nThe substantial equivalence of the REMbrandt with the predicate Natus SleepWorks \nproduct was demonstrated by software verification testing and clinical validation. The \nnon-clinical data support the safety of the device. The software verification and \nvalidation demonstrate that REMbrandt device should perform as intended in the \nspecified use conditions. The clinical validation of the computer-assisted scoring \ndetectors demonstrates that the REMbrandt device performs comparably to the \npredicate device that is currently marketed for the same intended use.",
+      "character_count": 1073
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K163617-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Center - WO66-G609\nSilver Spring, MD 20993-0002\nEmbla Systems\nShane Sawall\nRegulatory Affairs Manager\n1 Hines Road Suite 202\nKanata, Ontario, CA K2K 3C7\nRe: K163617\nTrade/Device Name: REMbrandt\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLZ\nDated: March 8, 2017\nReceived: March 10, 2017\nDear Mr. Sawall:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device \nreferenced above and have determined the device is substantially equivalent (for the indications \nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate \ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to \ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug, \nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). \nYou may, therefore, market the device, subject to the general controls provisions of the Act. The \ngeneral controls provisions of the Act include requirements for annual registration, listing of \ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability \nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), \nit may be subject to additional controls. Existing major regulations affecting your device can be \nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may \npublish further announcements concerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean \nthat FDA has made a determination that your device complies with other requirements of the Act \nor any Federal statutes and regulations administered by other Federal agencies. You must comply \nwith all the Act's requirements, including, but not limited to: registration and listing (21 CFR \nPart 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-\nrelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in \nthe quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product \nradiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\nApril 11, 2017",
+      "extraction_method": "native",
+      "character_count": 2691
+    },
+    {
+      "block_id": "K163617-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "- Shane SawallPage 2\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please \ncontact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041\nor (301) 796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note \nthe regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 \nCFR Part 803), please go to \nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office \nof Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the \nDivision of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) \n796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.\nSincerely,\nCarlos L. Peña, PhD, MS\nDirector\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure\nfor\nMichael J. Hoffmann -S",
+      "extraction_method": "native",
+      "character_count": 1226
+    },
+    {
+      "block_id": "K163617-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK163617\nDevice Name\nREMbrandt\nIndications for Use (Describe)\nThe REMbrandt software is intended for Polysomnography studies and allows recording, displaying, analysis, printing \nand storage of physiological signals to assist in the diagnosis of various sleep disorders and sleep related respiratory \ndisorders. The REMbrandt software allows:",
+      "extraction_method": "native",
+      "character_count": 623
+    },
+    {
+      "block_id": "K163617-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Automated analysis of physiological signals that is intended for use only in adults;",
+      "extraction_method": "native",
+      "character_count": 84
+    },
+    {
+      "block_id": "K163617-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "An optional audio/visual alert for user defined threshold on calibrated DC input. These alerts are not intended for use \nas life support such as vital signs monitoring or continuous medical surveillance in intensive care units.",
+      "extraction_method": "native",
+      "character_count": 227
+    },
+    {
+      "block_id": "K163617-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Sleep report templates which summarize recorded and scored sleep data using simple measures including count, \naverage, maximum and minimum values as well as data ranges for trended values;",
+      "extraction_method": "native",
+      "character_count": 188
+    },
+    {
+      "block_id": "K163617-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The REMbrandt software does not provide any diagnostic conclusion about the patient's condition and is intended to be \nused only by qualified and trained medical practitioners, in research and clinical environments.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "native",
+      "character_count": 1285
+    },
+    {
+      "block_id": "K163617-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 1 of 11",
+      "extraction_method": "native",
+      "character_count": 45
+    },
+    {
+      "block_id": "K163617-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "510(K) Summary",
+      "text": "510(K) Summary",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K163617-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Submitted by: Embla Systems \n1 Hines Road Suite 202 \nKanata, Ontario \nCanada K2K 3C7",
+      "extraction_method": "native",
+      "character_count": 84
+    },
+    {
+      "block_id": "K163617-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Contact Person: Shane Sawall \nRegulatory Affairs Manager \nTel.: (800) 356-0007 x8673 \nE-mail: shane.sawall@natus.com",
+      "extraction_method": "native",
+      "character_count": 116
+    },
+    {
+      "block_id": "K163617-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Date Prepared: March 8, 2017",
+      "extraction_method": "native",
+      "character_count": 28
+    },
+    {
+      "block_id": "K163617-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Proprietary Name: REMbrandt \nCommon Name: Polysomnograph software",
+      "extraction_method": "native",
+      "character_count": 65
+    },
+    {
+      "block_id": "K163617-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Classification Name: Automatic Event Detection Software for \nPolysomnograph with Electroencephalograph",
+      "extraction_method": "native",
+      "character_count": 102
+    },
+    {
+      "block_id": "K163617-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Product code: OLZ",
+      "extraction_method": "native",
+      "character_count": 17
+    },
+    {
+      "block_id": "K163617-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Device Class: II",
+      "extraction_method": "native",
+      "character_count": 16
+    },
+    {
+      "block_id": "K163617-P004-B010",
+      "page": 4,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Regulation Number: 21 CFR 882.1400",
+      "extraction_method": "native",
+      "character_count": 34
+    },
+    {
+      "block_id": "K163617-P004-B011",
+      "page": 4,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Predicate Device: Natus SleepWorks K090277 (primary), REMbrandt K962865",
+      "extraction_method": "native",
+      "character_count": 71
+    },
+    {
+      "block_id": "K163617-P004-B012",
+      "page": 4,
+      "ordinal": 12,
+      "type": "heading",
+      "section": "Description:",
+      "text": "Description:",
+      "extraction_method": "native",
+      "character_count": 12
+    },
+    {
+      "block_id": "K163617-P004-B013",
+      "page": 4,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "1. Overview REMbrandt Software \nThe REMbrandt software consists of three applications, DataLab, Analysis \nManager and REMbrandt Manager, which run on a desktop or laptop computer \nand require no specialized hardware. They are Windows based applications \nused by trained medical professionals to investigate sleep disorders.",
+      "extraction_method": "native",
+      "character_count": 323
+    },
+    {
+      "block_id": "K163617-P004-B014",
+      "page": 4,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "2. Main Functional Areas \nThe REMbrandt software collects and digitizes the electrical voltages of patient \nphysiological signals. After collecting and saving the signals, it provides tools \nand detectors to analyze the signals, which aid in the interpretation of a sleep \nstudy. The software consists of four main functional areas:",
+      "extraction_method": "native",
+      "character_count": 332
+    },
+    {
+      "block_id": "K163617-P004-B015",
+      "page": 4,
+      "ordinal": 15,
+      "type": "list",
+      "section": "Description:",
+      "text": "A. Data Acquisition & Display (REMbrandt DataLab)",
+      "extraction_method": "native",
+      "character_count": 49
+    },
+    {
+      "block_id": "K163617-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 2 of 11",
+      "extraction_method": "native",
+      "character_count": 45
+    },
+    {
+      "block_id": "K163617-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "list",
+      "section": "Description:",
+      "text": "B. Scoring/Review & Analysis (REMbrandt Analysis Manager) \nC. Report Generation (REMbrandt Analysis Manager) \nD. Archiving & Data Management (REMbrandt Manager)",
+      "extraction_method": "native",
+      "character_count": 160
+    },
+    {
+      "block_id": "K163617-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "Data Acquisition & Display: \nThe REMbrandt DataLab application collects and displays continuous \nphysiological waveform data (via a digital polysomnography amplifier), and \ndigital audio/video (via standard audio/video equipment). The data is stored \nand displayed in real time by the REMbrandt DataLab software on the \nacquisition computer and made available for subsequent review and scoring by \na sleep technologist followed by review and interpretation by a certified sleep \nmedicine physician.",
+      "extraction_method": "native",
+      "character_count": 498
+    },
+    {
+      "block_id": "K163617-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "Study Scoring/Review & Analysis: \nThe REMbrandt Analysis Manager application has features that facilitate study \nnavigation, event marking, sleep stage scoring, review of synchronized digital \nvideo, and data trends required by medical professionals in order to properly \nanalyze and interpret sleep study data. (See figure 1). In addition to allowing \nusers to manually mark sleep events including Arousals, Respiratory Events \n(Apnea & Hypopnea), Oxygen Desaturations, Limb Movements, Snoring and \nsleep stages, the REMbrandt software also optionally provides computer \nassisted event marking analyzers for a subset of these events as well as \nanalyzers that summarize digital data in data ranges.",
+      "extraction_method": "native",
+      "character_count": 699
+    },
+    {
+      "block_id": "K163617-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "Computer-assisted scoring modules: \nThe REMbrandt software contains eight (8) computer-assisted scoring \nanalyzers. All automatic detection tools are provided as time saving aids to \nassist trained medical practitioners in the review and analysis of vast amounts of \ndata. Each computer-assisted scoring analyzer runs a specific type of event \nmarking or numeric value processing in the study and each can be enabled \nindividually as needed at the discretion of the user. The scoring rule parameters \nused in the computer-assisted scoring analyzers depend on available input \nsignals in the study as well as user defined settings. All output from computer \nassisted scoring analyzers require medical professional review and acceptance.",
+      "extraction_method": "native",
+      "character_count": 735
+    },
+    {
+      "block_id": "K163617-P005-B006",
+      "page": 5,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "The computer-assisted scoring analyzers are as follows: \n• Apnea/Hypopnea Detector: Marks potential Apneas & Hypopnea events. \n• Limb Movement Detector: Marks potential limb movement events \n• Arousal Detector: Marks arousal events on EEG traces \n• Snore Detector: Marks potential snore events \n• Desaturation Detector: Marks drops in oxygen saturation based on user \nset threshold CO2 Analyzer: Summarizes CO2 data recorded from a third \nparty Capnograph device.",
+      "extraction_method": "native",
+      "character_count": 463
+    },
+    {
+      "block_id": "K163617-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 3 of 11",
+      "extraction_method": "native",
+      "character_count": 45
+    },
+    {
+      "block_id": "K163617-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "• Heart Rate Detector: Indicates heart rate by processing EKG waveform \nand shows Heart Rate values; marks tachy-bradycardia events based on \nheart rate value thresholds that are user configurable. \n• Body Position Detector: Converts DC inputs or values from gravity xy \nbased position sensor into the body positions tagged in sleep studies \n(Upright, Supine, Left, Right, Prone and Unknown). \n• Pulse Transit Time (PTT) Trace Generator: Derived calculation of pulse \ntransit time (PTT) which is a measure of time difference between the ECG \nR top and the peak of the pleth waveform from a pulse oximeter.",
+      "extraction_method": "native",
+      "character_count": 605
+    },
+    {
+      "block_id": "K163617-P006-B003",
+      "page": 6,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "Report Generation: \nOnce the digital polysomnography data has been acquired scored and reviewed \nby both a polysomnographic technologist and a sleep physician the REMbrandt \nsoftware is used to generate a summary report of the sleep study which includes \nsummary statistics of sleep staging describing the patients sleep architecture, \nsummary of sleep events including maximum, minimum counts, indexes, \nduration, and range based data as well as graphical representations of each \n(trends). The generated sleep reports are part of the digital polysomnograph and \nthe REMbrandt software also includes tools to customize report templates to \nconform to individual sleep center standards/policies and graphic norms.",
+      "extraction_method": "native",
+      "character_count": 713
+    },
+    {
+      "block_id": "K163617-P006-B004",
+      "page": 6,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "Archiving & Data Management: \nAll data are stored either locally or on a remote hard disk (network server) \nProvisions exist for archiving to several appropriate types of digital storage. \nREMbrandt Manager also allows the user to copy, move, back up, and delete \ncollected studies.",
+      "extraction_method": "native",
+      "character_count": 282
+    },
+    {
+      "block_id": "K163617-P006-B005",
+      "page": 6,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "3. Diagnosis \nThe REMbrandt software does not make any decisions that result in any \nautomatic diagnosis or treatment. All software output is subject to review by the \nmedical professional, and can be modified, overridden or deleted. The software \nallows the qualified user to review all raw data collected and perform data \nanalysis as required. REMbrandt does not provide any final diagnostic \nconclusion about the patient's condition. Neither the computer nor the software \ncontrols the delivery of energy, the administration of drugs, or another form of \nlife sustaining function to the patient.",
+      "extraction_method": "native",
+      "character_count": 599
+    },
+    {
+      "block_id": "K163617-P006-B006",
+      "page": 6,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "The intended environments are hospitals, institutions, sleep centers, sleep \nclinics, or other test environments. Users of the REMbrandt software are solely \nresponsible for all data collected, and are expected to assess and analyze this \ndata to ensure its accuracy and completeness.",
+      "extraction_method": "native",
+      "character_count": 284
+    },
+    {
+      "block_id": "K163617-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 4 of 11",
+      "extraction_method": "native",
+      "character_count": 45
+    },
+    {
+      "block_id": "K163617-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "Indications for Use:",
+      "text": "Indications for Use:",
+      "extraction_method": "native",
+      "character_count": 20
+    },
+    {
+      "block_id": "K163617-P007-B003",
+      "page": 7,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "The REMbrandt software is intended for Polysomnography studies and allows \nrecording, displaying, analysis, printing and storage of physiological signals to \nassist in the diagnosis of various sleep disorders and sleep related respiratory \ndisorders. The REMbrandt software allows:",
+      "extraction_method": "native",
+      "character_count": 281
+    },
+    {
+      "block_id": "K163617-P007-B004",
+      "page": 7,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "• A utomated analysis of physiological signals that is intended for use only in \nadults;",
+      "extraction_method": "native",
+      "character_count": 88
+    },
+    {
+      "block_id": "K163617-P007-B005",
+      "page": 7,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "• An optional audio/visual alert for user defined threshold on calibrated DC \ninput. These alerts are not intended for use as life support such as vital \nsigns monitoring or continuous medical surveillance in intensive care \nunits.",
+      "extraction_method": "native",
+      "character_count": 231
+    },
+    {
+      "block_id": "K163617-P007-B006",
+      "page": 7,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "• Sleep report templates which summarize recorded and scored sleep data \nusing simple measures including count, average, maximum and minimum \nvalues as well as data ranges for trended values;",
+      "extraction_method": "native",
+      "character_count": 191
+    },
+    {
+      "block_id": "K163617-P007-B007",
+      "page": 7,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "The REMbrandt software does not provide any diagnostic conclusions about the \npatient’s condition and is intended to be used only by qualified and trained \nmedical practitioners, in research and clinical environments.",
+      "extraction_method": "native",
+      "character_count": 217
+    },
+    {
+      "block_id": "K163617-P007-B008",
+      "page": 7,
+      "ordinal": 8,
+      "type": "heading",
+      "section": "Comparison to Predicate Device:",
+      "text": "Comparison to Predicate Device:",
+      "extraction_method": "native",
+      "character_count": 31
+    },
+    {
+      "block_id": "K163617-P007-B009",
+      "page": 7,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "Predicate Predicate Subject Device \nRembrandt K962865 SleepWorks K090277 REMbrandt \nDevice Class Class II Class II Class II \nClass Name Apnea Monitor Electroencephalograph Electroencephalograph \nProduct Code FLS = Monitor (Apnea \nDetector), Ventilatory \nEffort \nOLZ = Automatic Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph \nSame as SleepWorks \nIntended User Medical Professional Medical Professional Medical Professional",
+      "extraction_method": "native",
+      "character_count": 449
+    },
+    {
+      "block_id": "K163617-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 5 of 11",
+      "extraction_method": "native",
+      "character_count": 45
+    },
+    {
+      "block_id": "K163617-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "Indications for \nUse \nThe Medcare \nRembrandt System is a \nphysiological signal \nrecorder intended for \nuse in sleep \nLaboratories. It is used \nas a paperless \npolygraph, collecting \nraw data. It is used to \nmanually analyze the \nrecorded data. The \nuser may manually tag \nsleep stages, arousals, \napnea and hypopnea \nand Periodic Leg \nMovement. The \nRembrandt System \nprocesses the manual \nscoring to generate \nSummary Reports. \nA polysomnographer \nwould typically review \nthe recorded signals. \nThe Rembrandt \nSystem by Medcare \nAutomation does not \nprovide any indications \nduring recording. It \ndoes not do any \nanalysis, monitoring or \ndiagnosis of the \npatient. It does not \nissue any alarms. \nThe Sleepworks software \nworks in conjunction with \nConnex, Trex or Netlink \namplifiers \nintended for \npolysomnography studies. \nThe software allows \nrecording, displaying, \nanalysis, printing and \nstorage of physiological \nsignals to assist in the \ndiagnosis of various \nsleep disorders and sleep \nrelated respiratory \ndisorders. \nThe Sleepworks allows: \nAutomated analysis of \nphysiological signals that \nis intended for use only in \nadults. \nAn optional Audio / \nvisual alert for user \ndefined threshold on \ncalibrated DC input. \nThese alerts are not \nintended for use as life \nsupport such as vital \nsigns monitoring \nor continuous medical \nsurveillance in intensive \ncare units. \nSleep report templates \nare provided which \nsummarize recorded and \nscored sleep \ndata using simple \nmeasures including count, \naverage, maximum and \nminimum \nvalues as well as data \nranges for trended values; \nSleep Works software \ndoes not provide any \ndiagnostic conclusion \nabout the patient's \ncondition and is intended \nto be used only by \nThe REMbrandt \nsoftware is intended for \nPolysomnography \nstudies and allows \nrecording, displaying, \nanalysis, printing and \nstorage of physiological \nsignals to assist in the \ndiagnosis of various \nsleep disorders and \nsleep related respiratory \ndisorders. The \nREMbrandt software \nallows: \nAutomated analysis \nof physiological signals \nthat is intended for use \nonly in adults; \nAn optional \naudio/visual alert for \nuser defined threshold \non calibrated DC input. \nThese alerts are not \nintended for use as life \nsupport such as vital \nsigns monitoring or \ncontinuous medical \nsurveillance in intensive \ncare units. \nSleep report \ntemplates which \nsummarize recorded \nand scored sleep data \nusing simple measures \nincluding count, \naverage, maximum and \nminimum values as well \nas data ranges for \ntrended values; \nThe REMbrandt \nsoftware does not \nprovide any diagnostic \nconclusion about the \npatient's condition and \nis intended to be used \nonly by qualified and \ntrained medical",
+      "extraction_method": "native",
+      "character_count": 2715
+    },
+    {
+      "block_id": "K163617-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 6 of 11",
+      "extraction_method": "native",
+      "character_count": 45
+    },
+    {
+      "block_id": "K163617-P009-B002",
+      "page": 9,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "qualified and trained \nmedical practitioners; \nin research and clinical \nenvironments. \npractitioners, in \nresearch and clinical \nenvironments. \nUser input Mouse/keyboard Mouse/keyboard Mouse/keyboard \nAcquire, \ndisplay, store, \nand archive \nPSG data \nYes (post acquisition \nanalysis only) \nYes (post acquisition and \nreal-time analysis \nYes (post acquisition \nand real-time analysis) \nSignal digitized Amplifier included as \npart of the system \nBy separate proprietary \namplifier \nBy separate proprietary \namplifier \nFFT Analysis \n(Spectral \nanalysis on any \ndigitized \nchannel \nYes Yes Yes \nSoftware \nDetectors",
+      "extraction_method": "native",
+      "character_count": 612
+    },
+    {
+      "block_id": "K163617-P009-B003",
+      "page": 9,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "Respiratory \nevent marking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nSleep staging/ \nscoring \nYes (Manual) Yes (Manual/computer \nassisted) \nYes (Manual) \nArousal Event \nMarking \nYes (Manual) Yes (Manual/computer \nassisted) \nYes (Manual & \nComputer Assisted) \nLimb \nmovements \nevent marking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nSnore event \nmarking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nOxygen \nDesaturation \nevent marking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nHeart Rate data \ntrend & \nsummary \n(including Heart \nRate Variability) \nNo Yes Yes \nCO2 data trend \n& summary \nNo Yes Yes \nAssociate \nrelated events \nNo Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nDerived \nrespiratory \ntraces \nNo Yes, Effort Sum, \ndifference, average, Flow \nVolume Loop \nYes, XactTrace module \ncleared to market via \nK162140 \nSynchronized \npatient video \nYes Yes Yes",
+      "extraction_method": "native",
+      "character_count": 1050
+    },
+    {
+      "block_id": "K163617-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 7 of 11",
+      "extraction_method": "native",
+      "character_count": 45
+    },
+    {
+      "block_id": "K163617-P010-B002",
+      "page": 10,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "Oximetry data \ndisplay and \nreporting \nYes Yes Yes \nData storage Local or remote, hard \ndisk \nLocal or remote, hard disk Local or remote, hard \ndisk \nAudio/ Visual \nAlerts On \nCalibrated \nChannels \nNo Yes Yes \nSignals \nrecorded \n(output) \n Respiratory Effort \n(abdomen and \nchest) \n Airflow \n Pressure \n Snore \n Body Position \n Pulse Rate \n Oximeter \n ECG \n EEG \n EMG \n EOG \n DC \n Leg Movement \nand other signals \nrequired for sleep \nstudies \n Respiratory Effort \n(abdomen and chest)",
+      "extraction_method": "native",
+      "character_count": 497
+    },
+    {
+      "block_id": "K163617-P010-B003",
+      "page": 10,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": " Airflow \n Pressure \n Snore \n Body Position \n Pulse Rate \n Oximeter \n ECG \n EEG \n EMG \n EOG \n DC \n Leg Movement and \nother signals required \nfor sleep studies \n Respiratory Effort \n(abdomen and \nchest) \n Airflow \n Pressure \n Snore \n Body Position \n Pulse Rate \n Oximeter \n ECG \n EEG \n EMG \n EOG \n DC \n Leg Movement and \nother signals \nrequired for sleep \nstudies \nReport \ngeneration \nincluding counts \nindexes, \nmax/min/averag\ne/duration, \nrange based \ndata \nsummaries. \nNumeric & \ngraphical \nrepresentations \nYes, customizable \ntemplates \nYes, customizable \ntemplates \nYes, customizable \ntemplates",
+      "extraction_method": "native",
+      "character_count": 623
+    },
+    {
+      "block_id": "K163617-P010-B004",
+      "page": 10,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "REMbrandt also includes derived calculation of pulse transit time (PTT) which is a \nmeasure of time difference between the ECG R top and the peak of the pleth waveform \nfrom the pulse oximeter. The reference predicate for this feature of REMbrandt is \nK142988 Sleepware G3.",
+      "extraction_method": "native",
+      "character_count": 273
+    },
+    {
+      "block_id": "K163617-P010-B005",
+      "page": 10,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Brief Summary of Performance Tests:",
+      "extraction_method": "native",
+      "character_count": 35
+    },
+    {
+      "block_id": "K163617-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 8 of 11",
+      "extraction_method": "native",
+      "character_count": 45
+    },
+    {
+      "block_id": "K163617-P011-B002",
+      "page": 11,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Biocompatibility \nThe REMbrandt is a software-only device. Biocompatibility testing is not applicable.",
+      "extraction_method": "native",
+      "character_count": 102
+    },
+    {
+      "block_id": "K163617-P011-B003",
+      "page": 11,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Electrical Safety and EMC \nThe REMbrandt is a software-only device. Electrical safety evaluation and EMC \nevaluation is not applicable.",
+      "extraction_method": "native",
+      "character_count": 135
+    },
+    {
+      "block_id": "K163617-P011-B004",
+      "page": 11,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Software Verification \nTesting of the REMbrandt was performed in compliance with the Natus Medical \nincorporated design control process. It was found that the REMbrandt software meets \nthe design specification and performs as specified.",
+      "extraction_method": "native",
+      "character_count": 236
+    },
+    {
+      "block_id": "K163617-P011-B005",
+      "page": 11,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Animal Study \nThere were no animal studies performed for this submission.",
+      "extraction_method": "native",
+      "character_count": 73
+    },
+    {
+      "block_id": "K163617-P011-B006",
+      "page": 11,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Clinical Study Summary – Respiratory, Limb Movement and Snore Event Assisted-\nscoring Detectors",
+      "extraction_method": "native",
+      "character_count": 95
+    },
+    {
+      "block_id": "K163617-P011-B007",
+      "page": 11,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.1. Participants \nFifty (50) diagnostic PSG sleep studies were collected (one study per subject). All \nsubjects involved in this study were adult (>18 years old) subjects with a clinical \nindication for a sleep study. The subject data were de-identified and applied as subject \ndata to this study.",
+      "extraction_method": "native",
+      "character_count": 298
+    },
+    {
+      "block_id": "K163617-P011-B008",
+      "page": 11,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.2. Dataset description \nTotal Number of Subjects: 50 per event evaluated \nTotal Number of scored Epochs (30 Sec): > 45,074 \nTotal Number of Hours: 375:37:00 \nMean number of epochs per subject: >903.5 \nMinimum number of epochs per subject: 698 \nMaximum number of epochs per subject: 1078",
+      "extraction_method": "native",
+      "character_count": 288
+    },
+    {
+      "block_id": "K163617-P011-B009",
+      "page": 11,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Data from 50 subjects were evaluated for respiratory, arousal, limb movement and snore \nevents. All epochs from these subjects were scored.",
+      "extraction_method": "native",
+      "character_count": 139
+    },
+    {
+      "block_id": "K163617-P011-B010",
+      "page": 11,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.3. Objective of the study \nThe goal of the validation study reported here is to establish that REMbrandt \nperformance is equivalent to the performance of the predicate device. For the purpose of \nthis study “Reference standard” is defined using majority rule, that is, at least two out of \nthree expert scorings (medical professionals certified on PSG recording and analysis) \nagree on the presence of an event within an epoch.",
+      "extraction_method": "native",
+      "character_count": 429
+    },
+    {
+      "block_id": "K163617-P011-B011",
+      "page": 11,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.4. PSG acquisition protocol \nFor this study, the following signals were recorded from each subject:",
+      "extraction_method": "native",
+      "character_count": 101
+    },
+    {
+      "block_id": "K163617-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 9 of 11",
+      "extraction_method": "native",
+      "character_count": 45
+    },
+    {
+      "block_id": "K163617-P012-B002",
+      "page": 12,
+      "ordinal": 2,
+      "type": "list",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• Six (6) Electroencephalogram ([EEG] channels: F3, F4, C3, C4, O1, and O2. \n• Two (2) Electrooculogram (EOG) channels \n• Submental and bilateral tibial electromyogram (EMG) \n• Electrocardiogram (ECG) \n• Airflow (nasal-oral thermistor and nasal pressure sensors or PAP flow) \n• Chest and abdominal movement using respiratory inductance Plethysmography. \n• Pulse oximetry (SpO2) and pulse rate \n• Body position \n• Snoring",
+      "extraction_method": "native",
+      "character_count": 420
+    },
+    {
+      "block_id": "K163617-P012-B003",
+      "page": 12,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.5. PSG analysis protocol \nAll physiologic data were collected and stored on a REMbrandt System. The ECG, EEG, \nEMG, EOG and Snoring channels were sampled at 200 Hz. The Airflow and Chest, \nabdominal movement channels were sampled at 25 Hz. The Pulse oximetry channel \nwas sampled at 10 Hz. The Body Position channel was sampled at 1 Hz.",
+      "extraction_method": "native",
+      "character_count": 338
+    },
+    {
+      "block_id": "K163617-P012-B004",
+      "page": 12,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "The raw PSG recordings were de-identified, randomized and provided to three \nexperienced and certified PSG specialists, including one board certified sleep specialist, \nwho independently marked events of interest in each epoch, applying the following \ncriteria: \n• Apnea is scored when both of the following criteria are met: \na. There is a drop in the peak signal excursion by > 90% of pre-event baseline \nrespiratory nasal pressure or flow sensor signal. \nb. The duration of the > 90% drop in sensor signal is > 10 seconds.",
+      "extraction_method": "native",
+      "character_count": 525
+    },
+    {
+      "block_id": "K163617-P012-B005",
+      "page": 12,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• The apnea is Obstructive if it meets apnea criteria and is associated with \ncontinued or increased inspiratory effort throughout the entire period of \nabsent airflow.",
+      "extraction_method": "native",
+      "character_count": 168
+    },
+    {
+      "block_id": "K163617-P012-B006",
+      "page": 12,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• The apnea is Central if it meets apnea criteria and is associated with absent \ninspiratory effort throughout the entire period of absent airflow.",
+      "extraction_method": "native",
+      "character_count": 147
+    },
+    {
+      "block_id": "K163617-P012-B007",
+      "page": 12,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• The apnea is Mixed if it meets apnea criteria and is associated with absent \ninspiratory effort in the initial portion of the event followed by resumption of \ninspiratory effort in the second portion of the event.",
+      "extraction_method": "native",
+      "character_count": 215
+    },
+    {
+      "block_id": "K163617-P012-B008",
+      "page": 12,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• Hypopnea is scored \nif all of the following criteria are met: \na. The peak signal excursions drop by > 30% of pre-event baseline using \nnasal pressure, PAP device flow or alternative hypopnea sensor. \nb. The duration of the > 30% drop in signal excursion is > 10 seconds. \nc. There is a > 3% oxygen desaturation from pre-event baseline or the event \nis associated with an arousal.",
+      "extraction_method": "native",
+      "character_count": 382
+    },
+    {
+      "block_id": "K163617-P012-B009",
+      "page": 12,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• Limb movement is scored if the following significant leg movement (LM) events \nare indicated: \na. The minimum duration of a LM event is 0.5 seconds. \nb. The maximum duration of a LM event is 10 seconds.",
+      "extraction_method": "native",
+      "character_count": 204
+    },
+    {
+      "block_id": "K163617-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 10 of 11",
+      "extraction_method": "native",
+      "character_count": 46
+    },
+    {
+      "block_id": "K163617-P013-B002",
+      "page": 13,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "c. The minimum amplitude of a LM event is an 8 µ V increase in EMG voltage \nabove resting EMG.",
+      "extraction_method": "native",
+      "character_count": 94
+    },
+    {
+      "block_id": "K163617-P013-B003",
+      "page": 13,
+      "ordinal": 3,
+      "type": "list",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• Snore: The scoring of snore events relies on clinical interpretation",
+      "extraction_method": "native",
+      "character_count": 70
+    },
+    {
+      "block_id": "K163617-P013-B004",
+      "page": 13,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• Arousals: Score arousals during sleep stages (N1, N2, N3 or R) if there is an \nabrupt shift of EEG frequency including alpha, theta and/or frequencies greater \nthan 16 Hz (but not spindles) that lasts at least 3 seconds, with at least 10 \nseconds of stable sleep preceding the change. Scoring of arousal in REM \nrequires a concurrent increase in submental EMG lasting at least 1 second.",
+      "extraction_method": "native",
+      "character_count": 388
+    },
+    {
+      "block_id": "K163617-P013-B005",
+      "page": 13,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Separate from the expert review, all PSG studies were also analyzed by REMbrandt \nassisted-scoring detectors at default values for: \n• Central apnea \n• Mixed apnea \n• Obstructive apnea \n• Hypopnea \n• Limb movement \n• Snoring \n• Arousals",
+      "extraction_method": "native",
+      "character_count": 236
+    },
+    {
+      "block_id": "K163617-P013-B006",
+      "page": 13,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.6. Outcomes \nPositive Percent Agreement (PPA) between REMbrandt assisted-scoring detectors \ncompared to the Reference standard were measured on an epoch basis. The mean and \n95% confidence interval (CI) of the PPA and false detection rate per hour for event \ndetection assisted-scoring detectors are shown in the following table.",
+      "extraction_method": "native",
+      "character_count": 331
+    },
+    {
+      "block_id": "K163617-P013-B007",
+      "page": 13,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "PPA and False Detection Rate Per Hour of REMbrandt Event Detection Assisted \nScoring Detectors",
+      "extraction_method": "native",
+      "character_count": 94
+    },
+    {
+      "block_id": "K163617-P013-B008",
+      "page": 13,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Event \nREMbrandt \nPPA FD/h \nMean 95% CI Mean 95% CI \nCentral Apnea 99% 98.3% to 99.4% 0.7 0.4 to 1.5 \nMixed Apnea 99.5% 98.6% to 99.8% 0.3 0.1 to 0.7 \nObstructive Apnea 98% 96.6% to 98.7% 1.6 1.0 to 3.0 \nHypopnea 90.4% 87.9% to 92.1% 4.0 3.2 to 5.1 \nArousal 87.6% 84.3% to 89.6% 9.6 7.2 to 13.4 \nLimb Movement 88.7% 86.0% to 91.0% 11.1 8.5 to 14.6 \nSnore 87.1% 84.1% to 89.5% 12.3 9.5 to 16.2",
+      "extraction_method": "native",
+      "character_count": 392
+    },
+    {
+      "block_id": "K163617-P014-B001",
+      "page": 14,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "510(K): REMBRANDT \n510K SUMMARY \nPAGE 11 of 11",
+      "extraction_method": "native",
+      "character_count": 46
+    },
+    {
+      "block_id": "K163617-P014-B002",
+      "page": 14,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.7. Clinical Study Conclusion \nCompared to the Reference standard, REMbrandt assisted-scoring detectors showed \nperformance levels comparable to the manual markings of expert reviewers. The device \nperformance is clinically equivalent to the Reference standard (majority rule) as \nconstructed for this study, similar to results reported in the literature and to performance \nreported for other commercially available devices.",
+      "extraction_method": "native",
+      "character_count": 426
+    },
+    {
+      "block_id": "K163617-P014-B003",
+      "page": 14,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "510(k) Summary Conclusions: \nThe substantial equivalence of the REMbrandt with the predicate Natus SleepWorks \nproduct was demonstrated by software verification testing and clinical validation. The \nnon-clinical data support the safety of the device. The software verification and \nvalidation demonstrate that REMbrandt device should perform as intended in the \nspecified use conditions. The clinical validation of the computer-assisted scoring \ndetectors demonstrates that the REMbrandt device performs comparably to the \npredicate device that is currently marketed for the same intended use.",
+      "extraction_method": "native",
+      "character_count": 593
+    }
+  ],
+  "claims": []
+}

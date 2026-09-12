@@ -1,0 +1,865 @@
+{
+  "document": {
+    "k_number": "K173366",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "NicoletOne",
+    "applicant": "Natus Neurology Incorporated",
+    "decision_date": "2018-07-20",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173366.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K173366",
+    "sha256": "f883c333b4749a7301281749a2d41d6d4fc6422be2c767bfb32f0afcab4b1676",
+    "page_count": 14,
+    "native_pages": 14,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "July 20, 2018\nNatus Neurology Incorporated\nMartin Dockter\nSr. Regulatory Affairs Manager\n3150 Pleasant View Road\nMiddleton, Wisconsin 53562 \nRe: K173366\nTrade/Device Name: NicoletOne\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLZ, OMB, OMA, OLT, ORT\nDated: June 15, 2018\nReceived: June 18, 2018\nDear Martin Dockter:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. The general controls provisions of the Act include requirements for annual \nregistration, listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding \nand adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. \nWe remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803); good \nmanufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820); \nBuild Correspondence Convert to PDF",
+      "character_count": 2469
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "Page 2 – Martin Dockter K173366\nand if applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR \n1000-1050.\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice \n(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn \n(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and \nConsumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website \n(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone \n(1-800-638-2041 or 301-796-7100).\nSincerely,\nfor\nCarlos L. Peña, PhD, MS\nDirector\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure \nValerie A. Flournoy -S",
+      "character_count": 1254
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 06/30/2020\nSee PRA Statement below.\n510(k) Number (if known)\nK173366\nDevice Name\nNicoletOne\nIndications for Use (Describe)\nThe NicoletOne EEG/PSG software performs recording, displaying, analysis, printing and storage of physiological signals \nto assist in the diagnosis of various neurological disorders, sleep disorders and sleep related respiratory disorders. It is \nintended to monitor the state of the brain by recording and displaying EEG signals and can receive and display a variety o\nf \nthird party signals such as ECG, EMG, Oxygen Saturation or Respiration for patients of all ages. \n\nNicoletOne software allows: \n• Automated analysis of physiological signals that is intended for use only in adults. \n\n• An optional Audio/visual alert for user defined threshold on calibrated DC input. These alerts are not intended for use as \nlife support such as vital signs monitoring or continuous medical surveillance in intensive care units. \n\n• Sleep report templates are provided which summarize recorded and scored sleep data using simple measures including \ncount, average, maximum and minimum values as well as data ranges for trended values. \n\nThis device does not provide any diagnostic conclusion about the patient's condition and is intended to be used only by \nqualified and trained medical practitioners, in research and clinical environments.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "character_count": 2640
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY\nPAGE 1 of 11 \nK173366 - 510(k) SUMMARY \nSubmitted by: Natus Neurology Incorporated \n3150 Pleasant View Road \nMiddleton, WI 53562 \nContact Person: Martin A. Dockter, Sr. Regulatory Affairs Specialist \nTel.: (858) 260-2552 \nFax: (858) 455-8298 \nE-mail: martin.dockter@natus.com \nDate Prepared: July 17, 2018 \nProprietary Name: NicoletOne \nCommon Name: Electroencephalograph \nClassification Name: Automatic event detection software for full-montage electroencephalograph \nProduct code: OLZ (primary), OMB, OMA, OLT, ORT \nDevice Class: II \nRegulation Number: 21 CFR 882.1400 \nPredicate Device: Twin Plus (K012976) primary; Moberg CNS (K080217); Natus SleepWorks \n(K090277) \nDescription: \n1. Overview NicoletOne Software\nThe NicoletOne application is a software product for digital electroencephalography, long term\nmonitoring in Epilepsy, intensive care unit (ICU) monitoring, and polysomnography that runs on a\npanel PC, desktop or laptop computer. It is a Windows based application used by trained medical\nprofessionals to investigate brain function and sleep disorders.\n2. Main Functional Areas\nThe NicoletOne application collects and displays continuous physiological waveform data (via a\nNatus digital amplifier), and digital audio/video (via standard audio/video equipment). After\ncollecting and saving the signals, it provides tools and analyzers to analyze the signals, which aid in\nthe interpretation of an EEG or PSG study. The software consists of four main functional areas:\n• Data Acquisition & Display - Real time collection of EEG, PSG and other physiological\nparameters. The data is stored and displayed in real time by the NicoletOne software on the\nacquisition computer and made available for subsequent review by a trained medical\nprofessional.\n• Scoring/Review & Analysis - The NicoletOne software application has features that facilitate\nstudy navigation, event marking, scoring, review of synchronized digital video, and data trends\nrequired by medical professionals in order to properly analyze and interpret the study data. In\naddition to allowing users to manually mark events for both electroencephalography (EEG) and",
+      "character_count": 2174
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 2 of 11 \n\n\n\npolysomnography (PSG) studies the NicoletOne software also provides optional computer \nassisted event marking analyzers for certain events. \n\n• Report Generation - Once the digital electroencephalography (EEG) or polysomnography (PSG) \ndata has been acquired scored and reviewed by medical professionals the NicoletOne and NicVue \nsoftware is used to generate a report of the study. The generated reports are associated with the \npatient in the patient database. NicoletOne also includes the ability to customize report templates \nto conform to individual facilities standards and policies. \n\n• Archiving & Data Management - Once the digital electroencephalography (EEG) or \npolysomnography (PSG) data has been acquired scored and reviewed by medical professionals \nthe NicoletOne and NicVue software is used to generate a report of the study. The generated \nreports are associated with the patient in the patient database. NicoletOne also includes the \nability to customize report templates to conform to individual facilities standards and policies. \n\n3. Typical work flow using the NicoletOne Application software \nDuring the Acquisition phase, the software collects data based on user selected sampling rates, \namplifier set-up, and amplifier calibrations. These three factors define how the software collects and \ndisplays the data in real-time. The recording is saved on the hard disk of the user's computer in a raw \ndata format. The user can customize displays, observations, event markers, and tags. \n\n4. Computer-assisted scoring analyzers and trending \nThe NicoletOne software contains eleven (11) computer-assisted analyzers and supports twenty (20) \ntrends. All automatic detection tools are provided as time saving aids to assist trained medical \npractitioners in the review and analysis of vast amounts of data. Each computer-assisted analyzer runs \na specific type of event marking or numeric value processing in the study and each can be enabled \nindividually as needed at the discretion of the user. The parameters used in the computer-assisted \nanalyzers depend on available input signals in the study as well as user defined settings. All output \nfrom computer assisted analyzers require medical professional review and acceptance. \n\nThe eleven computer-assisted scoring analyzers are: \n• Spike Detection \n• Seizure Detection \n• Apnea/Hypopnea Detection \n• Limb Movement Detection \n• Desaturation Detection \n• Oxygen Saturation \n• Heart Rate Detection \n• Body Position Detection \n• CPAP \n• Automatic Detection \n• Threshold Detection \n\n5. Diagnosis \nThe NicoletOne software does not make any decisions that result in any automatic diagnosis or \ntreatment. All software output is subject to review by the medical professional, and can be modified, \noverridden or deleted. The software allows the qualified user to review all raw data collected and \nperform data analysis as required. NicoletOne does not provide any final diagnostic conclusion about \nthe patient's condition. Neither the computer nor the software controls the delivery of energy, the \nadministration of drugs, or another form of life sustaining function to the patient.",
+      "character_count": 3207
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY\nPAGE 3 of 11 \nThe intended environments are hospitals, institutions, sleep centers, sleep clinics, or other test \nenvironments. Users of the NicoletOne software are solely responsible for all data collected, and are \nexpected to assess and analyze this data to ensure its accuracy and completeness. \nIndications for Use: \nThe NicoletOne EEG/PSG software performs recording, displaying, analysis, printing and storage of \nphysiological signals to assist in the diagnosis of various neurological disorders, sleep disorders and sleep \nrelated respiratory disorders. It is intended to monitor the state of the brain by recording and displaying \nEEG signals and can receive and display a variety of third party signals such as ECG, EMG, Oxygen \nSaturation or Respiration for patients of all ages. \nNicoletOne software allows: \n• Automated analysis of physiological signals that is intended for use only in adults.\n• An optional Audio/visual alert for user defined threshold on calibrated DC input. These alerts are not\nintended for use as life support such as vital signs monitoring or continuous medical surveillance in\nintensive care units.\n• Sleep report templates are provided which summarize recorded and scored sleep data using simple\nmeasures including count, average, maximum and minimum values as well as data ranges for trended\nvalues.\nThis device does not provide any diagnostic conclusion about the patient's condition and is intended to be \nused only by qualified and trained medical practitioners, in research and clinical environments. \nComparison to Predicate Devices: \nThe NicoletOne software application is being compared to the software applications in the predicates \nTwin Plus (K012976), Moberg CNS (K080217) as well as the Natus SleepWorks software (K090277). \nThese four software applications acquire, display, store, and archive electroencephalographic signals from \nthe brain and other signals (such as electromyography, respiratory and/or oximetry signals) for \nElectroencephalographic and/or Polysomnographic recordings. These devices also allow onscreen review, \nuser-controlled annotation and user-controlled marking of data and generating summary reports. \nThe following table provides a substantial equivalence comparison of the NicoletOne software application \nunder review to the three predicate devices. \nTable 1: Substantial Equivalence, aEEG, Trends and other features \nFeature \nPredicate Predicate \nPrimary \nPredicate Subject Device \nComments Twin Plus \nK012976 \nMoberg CNS \nK080217 \nSleepWorks \nK090277 NicoletOne \nDevice Class Class II Class II Class II Class II Identical \nClass Name Electroencephalograph \n(EEG) \nEEG EEG EEG Identical \nProduct Code GWQ OMA (primary); \nGWQ, MHX, \nMUD, OLT, \nORT \nOLZ OLZ (primary); \nOMB, OMA, \nOLT, ORT \nIncludes EEG/PSG \nsoftware product codes \nfrom all predicates plus \nOMB for assisted scoring \nEEG algorithms.",
+      "character_count": 2917
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 4 of 11 \n\n\n\nTable 1: Substantial Equivalence, aEEG, Trends and other features \n\n\n\nFeature \nPredicate Predicate \nPrimary \nPredicate Subject Device \n\n\n\nComments Twin Plus \nK012976 \nMoberg CNS \nK080217 \nSleepWorks \nK090277 \n\nNicoletOne \nClassifying \nRegulation \n(Primary) \n882.1400 882.1400 882.1400 882.1400 Identical \nIntended User Medical \nProfessional \nMedical \nProfessional \nMedical \nProfessional \nMedical \nProfessional \nIdentical \nIndications for \nUse \nThis software is \nintended for use by \nqualified research and \nclinical professionals \nwith specialized \ntraining in the use of \nEEG and PSG \nrecording \ninstrumentation for the \ndigital recording, \nplayback, and analysis \nof physiological \nsignals. It is suitable \nfor digital acquisition, \ndisplay, comparison, \nanalysis, and archiving \nof EEG potentials and \nother rapidly changing \nphysiological \nparameters. \nThe Component \nNeuromonitorin\ng System is \nintended to \nmonitor the state \nof the brain by \nrecording and \ndisplaying EEG \nsignals, and can \nalso receive and \ndisplay a variety \nof vital signs \nand other \nmeasurements \nfrom \nthird-party \nmonitoring \ndevices (such as \nICP, \nECG, SpO2, and \nothers). It also \nhas the optional \ncapability to \nrecord and \ndisplay patient \nvideo. The \nComponent \nNeuromonitorin\ng System is \nintended for use \nby a physician \nor other \nqualified \nmedical \npersonnel. It is \nintended for use \non \npatients of all \nages within a \nhospital or \nmedical \nenvironment, \nincluding the \noperating room, \nintensive \ncare unit, \nemergency \nroom, and \nThe Sleepworks \nsoftware works \nin conjunction \nwith Connex, \nTrex or Netlink \namplifiers \nintended for \npolysomnograph\ny studies. \nThe software \nallows \nrecording, \ndisplaying, \nanalysis, \nprinting and \nstorage of \nphysiological \nsignals to assist \nin the diagnosis \nof various sleep \ndisorders and \nsleep related \nrespiratory \ndisorders. The \nSleepworks \nallows: \nAutomated \nanalysis of \nphysiological \nsignals that is \nintended for use \nonly in adults. \nAn optional \nAudio / visual \nalert for user \ndefined \nthreshold on \ncalibrated DC \ninput. These \nalerts are not \nintended for use \nas life support \nsuch as vital \nsigns monitoring \nor continuous \nmedical \nThe NicoletOne \nEEG/PSG software \nperforms \nrecording, \ndisplaying, \nanalysis, printing \nand storage of \nphysiological \nsignals to assist in \nthe diagnosis of \nvarious \nneurological \ndisorders, sleep \ndisorders and sleep \nrelated respiratory \ndisorders. It is \nintended to \nmonitor the state \nof the brain by \nrecording and \ndisplaying EEG \nsignals and can \nreceive and display \na variety of third \nparty signals such \nas ECG, EMG, \nOxygen Saturation \nor Respiration for \npatients of all ages. \nNicoletOne \nsoftware allows: \nAutomated \nanalysis of \nphysiological \nsignals that is \nintended for use \nonly in adults. \nAn optional \nAudio/visual alert \nfor user defined \nthreshold on \ncalibrated DC \ninput. These alerts \nare not intended \nfor use as life \nsupport such as \nvital signs \nIncluded EEG intended \nuse wording from \nMoberg CNS. Removed \nreference to ICP from \nMoberg CNS. Included \nPSG wording from \nSleepWorks and \nremoved references to \nproprietary amplifiers. \nThe Twin Plus supports \nautomatic Spike and \nSeizure event detection.",
+      "character_count": 3282
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 5 of 11 \n\n\n\nTable 1: Substantial Equivalence, aEEG, Trends and other features \n\n\n\nFeature \nPredicate Predicate \nPrimary \nPredicate Subject Device \n\n\n\nComments Twin Plus \nK012976 \nMoberg CNS \nK080217 \nSleepWorks \nK090277 \n\nNicoletOne \nclinical research \nsettings. \nsurveillance in \nintensive care \nunits. \nSleep report \ntemplates are \nprovided which \nsummarize \nrecorded and \nscored sleep \ndata using \nsimple measures \nincluding count, \naverage, \nmaximum and \nminimum values \nas well as data \nranges for \ntrended values; \nSleep Works \nsoftware does \nnot provide any \ndiagnostic \nconclusion \nabout the \npatient's \ncondition and is \nintended to be \nused only by \nqualified and \ntrained medical \npractitioners; in \nresearch and \nclinical \nenvironments. \nmonitoring or \ncontinuous medical \nsurveillance in \nintensive care \nunits. \nSleep report \ntemplates are \nprovided which \nsummarize \nrecorded and \nscored sleep data \nusing simple \nmeasures including \ncount, average, \nmaximum and \nminimum values as \nwell as data ranges \nfor trended values. \nThis device does \nnot provide any \ndiagnostic \nconclusion about \nthe patient's \ncondition and is \nintended to be used \nonly by qualified \nand trained \nmedical \npractitioners, in \nresearch and \nclinical \nenvironments. \nUser input Mouse/Keyboard Mouse/keyboard Mouse/keyboard Mouse/keyboard Same \nAcquire, \ndisplay, store, \nand archive \nEEG/PSG \nData \nYes Yes Yes Yes Same \nSignal \ndigitized \nBy separate \nproprietary amplifier \nAmplifier \nincluded as part \nof the system \nBy separate \nproprietary \namplifier \nBy separate \nproprietary \namplifier \nEquivalent \nThird party \npass-through \ninputs \nYes \nSaO2, heart rate \nYes \nSaO2, heart rate, \nRsO2 \nNo Yes \nSaO2, heart rate \nEquivalent \nPower Not Applicable NA NA NA Software operating on a \ncomputer. \nEEG Software Detectors",
+      "character_count": 1852
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 6 of 11 \n\n\n\nTable 1: Substantial Equivalence, aEEG, Trends and other features \n\n\n\nFeature \nPredicate Predicate \nPrimary \nPredicate Subject Device \n\n\n\nComments Twin Plus \nK012976 \nMoberg CNS \nK080217 \nSleepWorks \nK090277 \n\nNicoletOne \nSpike \nDetection \nYes \n(Manual & \nComputer \nAssisted) \nYes \n(Manual) \nNo Yes \n(Manual & \nComputer \nAssisted) \nThe Twin Plus supports \nautomatic spike and \nseizure event detection. \nThe Twin Plus 510(k) \ndeclares the automatic \nspike detection and \nseizure detection feature \nis a direct copy of the \nspike detection and \nseizure detection feature \nin the Telefactor SzAC \nK870450. \nSeizure \nDetection \nYes \n(Manual & \nComputer \nAssisted) \nYes \n(Manual) \nNo Yes \n(Manual & \nComputer \nAssisted) \nBurst \nSuppression \nNo Yes No Yes Equivalent \nAmplitude \nIntegrated \nEEG (aEEG) \nNo Yes No Yes Equivalent \nPower \nSpectrum \nNo Yes No Yes Equivalent \nEnvelope \nTrend \nNo Yes No Yes Equivalent \nTotal Power \nTrend \nNo Yes No Yes Equivalent \nBand Power \nTrend \nNo Yes No Yes Equivalent \nSpectrogram No Yes No Yes Equivalent \nSpectral \nedge/Median \nfreq. Trends \nNo Yes No Yes Equivalent \nPeak \nFrequency \nTrend \nNo Yes No Yes Equivalent \nSpectral \nEntropy trend \nNo Yes No Yes Equivalent \nFrequency \nRatio Trend \nNo No No Yes Equivalent \nAlpha \nVariation \nTrend \nNo No No Yes Equivalent \nPSG Software Detectors \nRespiratory \nevent marking \nYes (Manual & \nComputer Assisted) \nYes (Manual) Yes (Manual & \nComputer \nAssisted) \nYes (Manual & \nComputer \nAssisted) \nEquivalent",
+      "character_count": 1536
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 7 of 11 \n\n\n\nTable 1: Substantial Equivalence, aEEG, Trends and other features \n\n\n\nFeature \nPredicate Predicate \nPrimary \nPredicate Subject Device \n\n\n\nComments Twin Plus \nK012976 \nMoberg CNS \nK080217 \nSleepWorks \nK090277 \n\nNicoletOne \nSleep staging/ \nscoring \nYes (Manual & \nComputer \nAssisted) \nYes (Manual) Yes (Manual & \nComputer \nAssisted) \nYes (Manual) Equivalent \nArousal Event \nMarking \nYes (Manual & \nComputer \nAssisted) \nYes (Manual) Yes (Manual & \nComputer \nAssisted) \nYes (Manual) Equivalent \nLimb \nmovements \nevent marking \nYes (Manual) Yes (Manual) Yes (Manual & \nComputer \nAssisted) \nYes (Manual & \nComputer \nAssisted) \nEquivalent \nSnore event \nmarking \nYes (Manual) Yes (Manual) Yes (Manual & \nComputer \nAssisted) \nYes (Manual) Equivalent \nOxygen \nDesaturation \nevent marking \nYes (Manual) Yes (Manual) Yes (Manual & \nComputer \nAssisted) \nYes (Manual & \nComputer \nAssisted) \nEquivalent \nHeart Rate \ndata trend & \nsummary \nYes Yes Yes Yes Same \nOther features \nSynchronized \npatient video \nYes Yes Yes Yes Same \nOximetry data \ndisplay and \nreporting \nYes Yes Yes Yes Same \nData storage Local or remote, \nhard disk \nLocal or remote, \nhard disk \nLocal or remote, \nhard disk \nLocal or remote, \nhard disk \nSame \nAudio/ Visual \nAlerts On \nCalibrated \nChannels \nNo Yes Yes Yes Same \nSignals \nrecorded \n(output) \nRespiratory \nEffort \n(abdomen \nand chest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \n\nDC \nLeg Movement and \nother signals \nRespiratory \nEffort \n(abdomen \nand chest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \nEOG \nDC \nLeg Movement \nand other \nsignals \nRespiratory \nEffort \n(abdomen \nand chest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \nEOG \nDC \nLeg Movement \nand other \nsignals \nRespiratory \nEffort \n(abdomen and \nchest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \nEOG \nDC \nLeg Movement \nand other \nsignals \nEquivalent",
+      "character_count": 2021
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 8 of 11 \n\n\n\nTable 1: Substantial Equivalence, aEEG, Trends and other features \n\n\n\nFeature \nPredicate Predicate \nPrimary \nPredicate Subject Device \n\n\n\nComments Twin Plus \nK012976 \nMoberg CNS \nK080217 \nSleepWorks \nK090277 \n\nNicoletOne \nrequired for sleep \nstudies \nrequired for \nsleep studies \nrequired for \nsleep studies \nrequired for \nsleep studies \nReport \ngeneration \nincluding \ncounts indexes, \nmax / min/ \naverage/ \nduration, range \nbased data \nsummaries. \nNumeric & \ngraphical \nrepresentations \nYes, \ncustomizable \ntemplates \nYes, \ncustomizable \ntemplates \nYes, \ncustomizable \ntemplates \nYes, \ncustomizable \ntemplates \nSame \n\nThese predicate devices support features and technology equivalence of the NicoletOne software under \nreview. As indicated, the NicoletOne software and the predicate devices are equivalent in features and \ntechnical characteristics. \n\nThe NicoletOne software and predicate devices are not life supporting or life sustaining devices. The \nNicoletOne software is intended for use only by qualified and trained medical practitioners in clinical \nand research environments, who evaluate the software output with their clinical experience and \njudgment to provide diagnostic conclusions about the patient's condition. \n\nSimilarly to the predicate devices, NicoletOne software provides the qualified users with computer \nassisted scoring of events which will mark sections of the recorded signals for subsequent review by \nthe user. These functions are provided as computer-aided tools. Users are instructed to review, \naccept or reject the results of the assisted scoring tools in accordance with their professional judgment. \n\nNicoletOne software and all three predicates include features for acquisition of synchronized video \nrecording/review, audio/visual threshold based alerts for calibrated external devices (pulse oximeter) as \nwell as trending of any collected data for summary review and reporting. \n\nNicoletOne and the predicate SleepWorks (K090277) include computer assisted event marking algorithms \nfor respiratory and limb movements. The NicoletOne algorithm performance is similar to the previously \ncleared algorithms within the SleepWorks (K090277) application. \n\nThe differences between NicoletOne and the predicate devices are mainly related to user workflow. There \nare no major differences that significantly alter the intended use or raise new issues of safety or \neffectiveness. The predicates Twin Plus (K012976) and SleepWorks (K090277), as well as the device \nunder review, NicoletOne software, have equivalent intended use: to record and process EEG/PSG and \nother physiological signals to assist in the diagnosis of various neurological disorders, sleep disorders and \nsleep related respiratory disorders affecting patients in all age groups. \n\nThe NicoletOne software and predicate devices are not life supporting or life sustaining devices. The \nNicoletOne software is intended for use only by qualified and trained medical practitioners in clinical and",
+      "character_count": 3051
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 9 of 11 \n\n\n\nresearch environments, who evaluate the software output with their clinical experience and judgment to \nprovide diagnostic conclusions about the patient's condition. \n\nBrief Summary of Performance Tests: \n\nBiocompatibility \nNicoletOne is a software-only device. Biocompatibility testing is not applicable. \n\nElectrical Safety and EMC \nNicoletOne is a software-only device. Electrical safety evaluation and EMC evaluation is not applicable. \n\nSoftware Verification \nBench verification and validation testing of the NicoletOne application was performed in compliance with \nthe Natus Medical incorporated design control process. Testing results demonstrate that the NicoletOne \nsoftware meets the design specification and performs as specified. \n\nAnimal Study \nThere were no animal studies performed for this submission. \n\n\nClinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers \n\n1.1. Participants \nForty-nine PSG sleep studies were collected. All patients involved in this study were adult patients (32-85 \nyears old) with a clinical indication for a sleep study. The patient data were de-identified and applied as \nsubject data to this study. \n\n1.2. Dataset description \nTotal Number of Subjects: 49 per event evaluated \nTotal Number of scored Epochs (30 Sec): > 43,480 \nTotal Number of Hours: 361:31:00 \nAverage number of epochs per subject: 887.3 \nMinimum number of epochs per subject: 799 \nMaximum Number of epochs per subject: 983 \n\nData from 49 subjects were evaluated for respiratory and limb movement events. All epochs from these \nsubjects were scored. \n\n1.3. Objective of the study \nThe goal of this clinical validation study was to establish that the performance of the NicoletOne assisted \nscoring software for respiratory and limb movement events compared to the Majority are equivalent with \nthe predicate device and acceptable for clinical use. For the purpose of this study the Majority is defined \nas: \nFor respiratory events, a Majority rule of at least 2 out of 3 manual expert scorers agree on the type(s) of \nevent(s) in an epoch or the lack of the event in the epoch. \nFor limb movement, a majority rule of at least 2 out of 3 manual expert scorers agree on the presence of the \nevent type in the epoch.",
+      "character_count": 2304
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 10 of 11 \n\n\n\n\n1.4. PSG acquisition protocol \nFor this study, the following signals were recorded from each subject: \n• Six (6) Electroencephalogram ([EEG] channels: F3, F4, C3, C4, O1, and O2. \n• Two (2) Electrooculogram (EOG) channels \n• Submental and bilateral tibial electromyogram (EMG) \n• Electrocardiogram (ECG) \n• Airflow (nasal-oral thermistor and nasal pressure sensors or PAP flow) \n• Chest and abdominal movement using respiratory inductance Plethysmography. \n• Pulse oximetry (SpO2) and pulse rate \n\n1.5. PSG analysis protocol \nAll physiologic data were collected and stored on a NicoletOne System. The ECG, EEG, EMG, EOG, \nSnoring channels, Airflow, Chest and abdominal movement channels were collected along with Pulse \noximetry channels. \n\nThe raw PSG recordings were de-identified, randomized and provided to three experienced and certified \nPSG specialists, including one board certified sleep specialist, who independently marked events of interest \nin each epoch, applying the following criteria. \n\n1.5.1 Respiratory event expert scoring requirements \nAll study epochs will be scored for one or more of the following types of respiratory events in each 30 \nsecond epoch. Respiratory event scoring is defined in the following table. \n\nRespiratory Event \nScore \nDefinition \nObstructive Apnea Apply AASM VIII. Respiratory Rules; Part 1: \nRules for Adults, Section “C. Scoring of Apneas”. \nCentral Apnea Apply AASM VIII. Respiratory Rules; Part 1: \nRules for Adults, Section “C. Scoring of Apneas”. \nMixed Apnea Apply AASM VIII. Respiratory Rules; Part 1: \nRules for Adults, Section “C. Scoring of Apneas”. \nHypopnea Apply AASM VIII. Respiratory Rules; Part 1: \nRules for Adults, Section “D. Scoring of \nHypopneas”, 1A \n1.5.2 Leg movement scoring requirements \nScore leg movements per the AASM Section VII Movement Rules. \n\n1.5.3 Analyzers \nSeparate from the expert review, all PSG studies were also analyzed by NicoletOne assisted-scoring \nanalyzers at default values for: \n• Central apnea \n• Mixed apnea \n• Obstructive apnea \n• Hypopnea \n• Limb movement",
+      "character_count": 2111
+    },
+    {
+      "page": 14,
+      "extraction_method": "native",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 11 of 11 \n\n\n\n\n1.6. Outcomes \nPositive Percent Agreement (PPA) between NicoletOne assisted-scoring analyzers compared to the \nReference standard were measured on an epoch basis. The mean and 95% confidence interval (CI) of the \nPPA and false detection rate per hour for event detection assisted-scoring modules are shown in the \nfollowing table. \n\nPPA and False Detection Rate Per Hour of NicoletOne Event Detection Assisted \nScoring modules \n\n\n\nEvent \nNicoletOne \nPPA FD/h \nMean 95% CI Mean 95% CI \nCentral Apnea 99.1% 98.8% to 99.5% 0.6 0.37 to 1.07 \nMixed Apnea 99.6% 99.3% to 99.8% 0.3 0.15 to 0.66 \nObstructive Apnea 98.6% 97.5% to 99.3% 0.2 0.11 to 0.48 \nHypopnea 86.8% 84.1% to 89% 9.0 7.41 to 10.89 \nLimb Movement 93.3% 90.9% to 95.3% 3.7 2.01 to 4.64 \n\n1.7. Clinical Study Conclusion \nCompared to the Reference standard, NicoletOne assisted-scoring modules showed performance levels \ncomparable to the manual markings of expert reviewers. The device performance is clinically equivalent to \nthe Reference standard (majority rule) as constructed for this study, similar to results reported in the \nliterature and to performance reported for other commercially available devices. \n\n\n510(k) Summary Conclusions: \nThe substantial equivalence of the NicoletOne with the predicate Natus SleepWorks product was \ndemonstrated by software verification testing and clinical validation. The non-clinical data support the \nsafety of the device. The software verification and validation demonstrate that the NicoletOne device \nshould perform as intended in the specified use conditions. The clinical validation of the Respiratory and \nLimb Movement Assisted-scoring Analyzers demonstrates that the NicoletOne device performs similarly \nto the predicate device that is currently marketed for the same intended use.",
+      "character_count": 1849
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K173366-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "July 20, 2018\nNatus Neurology Incorporated\nMartin Dockter\nSr. Regulatory Affairs Manager\n3150 Pleasant View Road\nMiddleton, Wisconsin 53562 \nRe: K173366\nTrade/Device Name: NicoletOne\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLZ, OMB, OMA, OLT, ORT\nDated: June 15, 2018\nReceived: June 18, 2018\nDear Martin Dockter:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. The general controls provisions of the Act include requirements for annual \nregistration, listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding \nand adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. \nWe remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803); good \nmanufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820); \nBuild Correspondence Convert to PDF",
+      "extraction_method": "native",
+      "character_count": 2469
+    },
+    {
+      "block_id": "K173366-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Page 2 – Martin Dockter K173366\nand if applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR \n1000-1050.\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice \n(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn \n(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and \nConsumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website \n(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone \n(1-800-638-2041 or 301-796-7100).\nSincerely,\nfor\nCarlos L. Peña, PhD, MS\nDirector\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure \nValerie A. Flournoy -S",
+      "extraction_method": "native",
+      "character_count": 1254
+    },
+    {
+      "block_id": "K173366-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 06/30/2020\nSee PRA Statement below.\n510(k) Number (if known)\nK173366\nDevice Name\nNicoletOne\nIndications for Use (Describe)\nThe NicoletOne EEG/PSG software performs recording, displaying, analysis, printing and storage of physiological signals \nto assist in the diagnosis of various neurological disorders, sleep disorders and sleep related respiratory disorders. It is \nintended to monitor the state of the brain by recording and displaying EEG signals and can receive and display a variety o\nf \nthird party signals such as ECG, EMG, Oxygen Saturation or Respiration for patients of all ages.",
+      "extraction_method": "native",
+      "character_count": 807
+    },
+    {
+      "block_id": "K173366-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "NicoletOne software allows: \n• Automated analysis of physiological signals that is intended for use only in adults.",
+      "extraction_method": "native",
+      "character_count": 115
+    },
+    {
+      "block_id": "K173366-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "• An optional Audio/visual alert for user defined threshold on calibrated DC input. These alerts are not intended for use as \nlife support such as vital signs monitoring or continuous medical surveillance in intensive care units.",
+      "extraction_method": "native",
+      "character_count": 229
+    },
+    {
+      "block_id": "K173366-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "• Sleep report templates are provided which summarize recorded and scored sleep data using simple measures including \ncount, average, maximum and minimum values as well as data ranges for trended values.",
+      "extraction_method": "native",
+      "character_count": 203
+    },
+    {
+      "block_id": "K173366-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "This device does not provide any diagnostic conclusion about the patient's condition and is intended to be used only by \nqualified and trained medical practitioners, in research and clinical environments.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "native",
+      "character_count": 1274
+    },
+    {
+      "block_id": "K173366-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY\nPAGE 1 of 11 \nK173366 - 510(k) SUMMARY \nSubmitted by: Natus Neurology Incorporated \n3150 Pleasant View Road \nMiddleton, WI 53562 \nContact Person: Martin A. Dockter, Sr. Regulatory Affairs Specialist \nTel.: (858) 260-2552 \nFax: (858) 455-8298 \nE-mail: martin.dockter@natus.com \nDate Prepared: July 17, 2018 \nProprietary Name: NicoletOne \nCommon Name: Electroencephalograph \nClassification Name: Automatic event detection software for full-montage electroencephalograph \nProduct code: OLZ (primary), OMB, OMA, OLT, ORT \nDevice Class: II \nRegulation Number: 21 CFR 882.1400 \nPredicate Device: Twin Plus (K012976) primary; Moberg CNS (K080217); Natus SleepWorks \n(K090277) \nDescription: \n1. Overview NicoletOne Software\nThe NicoletOne application is a software product for digital electroencephalography, long term\nmonitoring in Epilepsy, intensive care unit (ICU) monitoring, and polysomnography that runs on a\npanel PC, desktop or laptop computer. It is a Windows based application used by trained medical\nprofessionals to investigate brain function and sleep disorders.\n2. Main Functional Areas\nThe NicoletOne application collects and displays continuous physiological waveform data (via a\nNatus digital amplifier), and digital audio/video (via standard audio/video equipment). After\ncollecting and saving the signals, it provides tools and analyzers to analyze the signals, which aid in\nthe interpretation of an EEG or PSG study. The software consists of four main functional areas:\n• Data Acquisition & Display - Real time collection of EEG, PSG and other physiological\nparameters. The data is stored and displayed in real time by the NicoletOne software on the\nacquisition computer and made available for subsequent review by a trained medical\nprofessional.\n• Scoring/Review & Analysis - The NicoletOne software application has features that facilitate\nstudy navigation, event marking, scoring, review of synchronized digital video, and data trends\nrequired by medical professionals in order to properly analyze and interpret the study data. In\naddition to allowing users to manually mark events for both electroencephalography (EEG) and",
+      "extraction_method": "native",
+      "character_count": 2174
+    },
+    {
+      "block_id": "K173366-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 2 of 11",
+      "extraction_method": "native",
+      "character_count": 48
+    },
+    {
+      "block_id": "K173366-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "polysomnography (PSG) studies the NicoletOne software also provides optional computer \nassisted event marking analyzers for certain events.",
+      "extraction_method": "native",
+      "character_count": 139
+    },
+    {
+      "block_id": "K173366-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "• Report Generation - Once the digital electroencephalography (EEG) or polysomnography (PSG) \ndata has been acquired scored and reviewed by medical professionals the NicoletOne and NicVue \nsoftware is used to generate a report of the study. The generated reports are associated with the \npatient in the patient database. NicoletOne also includes the ability to customize report templates \nto conform to individual facilities standards and policies.",
+      "extraction_method": "native",
+      "character_count": 448
+    },
+    {
+      "block_id": "K173366-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "• Archiving & Data Management - Once the digital electroencephalography (EEG) or \npolysomnography (PSG) data has been acquired scored and reviewed by medical professionals \nthe NicoletOne and NicVue software is used to generate a report of the study. The generated \nreports are associated with the patient in the patient database. NicoletOne also includes the \nability to customize report templates to conform to individual facilities standards and policies.",
+      "extraction_method": "native",
+      "character_count": 458
+    },
+    {
+      "block_id": "K173366-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "3. Typical work flow using the NicoletOne Application software \nDuring the Acquisition phase, the software collects data based on user selected sampling rates, \namplifier set-up, and amplifier calibrations. These three factors define how the software collects and \ndisplays the data in real-time. The recording is saved on the hard disk of the user's computer in a raw \ndata format. The user can customize displays, observations, event markers, and tags.",
+      "extraction_method": "native",
+      "character_count": 454
+    },
+    {
+      "block_id": "K173366-P005-B006",
+      "page": 5,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "4. Computer-assisted scoring analyzers and trending \nThe NicoletOne software contains eleven (11) computer-assisted analyzers and supports twenty (20) \ntrends. All automatic detection tools are provided as time saving aids to assist trained medical \npractitioners in the review and analysis of vast amounts of data. Each computer-assisted analyzer runs \na specific type of event marking or numeric value processing in the study and each can be enabled \nindividually as needed at the discretion of the user. The parameters used in the computer-assisted \nanalyzers depend on available input signals in the study as well as user defined settings. All output \nfrom computer assisted analyzers require medical professional review and acceptance.",
+      "extraction_method": "native",
+      "character_count": 740
+    },
+    {
+      "block_id": "K173366-P005-B007",
+      "page": 5,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The eleven computer-assisted scoring analyzers are: \n• Spike Detection \n• Seizure Detection \n• Apnea/Hypopnea Detection \n• Limb Movement Detection \n• Desaturation Detection \n• Oxygen Saturation \n• Heart Rate Detection \n• Body Position Detection \n• CPAP \n• Automatic Detection \n• Threshold Detection",
+      "extraction_method": "native",
+      "character_count": 298
+    },
+    {
+      "block_id": "K173366-P005-B008",
+      "page": 5,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "5. Diagnosis \nThe NicoletOne software does not make any decisions that result in any automatic diagnosis or \ntreatment. All software output is subject to review by the medical professional, and can be modified, \noverridden or deleted. The software allows the qualified user to review all raw data collected and \nperform data analysis as required. NicoletOne does not provide any final diagnostic conclusion about \nthe patient's condition. Neither the computer nor the software controls the delivery of energy, the \nadministration of drugs, or another form of life sustaining function to the patient.",
+      "extraction_method": "native",
+      "character_count": 599
+    },
+    {
+      "block_id": "K173366-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY\nPAGE 3 of 11 \nThe intended environments are hospitals, institutions, sleep centers, sleep clinics, or other test \nenvironments. Users of the NicoletOne software are solely responsible for all data collected, and are \nexpected to assess and analyze this data to ensure its accuracy and completeness. \nIndications for Use: \nThe NicoletOne EEG/PSG software performs recording, displaying, analysis, printing and storage of \nphysiological signals to assist in the diagnosis of various neurological disorders, sleep disorders and sleep \nrelated respiratory disorders. It is intended to monitor the state of the brain by recording and displaying \nEEG signals and can receive and display a variety of third party signals such as ECG, EMG, Oxygen \nSaturation or Respiration for patients of all ages. \nNicoletOne software allows: \n• Automated analysis of physiological signals that is intended for use only in adults.\n• An optional Audio/visual alert for user defined threshold on calibrated DC input. These alerts are not\nintended for use as life support such as vital signs monitoring or continuous medical surveillance in\nintensive care units.\n• Sleep report templates are provided which summarize recorded and scored sleep data using simple\nmeasures including count, average, maximum and minimum values as well as data ranges for trended\nvalues.\nThis device does not provide any diagnostic conclusion about the patient's condition and is intended to be \nused only by qualified and trained medical practitioners, in research and clinical environments. \nComparison to Predicate Devices: \nThe NicoletOne software application is being compared to the software applications in the predicates \nTwin Plus (K012976), Moberg CNS (K080217) as well as the Natus SleepWorks software (K090277). \nThese four software applications acquire, display, store, and archive electroencephalographic signals from \nthe brain and other signals (such as electromyography, respiratory and/or oximetry signals) for \nElectroencephalographic and/or Polysomnographic recordings. These devices also allow onscreen review, \nuser-controlled annotation and user-controlled marking of data and generating summary reports. \nThe following table provides a substantial equivalence comparison of the NicoletOne software application \nunder review to the three predicate devices. \nTable 1: Substantial Equivalence, aEEG, Trends and other features \nFeature \nPredicate Predicate \nPrimary \nPredicate Subject Device \nComments Twin Plus \nK012976 \nMoberg CNS \nK080217 \nSleepWorks \nK090277 NicoletOne \nDevice Class Class II Class II Class II Class II Identical \nClass Name Electroencephalograph \n(EEG) \nEEG EEG EEG Identical \nProduct Code GWQ OMA (primary); \nGWQ, MHX, \nMUD, OLT, \nORT \nOLZ OLZ (primary); \nOMB, OMA, \nOLT, ORT \nIncludes EEG/PSG \nsoftware product codes \nfrom all predicates plus \nOMB for assisted scoring \nEEG algorithms.",
+      "extraction_method": "native",
+      "character_count": 2917
+    },
+    {
+      "block_id": "K173366-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 4 of 11",
+      "extraction_method": "native",
+      "character_count": 48
+    },
+    {
+      "block_id": "K173366-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Table 1: Substantial Equivalence, aEEG, Trends and other features",
+      "extraction_method": "native",
+      "character_count": 65
+    },
+    {
+      "block_id": "K173366-P007-B003",
+      "page": 7,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Feature \nPredicate Predicate \nPrimary \nPredicate Subject Device",
+      "extraction_method": "native",
+      "character_count": 63
+    },
+    {
+      "block_id": "K173366-P007-B004",
+      "page": 7,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Comments Twin Plus \nK012976 \nMoberg CNS \nK080217 \nSleepWorks \nK090277",
+      "extraction_method": "native",
+      "character_count": 69
+    },
+    {
+      "block_id": "K173366-P007-B005",
+      "page": 7,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "NicoletOne \nClassifying \nRegulation \n(Primary) \n882.1400 882.1400 882.1400 882.1400 Identical \nIntended User Medical \nProfessional \nMedical \nProfessional \nMedical \nProfessional \nMedical \nProfessional \nIdentical \nIndications for \nUse \nThis software is \nintended for use by \nqualified research and \nclinical professionals \nwith specialized \ntraining in the use of \nEEG and PSG \nrecording \ninstrumentation for the \ndigital recording, \nplayback, and analysis \nof physiological \nsignals. It is suitable \nfor digital acquisition, \ndisplay, comparison, \nanalysis, and archiving \nof EEG potentials and \nother rapidly changing \nphysiological \nparameters. \nThe Component \nNeuromonitorin\ng System is \nintended to \nmonitor the state \nof the brain by \nrecording and \ndisplaying EEG \nsignals, and can \nalso receive and \ndisplay a variety \nof vital signs \nand other \nmeasurements \nfrom \nthird-party \nmonitoring \ndevices (such as \nICP, \nECG, SpO2, and \nothers). It also \nhas the optional \ncapability to \nrecord and \ndisplay patient \nvideo. The \nComponent \nNeuromonitorin\ng System is \nintended for use \nby a physician \nor other \nqualified \nmedical \npersonnel. It is \nintended for use \non \npatients of all \nages within a \nhospital or \nmedical \nenvironment, \nincluding the \noperating room, \nintensive \ncare unit, \nemergency \nroom, and \nThe Sleepworks \nsoftware works \nin conjunction \nwith Connex, \nTrex or Netlink \namplifiers \nintended for \npolysomnograph\ny studies. \nThe software \nallows \nrecording, \ndisplaying, \nanalysis, \nprinting and \nstorage of \nphysiological \nsignals to assist \nin the diagnosis \nof various sleep \ndisorders and \nsleep related \nrespiratory \ndisorders. The \nSleepworks \nallows: \nAutomated \nanalysis of \nphysiological \nsignals that is \nintended for use \nonly in adults. \nAn optional \nAudio / visual \nalert for user \ndefined \nthreshold on \ncalibrated DC \ninput. These \nalerts are not \nintended for use \nas life support \nsuch as vital \nsigns monitoring \nor continuous \nmedical \nThe NicoletOne \nEEG/PSG software \nperforms \nrecording, \ndisplaying, \nanalysis, printing \nand storage of \nphysiological \nsignals to assist in \nthe diagnosis of \nvarious \nneurological \ndisorders, sleep \ndisorders and sleep \nrelated respiratory \ndisorders. It is \nintended to \nmonitor the state \nof the brain by \nrecording and \ndisplaying EEG \nsignals and can \nreceive and display \na variety of third \nparty signals such \nas ECG, EMG, \nOxygen Saturation \nor Respiration for \npatients of all ages. \nNicoletOne \nsoftware allows: \nAutomated \nanalysis of \nphysiological \nsignals that is \nintended for use \nonly in adults. \nAn optional \nAudio/visual alert \nfor user defined \nthreshold on \ncalibrated DC \ninput. These alerts \nare not intended \nfor use as life \nsupport such as \nvital signs \nIncluded EEG intended \nuse wording from \nMoberg CNS. Removed \nreference to ICP from \nMoberg CNS. Included \nPSG wording from \nSleepWorks and \nremoved references to \nproprietary amplifiers. \nThe Twin Plus supports \nautomatic Spike and \nSeizure event detection.",
+      "extraction_method": "native",
+      "character_count": 3019
+    },
+    {
+      "block_id": "K173366-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 5 of 11",
+      "extraction_method": "native",
+      "character_count": 48
+    },
+    {
+      "block_id": "K173366-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Table 1: Substantial Equivalence, aEEG, Trends and other features",
+      "extraction_method": "native",
+      "character_count": 65
+    },
+    {
+      "block_id": "K173366-P008-B003",
+      "page": 8,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Feature \nPredicate Predicate \nPrimary \nPredicate Subject Device",
+      "extraction_method": "native",
+      "character_count": 63
+    },
+    {
+      "block_id": "K173366-P008-B004",
+      "page": 8,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Comments Twin Plus \nK012976 \nMoberg CNS \nK080217 \nSleepWorks \nK090277",
+      "extraction_method": "native",
+      "character_count": 69
+    },
+    {
+      "block_id": "K173366-P008-B005",
+      "page": 8,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "NicoletOne \nclinical research \nsettings. \nsurveillance in \nintensive care \nunits. \nSleep report \ntemplates are \nprovided which \nsummarize \nrecorded and \nscored sleep \ndata using \nsimple measures \nincluding count, \naverage, \nmaximum and \nminimum values \nas well as data \nranges for \ntrended values; \nSleep Works \nsoftware does \nnot provide any \ndiagnostic \nconclusion \nabout the \npatient's \ncondition and is \nintended to be \nused only by \nqualified and \ntrained medical \npractitioners; in \nresearch and \nclinical \nenvironments. \nmonitoring or \ncontinuous medical \nsurveillance in \nintensive care \nunits. \nSleep report \ntemplates are \nprovided which \nsummarize \nrecorded and \nscored sleep data \nusing simple \nmeasures including \ncount, average, \nmaximum and \nminimum values as \nwell as data ranges \nfor trended values. \nThis device does \nnot provide any \ndiagnostic \nconclusion about \nthe patient's \ncondition and is \nintended to be used \nonly by qualified \nand trained \nmedical \npractitioners, in \nresearch and \nclinical \nenvironments. \nUser input Mouse/Keyboard Mouse/keyboard Mouse/keyboard Mouse/keyboard Same \nAcquire, \ndisplay, store, \nand archive \nEEG/PSG \nData \nYes Yes Yes Yes Same \nSignal \ndigitized \nBy separate \nproprietary amplifier \nAmplifier \nincluded as part \nof the system \nBy separate \nproprietary \namplifier \nBy separate \nproprietary \namplifier \nEquivalent \nThird party \npass-through \ninputs \nYes \nSaO2, heart rate \nYes \nSaO2, heart rate, \nRsO2 \nNo Yes \nSaO2, heart rate \nEquivalent \nPower Not Applicable NA NA NA Software operating on a \ncomputer. \nEEG Software Detectors",
+      "extraction_method": "native",
+      "character_count": 1589
+    },
+    {
+      "block_id": "K173366-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 6 of 11",
+      "extraction_method": "native",
+      "character_count": 48
+    },
+    {
+      "block_id": "K173366-P009-B002",
+      "page": 9,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Table 1: Substantial Equivalence, aEEG, Trends and other features",
+      "extraction_method": "native",
+      "character_count": 65
+    },
+    {
+      "block_id": "K173366-P009-B003",
+      "page": 9,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Feature \nPredicate Predicate \nPrimary \nPredicate Subject Device",
+      "extraction_method": "native",
+      "character_count": 63
+    },
+    {
+      "block_id": "K173366-P009-B004",
+      "page": 9,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Comments Twin Plus \nK012976 \nMoberg CNS \nK080217 \nSleepWorks \nK090277",
+      "extraction_method": "native",
+      "character_count": 69
+    },
+    {
+      "block_id": "K173366-P009-B005",
+      "page": 9,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "NicoletOne \nSpike \nDetection \nYes \n(Manual & \nComputer \nAssisted) \nYes \n(Manual) \nNo Yes \n(Manual & \nComputer \nAssisted) \nThe Twin Plus supports \nautomatic spike and \nseizure event detection. \nThe Twin Plus 510(k) \ndeclares the automatic \nspike detection and \nseizure detection feature \nis a direct copy of the \nspike detection and \nseizure detection feature \nin the Telefactor SzAC \nK870450. \nSeizure \nDetection \nYes \n(Manual & \nComputer \nAssisted) \nYes \n(Manual) \nNo Yes \n(Manual & \nComputer \nAssisted) \nBurst \nSuppression \nNo Yes No Yes Equivalent \nAmplitude \nIntegrated \nEEG (aEEG) \nNo Yes No Yes Equivalent \nPower \nSpectrum \nNo Yes No Yes Equivalent \nEnvelope \nTrend \nNo Yes No Yes Equivalent \nTotal Power \nTrend \nNo Yes No Yes Equivalent \nBand Power \nTrend \nNo Yes No Yes Equivalent \nSpectrogram No Yes No Yes Equivalent \nSpectral \nedge/Median \nfreq. Trends \nNo Yes No Yes Equivalent \nPeak \nFrequency \nTrend \nNo Yes No Yes Equivalent \nSpectral \nEntropy trend \nNo Yes No Yes Equivalent \nFrequency \nRatio Trend \nNo No No Yes Equivalent \nAlpha \nVariation \nTrend \nNo No No Yes Equivalent \nPSG Software Detectors \nRespiratory \nevent marking \nYes (Manual & \nComputer Assisted) \nYes (Manual) Yes (Manual & \nComputer \nAssisted) \nYes (Manual & \nComputer \nAssisted) \nEquivalent",
+      "extraction_method": "native",
+      "character_count": 1273
+    },
+    {
+      "block_id": "K173366-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 7 of 11",
+      "extraction_method": "native",
+      "character_count": 48
+    },
+    {
+      "block_id": "K173366-P010-B002",
+      "page": 10,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Table 1: Substantial Equivalence, aEEG, Trends and other features",
+      "extraction_method": "native",
+      "character_count": 65
+    },
+    {
+      "block_id": "K173366-P010-B003",
+      "page": 10,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Feature \nPredicate Predicate \nPrimary \nPredicate Subject Device",
+      "extraction_method": "native",
+      "character_count": 63
+    },
+    {
+      "block_id": "K173366-P010-B004",
+      "page": 10,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Comments Twin Plus \nK012976 \nMoberg CNS \nK080217 \nSleepWorks \nK090277",
+      "extraction_method": "native",
+      "character_count": 69
+    },
+    {
+      "block_id": "K173366-P010-B005",
+      "page": 10,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "NicoletOne \nSleep staging/ \nscoring \nYes (Manual & \nComputer \nAssisted) \nYes (Manual) Yes (Manual & \nComputer \nAssisted) \nYes (Manual) Equivalent \nArousal Event \nMarking \nYes (Manual & \nComputer \nAssisted) \nYes (Manual) Yes (Manual & \nComputer \nAssisted) \nYes (Manual) Equivalent \nLimb \nmovements \nevent marking \nYes (Manual) Yes (Manual) Yes (Manual & \nComputer \nAssisted) \nYes (Manual & \nComputer \nAssisted) \nEquivalent \nSnore event \nmarking \nYes (Manual) Yes (Manual) Yes (Manual & \nComputer \nAssisted) \nYes (Manual) Equivalent \nOxygen \nDesaturation \nevent marking \nYes (Manual) Yes (Manual) Yes (Manual & \nComputer \nAssisted) \nYes (Manual & \nComputer \nAssisted) \nEquivalent \nHeart Rate \ndata trend & \nsummary \nYes Yes Yes Yes Same \nOther features \nSynchronized \npatient video \nYes Yes Yes Yes Same \nOximetry data \ndisplay and \nreporting \nYes Yes Yes Yes Same \nData storage Local or remote, \nhard disk \nLocal or remote, \nhard disk \nLocal or remote, \nhard disk \nLocal or remote, \nhard disk \nSame \nAudio/ Visual \nAlerts On \nCalibrated \nChannels \nNo Yes Yes Yes Same \nSignals \nrecorded \n(output) \nRespiratory \nEffort \n(abdomen \nand chest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG",
+      "extraction_method": "native",
+      "character_count": 1216
+    },
+    {
+      "block_id": "K173366-P010-B006",
+      "page": 10,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DC \nLeg Movement and \nother signals \nRespiratory \nEffort \n(abdomen \nand chest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \nEOG \nDC \nLeg Movement \nand other \nsignals \nRespiratory \nEffort \n(abdomen \nand chest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \nEOG \nDC \nLeg Movement \nand other \nsignals \nRespiratory \nEffort \n(abdomen and \nchest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \nEOG \nDC \nLeg Movement \nand other \nsignals \nEquivalent",
+      "extraction_method": "native",
+      "character_count": 539
+    },
+    {
+      "block_id": "K173366-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 8 of 11",
+      "extraction_method": "native",
+      "character_count": 48
+    },
+    {
+      "block_id": "K173366-P011-B002",
+      "page": 11,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Table 1: Substantial Equivalence, aEEG, Trends and other features",
+      "extraction_method": "native",
+      "character_count": 65
+    },
+    {
+      "block_id": "K173366-P011-B003",
+      "page": 11,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Feature \nPredicate Predicate \nPrimary \nPredicate Subject Device",
+      "extraction_method": "native",
+      "character_count": 63
+    },
+    {
+      "block_id": "K173366-P011-B004",
+      "page": 11,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Comments Twin Plus \nK012976 \nMoberg CNS \nK080217 \nSleepWorks \nK090277",
+      "extraction_method": "native",
+      "character_count": 69
+    },
+    {
+      "block_id": "K173366-P011-B005",
+      "page": 11,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "NicoletOne \nrequired for sleep \nstudies \nrequired for \nsleep studies \nrequired for \nsleep studies \nrequired for \nsleep studies \nReport \ngeneration \nincluding \ncounts indexes, \nmax / min/ \naverage/ \nduration, range \nbased data \nsummaries. \nNumeric & \ngraphical \nrepresentations \nYes, \ncustomizable \ntemplates \nYes, \ncustomizable \ntemplates \nYes, \ncustomizable \ntemplates \nYes, \ncustomizable \ntemplates \nSame",
+      "extraction_method": "native",
+      "character_count": 406
+    },
+    {
+      "block_id": "K173366-P011-B006",
+      "page": 11,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "These predicate devices support features and technology equivalence of the NicoletOne software under \nreview. As indicated, the NicoletOne software and the predicate devices are equivalent in features and \ntechnical characteristics.",
+      "extraction_method": "native",
+      "character_count": 232
+    },
+    {
+      "block_id": "K173366-P011-B007",
+      "page": 11,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The NicoletOne software and predicate devices are not life supporting or life sustaining devices. The \nNicoletOne software is intended for use only by qualified and trained medical practitioners in clinical \nand research environments, who evaluate the software output with their clinical experience and \njudgment to provide diagnostic conclusions about the patient's condition.",
+      "extraction_method": "native",
+      "character_count": 377
+    },
+    {
+      "block_id": "K173366-P011-B008",
+      "page": 11,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Similarly to the predicate devices, NicoletOne software provides the qualified users with computer \nassisted scoring of events which will mark sections of the recorded signals for subsequent review by \nthe user. These functions are provided as computer-aided tools. Users are instructed to review, \naccept or reject the results of the assisted scoring tools in accordance with their professional judgment.",
+      "extraction_method": "native",
+      "character_count": 405
+    },
+    {
+      "block_id": "K173366-P011-B009",
+      "page": 11,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "NicoletOne software and all three predicates include features for acquisition of synchronized video \nrecording/review, audio/visual threshold based alerts for calibrated external devices (pulse oximeter) as \nwell as trending of any collected data for summary review and reporting.",
+      "extraction_method": "native",
+      "character_count": 280
+    },
+    {
+      "block_id": "K173366-P011-B010",
+      "page": 11,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "NicoletOne and the predicate SleepWorks (K090277) include computer assisted event marking algorithms \nfor respiratory and limb movements. The NicoletOne algorithm performance is similar to the previously \ncleared algorithms within the SleepWorks (K090277) application.",
+      "extraction_method": "native",
+      "character_count": 268
+    },
+    {
+      "block_id": "K173366-P011-B011",
+      "page": 11,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The differences between NicoletOne and the predicate devices are mainly related to user workflow. There \nare no major differences that significantly alter the intended use or raise new issues of safety or \neffectiveness. The predicates Twin Plus (K012976) and SleepWorks (K090277), as well as the device \nunder review, NicoletOne software, have equivalent intended use: to record and process EEG/PSG and \nother physiological signals to assist in the diagnosis of various neurological disorders, sleep disorders and \nsleep related respiratory disorders affecting patients in all age groups.",
+      "extraction_method": "native",
+      "character_count": 589
+    },
+    {
+      "block_id": "K173366-P011-B012",
+      "page": 11,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The NicoletOne software and predicate devices are not life supporting or life sustaining devices. The \nNicoletOne software is intended for use only by qualified and trained medical practitioners in clinical and",
+      "extraction_method": "native",
+      "character_count": 210
+    },
+    {
+      "block_id": "K173366-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 9 of 11",
+      "extraction_method": "native",
+      "character_count": 48
+    },
+    {
+      "block_id": "K173366-P012-B002",
+      "page": 12,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "research environments, who evaluate the software output with their clinical experience and judgment to \nprovide diagnostic conclusions about the patient's condition.",
+      "extraction_method": "native",
+      "character_count": 165
+    },
+    {
+      "block_id": "K173366-P012-B003",
+      "page": 12,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Brief Summary of Performance Tests:",
+      "extraction_method": "native",
+      "character_count": 35
+    },
+    {
+      "block_id": "K173366-P012-B004",
+      "page": 12,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Biocompatibility \nNicoletOne is a software-only device. Biocompatibility testing is not applicable.",
+      "extraction_method": "native",
+      "character_count": 99
+    },
+    {
+      "block_id": "K173366-P012-B005",
+      "page": 12,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Electrical Safety and EMC \nNicoletOne is a software-only device. Electrical safety evaluation and EMC evaluation is not applicable.",
+      "extraction_method": "native",
+      "character_count": 131
+    },
+    {
+      "block_id": "K173366-P012-B006",
+      "page": 12,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Software Verification \nBench verification and validation testing of the NicoletOne application was performed in compliance with \nthe Natus Medical incorporated design control process. Testing results demonstrate that the NicoletOne \nsoftware meets the design specification and performs as specified.",
+      "extraction_method": "native",
+      "character_count": 299
+    },
+    {
+      "block_id": "K173366-P012-B007",
+      "page": 12,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Animal Study \nThere were no animal studies performed for this submission.",
+      "extraction_method": "native",
+      "character_count": 73
+    },
+    {
+      "block_id": "K173366-P012-B008",
+      "page": 12,
+      "ordinal": 8,
+      "type": "heading",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "extraction_method": "native",
+      "character_count": 81
+    },
+    {
+      "block_id": "K173366-P012-B009",
+      "page": 12,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "1.1. Participants \nForty-nine PSG sleep studies were collected. All patients involved in this study were adult patients (32-85 \nyears old) with a clinical indication for a sleep study. The patient data were de-identified and applied as \nsubject data to this study.",
+      "extraction_method": "native",
+      "character_count": 264
+    },
+    {
+      "block_id": "K173366-P012-B010",
+      "page": 12,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "1.2. Dataset description \nTotal Number of Subjects: 49 per event evaluated \nTotal Number of scored Epochs (30 Sec): > 43,480 \nTotal Number of Hours: 361:31:00 \nAverage number of epochs per subject: 887.3 \nMinimum number of epochs per subject: 799 \nMaximum Number of epochs per subject: 983",
+      "extraction_method": "native",
+      "character_count": 289
+    },
+    {
+      "block_id": "K173366-P012-B011",
+      "page": 12,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "Data from 49 subjects were evaluated for respiratory and limb movement events. All epochs from these \nsubjects were scored.",
+      "extraction_method": "native",
+      "character_count": 123
+    },
+    {
+      "block_id": "K173366-P012-B012",
+      "page": 12,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "1.3. Objective of the study \nThe goal of this clinical validation study was to establish that the performance of the NicoletOne assisted \nscoring software for respiratory and limb movement events compared to the Majority are equivalent with \nthe predicate device and acceptable for clinical use. For the purpose of this study the Majority is defined \nas: \nFor respiratory events, a Majority rule of at least 2 out of 3 manual expert scorers agree on the type(s) of \nevent(s) in an epoch or the lack of the event in the epoch. \nFor limb movement, a majority rule of at least 2 out of 3 manual expert scorers agree on the presence of the \nevent type in the epoch.",
+      "extraction_method": "native",
+      "character_count": 661
+    },
+    {
+      "block_id": "K173366-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 10 of 11",
+      "extraction_method": "native",
+      "character_count": 49
+    },
+    {
+      "block_id": "K173366-P013-B002",
+      "page": 13,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "1.4. PSG acquisition protocol \nFor this study, the following signals were recorded from each subject: \n• Six (6) Electroencephalogram ([EEG] channels: F3, F4, C3, C4, O1, and O2. \n• Two (2) Electrooculogram (EOG) channels \n• Submental and bilateral tibial electromyogram (EMG) \n• Electrocardiogram (ECG) \n• Airflow (nasal-oral thermistor and nasal pressure sensors or PAP flow) \n• Chest and abdominal movement using respiratory inductance Plethysmography. \n• Pulse oximetry (SpO2) and pulse rate",
+      "extraction_method": "native",
+      "character_count": 495
+    },
+    {
+      "block_id": "K173366-P013-B003",
+      "page": 13,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "1.5. PSG analysis protocol \nAll physiologic data were collected and stored on a NicoletOne System. The ECG, EEG, EMG, EOG, \nSnoring channels, Airflow, Chest and abdominal movement channels were collected along with Pulse \noximetry channels.",
+      "extraction_method": "native",
+      "character_count": 240
+    },
+    {
+      "block_id": "K173366-P013-B004",
+      "page": 13,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "The raw PSG recordings were de-identified, randomized and provided to three experienced and certified \nPSG specialists, including one board certified sleep specialist, who independently marked events of interest \nin each epoch, applying the following criteria.",
+      "extraction_method": "native",
+      "character_count": 260
+    },
+    {
+      "block_id": "K173366-P013-B005",
+      "page": 13,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "1.5.1 Respiratory event expert scoring requirements \nAll study epochs will be scored for one or more of the following types of respiratory events in each 30 \nsecond epoch. Respiratory event scoring is defined in the following table.",
+      "extraction_method": "native",
+      "character_count": 232
+    },
+    {
+      "block_id": "K173366-P013-B006",
+      "page": 13,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "Respiratory Event \nScore \nDefinition \nObstructive Apnea Apply AASM VIII. Respiratory Rules; Part 1: \nRules for Adults, Section “C. Scoring of Apneas”. \nCentral Apnea Apply AASM VIII. Respiratory Rules; Part 1: \nRules for Adults, Section “C. Scoring of Apneas”. \nMixed Apnea Apply AASM VIII. Respiratory Rules; Part 1: \nRules for Adults, Section “C. Scoring of Apneas”. \nHypopnea Apply AASM VIII. Respiratory Rules; Part 1: \nRules for Adults, Section “D. Scoring of \nHypopneas”, 1A \n1.5.2 Leg movement scoring requirements \nScore leg movements per the AASM Section VII Movement Rules.",
+      "extraction_method": "native",
+      "character_count": 583
+    },
+    {
+      "block_id": "K173366-P013-B007",
+      "page": 13,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "1.5.3 Analyzers \nSeparate from the expert review, all PSG studies were also analyzed by NicoletOne assisted-scoring \nanalyzers at default values for: \n• Central apnea \n• Mixed apnea \n• Obstructive apnea \n• Hypopnea \n• Limb movement",
+      "extraction_method": "native",
+      "character_count": 231
+    },
+    {
+      "block_id": "K173366-P014-B001",
+      "page": 14,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "510(K): NICOLETONE \n510(K) SUMMARY \nPAGE 11 of 11",
+      "extraction_method": "native",
+      "character_count": 49
+    },
+    {
+      "block_id": "K173366-P014-B002",
+      "page": 14,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "1.6. Outcomes \nPositive Percent Agreement (PPA) between NicoletOne assisted-scoring analyzers compared to the \nReference standard were measured on an epoch basis. The mean and 95% confidence interval (CI) of the \nPPA and false detection rate per hour for event detection assisted-scoring modules are shown in the \nfollowing table.",
+      "extraction_method": "native",
+      "character_count": 330
+    },
+    {
+      "block_id": "K173366-P014-B003",
+      "page": 14,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "PPA and False Detection Rate Per Hour of NicoletOne Event Detection Assisted \nScoring modules",
+      "extraction_method": "native",
+      "character_count": 93
+    },
+    {
+      "block_id": "K173366-P014-B004",
+      "page": 14,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "Event \nNicoletOne \nPPA FD/h \nMean 95% CI Mean 95% CI \nCentral Apnea 99.1% 98.8% to 99.5% 0.6 0.37 to 1.07 \nMixed Apnea 99.6% 99.3% to 99.8% 0.3 0.15 to 0.66 \nObstructive Apnea 98.6% 97.5% to 99.3% 0.2 0.11 to 0.48 \nHypopnea 86.8% 84.1% to 89% 9.0 7.41 to 10.89 \nLimb Movement 93.3% 90.9% to 95.3% 3.7 2.01 to 4.64",
+      "extraction_method": "native",
+      "character_count": 313
+    },
+    {
+      "block_id": "K173366-P014-B005",
+      "page": 14,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "1.7. Clinical Study Conclusion \nCompared to the Reference standard, NicoletOne assisted-scoring modules showed performance levels \ncomparable to the manual markings of expert reviewers. The device performance is clinically equivalent to \nthe Reference standard (majority rule) as constructed for this study, similar to results reported in the \nliterature and to performance reported for other commercially available devices.",
+      "extraction_method": "native",
+      "character_count": 424
+    },
+    {
+      "block_id": "K173366-P014-B006",
+      "page": 14,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Clinical Study Summary – Respiratory and Limb Movement Assisted-scoring Analyzers",
+      "text": "510(k) Summary Conclusions: \nThe substantial equivalence of the NicoletOne with the predicate Natus SleepWorks product was \ndemonstrated by software verification testing and clinical validation. The non-clinical data support the \nsafety of the device. The software verification and validation demonstrate that the NicoletOne device \nshould perform as intended in the specified use conditions. The clinical validation of the Respiratory and \nLimb Movement Assisted-scoring Analyzers demonstrates that the NicoletOne device performs similarly \nto the predicate device that is currently marketed for the same intended use.",
+      "extraction_method": "native",
+      "character_count": 619
+    }
+  ],
+  "claims": []
+}

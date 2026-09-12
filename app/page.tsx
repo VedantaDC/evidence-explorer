@@ -1,6 +1,7 @@
 "use client";
 
 import { Fragment, useEffect, useMemo, useState } from "react";
+import { EvidenceLibrary } from "./evidence-library";
 
 type Pair = [string, number];
 type Family = {
@@ -47,7 +48,7 @@ type OtherOutput = { family_id:string; family_name:string; product_code:string; 
 type OtherClearance = { family_id:string; family_name:string; product_code:string; k_number:string; decision_date:string; device_name:string; source_url:string };
 type OtherAudit = { product_code:string; k_number:string; decision_date:string; device_name:string; applicant:string; analysis_decision:string; scope_category:string; decision_reason:string; pdf_status:string; text_available:boolean; evidence_excerpt:string; source_url:string };
 type OtherPayload = { stats:{ product_codes:string[]; snapshot_date:string; total_clearances_screened:number; included_clearances:number; included_families:number; excluded_clearances:number; olv_clearances:number; olz_clearances:number; olv_included:number; olz_included:number; sensor_facts:number; output_facts:number; system_type_counts:Pair[]; exclusion_category_counts:Pair[]; scope_rule:string }; families:OtherFamily[]; clearances:OtherClearance[]; sensors:OtherSensor[]; outputs:OtherOutput[]; audit:OtherAudit[] };
-type Corpus = "mnr"|"other"|"analysis"|"education";
+type Corpus = "mnr"|"other"|"analysis"|"education"|"evidence";
 type MeasurementProfile = { id:string; label:string; diseaseRole:string; mechanisms:string[]; relationship:string };
 type InventoryRow = MeasurementProfile & { sensor:string; locations:string[]; aliases:string[]; families:number; familyIds:string[]; facts:number; productCodes:string[] };
 type EvidenceRef = { familyKey:string; familyName:string; productCode:string; kNumber:string; sourceUrl:string };
@@ -58,6 +59,10 @@ const palette = ["#00a7a5", "#195b8a", "#f29d49", "#7559a6", "#6a9f58", "#dc6b6b
 
 function fold(value: string) {
   return value.trim().replace(/\s+/g, " ").toLocaleLowerCase();
+}
+
+function publicAsset(name:string){
+  return typeof window!=="undefined"&&window.location.pathname.startsWith("/evidence-explorer")?`/evidence-explorer/${name}`:`/${name}`;
 }
 
 function preferredLabel(values: string[]) {
@@ -393,6 +398,7 @@ function CorpusNav({ corpus, setCorpus }: { corpus:Corpus; setCorpus:(value:Corp
     <button className={corpus === "other" ? "active" : ""} onClick={() => setCorpus("other")}>Other product codes · OLV / OLZ</button>
     <button className={corpus === "analysis" ? "active" : ""} onClick={() => setCorpus("analysis")}>Cross-corpus analysis</button>
     <button className={corpus === "education" ? "active" : ""} onClick={() => setCorpus("education")}>Education</button>
+    <button className={corpus === "evidence" ? "active" : ""} onClick={() => setCorpus("evidence")}>510(k) evidence library</button>
   </nav>;
 }
 
@@ -548,8 +554,9 @@ export default function Home() {
   const [tier, setTier] = useState("");
   const [auditDecision, setAuditDecision] = useState("");
   const [expanded, setExpanded] = useState<string | null>(null);
+  const [evidenceRoute,setEvidenceRoute]=useState(false);
 
-  useEffect(() => { fetch("dashboard_data.json").then(r => r.json()).then(setData); fetch("other_codes_data.json").then(r=>r.json()).then(setOtherData); }, []);
+  useEffect(() => { setEvidenceRoute(/\/510k\/K\d+/i.test(window.location.pathname)); fetch(publicAsset("dashboard_data.json")).then(r => r.json()).then(setData); fetch(publicAsset("other_codes_data.json")).then(r=>r.json()).then(setOtherData); }, []);
   const sensorOptions = useMemo(() => data ? unique(data.sensors.filter(x=>isPhysiologicalSensorFact(x.standardized_sensor,x.measurement)).map(x => x.standardized_sensor)) : [], [data]);
   const locationOptions = useMemo(() => data ? unique(data.sensors.filter(x=>isPhysiologicalSensorFact(x.standardized_sensor,x.measurement)).map(x => x.standardized_location)) : [], [data]);
   const outputOptions = useMemo(() => data ? unique(data.outputs.filter(x=>isPhysiologicalOutputFact(x.standardized_output)).map(x => x.standardized_output)) : [], [data]);
@@ -593,10 +600,12 @@ export default function Home() {
     return data.outputs.filter(o => isPhysiologicalOutputFact(o.standardized_output) && ids.has(o.device_family_id) && (!output || sameLabel(o.standardized_output, output)));
   }, [data, filteredFamilies, output]);
 
+  if (evidenceRoute) return <EvidenceLibrary/>;
   if (!data || !otherData) return <main className="loading"><div className="loadingMark" /><h1>Preparing the sleep-device evidence explorer…</h1></main>;
   if (corpus === "other") return <OtherCodesView data={otherData} setCorpus={setCorpus}/>;
   if (corpus === "analysis") return <CrossCorpusAnalysis mnr={data} other={otherData} setCorpus={setCorpus} navigateEducation={target=>{setEducationTarget(target);setCorpus("education")}}/>;
   if (corpus === "education") return <EducationView mnr={data} other={otherData} setCorpus={setCorpus} target={educationTarget}/>;
+  if (corpus === "evidence") return <EvidenceLibrary onExit={()=>setCorpus("mnr")}/>;
 
   const kLinks = (familyId: string) => data.clearances.filter(c => c.device_family_id === familyId);
   const clearFilters = () => { setSearch(""); setSensor(""); setLocation(""); setOutput(""); setRole(""); setArchetype(""); setTier(""); };

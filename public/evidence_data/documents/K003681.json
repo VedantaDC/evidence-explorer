@@ -1,0 +1,29 @@
+{
+  "document": {
+    "k_number": "K003681",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "BIO-LOGIC SLEEPSCAN NETLINK",
+    "applicant": "Bio-Logic Systems Corp.",
+    "decision_date": "2000-12-21",
+    "document_type": "Summary",
+    "source_status": "unavailable",
+    "download_status": "public_pdf_unavailable",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf0/K003681.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K003681",
+    "sha256": "",
+    "page_count": 0,
+    "native_pages": 0,
+    "ocr_pages": 0,
+    "family_id": "PSG-013",
+    "family_name": "Bio-logic Sleepscan / Netlink Traveler",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "source unavailable"
+  },
+  "pages": [],
+  "blocks": [],
+  "claims": []
+}

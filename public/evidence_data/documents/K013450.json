@@ -1,0 +1,389 @@
+{
+  "document": {
+    "k_number": "K013450",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "NOTTA AMBULATORY RECORDER",
+    "applicant": "Stellate Systems",
+    "decision_date": "2002-01-14",
+    "document_type": "Statement",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf/K013450.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K013450",
+    "sha256": "9f90dce53f5567705eee002a44c23a8b3d790b1ec40dc30d311f30daa38d9d6c",
+    "page_count": 3,
+    "native_pages": 0,
+    "ocr_pages": 3,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "estes\nea sy\n\n€ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\na MtAlting\nre,\n\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room -WO066-G609\nSilver Spring, MD 20993-0002\n\nMr. George Papagiannis, M.Eng.\n\nQuality Assurance and Regulatory Affairs\n\nStellate Systems\n\n345 Victoria Avenue, Suite 300 _\nCanada H3Z 2N2 APR -9 2012\n\nRe: K013450\nTrade/Device Name: Notta Ambulatory Recorder\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ\nDated (Date on orig SE ltr): October 9, 2001\nReceived (Date on orig SE ltr): October 17, 2001\n\nDear Mr. Papagiannis:\nThis letter corrects our substantially equivalent letter of January 14, 2002.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the\ndevice referenced above and have determined the device is substantially equivalent (for the\nindications for use stated in the enclosure) to legally marketed predicate devices marketed\nin interstate commerce prior to May 28, 1976, the enactment date of the Medical Device\nAmendments or to devices that have been reclassified in accordance with the provisions of\nthe Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a\npremarket approval (PMA). You may, therefore, market the device, subject to the general\ncontrols provisions of the Act. The general controls provisions of the Act include\nrequirements for annual registration, listing of devices, good manufacturing practice,\nlabeling, and prohibitions against misbranding and adulteration.\n\nIf your device is classified (see above) into either class [I (Special Controls) or class II\n(PMA), it may be subject to additional controls. Existing major regulations affecting your\ndevice can be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In\naddition, FDA may publish further announcements concerning your device in the Federal\n\nRegister.",
+      "character_count": 1953
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Mr. George Papagiannis\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutFDA/CentersOffices/C DRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\n\nhttp://www.fda.gov/Medical Devices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.\n\nSincerely yours,\n\nMalvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health\n\nEnclosure",
+      "character_count": 1958
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "Stellate Systems - 510(k) Notification Notta Ambulatory Recorder\n\nAttachment A\n\nIndications for Use Statement\n510(k) Number: K 013 YSY\nDevice Name: Notta Ambulatory Recorder\n\nIndications for Use:\n\nThe Notta Ambulatory Recorder is indicated for the recording and study of EEG and other\nphysiological signals obtained during routine EEG exams, long-term monitoring in epilepsy (LTM)\nand sleep studies (PSG or polysomnography) either at home, at a clinical setting, or other suitable\nenvironment under physician’s order.\n\nThe Notta Ambulatory Recorder is indicated for use with children and adults under the supervision\nof a physician or other trained health care professional. The device is intended to be worn by the\n\npatient during a recording session.\n\nThe Notta Ambulatory Recorder is not intended to be used for the monitoring of vital signs, in\ncritical care or intra-operative settings.\n\nIn no way are any of the device functions represented as being in and of themselves diagnostic.\nThe system requires competent user input, and its output must be reviewed and interpreted by a\nphysician or other trained health care professional who will exercise professional judgment in using\nthis information.\n\nPLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED\n\nalan y\\ yh fee of CDRH, Office of Device Evaluation (ODE)\nto.——\n\n(Division Sign-OfM\nDivision of Genern{. Restorative\nands :urological !-evices\n\nPrescription Usc v OR Over-The-Counter Use\n(Per 21 CFR 801.109)",
+      "character_count": 1485
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K013450-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "estes\nea sy",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K013450-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "€ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "ocr",
+      "character_count": 61
+    },
+    {
+      "block_id": "K013450-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "a MtAlting\nre,",
+      "extraction_method": "ocr",
+      "character_count": 14
+    },
+    {
+      "block_id": "K013450-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room -WO066-G609\nSilver Spring, MD 20993-0002",
+      "extraction_method": "ocr",
+      "character_count": 118
+    },
+    {
+      "block_id": "K013450-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Mr. George Papagiannis, M.Eng.",
+      "extraction_method": "ocr",
+      "character_count": 30
+    },
+    {
+      "block_id": "K013450-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Quality Assurance and Regulatory Affairs",
+      "extraction_method": "ocr",
+      "character_count": 40
+    },
+    {
+      "block_id": "K013450-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Stellate Systems",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K013450-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "345 Victoria Avenue, Suite 300 _\nCanada H3Z 2N2 APR -9 2012",
+      "extraction_method": "ocr",
+      "character_count": 59
+    },
+    {
+      "block_id": "K013450-P001-B009",
+      "page": 1,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K013450\nTrade/Device Name: Notta Ambulatory Recorder\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ\nDated (Date on orig SE ltr): October 9, 2001\nReceived (Date on orig SE ltr): October 17, 2001",
+      "extraction_method": "ocr",
+      "character_count": 268
+    },
+    {
+      "block_id": "K013450-P001-B010",
+      "page": 1,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Dear Mr. Papagiannis:\nThis letter corrects our substantially equivalent letter of January 14, 2002.",
+      "extraction_method": "ocr",
+      "character_count": 99
+    },
+    {
+      "block_id": "K013450-P001-B011",
+      "page": 1,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the\ndevice referenced above and have determined the device is substantially equivalent (for the\nindications for use stated in the enclosure) to legally marketed predicate devices marketed\nin interstate commerce prior to May 28, 1976, the enactment date of the Medical Device\nAmendments or to devices that have been reclassified in accordance with the provisions of\nthe Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a\npremarket approval (PMA). You may, therefore, market the device, subject to the general\ncontrols provisions of the Act. The general controls provisions of the Act include\nrequirements for annual registration, listing of devices, good manufacturing practice,\nlabeling, and prohibitions against misbranding and adulteration.",
+      "extraction_method": "ocr",
+      "character_count": 848
+    },
+    {
+      "block_id": "K013450-P001-B012",
+      "page": 1,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "If your device is classified (see above) into either class [I (Special Controls) or class II\n(PMA), it may be subject to additional controls. Existing major regulations affecting your\ndevice can be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In\naddition, FDA may publish further announcements concerning your device in the Federal",
+      "extraction_method": "ocr",
+      "character_count": 356
+    },
+    {
+      "block_id": "K013450-P001-B013",
+      "page": 1,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Register.",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K013450-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Page 2 - Mr. George Papagiannis",
+      "extraction_method": "ocr",
+      "character_count": 31
+    },
+    {
+      "block_id": "K013450-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K013450-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutFDA/CentersOffices/C DRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to",
+      "extraction_method": "ocr",
+      "character_count": 493
+    },
+    {
+      "block_id": "K013450-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "http://www.fda.gov/Medical Devices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 158
+    },
+    {
+      "block_id": "K013450-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "You may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 316
+    },
+    {
+      "block_id": "K013450-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Sincerely yours,",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K013450-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Malvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 176
+    },
+    {
+      "block_id": "K013450-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Enclosure",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K013450-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Stellate Systems - 510(k) Notification Notta Ambulatory Recorder",
+      "extraction_method": "ocr",
+      "character_count": 64
+    },
+    {
+      "block_id": "K013450-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Attachment A",
+      "extraction_method": "ocr",
+      "character_count": 12
+    },
+    {
+      "block_id": "K013450-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Indications for Use Statement\n510(k) Number: K 013 YSY\nDevice Name: Notta Ambulatory Recorder",
+      "extraction_method": "ocr",
+      "character_count": 93
+    },
+    {
+      "block_id": "K013450-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "Indications for Use:",
+      "text": "Indications for Use:",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K013450-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "The Notta Ambulatory Recorder is indicated for the recording and study of EEG and other\nphysiological signals obtained during routine EEG exams, long-term monitoring in epilepsy (LTM)\nand sleep studies (PSG or polysomnography) either at home, at a clinical setting, or other suitable\nenvironment under physician’s order.",
+      "extraction_method": "ocr",
+      "character_count": 320
+    },
+    {
+      "block_id": "K013450-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "The Notta Ambulatory Recorder is indicated for use with children and adults under the supervision\nof a physician or other trained health care professional. The device is intended to be worn by the",
+      "extraction_method": "ocr",
+      "character_count": 196
+    },
+    {
+      "block_id": "K013450-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "patient during a recording session.",
+      "extraction_method": "ocr",
+      "character_count": 35
+    },
+    {
+      "block_id": "K013450-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "The Notta Ambulatory Recorder is not intended to be used for the monitoring of vital signs, in\ncritical care or intra-operative settings.",
+      "extraction_method": "ocr",
+      "character_count": 137
+    },
+    {
+      "block_id": "K013450-P003-B009",
+      "page": 3,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "In no way are any of the device functions represented as being in and of themselves diagnostic.\nThe system requires competent user input, and its output must be reviewed and interpreted by a\nphysician or other trained health care professional who will exercise professional judgment in using\nthis information.",
+      "extraction_method": "ocr",
+      "character_count": 309
+    },
+    {
+      "block_id": "K013450-P003-B010",
+      "page": 3,
+      "ordinal": 10,
+      "type": "heading",
+      "section": "PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED",
+      "text": "PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED",
+      "extraction_method": "ocr",
+      "character_count": 72
+    },
+    {
+      "block_id": "K013450-P003-B011",
+      "page": 3,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED",
+      "text": "alan y\\ yh fee of CDRH, Office of Device Evaluation (ODE)\nto.——",
+      "extraction_method": "ocr",
+      "character_count": 63
+    },
+    {
+      "block_id": "K013450-P003-B012",
+      "page": 3,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED",
+      "text": "(Division Sign-OfM\nDivision of Genern{. Restorative\nands :urological !-evices",
+      "extraction_method": "ocr",
+      "character_count": 77
+    },
+    {
+      "block_id": "K013450-P003-B013",
+      "page": 3,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED",
+      "text": "Prescription Usc v OR Over-The-Counter Use\n(Per 21 CFR 801.109)",
+      "extraction_method": "ocr",
+      "character_count": 63
+    }
+  ],
+  "claims": []
+}

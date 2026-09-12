@@ -1,0 +1,143 @@
+{
+  "document": {
+    "k_number": "K101830",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "ZMACHINE, MODEL DT-100",
+    "applicant": "Consolidated Research of Richmond, Inc.",
+    "decision_date": "2011-03-31",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf10/K101830.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K101830",
+    "sha256": "22e961f18b8ff512a14893d98ea4a8f26faed1dc17c29ff79d98449c92f87a4b",
+    "page_count": 7,
+    "native_pages": 7,
+    "ocr_pages": 0,
+    "family_id": "PSG-031",
+    "family_name": "Zmachine family",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "4K101g50MAR 31\nZmachine® 510(k) Summary\nSubmitter Consolidated Research of Richmond, Inc.\nAddress 26250 Euclid Avenue. Suite 024\nEuclid, Ohio 44132\nContact Person Richard F. Kaplan, Ph.D., President\nPhone: (216) 289-2331\nFax: (216) 393-0079\nE-mail: kaplan gcri-svstems.comi\nDate Prepared March 28, 2011\nTrade Name Zmachinet\nCommon Name Sleep monitoring systeni\nClassification Electroencephalograph\nName\nClassification 21 CFR (882.1400)\nProduct Codes OLV and OMC\n510(k) Number K<101830\nIndications The CR1 Zrnachine is a single-channel. EEG acquisition and analysis system,\nfor Use designed for use in the home or clinical environments. This device is\nintended to be used by qualified healthcare practitioners to monitor the wake\nand sleep states of adult patients and as an adjunct to their diagnosis of sleep\ndisorders.\nZmachine 510(k) Summary 1 of 4",
+      "character_count": 851
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "Device Description\nThe CR1 Zmachine is a battery-operated, single-channel, EEC acquisition and analysis system. The\nZmachine system includes the Zmachine device, disposable EEG sensors, sensor cable, and a wall\ncharger. The device operates on data from the differential-mastoid EEG channel to determine the\nwake and sleep states of the patient every 30 seconds.\nSubstantial Equivalence\nThe Zmachine is substantially equivalent to the Oxford BioSignals Biosomnia device. manufactured\nby Oxford Biosignals Limited (K02 1485). The table below summarizes the technological\ncharacteristics of the Zmachine in comparison to the predicate device.\nDevice Zniachine BioSomnnia\nClassification 21 CFR (882.1400) 21 CER (882.1400)\nProduct Code(s) OLV and OMC CWQ\nThe Oxford BioSignals BioSomnia\nThe CR1 Zmachine is a single- is a single channel ambulatory EEC\nchannel, EEG acquisition and with a software package designed\nanalysis system, designed for use in for use as an adjunct for the\nthe home or clinical environments, physician in their diagnosis of sleep\nIndications for Use This device is intended to be used disorders and to quantify sleep and\nby qualified healthcare practitioners wakefulness on a second by second\nto monitor the wake and sleep states basis. The device is designed to be\nof adult patients and as an adjunct used overnight in the patient's home\nto their diagnosis of sleep disorders. environment to assist the physician\nin diagnosing sleep disorders.\nPatient Population Adults Adults\nType of Device EEC-based sleep monitor EEC-based sleep monitor\nNo. of EEC Channels II\nMastoid\nElectrode Placement Mastoid FroGnUppe\nCentral\nAnalyzes EEC Data in Yes Yes\nReal Time\nSlee Clssifcaton Wke nd SeepWake and Sleep (light sleep, deep\nSlee Clssifcaton Wke nd Seepsleep, and REM sleep)\nEEC Analysis Proprietary adaptive algorithm Proprietary artificial neural\nMethodology using time and frequency domain newr-adaloihMethodology featuresnewr-adaloih\nCan Provide\nInfonmation to Assist\nthe Physician in Yes Yes\nDiagnosis of Sleep\nDisorders?\nCan Provide\nInformation to Assist\nthe Physician in the Yes Yes\nApplication of\nTreatment? ________________________________________\nZmachine 510(k) Summary 2 of 4",
+      "character_count": 2201
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "Device Zinachine BioSomnia\nProvides Information\nto Assist Physician inI Yes Yesthe Evaluation of\nTreatment Efficacy?\nCalculates Summnary eve\nSleep Statistics? Yes_________________ Yes________________\nBattery Powered? Yes Yes\nPerformance Testing - Nonclinical\nThe Zmachine system has been assessed against the following standards:\nElectrical safety in accordance with JEC 60601-1, Medlical Electrical Equipment - Part 1. General\nRequirements for Safen': Safety' Requiremenzs for M~edical Electrical Systems;\nElectromagnetic compatibility in accordance with lEG 6060 1-1-2, Medical Electrical Equipment -\nPart 1- 2: General Requirements for Safety - Collateral Standard: Electromagnetic Compatibility --\nRequirements and Tests. (General).\nIn addition, software testing was performed in accordance with FDA guidance. \"Guidance for the\nContent of Premarket Subisis/117br Software Contained in Medical Devices- Document issued on:\nMom' ii, 2005S\" regarding a moderate level of concern device:\nPerformance Testing - Clinical\nA ninety-nine subject (99) clinical study was conducted in which polysomnographic (PSG) data was\nacquired and analyzed by human scorers, and simultaneously data from the mastoid was acquired and\nprocessed by the Zinachine wake/sleep algorithm. Each PSG record was scored independently by at\nleast two (2) certified polvsomnlographic technologists (3 records scored by 2 technologists, 16\nrecords scored by 3 technologists, and 80 records scored by 4 technologists) uising the Rechtschaffen\n& Kales (R&K. 1968) visual sleep scoring rules. The performance of the Zmachine was evaluated by\ncomparing wake/sleep as determined by the Zmachine algorithm to the consensus of human scorers.\nThe analysis demionstrates substantial agreement for wake/sleep determination, on an epoch-by-epoch\nbasis, between the Zmnachine algorithm and the consensus of human scorers. Of the 16.908 epochs\nindicated by the consensus of humran scorers as wake, the Zmachine algorithm correctly identified\n91.6% as wake (Zrnachine specificity). Similarly, of the 65.873 epochs indicated by the consensus of\nhuman scorers as sleep, the Zmnachine algorithm correctly identified 95.8% as sleep (Zmachine\nsensitivity). The overall Kappa agreement between the consensus of human scorers and thle\nZmachine algorithm is 0.8275, exceeding the 0.75 threshold for 'high association\". In Conclusion, the\nZmnachine algorithm demonstrates accurate performance in detecting wake and sleep from a single\nchannel (mastoid) of EEG data.\nZmachine 510(k) Summary 3 of 4",
+      "character_count": 2540
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "Conclusion\nThis submission demonstrates that the Zmachine is substantially equivalent to the predicate device\nbased on descriptive information, non-clinical and clinical performance testing.\nZmachirie 510(k) Summary 4 of 4",
+      "character_count": 222
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room W-066-0609\nSilver Spring, MD 20993-0002\nConsolidated Research of Richmond, Inc.\nPresident\nco Richard Kaplan, Ph.D.\n26250 Euclid Ave.\nSuite 024\nEuclid, 01-1 44132\nRe: Kl0l830 MAP3\nTrade/Device Name: ZMachine, Model DT-l10O\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class 11\nProduct Code: OLV and OMC\nDated: February 1, 2011\nReceived: February 4, 2011\nDear Dr. Kaplan:\nWe have reviewed your Section 5 10(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH- does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class 11 (Special Controls) or class III (PMA), it\nmay be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 1958
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "Page 2 - Richard [Kaplani. Ph D.\nPlease be advised that FDA's issuance of'a Substantial equivalence determination does not mecan\nthat FDA has mnade a determination that your device complies With Other requI~irements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You Must\ncomply with all the Act's reqtuirements, including, but not limited to: registration and listing (21I\nCF-R Part 807); labeling (2 1 CFR Part 801); medical device reporting (reporting of medical\ndevice-related acivet-se events) (21 CFR 803); good mnanufatUuring practice reqluirements as Set\nforth in the qluality systems (QS) regulation (21 CP-R Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531 -542 of the Act); 21 CER 1000-] 050.\nIf you desire specific advice for your device onl our- labeling regulation (21 CFR Part 80 1), please\ngo to lhttp://wwx \\.'cda.(uov/'AbouL- FDA/CenitersOffhces/CDRH/CDRI-jOffCe.y/uCll 15809.htmi for\nthe Center For Devices and Radiological Health's (CDRI-I's) Office of Compliance. Also, please\nnote the regulation entitled, \"Mis branding by reference to prernarket notification\" (2 1 CFR Part\n807.97). For questions regarding the reporting of adverse events tinder the MDR regulation (2]\nCER Part 803):, please go to\nhttl)://w ww.fdca.,-uov/M~cdicalDevices/Saf'ety/Reijor-talroblem/def'aulthtim for the CDRH' s Office\nOf Surveillance and Biomnetrics/Division of Postmarket Surveillance.\nYou may obtain other genera] information on your responsibilities under the Act fromn the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nlittp://wNww.I'cia.nov/MeclicaIDevices/ReSOtirces'olYOLu/I1n(Iustry/def'aulthttii\nSincerely yours,\n2\nMalvina B. Bydel anl, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device E7valuation\n*Center for Devices and\nRadiological Health\nEnclosure",
+      "character_count": 2017
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Indications for Use Statement\n510(k) Number: K 101830\nDevice Name: Zmachine\nIndications for Use: The CR1 Zmachine is a single-channel, EEG acquisition and analysis\nsystemn, designed for use in the homne or clinical environments. This device is intended to be\nused by qualified healthcare practitioners to monitor the wake and sleep states of adult\npatients and as an adjunct to their diagnosis of sleep disorders.\nPrescription Use X ADO Over-The-Counter Use ____\n(Part 21 CFR 801 Subpart D) AN/R (21 CFR 801 Subpart C)\n(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF\nNEEDED)\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n(Division Sign-Off)\nDivision of Ophthalmfic, Neurological and Ear,\nNose and Throat Devices\ns1o(k)Number KO 3",
+      "character_count": 755
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K101830-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "4K101g50MAR 31\nZmachine® 510(k) Summary\nSubmitter Consolidated Research of Richmond, Inc.\nAddress 26250 Euclid Avenue. Suite 024\nEuclid, Ohio 44132\nContact Person Richard F. Kaplan, Ph.D., President\nPhone: (216) 289-2331\nFax: (216) 393-0079\nE-mail: kaplan gcri-svstems.comi\nDate Prepared March 28, 2011\nTrade Name Zmachinet\nCommon Name Sleep monitoring systeni\nClassification Electroencephalograph\nName\nClassification 21 CFR (882.1400)\nProduct Codes OLV and OMC\n510(k) Number K<101830\nIndications The CR1 Zrnachine is a single-channel. EEG acquisition and analysis system,\nfor Use designed for use in the home or clinical environments. This device is\nintended to be used by qualified healthcare practitioners to monitor the wake\nand sleep states of adult patients and as an adjunct to their diagnosis of sleep\ndisorders.\nZmachine 510(k) Summary 1 of 4",
+      "extraction_method": "native",
+      "character_count": 851
+    },
+    {
+      "block_id": "K101830-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Device Description\nThe CR1 Zmachine is a battery-operated, single-channel, EEC acquisition and analysis system. The\nZmachine system includes the Zmachine device, disposable EEG sensors, sensor cable, and a wall\ncharger. The device operates on data from the differential-mastoid EEG channel to determine the\nwake and sleep states of the patient every 30 seconds.\nSubstantial Equivalence\nThe Zmachine is substantially equivalent to the Oxford BioSignals Biosomnia device. manufactured\nby Oxford Biosignals Limited (K02 1485). The table below summarizes the technological\ncharacteristics of the Zmachine in comparison to the predicate device.\nDevice Zniachine BioSomnnia\nClassification 21 CFR (882.1400) 21 CER (882.1400)\nProduct Code(s) OLV and OMC CWQ\nThe Oxford BioSignals BioSomnia\nThe CR1 Zmachine is a single- is a single channel ambulatory EEC\nchannel, EEG acquisition and with a software package designed\nanalysis system, designed for use in for use as an adjunct for the\nthe home or clinical environments, physician in their diagnosis of sleep\nIndications for Use This device is intended to be used disorders and to quantify sleep and\nby qualified healthcare practitioners wakefulness on a second by second\nto monitor the wake and sleep states basis. The device is designed to be\nof adult patients and as an adjunct used overnight in the patient's home\nto their diagnosis of sleep disorders. environment to assist the physician\nin diagnosing sleep disorders.\nPatient Population Adults Adults\nType of Device EEC-based sleep monitor EEC-based sleep monitor\nNo. of EEC Channels II\nMastoid\nElectrode Placement Mastoid FroGnUppe\nCentral\nAnalyzes EEC Data in Yes Yes\nReal Time\nSlee Clssifcaton Wke nd SeepWake and Sleep (light sleep, deep\nSlee Clssifcaton Wke nd Seepsleep, and REM sleep)\nEEC Analysis Proprietary adaptive algorithm Proprietary artificial neural\nMethodology using time and frequency domain newr-adaloihMethodology featuresnewr-adaloih\nCan Provide\nInfonmation to Assist\nthe Physician in Yes Yes\nDiagnosis of Sleep\nDisorders?\nCan Provide\nInformation to Assist\nthe Physician in the Yes Yes\nApplication of\nTreatment? ________________________________________\nZmachine 510(k) Summary 2 of 4",
+      "extraction_method": "native",
+      "character_count": 2201
+    },
+    {
+      "block_id": "K101830-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Device Zinachine BioSomnia\nProvides Information\nto Assist Physician inI Yes Yesthe Evaluation of\nTreatment Efficacy?\nCalculates Summnary eve\nSleep Statistics? Yes_________________ Yes________________\nBattery Powered? Yes Yes\nPerformance Testing - Nonclinical\nThe Zmachine system has been assessed against the following standards:\nElectrical safety in accordance with JEC 60601-1, Medlical Electrical Equipment - Part 1. General\nRequirements for Safen': Safety' Requiremenzs for M~edical Electrical Systems;\nElectromagnetic compatibility in accordance with lEG 6060 1-1-2, Medical Electrical Equipment -\nPart 1- 2: General Requirements for Safety - Collateral Standard: Electromagnetic Compatibility --\nRequirements and Tests. (General).\nIn addition, software testing was performed in accordance with FDA guidance. \"Guidance for the\nContent of Premarket Subisis/117br Software Contained in Medical Devices- Document issued on:\nMom' ii, 2005S\" regarding a moderate level of concern device:\nPerformance Testing - Clinical\nA ninety-nine subject (99) clinical study was conducted in which polysomnographic (PSG) data was\nacquired and analyzed by human scorers, and simultaneously data from the mastoid was acquired and\nprocessed by the Zinachine wake/sleep algorithm. Each PSG record was scored independently by at\nleast two (2) certified polvsomnlographic technologists (3 records scored by 2 technologists, 16\nrecords scored by 3 technologists, and 80 records scored by 4 technologists) uising the Rechtschaffen\n& Kales (R&K. 1968) visual sleep scoring rules. The performance of the Zmachine was evaluated by\ncomparing wake/sleep as determined by the Zmachine algorithm to the consensus of human scorers.\nThe analysis demionstrates substantial agreement for wake/sleep determination, on an epoch-by-epoch\nbasis, between the Zmnachine algorithm and the consensus of human scorers. Of the 16.908 epochs\nindicated by the consensus of humran scorers as wake, the Zmachine algorithm correctly identified\n91.6% as wake (Zrnachine specificity). Similarly, of the 65.873 epochs indicated by the consensus of\nhuman scorers as sleep, the Zmnachine algorithm correctly identified 95.8% as sleep (Zmachine\nsensitivity). The overall Kappa agreement between the consensus of human scorers and thle\nZmachine algorithm is 0.8275, exceeding the 0.75 threshold for 'high association\". In Conclusion, the\nZmnachine algorithm demonstrates accurate performance in detecting wake and sleep from a single\nchannel (mastoid) of EEG data.\nZmachine 510(k) Summary 3 of 4",
+      "extraction_method": "native",
+      "character_count": 2540
+    },
+    {
+      "block_id": "K101830-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Conclusion\nThis submission demonstrates that the Zmachine is substantially equivalent to the predicate device\nbased on descriptive information, non-clinical and clinical performance testing.\nZmachirie 510(k) Summary 4 of 4",
+      "extraction_method": "native",
+      "character_count": 222
+    },
+    {
+      "block_id": "K101830-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room W-066-0609\nSilver Spring, MD 20993-0002\nConsolidated Research of Richmond, Inc.\nPresident\nco Richard Kaplan, Ph.D.\n26250 Euclid Ave.\nSuite 024\nEuclid, 01-1 44132\nRe: Kl0l830 MAP3\nTrade/Device Name: ZMachine, Model DT-l10O\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class 11\nProduct Code: OLV and OMC\nDated: February 1, 2011\nReceived: February 4, 2011\nDear Dr. Kaplan:\nWe have reviewed your Section 5 10(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH- does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class 11 (Special Controls) or class III (PMA), it\nmay be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 1958
+    },
+    {
+      "block_id": "K101830-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Page 2 - Richard [Kaplani. Ph D.\nPlease be advised that FDA's issuance of'a Substantial equivalence determination does not mecan\nthat FDA has mnade a determination that your device complies With Other requI~irements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You Must\ncomply with all the Act's reqtuirements, including, but not limited to: registration and listing (21I\nCF-R Part 807); labeling (2 1 CFR Part 801); medical device reporting (reporting of medical\ndevice-related acivet-se events) (21 CFR 803); good mnanufatUuring practice reqluirements as Set\nforth in the qluality systems (QS) regulation (21 CP-R Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531 -542 of the Act); 21 CER 1000-] 050.\nIf you desire specific advice for your device onl our- labeling regulation (21 CFR Part 80 1), please\ngo to lhttp://wwx \\.'cda.(uov/'AbouL- FDA/CenitersOffhces/CDRH/CDRI-jOffCe.y/uCll 15809.htmi for\nthe Center For Devices and Radiological Health's (CDRI-I's) Office of Compliance. Also, please\nnote the regulation entitled, \"Mis branding by reference to prernarket notification\" (2 1 CFR Part\n807.97). For questions regarding the reporting of adverse events tinder the MDR regulation (2]\nCER Part 803):, please go to\nhttl)://w ww.fdca.,-uov/M~cdicalDevices/Saf'ety/Reijor-talroblem/def'aulthtim for the CDRH' s Office\nOf Surveillance and Biomnetrics/Division of Postmarket Surveillance.\nYou may obtain other genera] information on your responsibilities under the Act fromn the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nlittp://wNww.I'cia.nov/MeclicaIDevices/ReSOtirces'olYOLu/I1n(Iustry/def'aulthttii\nSincerely yours,\n2\nMalvina B. Bydel anl, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device E7valuation\n*Center for Devices and\nRadiological Health\nEnclosure",
+      "extraction_method": "native",
+      "character_count": 2017
+    },
+    {
+      "block_id": "K101830-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Indications for Use Statement\n510(k) Number: K 101830\nDevice Name: Zmachine\nIndications for Use: The CR1 Zmachine is a single-channel, EEG acquisition and analysis\nsystemn, designed for use in the homne or clinical environments. This device is intended to be\nused by qualified healthcare practitioners to monitor the wake and sleep states of adult\npatients and as an adjunct to their diagnosis of sleep disorders.\nPrescription Use X ADO Over-The-Counter Use ____\n(Part 21 CFR 801 Subpart D) AN/R (21 CFR 801 Subpart C)\n(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF\nNEEDED)\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n(Division Sign-Off)\nDivision of Ophthalmfic, Neurological and Ear,\nNose and Throat Devices\ns1o(k)Number KO 3",
+      "extraction_method": "native",
+      "character_count": 755
+    }
+  ],
+  "claims": []
+}

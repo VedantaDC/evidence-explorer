@@ -1,0 +1,733 @@
+{
+  "document": {
+    "k_number": "K223922",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "SOMNUM (V.1.1.2.)",
+    "applicant": "Honeynaps Co., Ltd.",
+    "decision_date": "2023-08-16",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223922.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K223922",
+    "sha256": "50993ae5fbaa3b7aad2bd318d43ed6fde0bbab53b6107a031dcf80104c603897",
+    "page_count": 17,
+    "native_pages": 17,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 06 . 0 3 \nSilver Spring, MD 20993 \nwww.fda.gov \n\n\n\n\n\n\nAugust 16, 2023\nHoneynaps Co., Ltd \nTony Lee \nOfficial Correspondent \n4F, Marine Tech B/D, 529, Nonhyeon-ro, Gangnam-gu \nSeoul, 06126 \nKorea, South \n\nRe: K223922 \nTrade/Device Name: Somnum (v.1.1.2.) \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: July 17, 2023 \nReceived: July 17, 2023 \n\nDear Tony Lee: \n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. Although this letter refers to your product as a device, please be aware that \nsome cleared products may instead be combination products. The 510(k) Premarket Notification Database \nlocated at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register. \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part",
+      "character_count": 2666
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K223922 - Tony Lee Page \n\n2 \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for \ndevices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for \ncombination products; and, if applicable, the electronic product radiation control provisions (Sections 531-\n542 of the Act); 21 CFR 1000-1050. \n\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \n\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). \n\nSincerely, \n\n\n\n\nfor \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional \nand Neurodiagnostic Devices \nOHT5: Office of Neurological \nand Physical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health \n\nEnclosure \n\n\nPatrick Antkowiak -S",
+      "character_count": 2131
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "FORM FDA 3881 (7/17)\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 06/30/2020\nSee PRA Statement below.\n510(k) Number (if known)\nK223922\nDevice Name\nSOMNUM\nIndications for Use (Describe)\nSOMNUM is a computer program (software) intended for use as an aid for the diagnosis of sleep and respiratory related \nsleep disorders. SOMNUM is intended to be used for analysis (automatic scoring and manual re-scoring), display, \nredisplay(retrieve), summarize and reports generation of digital data collected by monitoring devices typically used to \nevaluate sleep and respiratory related sleep disorders. The device is to be used under the supervision of a physician. Use is \nrestricted to files obtained from adult patients. \nFor respiratory events - Sleep Disordered Breathing (Apneas and Hypopneas)- obstructive, central, mixed apneas, and \nhypopneas must be manually scored by physician. The device does not output specific apnea or hypopnea events and \ntherefore should not be used for management decisions. \nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”\n4-2",
+      "character_count": 2171
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "1 \nTraditional 510(k) Premarket Submission \n\n\n510(k) Summary \n\n\n\nDevice Name : SOMNUM (V.1.1.2. Final finished device)",
+      "character_count": 118
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "2 \n510(k) Summary \nIn accordance with 21 CFR 807.92 the following summary of information is provided: \nDate : September 30, 2022 \nⅠ. SUBMITTER \nSUBMITTER : Honeynaps \n529, Nonhyeon- ro, Gangnam -gu \nSeoul, Republic of Korea 06126 \nTel : +82-2-567-0134 \nHoneynaps \nCONTACT PERSON: \nPRIMARY CONTACT PERSON: \nYoungJun Lee \nChief Executive Officer \ntony.lee@honeynaps.com \nHoneynaps \nYoungJun Lee \nChief Executive Officer \ntony.lee@honeynaps.com \nⅡ. DEVICE \nTrade Name SOMNUM \nCommon Name Sleep Analysis System \nRegulation Number 21 CFR 882.1400 \nRegulation Name Electroencephalograph \nRegulation Class II \nClassification Product Code OLZ \nAutomatic Event Detection Software For Polysomnograph \nDevice Classification Name with Electroencephalograph \nReview Panel Neurology \nⅢ. PREDICATE DEVICE \n510(k) Number \nApplicant \nDevice Name \nRegulation Number \nRegulation Name \nRegulation Class \nClassification Product Code \nK162627 \nENSODATA \nEnsoSleep \n21 CFR 882.1400 \nElectroencephalograph \nII \nOLZ \nAutomatic Ev ent Detection Software For Polysomnograph \nwith Electroencephalograph D\nevice Classification Name",
+      "character_count": 1102
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "3 \n510(k) Number \nApplicant \nDevice Name \nRegulation Number \nRegulation Name \nRegulation Class \nClassification Product Code \nD\nevice Classification Name \nK112102 \nYOUNES SLEEP TECHNOLOGIES \nMICHELE SLEEP SCORING SYSTEM \n21 CFR 868.2375\nBreathing Frequency Monitor\nII \nMNR \nVentilatory Effort Recorder",
+      "character_count": 300
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "510( k) Summary \n4 \nⅣ. DEVICE DESCRIPTION \nSOMNUM is a standalone software application that analyze previously recorded physiological data obtained during \nlevel 1 sleep studies, referred to as polysomnography (PSG) records. The SOMNUM software can analyze any \nEDF files. Automated algorithms are applied to the raw signals in order to identify the occurrence of certain \nevents. The software automates recognition of: \n• Sleep Stage Events : Wake, Stage N1, Stage N2, Stage N3, Stage REM\n• Respiratory Events : Sleep Disordered Breathing ( device output does not distinguish between Apneas and\nHypopneas. Obstructive, central, mixed apneas, and hypopneas must be manually scored by\nphysician)\n• Arousal Events\n• Leg Movement Events : Periodic Leg Movements during Sleep (PLMs)\nThe SOMNUM software can be used as a stand-alone application for use on Windows 10 operating system platform. \nAll processing, scoring, and analysis of signal data occurs on local desktop PC. \nⅤ. INDICATIONS FOR USE \nSOMNUM is a computer program (software) intended for use as an aid for the diagnosis of sleep and \nrespiratory related sleep disorders. SOMNUM is intended to be used for analysis(automatic scoring and \nmanual re-scoring), display, redisplay(retrieve), summarize, reports generation of digital data collected by \nmonitoring devices typically used to evaluate sleep and respiratory related sleep disorders. The device is to \nbe used under the supervision of a physician Use is restricted to files obtained from adults patients. \nFor\nrespiratory events - Sleep Disordered Breathing (Apneas and Hypopneas)- obstructive, central, mixed apneas, \nand hypopneas must be manually scored by physician. The device does not output specific apnea or hypopnea \nevents and therefore should not be used for management decisions. \nTable 1. Comparison of Indications for Use \nDescription Subject Device \nSOMNUM \nPredicate Device \nENSOSLEEP \n(K162627) \nIndications for Use \nSOMNUM is a computer program \n(software) intended for use as an \naid for the diagnosis of sleep and \nrespiratory related sleep disorders. \nSOMNUM is intended to be used \nfor analysis(automatic scoring and \nmanual re-scoring), display, \nredisplay(retrieve), summarize, \nreports generation of digital data \ncollected by monitoring devices \ntypically used to evaluate sleep and \nrespiratory related sleep disorders. \nEnsoSleep is intended for use for the \ndiagnostic evaluation by a physician to \nassess sleep quality and as an aid for the \ndiagnosis of sleep and respiratory related \nsleep disorders in adults only. EnsoSleep \nis a software-only medical device to be \nused under the supervision of a clinician \nto analyze physiological signals and \nautomatically score sleep study results, \nincluding the staging of sleep, detection of \narousals, leg movements, and sleep \ndisordered breathing events including \nobstructive apneas. All automatically",
+      "character_count": 2898
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "510( k) Summary \n5 \nThe device is to be used under the \nsupervision of a physician Use is \nrestricted to files obtained from \nadults patients. \nFor respiratory events - Sleep \nDisordered Breathing (Apneas and \nHypopneas)- obstructive, central, mixed \napneas, and hypopneas must be \nmanually scored by physician. The \ndevice does not output specific apnea \nor hypopnea events and therefore \nshould not be used for management \ndecisions \nscored events are subject to verification \nby a qualified clinician. Central apneas, \nmixed apneas, and hypopneas must be \nmanually marked within records. \nIntended Use \nAnalyze physiological data previously \nrecorded during sleep and present \na report. \nAnalyze physiological data previously \nrecorded during sleep and present a \nreport. \nEnvironment of Use Healthcare Facility Healthcare Facility",
+      "character_count": 834
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "510( k) Summary \n6 \nⅥ. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE PREDICATE DEVICE \nThere are no significant differences in the technological characteristics of this device compared to the predicate \ndevice which adversely affect safety or effectiveness. The below table is summarized and compared with the \ntechnological characteristics between the SOMNUM and the predicate device : \nTable 2. Comparison of Technological Characteristics \nDescription Subject Device \nSOMNUM \nPredicate Device \nENSOSLEEP \n(K162627) \nClinical Criteria : \nClinical condition or purpose: \nDiagnosis of sleep and \nrespiratory disorders \nYES YES \nPopulation: Human subjects \nundergoing sleep studies YES YES \nFive-stage Sleep Stage Scoring \n(Wake, REM, Three non-REM \nstages) \nYES YES \nArousal Scoring YES YES \nRespiratory Events Scoring YES YES \nLeg Movements Scoring YES YES \nPerformance assessed by \npercent agreement(and Cohen’s \nkappa) between automatic and \nhuman scoring \nYES YES \nBasic operation: processing of \npolysomnography data \nrecorded from patients in \nsleep laboratories and \npolysomnography report \ngeneration \nYES YES \nData inputs for Sleep Stage and Arousal Scoring: \nCentral \nelectroencephalogram(EEG) YES YES \nLeft and right eye \nelectroocculogram(EOG) YES YES \nChin electromyogram(EMG) YES YES \nElectrocardiogram (ECG) YES YES \nData inputs for Respiratory Events Scoring : \nChest and abdomen \nmovements measured by \nrespiratory bands \nYES YES \nOxygen saturation YES YES",
+      "character_count": 1479
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "510( k) Summary \n7 \nRespiratory airflow YES YES \nThermister YES YES \nAudio NO YES \nBody position NO YES \nAirway CO2 NO YES \nData inputs for Leg Movement Scoring : \nEMG recorded from right and \nleft legs YES YES \nAdditional Technical Criteria : \nPolysomnography records \nscored per 30 second epoch YES YES \nCardiac artifacts removed from \nEEG, EMG and EOG channels YES YES \nOthers : \nStandard of scoring manual The AASM Manual for the Scoring of \nSleep and Associated Events, 2016 \nThe AASM Manual for the Scoring of \nSleep and Associated Events, 2007 \nRe-scoring YES YES \nFile Format .EDF, .XML, .JSON format .EDF, . \nNetwork Access to Internet is not required. Access to Internet is required \nOperating System Windows 10 Windows XP, Windows 7, Windows 10 \nⅦ. PERFORMANCE DATA \nSoftware Verification & Validation \nSupport for the substantial equivalence of the SOMNUM Software was provided as a result of risk management \nand software testing. Software verification and validation testing were conducted and documentation was provided \nas recommended by FDA’s Guideline for Industry and FDA Staff, “Guidance for the Content of Premarket \nSubmission for Software Contained in Medical Device.”(Document issued on : May 11, 2005) \n• Verification of each independent software subsystem against defined requirements\n• Verification of interfaces between software subsystems against defined interface requirements\n• Validation of fully integrated system including all subsystems against overall system requirements\nThe results of the verification and validation activities that have been performed demonstrate that the software \nmeets requirements to support substantial equivalence. \nPerformance Test (Non-clinical test) \nPerformance testing was completed by evaluating SOMNUM device performance using a cross-sectional \nexperimental design on a representative N=48 subjects of data recorded in the sleep laboratory. Substantial \nEquivalence was established through a testing protocol that used full night studies data to evaluate the performance \nof SOMNUM. The goal of the test reported here is to establish that SOMNUM performance is equivalent to the \nperformance of the predicate device. We confirm that SOMNUM does not present any new concerns about \nsafety or effectiveness compared to the predicate device, MICHELE Sleep Scoring System(K112102). The \nperformance was measured by epoch by epoch agreement between SOMNUM’s",
+      "character_count": 2422
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "510( k) Summary \n8 \naut\nomatic scoring and the scoring of three technologists using 2/3 majority rule, that is, at least two out of three \nexport scoring(medical professionals certified on PSG recording and analysis) agree on the presence of an \nevent within an epoch. SOMNUM device performance was evaluated using the defined test design, statistical \nmethodology, and controls across the following two endpoints: \nEndpoint 1. As SOMNUM is intended to analyze physiological signals and automatically score sleep study \nresults, including sleep staging and detection of respiratory events, arousal events, PLMs events, device \nperformance for detecting each event type must be validated. \nEndpoint 2. As SOMNUM is intended to present summary variables that appear in the clinical report used \nby physician to assess sleep disorders. \nT\nest Result Summary \nData for End point 1 \nS leep Stage \nTable 3. Performance Comparison of sleep stage.\nSOMNUM Reference[2]\nW N1 N2 N3 R W N1 N2 N3 R \nScorers \nW \n89.96 \n(89.22-\n90.67) \n6.93 \n(6.35-\n7.51) \n0.86 \n(0.73-\n0.98) \n0.14 \n(0.00-\n0.32) \n4.13 \n(3.69-\n4.61) \n82.2 35.9 4.0 0.5 5.8 \nN1 \n6.15 \n(5.63-\n6.73) \n77.93 \n(76.95-\n78.86) \n5.46 \n(5.16-\n5.78) \n0.28 \n(0.09-\n0.52) \n5.88 \n(5.38-\n6.43) \n9.6 26.1 4.7 0.4 8.7 \nN2 \n2.06 \n(1.75-\n2.41) \n13.21 \n(12.42-\n13.96) \n91.13 \n(90.71-\n91.47) \n15.52 \n(14.02-\n16.95) \n5.37 \n(4.84-\n5.84) \n3.8 33.2 85.0 16.0 12.3 \nN3 0.01 0.07 1.84 84.04 0.00 0.2 0.2 5.4 82.3 0.0 \nR \n1.81 \n(1.49-\n2.14) \n1.86 \n(1.53-\n2.19) \n0.72 \n(0.60-\n0.84) \n0.05 \n(0.00-\n0.14) \n84.62 \n(83.81-\n85.48) \n4.2 4.7 0.8 0.8 73.2 \nA\nrousal \nTable 4. Performance Comparison of sleep stage.\nSOMNUM Reference[3] \nEvent \nTotal \nEpoch \nPPA NPA OPA \nEvent \nTotal \nEpoch \nPPA NPA OPA \n13108 82.02 \n(81.42-82.64) \n82.78 \n(82.41-83.17) \n82.5 \n(82.2-82.9) 6468 76.82 82.48 -",
+      "character_count": 1804
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "510(k) Summary \n9 \n\nSDB & PLMS \nTable 5. Performance Comparison of sleep stage. \n\nSOMNUM Reference[4] Reference[1] \nEvent \nTotal \nEpoch \nPPA NPA OPA \nEvent \nTotal \nEpoch \nPPA NPA OPA \nEvent \nTotal \nEpoch \nPPA NPA OPA \nSDB 15984 94.18 \n(93.79-94.52) \n91.29 \n(90.98-91.61) \n92.3 \n(92.1-92.6) 2439 75.5 98.1 93.0 4705 67 \n(58, 75) \n93 \n(92, 94) \n91 \n(90, 92) \nPLMS 5215 92.89 \n(92.18-93.55) \n94.30 \n(94.08-94.51) \n94.1 \n(93.9-94.4) 1741 78.4 97.6 95.7 5796 71 \n(60, 80) \n90 \n(89, 92) \n89 \n(87, 90) \n\nPlease note that Event total Epoch means the total number of epochs with events. The total epoch is 43971 epochs (event \nepoch + non-event epoch). \n\n\nDiscussion: \n\nFor Sleep Stage and Arousal, SOMNUM exceeded all performance targets, while for SDB and PLMS, SOMNUM \nexceeded the performance targets for PPA. Comparing NPA of PLMS of SOMNUM with that of predicate device, \nthe NPA of SOMNUM’ is 3.3% lower. however, it is unknown whether a statistically significant comparison can be \nmade due to lack of CI. Therefore, the NPA of K162627 was compared as the reference device, and \nin this case, SOMNUM showed good performance by 4.3%. In conclusion, the NPA performance for PLMS is \nconsidered to be within clinically acceptable range. The NPA for SDB showed a performance that was 1.7% \nlower than K162627 and about 6.8% lower than K112102. However, considering both PPA and OPA of SOMNUM, \nthe overall performance of SOMNUM is better than that of K162627. In addition, considering the situation where there is \nno standard reference, it cannot be said that this difference shows the low performance of SOMNUM. Furthermore, the \nmanual scorer agreement[8], which is generally acceptable in clinical practice, is considered to have an error range of \naround 15%, these performance differences are considered to be within the clinically acceptable error range. \n\nIn conclusion, SOMNUM passed all pass/fail criteria for Endpoint 1. \n\nData for End point 2: \n\nTable 6. Performance Comparison of Relevant Scoring Variables Between SOMNUM and Performance Target for Endpoint \n2 \nVariable \nType Of \nLimit \nSOMNUM abs. MAX Target abs. MAX Unit \nTST \nU 10 \n20 \n60 \n120 [min] \nL -20 -120",
+      "character_count": 2174
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "510(k) Summary \n10 \nSE \nU 2.5 \n5 \n10 \n13 % \nL -5 -13 \nSOL \nU 8 \n23 \n40 \n40 [min] \nL -23 -5 \nROL \nU 120 \n120 \n170 \n170 [min] \nL -70 -130 \nWake \nU 22 \n22 \n60 \n60 [min] \nL -10 -45 \nN1 \nU 30 \n45 \n80 \n80 [min] \nL -45 -60 \nN2 \nU 65 \n65 \n70 \n120 [min] \nL -50 -120 \nN1_N2 \nU 55 \n55 \n70 \n70 [min] \nL -35 -60 \nN3 \nU 30 \n40 \n140 \n140 [min] \nL -40 -10 \nREM \nU 20 \n40 \n50 \n80 [min] \nL -40 -80 \nArousal Index \nU 30 \n30 \n- \n- events/hour \nL -20 - \nPLMS Index \nU 43 \n43 \n7 \n43 events/hour \nL -2 -43 \nAHI Index \nU 18 \n18 \n7 \n20 events/hour \nL -7 -20 \n\nDiscussion: TST, SE, ROL, Wake, N1, N2, N1_N2, and REM satisfy the provided Upper and Lower LOA. \n\nHowever, SOL has a target of -5 to 40, while SOMNUM has a range of -23 to 8, and N3 has a target of -10 to 140, while \nSOMNUM has a range of -40 to 30. The PLMS index has a target of -40 to 10, but SOMNUM has a range of -2 to 43, and \nthe AHI index has a target of -20 to 7, but SOMNUM has a range of -7 to 18. \n\nWhen considering the actual range of absolute errors, SOL has a target of 40 minutes, while SOMNUM has 23 minutes, \nand N3 has a target of 140, while SOMNUM has 40 minutes. The AHI index has a target of 22, but SOMNUM has 18, \nresulting in smaller absolute errors. \nPLMS index has a target of 43, while SOMNUM has 43, it shows the almost same value. However, considering the 15% \nerror among scorers presented in Reference [8], it cannot be said that it affects the performance. \n\nIn addition, we compared the LOA of Relevant Sleep Scoring Variables of SOMNUM and those of References. The table \n12 showed the LOA of SOMNUM and References.",
+      "character_count": 1586
+    },
+    {
+      "page": 14,
+      "extraction_method": "native",
+      "text": "510(k) Summary \n11 \n\nTable 7. Performance Comparison of LOA between SOMNUM and References for Endpoint 2 \nVariable LOA SOMNUM References Ref. No. Unit \nTST \n(Total Sleep Time) \nU 7.8 35 \n[5] [min] \nL -14.21 -70 \nSE \n(Sleep Efficiency) \nU 1.69 10 \n[7] % \nL -3.31 -12 \nSOL \n(Sleep On Latency) \nU 2.93 15 \n[7] [min] \nL -4.21 -11 \nROL \n(REM On Latency) \nU 62.01 70 \n[5] [min] \nL -60.69 -90 \nWake \nU 14.21 70 \n[7] [min] \nL -7.80 -45 \nN1 \nU 25.30 30 \n[5] [min] \nL -17.29 -30 \nN2 \nU 31.61 10 \n[5] [min] \nL -29.10 -75 \nN1_N2 \nU 31.58 30 \n[5] [min] \nL -19.17 -75 \nN3 \nU 18.83 65 \n[5] [min] \nL -30.45 -5 \nREM \nU 6.07 18 \n[5] [min] \nL -31.95 -55 \nArousal Index \nU 23.91 - \n- events/hour \nL -15.21 - \nPLMS Index \n(Periodic Limb \nMovements of Sleep \nIndex) \nU 12.24 13 \n[6] events/hour \nL -0.37 -15 \nAHI Index \n(Apnea-Hypopnea Index) \nU 8.79 4 \n[5] events/hour \nL -3.28 -2 \n\nWhen comparing the LOA ranges of SOMNUM and References, the CI ranges of SOMNUM is narrower than \nthose of the references except for AHI. In conclusion, SOMNUM passed all pass/fail criteria for Endpoint 2. \n\n\n\n\n\nOutput Comparison Data",
+      "character_count": 1096
+    },
+    {
+      "page": 15,
+      "extraction_method": "native",
+      "text": "510(k) Summary \n12 \nSCORING \nFUNCTION \nSOMNUM ENSOSLEEP(K162627) \nTotal \nEpochs \nPPA \n(%) \nNPA \n(%) \nOPA \n(%) \nkappa \n(%) \nTotal \nEpochs \nPPA \n(%) \nNPA \n(%) \nOPA \n(%) \nkappa \n(%) \nSLEEP \nSTAGING 43971 87.5 \n(87.2,87.8) \n82.1 \n(81.6,82.5) 59719 78 \n(77,80) \n95 \n(94,95) \n91 \n(91,92) \n\nAwake 6719 89.9 \n(89.2,90.6) \n97.4 \n(97.3,97.6) 17459 86 \n(82,88) \n97 \n(95,98) \n94 \n(92,95) \n\nN1 6522 77.9 \n(77.0,78.9) \n94.6 \n(94.4,94.9) 3293 41 \n(33,48) \n94 \n(93, 96) \n91 \n(90,93) \n\nN2 20448 91.1 \n(90.7,91.5) \n92.4 \n(92.0,92.7) 26839 77 \n(73,81) \n87 \n(85,90) \n83 \n(80,85) \n\nN3 1012 84.1 \n(82.6,85.6) \n99.1 \n(99.0,99.2) 5587 81 \n(74,88) \n93 \n(91,95) \n92 \n(90,94) \n\nREM 7364 84.7 \n(83.8,85.4) \n98.9 \n(98.8,99.0) 6541 79 \n(72,84) \n99 \n(98,99) \n96 \n(96,97) \n\nNo Consensus 756 1432 \nAROUSAL 43971 82.5 \n(82.2,82.9) \n60.8 \n(60.1,61.5) 59719 87 \n(85,88) - \nYes 13108 82 \n(81.4,82.6) \n82.8 \n(82.4,83.2) \n7686 66 \n(61,71) \n90 \n(88,91) \n\nNone 30863 \nNo Consensus 0 0 \nPLMS 43971 94.1 \n(93.9,94.4) \n75.7 \n(74.7,76.5) 59719 89 \n(87,90) - \nYes 8509 92.9 \n(92.1, 93.6) \n94.3 \n(94.1, 94.5) \n5796 71 \n(60,80) \n90 \n(89,92) \nNone 35462 \nNo Consensus 0 \nRESPIRATORY \nEVENTS 43971 92.3 \n(92.1,92.6) \n83.8 \n(83.2,84.3) 59719 91 \n(90,92) - \nYES 15984 94.2 \n(93.8, 94.5) \n91.3 \n(91.0, 91.6) \n4705 67 \n(58,75) \n93 \n(92,94) \nNone 27987 \nNo Consensus 0 0 \n\nDiscussion : Except for the NPA of Arousal, SOMNUM is superior to the predicate device in all PPA and NPA. However, the \nNPA of arousal is about 8% lower, but this is within the limit that can be seen between general scorers. The manual scorer \nagreement[8], which is generally acceptable in clinical practice, is considered to have an error range of around 15%, these \nperformance differences are considered to be within the clinically acceptable error range.",
+      "character_count": 1778
+    },
+    {
+      "page": 16,
+      "extraction_method": "native",
+      "text": "510(k) Summary \n13 \n\nClinical Test Summary \nNo clinical studies were considered necessary and performed. \n\nSummary \nIn summary, performance test results demonstrated that SOMNUM achieved sleep staging, sleep disordered \nbreathing, arousal, PLMs events detection agreement that is substantially equivalent to the predicate device \nEnsosleep (K162627) and MICHELE Sleep Scoring(K112102) performance for all comparisons in all endpoints \nanalyzed respectively. The SOMNUM performance validation testing demonstrates the safety and effectiveness of \nSOMNUM when used for the defined indications for use. The performance data demonstrates that the SOMNUM \ndevice performs comparably to the predicate device that is currently marketed for the same intended use. \n\n\nReferences \n\n[1] FDA, 510(k) Summary(MICHELE Sleep Scoring System, K112102) \n[2] DJ Levendowski, et. al, “The Accuracy, Night -to-Night Variability, and Stability of Frontopolar Sleep \nElectroencephalography Biomarkers“ Journal of Clinical Sleep Medicine, Vol. 13, No. 6, pp.791 – 803, 2017 \n[3] F De Carli, et. al, “A Method for the Automatic Detection of Arousals During Sleep“ Sleep, Vol. 22, No. 5, pp. 561~572, \n1999 \n[4] FDA, K162627 510K summary report \n[5] Atul Malhotra, et. al., “Performance of an Automated Polysomnography Scoring System Versus Computer-Assisted \nManual Scoring“ SLEEP, Vol. 36, No. 4, pp. 573-582, 2013 \n[6] S. D. Pittman, et. al., “Assessment of Automated Scoring of Polysomnographic Recordings in a Population with Suspected \nSleep-disordered Breathing”, SLEEP, Vol. 27, No. 7, 2004 pp.1394-1403 \n[7] C. Stepnowsky, et. al, “Scoring accuracy of automated sleep staging from a bipolar electroocular recording compared to \nmanual scoring by multiple raters, Sleep Medicine 14 (2013) 1199–1207 \n[8] T. Penzel, “Sleep scoring moving from visual scoring towards automated scoring”, SLEEP, 2022, Vol. 45, No. 10. pp. 1 – \n3.",
+      "character_count": 1908
+    },
+    {
+      "page": 17,
+      "extraction_method": "native",
+      "text": "510(k) Summary \n14 \nⅧ. CONCLUSIONS \n\nBased on a comparison of the intended use and technological characteristics, performance test, the \nSOMNUM software is substantially equivalent to the identified predicate device. Minor differences in \ntechnological and performance characteristics did not raise new or different questions of safety and \neffectiveness. Additionally, the non-clinical testing supports that the system performs in accordance with its \nintended use and is as safe, as effective, and performs as well as the predicate device.",
+      "character_count": 541
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K223922-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 06 . 0 3 \nSilver Spring, MD 20993 \nwww.fda.gov",
+      "extraction_method": "native",
+      "character_count": 130
+    },
+    {
+      "block_id": "K223922-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "August 16, 2023\nHoneynaps Co., Ltd \nTony Lee \nOfficial Correspondent \n4F, Marine Tech B/D, 529, Nonhyeon-ro, Gangnam-gu \nSeoul, 06126 \nKorea, South",
+      "extraction_method": "native",
+      "character_count": 147
+    },
+    {
+      "block_id": "K223922-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K223922 \nTrade/Device Name: Somnum (v.1.1.2.) \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: July 17, 2023 \nReceived: July 17, 2023",
+      "extraction_method": "native",
+      "character_count": 219
+    },
+    {
+      "block_id": "K223922-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "Dear Tony Lee:",
+      "text": "Dear Tony Lee:",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K223922-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. Although this letter refers to your product as a device, please be aware that \nsome cleared products may instead be combination products. The 510(k) Premarket Notification Database \nlocated at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "native",
+      "character_count": 1345
+    },
+    {
+      "block_id": "K223922-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K223922-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part",
+      "extraction_method": "native",
+      "character_count": 418
+    },
+    {
+      "block_id": "K223922-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "K223922 - Tony Lee Page",
+      "extraction_method": "native",
+      "character_count": 23
+    },
+    {
+      "block_id": "K223922-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "2 \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for \ndevices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for \ncombination products; and, if applicable, the electronic product radiation control provisions (Sections 531-\n542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 662
+    },
+    {
+      "block_id": "K223922-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems.",
+      "extraction_method": "native",
+      "character_count": 356
+    },
+    {
+      "block_id": "K223922-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "For comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "extraction_method": "native",
+      "character_count": 760
+    },
+    {
+      "block_id": "K223922-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "Sincerely,",
+      "extraction_method": "native",
+      "character_count": 10
+    },
+    {
+      "block_id": "K223922-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "for \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional \nand Neurodiagnostic Devices \nOHT5: Office of Neurological \nand Physical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health",
+      "extraction_method": "native",
+      "character_count": 266
+    },
+    {
+      "block_id": "K223922-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "Enclosure",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K223922-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "Patrick Antkowiak -S",
+      "extraction_method": "native",
+      "character_count": 20
+    },
+    {
+      "block_id": "K223922-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "FORM FDA 3881 (7/17)\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 06/30/2020\nSee PRA Statement below.\n510(k) Number (if known)\nK223922\nDevice Name\nSOMNUM\nIndications for Use (Describe)\nSOMNUM is a computer program (software) intended for use as an aid for the diagnosis of sleep and respiratory related \nsleep disorders. SOMNUM is intended to be used for analysis (automatic scoring and manual re-scoring), display, \nredisplay(retrieve), summarize and reports generation of digital data collected by monitoring devices typically used to \nevaluate sleep and respiratory related sleep disorders. The device is to be used under the supervision of a physician. Use is \nrestricted to files obtained from adult patients. \nFor respiratory events - Sleep Disordered Breathing (Apneas and Hypopneas)- obstructive, central, mixed apneas, and \nhypopneas must be manually scored by physician. The device does not output specific apnea or hypopnea events and \ntherefore should not be used for management decisions. \nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”\n4-2",
+      "extraction_method": "native",
+      "character_count": 2171
+    },
+    {
+      "block_id": "K223922-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Tony Lee:",
+      "text": "1 \nTraditional 510(k) Premarket Submission",
+      "extraction_method": "native",
+      "character_count": 42
+    },
+    {
+      "block_id": "K223922-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "510(k) Summary",
+      "text": "510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K223922-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Device Name : SOMNUM (V.1.1.2. Final finished device)",
+      "extraction_method": "native",
+      "character_count": 53
+    },
+    {
+      "block_id": "K223922-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "2 \n510(k) Summary \nIn accordance with 21 CFR 807.92 the following summary of information is provided: \nDate : September 30, 2022 \nⅠ. SUBMITTER \nSUBMITTER : Honeynaps \n529, Nonhyeon- ro, Gangnam -gu \nSeoul, Republic of Korea 06126 \nTel : +82-2-567-0134 \nHoneynaps \nCONTACT PERSON: \nPRIMARY CONTACT PERSON: \nYoungJun Lee \nChief Executive Officer \ntony.lee@honeynaps.com \nHoneynaps \nYoungJun Lee \nChief Executive Officer \ntony.lee@honeynaps.com \nⅡ. DEVICE \nTrade Name SOMNUM \nCommon Name Sleep Analysis System \nRegulation Number 21 CFR 882.1400 \nRegulation Name Electroencephalograph \nRegulation Class II \nClassification Product Code OLZ \nAutomatic Event Detection Software For Polysomnograph \nDevice Classification Name with Electroencephalograph \nReview Panel Neurology \nⅢ. PREDICATE DEVICE \n510(k) Number \nApplicant \nDevice Name \nRegulation Number \nRegulation Name \nRegulation Class \nClassification Product Code \nK162627 \nENSODATA \nEnsoSleep \n21 CFR 882.1400 \nElectroencephalograph \nII \nOLZ \nAutomatic Ev ent Detection Software For Polysomnograph \nwith Electroencephalograph D\nevice Classification Name",
+      "extraction_method": "native",
+      "character_count": 1102
+    },
+    {
+      "block_id": "K223922-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "3 \n510(k) Number \nApplicant \nDevice Name \nRegulation Number \nRegulation Name \nRegulation Class \nClassification Product Code \nD\nevice Classification Name \nK112102 \nYOUNES SLEEP TECHNOLOGIES \nMICHELE SLEEP SCORING SYSTEM \n21 CFR 868.2375\nBreathing Frequency Monitor\nII \nMNR \nVentilatory Effort Recorder",
+      "extraction_method": "native",
+      "character_count": 300
+    },
+    {
+      "block_id": "K223922-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "510( k) Summary \n4 \nⅣ. DEVICE DESCRIPTION \nSOMNUM is a standalone software application that analyze previously recorded physiological data obtained during \nlevel 1 sleep studies, referred to as polysomnography (PSG) records. The SOMNUM software can analyze any \nEDF files. Automated algorithms are applied to the raw signals in order to identify the occurrence of certain \nevents. The software automates recognition of: \n• Sleep Stage Events : Wake, Stage N1, Stage N2, Stage N3, Stage REM\n• Respiratory Events : Sleep Disordered Breathing ( device output does not distinguish between Apneas and\nHypopneas. Obstructive, central, mixed apneas, and hypopneas must be manually scored by\nphysician)\n• Arousal Events\n• Leg Movement Events : Periodic Leg Movements during Sleep (PLMs)\nThe SOMNUM software can be used as a stand-alone application for use on Windows 10 operating system platform. \nAll processing, scoring, and analysis of signal data occurs on local desktop PC. \nⅤ. INDICATIONS FOR USE \nSOMNUM is a computer program (software) intended for use as an aid for the diagnosis of sleep and \nrespiratory related sleep disorders. SOMNUM is intended to be used for analysis(automatic scoring and \nmanual re-scoring), display, redisplay(retrieve), summarize, reports generation of digital data collected by \nmonitoring devices typically used to evaluate sleep and respiratory related sleep disorders. The device is to \nbe used under the supervision of a physician Use is restricted to files obtained from adults patients. \nFor\nrespiratory events - Sleep Disordered Breathing (Apneas and Hypopneas)- obstructive, central, mixed apneas, \nand hypopneas must be manually scored by physician. The device does not output specific apnea or hypopnea \nevents and therefore should not be used for management decisions. \nTable 1. Comparison of Indications for Use \nDescription Subject Device \nSOMNUM \nPredicate Device \nENSOSLEEP \n(K162627) \nIndications for Use \nSOMNUM is a computer program \n(software) intended for use as an \naid for the diagnosis of sleep and \nrespiratory related sleep disorders. \nSOMNUM is intended to be used \nfor analysis(automatic scoring and \nmanual re-scoring), display, \nredisplay(retrieve), summarize, \nreports generation of digital data \ncollected by monitoring devices \ntypically used to evaluate sleep and \nrespiratory related sleep disorders. \nEnsoSleep is intended for use for the \ndiagnostic evaluation by a physician to \nassess sleep quality and as an aid for the \ndiagnosis of sleep and respiratory related \nsleep disorders in adults only. EnsoSleep \nis a software-only medical device to be \nused under the supervision of a clinician \nto analyze physiological signals and \nautomatically score sleep study results, \nincluding the staging of sleep, detection of \narousals, leg movements, and sleep \ndisordered breathing events including \nobstructive apneas. All automatically",
+      "extraction_method": "native",
+      "character_count": 2898
+    },
+    {
+      "block_id": "K223922-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "510( k) Summary \n5 \nThe device is to be used under the \nsupervision of a physician Use is \nrestricted to files obtained from \nadults patients. \nFor respiratory events - Sleep \nDisordered Breathing (Apneas and \nHypopneas)- obstructive, central, mixed \napneas, and hypopneas must be \nmanually scored by physician. The \ndevice does not output specific apnea \nor hypopnea events and therefore \nshould not be used for management \ndecisions \nscored events are subject to verification \nby a qualified clinician. Central apneas, \nmixed apneas, and hypopneas must be \nmanually marked within records. \nIntended Use \nAnalyze physiological data previously \nrecorded during sleep and present \na report. \nAnalyze physiological data previously \nrecorded during sleep and present a \nreport. \nEnvironment of Use Healthcare Facility Healthcare Facility",
+      "extraction_method": "native",
+      "character_count": 834
+    },
+    {
+      "block_id": "K223922-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "510( k) Summary \n6 \nⅥ. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE PREDICATE DEVICE \nThere are no significant differences in the technological characteristics of this device compared to the predicate \ndevice which adversely affect safety or effectiveness. The below table is summarized and compared with the \ntechnological characteristics between the SOMNUM and the predicate device : \nTable 2. Comparison of Technological Characteristics \nDescription Subject Device \nSOMNUM \nPredicate Device \nENSOSLEEP \n(K162627) \nClinical Criteria : \nClinical condition or purpose: \nDiagnosis of sleep and \nrespiratory disorders \nYES YES \nPopulation: Human subjects \nundergoing sleep studies YES YES \nFive-stage Sleep Stage Scoring \n(Wake, REM, Three non-REM \nstages) \nYES YES \nArousal Scoring YES YES \nRespiratory Events Scoring YES YES \nLeg Movements Scoring YES YES \nPerformance assessed by \npercent agreement(and Cohen’s \nkappa) between automatic and \nhuman scoring \nYES YES \nBasic operation: processing of \npolysomnography data \nrecorded from patients in \nsleep laboratories and \npolysomnography report \ngeneration \nYES YES \nData inputs for Sleep Stage and Arousal Scoring: \nCentral \nelectroencephalogram(EEG) YES YES \nLeft and right eye \nelectroocculogram(EOG) YES YES \nChin electromyogram(EMG) YES YES \nElectrocardiogram (ECG) YES YES \nData inputs for Respiratory Events Scoring : \nChest and abdomen \nmovements measured by \nrespiratory bands \nYES YES \nOxygen saturation YES YES",
+      "extraction_method": "native",
+      "character_count": 1479
+    },
+    {
+      "block_id": "K223922-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "510( k) Summary \n7 \nRespiratory airflow YES YES \nThermister YES YES \nAudio NO YES \nBody position NO YES \nAirway CO2 NO YES \nData inputs for Leg Movement Scoring : \nEMG recorded from right and \nleft legs YES YES \nAdditional Technical Criteria : \nPolysomnography records \nscored per 30 second epoch YES YES \nCardiac artifacts removed from \nEEG, EMG and EOG channels YES YES \nOthers : \nStandard of scoring manual The AASM Manual for the Scoring of \nSleep and Associated Events, 2016 \nThe AASM Manual for the Scoring of \nSleep and Associated Events, 2007 \nRe-scoring YES YES \nFile Format .EDF, .XML, .JSON format .EDF, . \nNetwork Access to Internet is not required. Access to Internet is required \nOperating System Windows 10 Windows XP, Windows 7, Windows 10 \nⅦ. PERFORMANCE DATA \nSoftware Verification & Validation \nSupport for the substantial equivalence of the SOMNUM Software was provided as a result of risk management \nand software testing. Software verification and validation testing were conducted and documentation was provided \nas recommended by FDA’s Guideline for Industry and FDA Staff, “Guidance for the Content of Premarket \nSubmission for Software Contained in Medical Device.”(Document issued on : May 11, 2005) \n• Verification of each independent software subsystem against defined requirements\n• Verification of interfaces between software subsystems against defined interface requirements\n• Validation of fully integrated system including all subsystems against overall system requirements\nThe results of the verification and validation activities that have been performed demonstrate that the software \nmeets requirements to support substantial equivalence. \nPerformance Test (Non-clinical test) \nPerformance testing was completed by evaluating SOMNUM device performance using a cross-sectional \nexperimental design on a representative N=48 subjects of data recorded in the sleep laboratory. Substantial \nEquivalence was established through a testing protocol that used full night studies data to evaluate the performance \nof SOMNUM. The goal of the test reported here is to establish that SOMNUM performance is equivalent to the \nperformance of the predicate device. We confirm that SOMNUM does not present any new concerns about \nsafety or effectiveness compared to the predicate device, MICHELE Sleep Scoring System(K112102). The \nperformance was measured by epoch by epoch agreement between SOMNUM’s",
+      "extraction_method": "native",
+      "character_count": 2422
+    },
+    {
+      "block_id": "K223922-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "510( k) Summary \n8 \naut\nomatic scoring and the scoring of three technologists using 2/3 majority rule, that is, at least two out of three \nexport scoring(medical professionals certified on PSG recording and analysis) agree on the presence of an \nevent within an epoch. SOMNUM device performance was evaluated using the defined test design, statistical \nmethodology, and controls across the following two endpoints: \nEndpoint 1. As SOMNUM is intended to analyze physiological signals and automatically score sleep study \nresults, including sleep staging and detection of respiratory events, arousal events, PLMs events, device \nperformance for detecting each event type must be validated. \nEndpoint 2. As SOMNUM is intended to present summary variables that appear in the clinical report used \nby physician to assess sleep disorders. \nT\nest Result Summary \nData for End point 1 \nS leep Stage \nTable 3. Performance Comparison of sleep stage.\nSOMNUM Reference[2]\nW N1 N2 N3 R W N1 N2 N3 R \nScorers \nW \n89.96 \n(89.22-\n90.67) \n6.93 \n(6.35-\n7.51) \n0.86 \n(0.73-\n0.98) \n0.14 \n(0.00-\n0.32) \n4.13 \n(3.69-\n4.61) \n82.2 35.9 4.0 0.5 5.8 \nN1 \n6.15 \n(5.63-\n6.73) \n77.93 \n(76.95-\n78.86) \n5.46 \n(5.16-\n5.78) \n0.28 \n(0.09-\n0.52) \n5.88 \n(5.38-\n6.43) \n9.6 26.1 4.7 0.4 8.7 \nN2 \n2.06 \n(1.75-\n2.41) \n13.21 \n(12.42-\n13.96) \n91.13 \n(90.71-\n91.47) \n15.52 \n(14.02-\n16.95) \n5.37 \n(4.84-\n5.84) \n3.8 33.2 85.0 16.0 12.3 \nN3 0.01 0.07 1.84 84.04 0.00 0.2 0.2 5.4 82.3 0.0 \nR \n1.81 \n(1.49-\n2.14) \n1.86 \n(1.53-\n2.19) \n0.72 \n(0.60-\n0.84) \n0.05 \n(0.00-\n0.14) \n84.62 \n(83.81-\n85.48) \n4.2 4.7 0.8 0.8 73.2 \nA\nrousal \nTable 4. Performance Comparison of sleep stage.\nSOMNUM Reference[3] \nEvent \nTotal \nEpoch \nPPA NPA OPA \nEvent \nTotal \nEpoch \nPPA NPA OPA \n13108 82.02 \n(81.42-82.64) \n82.78 \n(82.41-83.17) \n82.5 \n(82.2-82.9) 6468 76.82 82.48 -",
+      "extraction_method": "native",
+      "character_count": 1804
+    },
+    {
+      "block_id": "K223922-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "510(k) Summary \n9",
+      "extraction_method": "native",
+      "character_count": 17
+    },
+    {
+      "block_id": "K223922-P012-B002",
+      "page": 12,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "SDB & PLMS \nTable 5. Performance Comparison of sleep stage.",
+      "extraction_method": "native",
+      "character_count": 59
+    },
+    {
+      "block_id": "K223922-P012-B003",
+      "page": 12,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "SOMNUM Reference[4] Reference[1] \nEvent \nTotal \nEpoch \nPPA NPA OPA \nEvent \nTotal \nEpoch \nPPA NPA OPA \nEvent \nTotal \nEpoch \nPPA NPA OPA \nSDB 15984 94.18 \n(93.79-94.52) \n91.29 \n(90.98-91.61) \n92.3 \n(92.1-92.6) 2439 75.5 98.1 93.0 4705 67 \n(58, 75) \n93 \n(92, 94) \n91 \n(90, 92) \nPLMS 5215 92.89 \n(92.18-93.55) \n94.30 \n(94.08-94.51) \n94.1 \n(93.9-94.4) 1741 78.4 97.6 95.7 5796 71 \n(60, 80) \n90 \n(89, 92) \n89 \n(87, 90)",
+      "extraction_method": "native",
+      "character_count": 412
+    },
+    {
+      "block_id": "K223922-P012-B004",
+      "page": 12,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(k) Summary",
+      "text": "Please note that Event total Epoch means the total number of epochs with events. The total epoch is 43971 epochs (event \nepoch + non-event epoch).",
+      "extraction_method": "native",
+      "character_count": 146
+    },
+    {
+      "block_id": "K223922-P012-B005",
+      "page": 12,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Discussion:",
+      "text": "Discussion:",
+      "extraction_method": "native",
+      "character_count": 11
+    },
+    {
+      "block_id": "K223922-P012-B006",
+      "page": 12,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Discussion:",
+      "text": "For Sleep Stage and Arousal, SOMNUM exceeded all performance targets, while for SDB and PLMS, SOMNUM \nexceeded the performance targets for PPA. Comparing NPA of PLMS of SOMNUM with that of predicate device, \nthe NPA of SOMNUM’ is 3.3% lower. however, it is unknown whether a statistically significant comparison can be \nmade due to lack of CI. Therefore, the NPA of K162627 was compared as the reference device, and \nin this case, SOMNUM showed good performance by 4.3%. In conclusion, the NPA performance for PLMS is \nconsidered to be within clinically acceptable range. The NPA for SDB showed a performance that was 1.7% \nlower than K162627 and about 6.8% lower than K112102. However, considering both PPA and OPA of SOMNUM, \nthe overall performance of SOMNUM is better than that of K162627. In addition, considering the situation where there is \nno standard reference, it cannot be said that this difference shows the low performance of SOMNUM. Furthermore, the \nmanual scorer agreement[8], which is generally acceptable in clinical practice, is considered to have an error range of \naround 15%, these performance differences are considered to be within the clinically acceptable error range.",
+      "extraction_method": "native",
+      "character_count": 1195
+    },
+    {
+      "block_id": "K223922-P012-B007",
+      "page": 12,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Discussion:",
+      "text": "In conclusion, SOMNUM passed all pass/fail criteria for Endpoint 1.",
+      "extraction_method": "native",
+      "character_count": 67
+    },
+    {
+      "block_id": "K223922-P012-B008",
+      "page": 12,
+      "ordinal": 8,
+      "type": "heading",
+      "section": "Data for End point 2:",
+      "text": "Data for End point 2:",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K223922-P012-B009",
+      "page": 12,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "Table 6. Performance Comparison of Relevant Scoring Variables Between SOMNUM and Performance Target for Endpoint \n2 \nVariable \nType Of \nLimit \nSOMNUM abs. MAX Target abs. MAX Unit \nTST \nU 10 \n20 \n60 \n120 [min] \nL -20 -120",
+      "extraction_method": "native",
+      "character_count": 221
+    },
+    {
+      "block_id": "K223922-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "510(k) Summary \n10 \nSE \nU 2.5 \n5 \n10 \n13 % \nL -5 -13 \nSOL \nU 8 \n23 \n40 \n40 [min] \nL -23 -5 \nROL \nU 120 \n120 \n170 \n170 [min] \nL -70 -130 \nWake \nU 22 \n22 \n60 \n60 [min] \nL -10 -45 \nN1 \nU 30 \n45 \n80 \n80 [min] \nL -45 -60 \nN2 \nU 65 \n65 \n70 \n120 [min] \nL -50 -120 \nN1_N2 \nU 55 \n55 \n70 \n70 [min] \nL -35 -60 \nN3 \nU 30 \n40 \n140 \n140 [min] \nL -40 -10 \nREM \nU 20 \n40 \n50 \n80 [min] \nL -40 -80 \nArousal Index \nU 30 \n30 \n- \n- events/hour \nL -20 - \nPLMS Index \nU 43 \n43 \n7 \n43 events/hour \nL -2 -43 \nAHI Index \nU 18 \n18 \n7 \n20 events/hour \nL -7 -20",
+      "extraction_method": "native",
+      "character_count": 532
+    },
+    {
+      "block_id": "K223922-P013-B002",
+      "page": 13,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "Discussion: TST, SE, ROL, Wake, N1, N2, N1_N2, and REM satisfy the provided Upper and Lower LOA.",
+      "extraction_method": "native",
+      "character_count": 96
+    },
+    {
+      "block_id": "K223922-P013-B003",
+      "page": 13,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "However, SOL has a target of -5 to 40, while SOMNUM has a range of -23 to 8, and N3 has a target of -10 to 140, while \nSOMNUM has a range of -40 to 30. The PLMS index has a target of -40 to 10, but SOMNUM has a range of -2 to 43, and \nthe AHI index has a target of -20 to 7, but SOMNUM has a range of -7 to 18.",
+      "extraction_method": "native",
+      "character_count": 310
+    },
+    {
+      "block_id": "K223922-P013-B004",
+      "page": 13,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "When considering the actual range of absolute errors, SOL has a target of 40 minutes, while SOMNUM has 23 minutes, \nand N3 has a target of 140, while SOMNUM has 40 minutes. The AHI index has a target of 22, but SOMNUM has 18, \nresulting in smaller absolute errors. \nPLMS index has a target of 43, while SOMNUM has 43, it shows the almost same value. However, considering the 15% \nerror among scorers presented in Reference [8], it cannot be said that it affects the performance.",
+      "extraction_method": "native",
+      "character_count": 478
+    },
+    {
+      "block_id": "K223922-P013-B005",
+      "page": 13,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "In addition, we compared the LOA of Relevant Sleep Scoring Variables of SOMNUM and those of References. The table \n12 showed the LOA of SOMNUM and References.",
+      "extraction_method": "native",
+      "character_count": 158
+    },
+    {
+      "block_id": "K223922-P014-B001",
+      "page": 14,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "510(k) Summary \n11",
+      "extraction_method": "native",
+      "character_count": 18
+    },
+    {
+      "block_id": "K223922-P014-B002",
+      "page": 14,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "Table 7. Performance Comparison of LOA between SOMNUM and References for Endpoint 2 \nVariable LOA SOMNUM References Ref. No. Unit \nTST \n(Total Sleep Time) \nU 7.8 35 \n[5] [min] \nL -14.21 -70 \nSE \n(Sleep Efficiency) \nU 1.69 10 \n[7] % \nL -3.31 -12 \nSOL \n(Sleep On Latency) \nU 2.93 15 \n[7] [min] \nL -4.21 -11 \nROL \n(REM On Latency) \nU 62.01 70 \n[5] [min] \nL -60.69 -90 \nWake \nU 14.21 70 \n[7] [min] \nL -7.80 -45 \nN1 \nU 25.30 30 \n[5] [min] \nL -17.29 -30 \nN2 \nU 31.61 10 \n[5] [min] \nL -29.10 -75 \nN1_N2 \nU 31.58 30 \n[5] [min] \nL -19.17 -75 \nN3 \nU 18.83 65 \n[5] [min] \nL -30.45 -5 \nREM \nU 6.07 18 \n[5] [min] \nL -31.95 -55 \nArousal Index \nU 23.91 - \n- events/hour \nL -15.21 - \nPLMS Index \n(Periodic Limb \nMovements of Sleep \nIndex) \nU 12.24 13 \n[6] events/hour \nL -0.37 -15 \nAHI Index \n(Apnea-Hypopnea Index) \nU 8.79 4 \n[5] events/hour \nL -3.28 -2",
+      "extraction_method": "native",
+      "character_count": 838
+    },
+    {
+      "block_id": "K223922-P014-B003",
+      "page": 14,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "When comparing the LOA ranges of SOMNUM and References, the CI ranges of SOMNUM is narrower than \nthose of the references except for AHI. In conclusion, SOMNUM passed all pass/fail criteria for Endpoint 2.",
+      "extraction_method": "native",
+      "character_count": 205
+    },
+    {
+      "block_id": "K223922-P014-B004",
+      "page": 14,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "Output Comparison Data",
+      "extraction_method": "native",
+      "character_count": 22
+    },
+    {
+      "block_id": "K223922-P015-B001",
+      "page": 15,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "510(k) Summary \n12 \nSCORING \nFUNCTION \nSOMNUM ENSOSLEEP(K162627) \nTotal \nEpochs \nPPA \n(%) \nNPA \n(%) \nOPA \n(%) \nkappa \n(%) \nTotal \nEpochs \nPPA \n(%) \nNPA \n(%) \nOPA \n(%) \nkappa \n(%) \nSLEEP \nSTAGING 43971 87.5 \n(87.2,87.8) \n82.1 \n(81.6,82.5) 59719 78 \n(77,80) \n95 \n(94,95) \n91 \n(91,92)",
+      "extraction_method": "native",
+      "character_count": 281
+    },
+    {
+      "block_id": "K223922-P015-B002",
+      "page": 15,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "Awake 6719 89.9 \n(89.2,90.6) \n97.4 \n(97.3,97.6) 17459 86 \n(82,88) \n97 \n(95,98) \n94 \n(92,95)",
+      "extraction_method": "native",
+      "character_count": 91
+    },
+    {
+      "block_id": "K223922-P015-B003",
+      "page": 15,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "N1 6522 77.9 \n(77.0,78.9) \n94.6 \n(94.4,94.9) 3293 41 \n(33,48) \n94 \n(93, 96) \n91 \n(90,93)",
+      "extraction_method": "native",
+      "character_count": 88
+    },
+    {
+      "block_id": "K223922-P015-B004",
+      "page": 15,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "N2 20448 91.1 \n(90.7,91.5) \n92.4 \n(92.0,92.7) 26839 77 \n(73,81) \n87 \n(85,90) \n83 \n(80,85)",
+      "extraction_method": "native",
+      "character_count": 89
+    },
+    {
+      "block_id": "K223922-P015-B005",
+      "page": 15,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "N3 1012 84.1 \n(82.6,85.6) \n99.1 \n(99.0,99.2) 5587 81 \n(74,88) \n93 \n(91,95) \n92 \n(90,94)",
+      "extraction_method": "native",
+      "character_count": 87
+    },
+    {
+      "block_id": "K223922-P015-B006",
+      "page": 15,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "REM 7364 84.7 \n(83.8,85.4) \n98.9 \n(98.8,99.0) 6541 79 \n(72,84) \n99 \n(98,99) \n96 \n(96,97)",
+      "extraction_method": "native",
+      "character_count": 88
+    },
+    {
+      "block_id": "K223922-P015-B007",
+      "page": 15,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "No Consensus 756 1432 \nAROUSAL 43971 82.5 \n(82.2,82.9) \n60.8 \n(60.1,61.5) 59719 87 \n(85,88) - \nYes 13108 82 \n(81.4,82.6) \n82.8 \n(82.4,83.2) \n7686 66 \n(61,71) \n90 \n(88,91)",
+      "extraction_method": "native",
+      "character_count": 170
+    },
+    {
+      "block_id": "K223922-P015-B008",
+      "page": 15,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "None 30863 \nNo Consensus 0 0 \nPLMS 43971 94.1 \n(93.9,94.4) \n75.7 \n(74.7,76.5) 59719 89 \n(87,90) - \nYes 8509 92.9 \n(92.1, 93.6) \n94.3 \n(94.1, 94.5) \n5796 71 \n(60,80) \n90 \n(89,92) \nNone 35462 \nNo Consensus 0 \nRESPIRATORY \nEVENTS 43971 92.3 \n(92.1,92.6) \n83.8 \n(83.2,84.3) 59719 91 \n(90,92) - \nYES 15984 94.2 \n(93.8, 94.5) \n91.3 \n(91.0, 91.6) \n4705 67 \n(58,75) \n93 \n(92,94) \nNone 27987 \nNo Consensus 0 0",
+      "extraction_method": "native",
+      "character_count": 400
+    },
+    {
+      "block_id": "K223922-P015-B009",
+      "page": 15,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "Discussion : Except for the NPA of Arousal, SOMNUM is superior to the predicate device in all PPA and NPA. However, the \nNPA of arousal is about 8% lower, but this is within the limit that can be seen between general scorers. The manual scorer \nagreement[8], which is generally acceptable in clinical practice, is considered to have an error range of around 15%, these \nperformance differences are considered to be within the clinically acceptable error range.",
+      "extraction_method": "native",
+      "character_count": 460
+    },
+    {
+      "block_id": "K223922-P016-B001",
+      "page": 16,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "510(k) Summary \n13",
+      "extraction_method": "native",
+      "character_count": 18
+    },
+    {
+      "block_id": "K223922-P016-B002",
+      "page": 16,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "Clinical Test Summary \nNo clinical studies were considered necessary and performed.",
+      "extraction_method": "native",
+      "character_count": 83
+    },
+    {
+      "block_id": "K223922-P016-B003",
+      "page": 16,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "Summary \nIn summary, performance test results demonstrated that SOMNUM achieved sleep staging, sleep disordered \nbreathing, arousal, PLMs events detection agreement that is substantially equivalent to the predicate device \nEnsosleep (K162627) and MICHELE Sleep Scoring(K112102) performance for all comparisons in all endpoints \nanalyzed respectively. The SOMNUM performance validation testing demonstrates the safety and effectiveness of \nSOMNUM when used for the defined indications for use. The performance data demonstrates that the SOMNUM \ndevice performs comparably to the predicate device that is currently marketed for the same intended use.",
+      "extraction_method": "native",
+      "character_count": 648
+    },
+    {
+      "block_id": "K223922-P016-B004",
+      "page": 16,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "References",
+      "extraction_method": "native",
+      "character_count": 10
+    },
+    {
+      "block_id": "K223922-P016-B005",
+      "page": 16,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "[1] FDA, 510(k) Summary(MICHELE Sleep Scoring System, K112102) \n[2] DJ Levendowski, et. al, “The Accuracy, Night -to-Night Variability, and Stability of Frontopolar Sleep \nElectroencephalography Biomarkers“ Journal of Clinical Sleep Medicine, Vol. 13, No. 6, pp.791 – 803, 2017 \n[3] F De Carli, et. al, “A Method for the Automatic Detection of Arousals During Sleep“ Sleep, Vol. 22, No. 5, pp. 561~572, \n1999 \n[4] FDA, K162627 510K summary report \n[5] Atul Malhotra, et. al., “Performance of an Automated Polysomnography Scoring System Versus Computer-Assisted \nManual Scoring“ SLEEP, Vol. 36, No. 4, pp. 573-582, 2013 \n[6] S. D. Pittman, et. al., “Assessment of Automated Scoring of Polysomnographic Recordings in a Population with Suspected \nSleep-disordered Breathing”, SLEEP, Vol. 27, No. 7, 2004 pp.1394-1403 \n[7] C. Stepnowsky, et. al, “Scoring accuracy of automated sleep staging from a bipolar electroocular recording compared to \nmanual scoring by multiple raters, Sleep Medicine 14 (2013) 1199–1207 \n[8] T. Penzel, “Sleep scoring moving from visual scoring towards automated scoring”, SLEEP, 2022, Vol. 45, No. 10. pp. 1 – \n3.",
+      "extraction_method": "native",
+      "character_count": 1136
+    },
+    {
+      "block_id": "K223922-P017-B001",
+      "page": 17,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "510(k) Summary \n14 \nⅧ. CONCLUSIONS",
+      "extraction_method": "native",
+      "character_count": 34
+    },
+    {
+      "block_id": "K223922-P017-B002",
+      "page": 17,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Data for End point 2:",
+      "text": "Based on a comparison of the intended use and technological characteristics, performance test, the \nSOMNUM software is substantially equivalent to the identified predicate device. Minor differences in \ntechnological and performance characteristics did not raise new or different questions of safety and \neffectiveness. Additionally, the non-clinical testing supports that the system performs in accordance with its \nintended use and is as safe, as effective, and performs as well as the predicate device.",
+      "extraction_method": "native",
+      "character_count": 504
+    }
+  ],
+  "claims": []
+}

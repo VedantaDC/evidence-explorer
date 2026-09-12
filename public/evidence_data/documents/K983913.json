@@ -1,0 +1,883 @@
+{
+  "document": {
+    "k_number": "K983913",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "MODIFICATION TO BIO-LOGIC SLEEPSCAN",
+    "applicant": "Bio-Logic Systems Corp.",
+    "decision_date": "1998-11-25",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf/K983913.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K983913",
+    "sha256": "f4de1a1650de1ecb09719c632679d7a8a7f2997c8d10911bbb380a079689c1e8",
+    "page_count": 7,
+    "native_pages": 0,
+    "ocr_pages": 7,
+    "family_id": "PSG-013",
+    "family_name": "Bio-logic Sleepscan / Netlink Traveler",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "NOV 25 1998 K% $3972,\n\nfgsuiteg One Bio-logic Plaza Mundelein, illinois 60060-8700 1-800-323-8326 Fax: 847-949-8615\n\nSECTION 2: SUMMARY AND CERTIFICATION\n\n510(K) SUMMARY\n\nSafety and effectiveness information concerning the Bio-logic Sleepscan product and this Software\nmodification is summarized below.\n\nBecause this is not a CLASS III device, the special certification defined for this section is not required.\n\nPREPARED BY: Bio-logic Systems Corp\nOne Bio-logic Plaza\nMundelein, IL 60060\nTELEPHONE: (847)-949-5200\n‘CONTACT PERSON: Norman E. Brunner\n\nDATE ON WHICH THE SUMMARY WAS PREPARED: October 30, 1998\nNAME OF DEVICE: Bio-logic Sleepscan.\nCOMMON NAME; Polysomnography System.\nCLASSIFICATION NAME: Conditioner, Signal, Physiological (per CFR 882.1845).\nPREDICATE DEVICE: Bio-logic Sleepscan, reference 510(k) #K894155,\nDESCRIPTION OF THE DEVICE:\nThe Bio-logic Sleepscan family of products is intended to be used for the recording and analysis of human\nphysiological data for the purpose of diagnosis and treatment of Sleep-related disorders. The predicate device\nreferenced above was the first such system marketed by Bio-logic. Other related devices comprising the\nSleepscan family include:\nI. 510(k) #K930790 - Addition of Oximeter to Sleepscan Product.\n\n2. 510(k) #K964132 - Modification to Bio-logic Sleepscan product with Built-in Oximeter.\n3. 510(k) #K971501 - Sleepscan Airflow Pressure Transducer.",
+      "character_count": 1410
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "Special $10(k): Device Modification to Bio-logic Sleepscan Section 2 Page 2\n\nThe predicate device performs both Sleep recording and analysis functions, providing up to 40 channels of\nsimultaneous data recording from a variety of sensors and transducers, and a number of specialized analysis\nfunctions including event highlighting and Sleep stage identification. Related Device #1 above is a recording\nhardware modification to Bio-logic’s standard 32-channel EEG recording system, incorporating a built-in\nOximeter module and DC channels specifically designed for Sleep recordings. Related Device #2 above is\nanother recording hardware modification, this one based on the Bio-logic “Ceegraph Traveler” (510(k)\n#K954954) device. Also incorporating a built-in oximeter, this is a smaller battery-operated device offering\nfewer recording channels at a lower price. Related Device #3 above is a very sensitive transducer for the\nrecording of airflow associated with breathing, based on the measurement of air pressure variations instead of\nthe more indirect method using temperature measurements.\n\nThroughout the history of the Sleepscan product, from the introduction of the predicate device to the present,\nall Sleepscan software has been developed and based on the Microsoft MS-DOS Operating System. This new\nSpecial 510(k) is for the Device Modification of Sleepscan software, the primary new feature being the use of\nthe Microsoft Windows Operating System. As such, although most of the standard Sleepscan functions are\nvery similar to those used in the DOS version, much of the User Interface and presentation of graphical data is\nnow performed using Windows-standard Graphical User Interface (GUI) methods. This 510(k) does not\ncover the recording functions of the Sleepscan family, which are defined in the predicate device and Related\nDevices #1 and #2 above. Data recording may be performed using any of the Bio-logic approved-for-market\nSleepscan and Ceegraph recording devices with the associated recording software. Any recordings made for\nthe diagnosis and treatment of Sleep disorders can be analyzed with either the existing DOS-based software or\nithe new Windows-based software. This latter software package is the subject of this 510(k).\n\nMost of the functional features of the Bio-logic Sleepscan for Windows software package are similar to those\n\nof the predicate device. These include:\n\n¢ Graphical presentation of the “raw data” as recorded by one of the recording devices.\n\n¢ Epoch-based data scaling to simulate paper recordings.\n\n¢ Variable time scaling of data (simulating a variety of “paper speeds”) and variable epoch sizes for detailed\nor summary viewing.\n\n¢ Rapid report generation based on operator review and interaction with the data presented by the Analysis\nsoftware.\n\n¢ Several summary graphs allow for the display of the complete night’s Sleep recording on one screen,\nallowing the user to quickly identify periods of the study requiring closer scrutiny.\n\n¢ Graphical Overlay with Zoom-In allows the user to quickly look at “interesting” periods of a night’s Sleep\nrecording at the raw data level.\n\n¢ User-defined montages and comments.\n\n¢ Screen presentations can be customized to display several different kinds of data in separate windows at\nthe same time.\n\n¢ Data analysis is performed on specific channels of raw data for the identification of possible respiratory or\nneurological events.\n\n¢ Color-coded events highlight areas of the data for further review by the technologist or physician.\n\n¢ Computer-—assisted highlighting of data events can be easily modified or deleted by the user, and new\nevents not highlighted by the program can be added at the user’s discretion.",
+      "character_count": 3711
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "Special $10(k}): Device Modification to Bio-logic Sleepscan Section 2 Page 3\n\nNew features in the Windows-based software include:\n\n¢ Standard Windows GUI functionality.\n\nExtensive On-line Help.\n\nMore extensive and user-configurable reporting features,\nPatient database information features.\n\nEnhanced sleep stage scoring features.\n\nete @ @\n\nINTENDED USE: The Bio-logic Sleepscan product family is intended for use in the recording and analysis\nof human physiological data necessary for the diagnosis of Sleep-related disorders. It is intended to record\n\"and present this data in a form that can improve the speed of diagnosis and assist in potential treatment\ndecisions. Sleepscan Analysis performs calculations and presents recorded data in various ways on the\ncomputer screen and in reports. The Analysis features in the Sleepscan product are intended to be performed\nwithout patient hookup being necessary, and may even be performed on a different computer system from that\nwhich was used for the patient recording.\n\n[t can be used for patients of all ages, from children to adults, including geriatric patients. The use of the\nSleepscan family of products is to be performed under the prescription and supervision of a physician or other\n\ntrained health care professional.\n\nThe primary feature modification represented in this Special 510(k) is for the use of the Microsoft Windows\noperating system and its associated user interface functionality.\n\nSAFETY AND EFFECTIVENESS SUMMARY\n\nTo establish the safety and effectiveness of the Sleepscan for Windows software, the system was designed in\naccordance with the Bio-logic internal Product Development procedures which meet ISO-9001 and FDA\nQSR Design Control specifications. A detailed Hazard/Risk analysis was performed using the Fault Tree\nanalysis (FTA) approach, and a detailed Risk Assessment was written in accordance with EN-1441, the\nInternational Standard for Hazard/Risk analysis.\n\nBecause this modification to Sleepscan consists of only software and there is no patient connection required,\nthere are no hardware-related methods by which the patient can be harmed or injured through the use of this\ndevice. In addition, although extensive signal analysis and computer-assistance is provided to the user in the\nform of event identification and data highlighting, the program does not make any final decisions that result in\nany automatic forms of diagnosis or treatment. All program “recommendations” are subject to review by the\nSleep Technologist or Physician, and may be modified, overridden or deleted as determined by a qualified\nuser. The program provides extensive functionality to allow the qualified user to review all raw data\ncollected, create and highlight new and/or custom events, and otherwise customize the data analysis to suit his\nor her requirements.",
+      "character_count": 2832
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "Special 510(k): Device Modification to Bio-logic Sleepscan Section 2 Page ¢\n\nThe following comparison is provided as a summary of technological characteristics relative to the predicate\nSleepscan device. This is to demonstrate that this new modification to the Sleepscan program has no\nsignificant differences which would adversely affect product safety and effectiveness.\n\nParameter for comparison Similarity or Difference\nIntended Use No differences.\nPopulation No differences.\nHardware Configuration There is no patient-connected hardware required. The\n\npredicate device was designed to work on 386-based\ncomputers, whereas this modification is recommended for\nuse with Pentium computers.\n\nComputer Control Software The predicate device is DOS-based, whereas the\nnew modified device uses the Windows operating system.\n\nPatient database. The predicate device provides for only the basic patient\ndemographic information. The modified device has\nextensive database functionality which allows the user to\nsearch, sort and create custom reports.\n\nOn-line Help system. The predicate device has no significant Instructions\nfor Use built into the program, instead relying on the use\nof a comprehensive User’s Manual. The Windows\nprogram provides a simple User Manual and an extensive\nOn-Line Help Instruction built into the Windows program.\n\nPerformance No differences.\n\nSafety Characteristics - | Nodifferences. There is no required direct electrical\nconnection to the patient for Sleepscan Analysis.",
+      "character_count": 1496
+    },
+    {
+      "page": 5,
+      "extraction_method": "ocr",
+      "text": "gp BCLs\n” My\n\nWHAlte\nre “hy,\n\n2\n<\n5\n\n€ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room -W066-G609\nSilver Spring, MD 20993-0002\n\nMr. Norman E. Brunner\n\nVice-President of Research and Development APR - 9 2012\nBio-Logic Systems Corporation\n\nOne Bio-logic Plaza\n\nMundelein, Illinois 60060-3700\n\nRe: K983913\nTrade/Device Name: BIO-LOGIC SLEEPSCAN\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV\nDated (Date on orig SE ltr): October 30, 1998\nReceived (Date on orig SE ltr): November 4, 1998\n\nDear Mr. Brunner:\nThis letter corrects our substantially equivalent letter of November 25, 1998.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements conceming your device in the Federal Register.",
+      "character_count": 2141
+    },
+    {
+      "page": 6,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Mr. Norman E. Brunner\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.zov/AboutF DA/CentersO ffices/CDRH/CDRHOffices/ucm 1 15809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.\n\nSincerely yours, —\n\ndKorin Ayan\n\nMalvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health\n\nEnclosure",
+      "character_count": 1973
+    },
+    {
+      "page": 7,
+      "extraction_method": "ocr",
+      "text": "INDICATIONS FOR USE STATEMENT Page 1 of 1\n\n510(k) Number (if known): K 4 § 34 | 3 Net-Assigued\nDevice Name: Modification to Bio-logic Steepscan\n\nIndications For Use:\n\nThe Bio-logic Sleepscan product family is indicated for use in the recording and analysis of human physiological data\nnecessary for the diagnosis of Sleep-related disorders. It is intended to record and present this data in a form that can\nimprove the speed of diagnosis and assist in potential treatment decisions. Sleepscan Analysis performs calculations\nand preseats recorded data in various ways on the computer screen and in reports, The Analysis features in the\nSleepscan product are intended to be performed without patient hookup being necessary, and may even be performed on\na different computer system from that which was used for the patient recording.\n\nIt can be used for patients of all ages, from children to adults, including geriatric patients, The use of the Sleepscan\nfamily of products is to be performed under the prescription and supervision of a physician or other trained health care\nprofessional.\n\nThe primary feature modification represented in this Special 510(k) is for the use of the Microsoft Windows operating\nsystem and its associated user interface functionality.\n\n(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)\n\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n\npecooed de\n\n(Divi\nDivision i Benerel restoretive Devices S413\n510(k} Number\nPrescription Use nf “Over=The-Comnter-tse—_—\n(Per 21 CFR 801.109)\n\n(Optional Format 1-2-96)\n\nPage 5:",
+      "character_count": 1572
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K983913-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "NOV 25 1998 K% $3972,",
+      "text": "NOV 25 1998 K% $3972,",
+      "extraction_method": "ocr",
+      "character_count": 21
+    },
+    {
+      "block_id": "K983913-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "NOV 25 1998 K% $3972,",
+      "text": "fgsuiteg One Bio-logic Plaza Mundelein, illinois 60060-8700 1-800-323-8326 Fax: 847-949-8615",
+      "extraction_method": "ocr",
+      "character_count": 92
+    },
+    {
+      "block_id": "K983913-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "SECTION 2: SUMMARY AND CERTIFICATION",
+      "text": "SECTION 2: SUMMARY AND CERTIFICATION",
+      "extraction_method": "ocr",
+      "character_count": 36
+    },
+    {
+      "block_id": "K983913-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "510(K) SUMMARY",
+      "text": "510(K) SUMMARY",
+      "extraction_method": "ocr",
+      "character_count": 14
+    },
+    {
+      "block_id": "K983913-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY",
+      "text": "Safety and effectiveness information concerning the Bio-logic Sleepscan product and this Software\nmodification is summarized below.",
+      "extraction_method": "ocr",
+      "character_count": 131
+    },
+    {
+      "block_id": "K983913-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY",
+      "text": "Because this is not a CLASS III device, the special certification defined for this section is not required.",
+      "extraction_method": "ocr",
+      "character_count": 107
+    },
+    {
+      "block_id": "K983913-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY",
+      "text": "PREPARED BY: Bio-logic Systems Corp\nOne Bio-logic Plaza\nMundelein, IL 60060\nTELEPHONE: (847)-949-5200\n‘CONTACT PERSON: Norman E. Brunner",
+      "extraction_method": "ocr",
+      "character_count": 136
+    },
+    {
+      "block_id": "K983913-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY",
+      "text": "DATE ON WHICH THE SUMMARY WAS PREPARED: October 30, 1998\nNAME OF DEVICE: Bio-logic Sleepscan.\nCOMMON NAME; Polysomnography System.\nCLASSIFICATION NAME: Conditioner, Signal, Physiological (per CFR 882.1845).\nPREDICATE DEVICE: Bio-logic Sleepscan, reference 510(k) #K894155,\nDESCRIPTION OF THE DEVICE:\nThe Bio-logic Sleepscan family of products is intended to be used for the recording and analysis of human\nphysiological data for the purpose of diagnosis and treatment of Sleep-related disorders. The predicate device\nreferenced above was the first such system marketed by Bio-logic. Other related devices comprising the\nSleepscan family include:\nI. 510(k) #K930790 - Addition of Oximeter to Sleepscan Product.",
+      "extraction_method": "ocr",
+      "character_count": 709
+    },
+    {
+      "block_id": "K983913-P001-B009",
+      "page": 1,
+      "ordinal": 9,
+      "type": "list",
+      "section": "510(K) SUMMARY",
+      "text": "2. 510(k) #K964132 - Modification to Bio-logic Sleepscan product with Built-in Oximeter.\n3. 510(k) #K971501 - Sleepscan Airflow Pressure Transducer.",
+      "extraction_method": "ocr",
+      "character_count": 148
+    },
+    {
+      "block_id": "K983913-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY",
+      "text": "Special $10(k): Device Modification to Bio-logic Sleepscan Section 2 Page 2",
+      "extraction_method": "ocr",
+      "character_count": 75
+    },
+    {
+      "block_id": "K983913-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY",
+      "text": "The predicate device performs both Sleep recording and analysis functions, providing up to 40 channels of\nsimultaneous data recording from a variety of sensors and transducers, and a number of specialized analysis\nfunctions including event highlighting and Sleep stage identification. Related Device #1 above is a recording\nhardware modification to Bio-logic’s standard 32-channel EEG recording system, incorporating a built-in\nOximeter module and DC channels specifically designed for Sleep recordings. Related Device #2 above is\nanother recording hardware modification, this one based on the Bio-logic “Ceegraph Traveler” (510(k)\n#K954954) device. Also incorporating a built-in oximeter, this is a smaller battery-operated device offering\nfewer recording channels at a lower price. Related Device #3 above is a very sensitive transducer for the\nrecording of airflow associated with breathing, based on the measurement of air pressure variations instead of\nthe more indirect method using temperature measurements.",
+      "extraction_method": "ocr",
+      "character_count": 1014
+    },
+    {
+      "block_id": "K983913-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY",
+      "text": "Throughout the history of the Sleepscan product, from the introduction of the predicate device to the present,\nall Sleepscan software has been developed and based on the Microsoft MS-DOS Operating System. This new\nSpecial 510(k) is for the Device Modification of Sleepscan software, the primary new feature being the use of\nthe Microsoft Windows Operating System. As such, although most of the standard Sleepscan functions are\nvery similar to those used in the DOS version, much of the User Interface and presentation of graphical data is\nnow performed using Windows-standard Graphical User Interface (GUI) methods. This 510(k) does not\ncover the recording functions of the Sleepscan family, which are defined in the predicate device and Related\nDevices #1 and #2 above. Data recording may be performed using any of the Bio-logic approved-for-market\nSleepscan and Ceegraph recording devices with the associated recording software. Any recordings made for\nthe diagnosis and treatment of Sleep disorders can be analyzed with either the existing DOS-based software or\nithe new Windows-based software. This latter software package is the subject of this 510(k).",
+      "extraction_method": "ocr",
+      "character_count": 1157
+    },
+    {
+      "block_id": "K983913-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY",
+      "text": "Most of the functional features of the Bio-logic Sleepscan for Windows software package are similar to those",
+      "extraction_method": "ocr",
+      "character_count": 108
+    },
+    {
+      "block_id": "K983913-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "of the predicate device. These include:",
+      "text": "of the predicate device. These include:",
+      "extraction_method": "ocr",
+      "character_count": 39
+    },
+    {
+      "block_id": "K983913-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "of the predicate device. These include:",
+      "text": "¢ Graphical presentation of the “raw data” as recorded by one of the recording devices.",
+      "extraction_method": "ocr",
+      "character_count": 87
+    },
+    {
+      "block_id": "K983913-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "of the predicate device. These include:",
+      "text": "¢ Epoch-based data scaling to simulate paper recordings.",
+      "extraction_method": "ocr",
+      "character_count": 56
+    },
+    {
+      "block_id": "K983913-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "of the predicate device. These include:",
+      "text": "¢ Variable time scaling of data (simulating a variety of “paper speeds”) and variable epoch sizes for detailed\nor summary viewing.",
+      "extraction_method": "ocr",
+      "character_count": 130
+    },
+    {
+      "block_id": "K983913-P002-B009",
+      "page": 2,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "of the predicate device. These include:",
+      "text": "¢ Rapid report generation based on operator review and interaction with the data presented by the Analysis\nsoftware.",
+      "extraction_method": "ocr",
+      "character_count": 116
+    },
+    {
+      "block_id": "K983913-P002-B010",
+      "page": 2,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "of the predicate device. These include:",
+      "text": "¢ Several summary graphs allow for the display of the complete night’s Sleep recording on one screen,\nallowing the user to quickly identify periods of the study requiring closer scrutiny.",
+      "extraction_method": "ocr",
+      "character_count": 187
+    },
+    {
+      "block_id": "K983913-P002-B011",
+      "page": 2,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "of the predicate device. These include:",
+      "text": "¢ Graphical Overlay with Zoom-In allows the user to quickly look at “interesting” periods of a night’s Sleep\nrecording at the raw data level.",
+      "extraction_method": "ocr",
+      "character_count": 141
+    },
+    {
+      "block_id": "K983913-P002-B012",
+      "page": 2,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "of the predicate device. These include:",
+      "text": "¢ User-defined montages and comments.",
+      "extraction_method": "ocr",
+      "character_count": 37
+    },
+    {
+      "block_id": "K983913-P002-B013",
+      "page": 2,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "of the predicate device. These include:",
+      "text": "¢ Screen presentations can be customized to display several different kinds of data in separate windows at\nthe same time.",
+      "extraction_method": "ocr",
+      "character_count": 121
+    },
+    {
+      "block_id": "K983913-P002-B014",
+      "page": 2,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "of the predicate device. These include:",
+      "text": "¢ Data analysis is performed on specific channels of raw data for the identification of possible respiratory or\nneurological events.",
+      "extraction_method": "ocr",
+      "character_count": 132
+    },
+    {
+      "block_id": "K983913-P002-B015",
+      "page": 2,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "of the predicate device. These include:",
+      "text": "¢ Color-coded events highlight areas of the data for further review by the technologist or physician.",
+      "extraction_method": "ocr",
+      "character_count": 101
+    },
+    {
+      "block_id": "K983913-P002-B016",
+      "page": 2,
+      "ordinal": 16,
+      "type": "paragraph",
+      "section": "of the predicate device. These include:",
+      "text": "¢ Computer-—assisted highlighting of data events can be easily modified or deleted by the user, and new\nevents not highlighted by the program can be added at the user’s discretion.",
+      "extraction_method": "ocr",
+      "character_count": 180
+    },
+    {
+      "block_id": "K983913-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "of the predicate device. These include:",
+      "text": "Special $10(k}): Device Modification to Bio-logic Sleepscan Section 2 Page 3",
+      "extraction_method": "ocr",
+      "character_count": 76
+    },
+    {
+      "block_id": "K983913-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "New features in the Windows-based software include:",
+      "text": "New features in the Windows-based software include:",
+      "extraction_method": "ocr",
+      "character_count": 51
+    },
+    {
+      "block_id": "K983913-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "New features in the Windows-based software include:",
+      "text": "¢ Standard Windows GUI functionality.",
+      "extraction_method": "ocr",
+      "character_count": 37
+    },
+    {
+      "block_id": "K983913-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "New features in the Windows-based software include:",
+      "text": "Extensive On-line Help.",
+      "extraction_method": "ocr",
+      "character_count": 23
+    },
+    {
+      "block_id": "K983913-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "New features in the Windows-based software include:",
+      "text": "More extensive and user-configurable reporting features,\nPatient database information features.",
+      "extraction_method": "ocr",
+      "character_count": 95
+    },
+    {
+      "block_id": "K983913-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "New features in the Windows-based software include:",
+      "text": "Enhanced sleep stage scoring features.",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K983913-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "New features in the Windows-based software include:",
+      "text": "ete @ @",
+      "extraction_method": "ocr",
+      "character_count": 7
+    },
+    {
+      "block_id": "K983913-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "New features in the Windows-based software include:",
+      "text": "INTENDED USE: The Bio-logic Sleepscan product family is intended for use in the recording and analysis\nof human physiological data necessary for the diagnosis of Sleep-related disorders. It is intended to record\n\"and present this data in a form that can improve the speed of diagnosis and assist in potential treatment\ndecisions. Sleepscan Analysis performs calculations and presents recorded data in various ways on the\ncomputer screen and in reports. The Analysis features in the Sleepscan product are intended to be performed\nwithout patient hookup being necessary, and may even be performed on a different computer system from that\nwhich was used for the patient recording.",
+      "extraction_method": "ocr",
+      "character_count": 677
+    },
+    {
+      "block_id": "K983913-P003-B009",
+      "page": 3,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "New features in the Windows-based software include:",
+      "text": "[t can be used for patients of all ages, from children to adults, including geriatric patients. The use of the\nSleepscan family of products is to be performed under the prescription and supervision of a physician or other",
+      "extraction_method": "ocr",
+      "character_count": 221
+    },
+    {
+      "block_id": "K983913-P003-B010",
+      "page": 3,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "New features in the Windows-based software include:",
+      "text": "trained health care professional.",
+      "extraction_method": "ocr",
+      "character_count": 33
+    },
+    {
+      "block_id": "K983913-P003-B011",
+      "page": 3,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "New features in the Windows-based software include:",
+      "text": "The primary feature modification represented in this Special 510(k) is for the use of the Microsoft Windows\noperating system and its associated user interface functionality.",
+      "extraction_method": "ocr",
+      "character_count": 173
+    },
+    {
+      "block_id": "K983913-P003-B012",
+      "page": 3,
+      "ordinal": 12,
+      "type": "heading",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "extraction_method": "ocr",
+      "character_count": 32
+    },
+    {
+      "block_id": "K983913-P003-B013",
+      "page": 3,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "To establish the safety and effectiveness of the Sleepscan for Windows software, the system was designed in\naccordance with the Bio-logic internal Product Development procedures which meet ISO-9001 and FDA\nQSR Design Control specifications. A detailed Hazard/Risk analysis was performed using the Fault Tree\nanalysis (FTA) approach, and a detailed Risk Assessment was written in accordance with EN-1441, the\nInternational Standard for Hazard/Risk analysis.",
+      "extraction_method": "ocr",
+      "character_count": 456
+    },
+    {
+      "block_id": "K983913-P003-B014",
+      "page": 3,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Because this modification to Sleepscan consists of only software and there is no patient connection required,\nthere are no hardware-related methods by which the patient can be harmed or injured through the use of this\ndevice. In addition, although extensive signal analysis and computer-assistance is provided to the user in the\nform of event identification and data highlighting, the program does not make any final decisions that result in\nany automatic forms of diagnosis or treatment. All program “recommendations” are subject to review by the\nSleep Technologist or Physician, and may be modified, overridden or deleted as determined by a qualified\nuser. The program provides extensive functionality to allow the qualified user to review all raw data\ncollected, create and highlight new and/or custom events, and otherwise customize the data analysis to suit his\nor her requirements.",
+      "extraction_method": "ocr",
+      "character_count": 887
+    },
+    {
+      "block_id": "K983913-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Special 510(k): Device Modification to Bio-logic Sleepscan Section 2 Page ¢",
+      "extraction_method": "ocr",
+      "character_count": 75
+    },
+    {
+      "block_id": "K983913-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "The following comparison is provided as a summary of technological characteristics relative to the predicate\nSleepscan device. This is to demonstrate that this new modification to the Sleepscan program has no\nsignificant differences which would adversely affect product safety and effectiveness.",
+      "extraction_method": "ocr",
+      "character_count": 295
+    },
+    {
+      "block_id": "K983913-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Parameter for comparison Similarity or Difference\nIntended Use No differences.\nPopulation No differences.\nHardware Configuration There is no patient-connected hardware required. The",
+      "extraction_method": "ocr",
+      "character_count": 181
+    },
+    {
+      "block_id": "K983913-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "predicate device was designed to work on 386-based\ncomputers, whereas this modification is recommended for\nuse with Pentium computers.",
+      "extraction_method": "ocr",
+      "character_count": 134
+    },
+    {
+      "block_id": "K983913-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Computer Control Software The predicate device is DOS-based, whereas the\nnew modified device uses the Windows operating system.",
+      "extraction_method": "ocr",
+      "character_count": 127
+    },
+    {
+      "block_id": "K983913-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Patient database. The predicate device provides for only the basic patient\ndemographic information. The modified device has\nextensive database functionality which allows the user to\nsearch, sort and create custom reports.",
+      "extraction_method": "ocr",
+      "character_count": 221
+    },
+    {
+      "block_id": "K983913-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "On-line Help system. The predicate device has no significant Instructions\nfor Use built into the program, instead relying on the use\nof a comprehensive User’s Manual. The Windows\nprogram provides a simple User Manual and an extensive\nOn-Line Help Instruction built into the Windows program.",
+      "extraction_method": "ocr",
+      "character_count": 290
+    },
+    {
+      "block_id": "K983913-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Performance No differences.",
+      "extraction_method": "ocr",
+      "character_count": 27
+    },
+    {
+      "block_id": "K983913-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Safety Characteristics - | Nodifferences. There is no required direct electrical\nconnection to the patient for Sleepscan Analysis.",
+      "extraction_method": "ocr",
+      "character_count": 130
+    },
+    {
+      "block_id": "K983913-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "gp BCLs\n” My",
+      "extraction_method": "ocr",
+      "character_count": 12
+    },
+    {
+      "block_id": "K983913-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "WHAlte\nre “hy,",
+      "extraction_method": "ocr",
+      "character_count": 14
+    },
+    {
+      "block_id": "K983913-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "2\n<\n5",
+      "extraction_method": "ocr",
+      "character_count": 5
+    },
+    {
+      "block_id": "K983913-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "€ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "ocr",
+      "character_count": 61
+    },
+    {
+      "block_id": "K983913-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room -W066-G609\nSilver Spring, MD 20993-0002",
+      "extraction_method": "ocr",
+      "character_count": 117
+    },
+    {
+      "block_id": "K983913-P005-B006",
+      "page": 5,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Mr. Norman E. Brunner",
+      "extraction_method": "ocr",
+      "character_count": 21
+    },
+    {
+      "block_id": "K983913-P005-B007",
+      "page": 5,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Vice-President of Research and Development APR - 9 2012\nBio-Logic Systems Corporation",
+      "extraction_method": "ocr",
+      "character_count": 85
+    },
+    {
+      "block_id": "K983913-P005-B008",
+      "page": 5,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "One Bio-logic Plaza",
+      "extraction_method": "ocr",
+      "character_count": 19
+    },
+    {
+      "block_id": "K983913-P005-B009",
+      "page": 5,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Mundelein, Illinois 60060-3700",
+      "extraction_method": "ocr",
+      "character_count": 30
+    },
+    {
+      "block_id": "K983913-P005-B010",
+      "page": 5,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Re: K983913\nTrade/Device Name: BIO-LOGIC SLEEPSCAN\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV\nDated (Date on orig SE ltr): October 30, 1998\nReceived (Date on orig SE ltr): November 4, 1998",
+      "extraction_method": "ocr",
+      "character_count": 258
+    },
+    {
+      "block_id": "K983913-P005-B011",
+      "page": 5,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Dear Mr. Brunner:\nThis letter corrects our substantially equivalent letter of November 25, 1998.",
+      "extraction_method": "ocr",
+      "character_count": 96
+    },
+    {
+      "block_id": "K983913-P005-B012",
+      "page": 5,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "ocr",
+      "character_count": 1033
+    },
+    {
+      "block_id": "K983913-P005-B013",
+      "page": 5,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements conceming your device in the Federal Register.",
+      "extraction_method": "ocr",
+      "character_count": 366
+    },
+    {
+      "block_id": "K983913-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Page 2 - Mr. Norman E. Brunner",
+      "extraction_method": "ocr",
+      "character_count": 30
+    },
+    {
+      "block_id": "K983913-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K983913-P006-B003",
+      "page": 6,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.zov/AboutF DA/CentersO ffices/CDRH/CDRHOffices/ucm 1 15809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 654
+    },
+    {
+      "block_id": "K983913-P006-B004",
+      "page": 6,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "You may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 316
+    },
+    {
+      "block_id": "K983913-P006-B005",
+      "page": 6,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Sincerely yours, —",
+      "extraction_method": "ocr",
+      "character_count": 18
+    },
+    {
+      "block_id": "K983913-P006-B006",
+      "page": 6,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "dKorin Ayan",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K983913-P006-B007",
+      "page": 6,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Malvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 176
+    },
+    {
+      "block_id": "K983913-P006-B008",
+      "page": 6,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "SAFETY AND EFFECTIVENESS SUMMARY",
+      "text": "Enclosure",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K983913-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "INDICATIONS FOR USE STATEMENT Page 1 of 1",
+      "text": "INDICATIONS FOR USE STATEMENT Page 1 of 1",
+      "extraction_method": "ocr",
+      "character_count": 41
+    },
+    {
+      "block_id": "K983913-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE STATEMENT Page 1 of 1",
+      "text": "510(k) Number (if known): K 4 § 34 | 3 Net-Assigued\nDevice Name: Modification to Bio-logic Steepscan",
+      "extraction_method": "ocr",
+      "character_count": 100
+    },
+    {
+      "block_id": "K983913-P007-B003",
+      "page": 7,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "Indications For Use:",
+      "text": "Indications For Use:",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K983913-P007-B004",
+      "page": 7,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "The Bio-logic Sleepscan product family is indicated for use in the recording and analysis of human physiological data\nnecessary for the diagnosis of Sleep-related disorders. It is intended to record and present this data in a form that can\nimprove the speed of diagnosis and assist in potential treatment decisions. Sleepscan Analysis performs calculations\nand preseats recorded data in various ways on the computer screen and in reports, The Analysis features in the\nSleepscan product are intended to be performed without patient hookup being necessary, and may even be performed on\na different computer system from that which was used for the patient recording.",
+      "extraction_method": "ocr",
+      "character_count": 663
+    },
+    {
+      "block_id": "K983913-P007-B005",
+      "page": 7,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "It can be used for patients of all ages, from children to adults, including geriatric patients, The use of the Sleepscan\nfamily of products is to be performed under the prescription and supervision of a physician or other trained health care\nprofessional.",
+      "extraction_method": "ocr",
+      "character_count": 255
+    },
+    {
+      "block_id": "K983913-P007-B006",
+      "page": 7,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "The primary feature modification represented in this Special 510(k) is for the use of the Microsoft Windows operating\nsystem and its associated user interface functionality.",
+      "extraction_method": "ocr",
+      "character_count": 173
+    },
+    {
+      "block_id": "K983913-P007-B007",
+      "page": 7,
+      "ordinal": 7,
+      "type": "heading",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "extraction_method": "ocr",
+      "character_count": 74
+    },
+    {
+      "block_id": "K983913-P007-B008",
+      "page": 7,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "Concurrence of CDRH, Office of Device Evaluation (ODE)",
+      "extraction_method": "ocr",
+      "character_count": 54
+    },
+    {
+      "block_id": "K983913-P007-B009",
+      "page": 7,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "pecooed de",
+      "extraction_method": "ocr",
+      "character_count": 10
+    },
+    {
+      "block_id": "K983913-P007-B010",
+      "page": 7,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "(Divi\nDivision i Benerel restoretive Devices S413\n510(k} Number\nPrescription Use nf “Over=The-Comnter-tse—_—\n(Per 21 CFR 801.109)",
+      "extraction_method": "ocr",
+      "character_count": 129
+    },
+    {
+      "block_id": "K983913-P007-B011",
+      "page": 7,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "(Optional Format 1-2-96)",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K983913-P007-B012",
+      "page": 7,
+      "ordinal": 12,
+      "type": "heading",
+      "section": "Page 5:",
+      "text": "Page 5:",
+      "extraction_method": "ocr",
+      "character_count": 7
+    }
+  ],
+  "claims": []
+}

@@ -1,0 +1,481 @@
+{
+  "document": {
+    "k_number": "K153412",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "Sleep Profiler",
+    "applicant": "Advanced Brain Monitoring, Inc.",
+    "decision_date": "2016-03-14",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf15/K153412.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K153412",
+    "sha256": "29a08e8d2ad95af5e96d755624edb27ed6e24e7758444f45d707f41bc3bbdc42",
+    "page_count": 15,
+    "native_pages": 15,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Center - WO66-G609\nSilver Spring, MD 20993-0002\nAdvanced Brain Monitoring, Inc.\nƏ\u0003$GULHQQH\u0003/HQ]\nMember\nPathway Regulatory Consulting, LLC\nW324 S3649 County Road E\nDousman, Wisconsin 53118 \nRe: K153412\nTrade/Device Name: Sleep Profiler\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLZ\nDated: February 9, 2016\nReceived: February 11, 2016\nDear Adrienne Lenz:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device \nreferenced above and have determined the device is substantially equivalent (for the indications \nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate \ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to \ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug, \nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). \nYou may, therefore, market the device, subject to the general controls provisions of the Act. The \ngeneral controls provisions of the Act include requirements for annual registration, listing of \ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability \nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), \nit may be subject to additional controls. Existing major regulations affecting your device can be \nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may \npublish further announcements concerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean \nthat FDA has made a determination that your device complies with other requirements of the Act \nor any Federal statutes and regulations administered by other Federal agencies. You must comply \nwith all the Act's requirements, including, but not limited to: registration and listing (21 CFR \nPart 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-\nMarch 14, 2016",
+      "character_count": 2469
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "- Adrienne LenzPage 2\nrelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in \nthe quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product \nradiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please \ncontact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041\nor (301) 796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note \nthe regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 \nCFR Part 803), please go to \nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office \nof Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the \nDivision of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) \n796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.\nSincerely yours,\nCarlos L. Peña, PhD, MS\nDirector\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure\nfor\n\n\nMichael J. Hoffmann -A",
+      "character_count": 1507
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK153412\nDevice Name\nSleep Profiler\nIndications for Use (Describe)\nSleep Profiler is intended for use for the diagnostic evaluation by a physician to assess sleep quality and score sleep \ndisordered breathing events in adults only. The Sleep Profiler is a software-only device to be used under the supervision \nof a clinician to analyze physiological signals and automatically score sleep study results; including the staging of sleep, \ndetection of arousals, snoring and sleep disordered breathing events (obstructive apneas, hypopneas and respiratory event \nrelated arousals). Central and mixed apneas can be manually marked within the records.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "character_count": 1997
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \n510(k) Summary \nIn accordance with 21 CFR 807.92 the following summary of information is provided: \nDATE: March 11, 2016 \nSUBMITTER: \nAdvanced Brain Monitoring \n2237 Faraday Avenue, Suite 100 \nCarlsbad, CA 92008 \nT 760.720.0099 \nF 760.720.3337 \nPRIMARY CONTACT PERSON: \nAdrienne Lenz, RAC \nMember \nPathway Regulatory Consulting, LLC \nT 262-290-0023 \nSECONDARY CONTACT PERSON: \nDan Levendowski \nPresident and Co-founder \nAdvanced Brain Monitoring, Inc. \nDEVICE: \nTRADE NAME: Sleep Profiler \nCOMMON/USUAL NAME: Sleep Profiler \nCLASSIFICATION NAMES: 882.1400 Electroencephalograph, Automatic Event Detection \nSoftware For Polysomnograph With Electroencephalograph \nREVIEW PANEL: Neurology \nPRODUCT CODE: OLZ \nPREDICATE DEVICE(S): \nSleep Profiler (K130007) \nReference predicate device, Apnea Risk Evaluation System (ARES), Model 610 (K112514)",
+      "character_count": 886
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nDEVICE DESCRIPTION: \nThe Sleep Profiler is a software application that analyzes previously recorded physiological \nsignals obtained during sleep. The Sleep Profiler software can analyze any EDF files acquired \nwith the Advanced Brain Monitoring X4 System and the X8 System models SP40 and SP29. \nAutomated algorithms are applied to the raw signals in order to derive additional signals and \ninterpret the raw and derived signal information. The software automates recognition of: \nx Sleep stages Rapid Eye Movement (REM) and nREM (N1, N2, N3) and wake \nx Heart/pulse rate \nx Snoring loudness \nx Sleep/wake \nx Head movement and position \nx Snoring, sympathetic, behavioral and cortical arousals \nx ECG,EOG, EMG waveform \nx SpO2 \nx Airflow \nx Respiratory Effort \nx Apneas and Hypopneas \nx Oxygen desaturations. \nThe software identifies and rejects periods with poor electroencephalography signal quality. \nThe full disclosure recording of derived signals and automated analyses can be visually \ninspected and edited prior to the results being integrated into a sleep study report. \nMedical and history information can be input from a questionnaire. Responses are analyzed to \nprovide a pre-test probability of Obstructive Sleep Apnea (OSA). The automated analyses of \nphysiological data are integrated with the questionnaire data, medical and history information \nto provide a comprehensive report. Several report formats are available depending on \nwhether the user has acquired more than one night of data, wishes to obtain a narrative \nsummary report or provide patient reports. \nThe Sleep Profiler software can be used as a stand-alone application for use on Microsoft \nWindows 7 & 8 operating system platforms (desktop model). Alternatively, the user interface \n(i.e., entry or editing of information) can be delivered via a web-portal (portal model). The \ncapability to enter or edit patient information, call the application to generate a study report, \nand/or download a report is provided using either the desktop PC application or web-portal \napplication. The same analysis and report generation software is used for both the desktop and \nweb-portal applications.",
+      "character_count": 2219
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nINTENDED USE: \nSleep Profiler is intended for use for the diagnostic evaluatio n by a physician to assess sleep \nq u a l i t y a n d s c o r e s l e e p d i s o r d e r e d b r e a t h i n g e v e n t s i n a d u l t s only. The Sleep Profiler is a \nsoftware-only device to be used under the supervision of a clin ician to analyze physiological \nsignals and automatically score sleep study results; including the staging of sleep, detection of \narousals, snoring and sleep disor dered breathing events (obstru ctive apneas, hypopneas and \nrespiratory event related arousals). Central and mixed apneas can be manually marked within \nthe records. \nTECHNOLOGY: \nThe proposed Sleep Profiler has similar indications for use and uses the same fundamental \ntechnology as the legally marketed predicate devices to which substantial equivalency is \nclaimed, the previously cleared version of the Sleep Profiler (K130007) and reference predicate \ndevice Apnea Risk Evaluation System (ARES), Model 610 (K112514) for the new indications and \nfeatures that have been added to the software. \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nClassification OLZ, Automated Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph \nOLZ, Automated Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph \nMNR, Ventilatory Effort \nRecorder",
+      "character_count": 1484
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nIndications for Use Sleep Profiler is intended \nfor use for the diagnostic \nevaluation by a physician to \nassess sleep quality and \nscore sleep disordered \nbreathing events in adults \nonly. The Sleep Profiler is a \nsoftware-only device to be \nused under the supervision \nof a clinician to analyze \nphysiological signals and \nautomatically score sleep \nstudy results; including the \nstaging of sleep, detection \nof arousals, snoring and \nsleep disordered breathing \nevents. (obstructive \napneas, hypopneas and \nrespiratory event related \narousals). Central and \nmixed apneas can be \nmanually marked within \nthe records\n. \nSleep Profiler is intended \nfor the diagnostic \nevaluation by a physician \nto assess sleep quality in \nadults only. The Sleep \nProfiler is a software-\nonly device to be used \nunder the supervision of \na clinician to analyze \nphysiological signals and \nautomatically score sleep \nstudy results, including \nthe staging of sleep, \ndetection of arousals and \nsnoring. \n\nThe Apnea Risk Evaluation \nSystem (ARES) is indicated \nfor use in the diagnostic \nevaluation by a physician of \nadult patients with possible \nsleep apnea. The ARES can \nrecord and score \nrespiratory events during \nsleep (e.g., apneas, \nhypopneas, mixed apneas \nand flow limiting events). \nThe device is designed for \nprescription use in home \ndiagnosis of adults with \npossible sleep-related \nbreathing disorders. \nIntended Use Analyze physiological data \nacquired during sleep. \nAnalyze physiological data \nacquired during sleep. \nAnalyze physiological data \nacquired during sleep. \nPatient Population Adults Adults Adults \nEnvironment of Use Physician office (data \nanalysis and reporting) \nNo limitation on where \ndata are acquired. \nPhysician office (data \nanalysis and reporting) \nNo limitation on where \ndata are acquired. \nPhysician office (data \nanalysis and reporting) \nHome (data acquisition)",
+      "character_count": 2067
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nDerived Signals xSleep stages Rapid Eye \nMovement (REM) and \nnREM (N1, N2, N3) and \nwake\nxHeart/pulse rate\nxSnoring loudness\nxSleep/wake\nxHead movement and \nposition\nxSnoring, sympathetic, \nbehavioral and cortical \narousals\nxECG,EOG, EMG waveform \nxSpO2\nxAirflow\nxRespiratory Effort \nxApneas and Hypopneas \nxOxygen desaturations \nx Sleep stages Rapid Eye \nMovement (REM) and \nnREM (N1, N2, N3) and \nwake\nx Pulse rate\nx Snoring loudness\nx Sleep/wake\nx Head movement and \nposition\nx Snoring, sympathetic, \nbehavioral and cortical \narousals\nx ECG,EOG, EMG \nwaveform\n\nx Sleep stages Rapid Eye \nMovement (REM) and \nnREM \nx Pulse rate\nx Snoring loudness\nx Sleep/wake\nx Head movement and \nposition\nx Snoring, sympathetic, \nbehavioral arousals\nx SpO2\nx Airflow\nx Respiratory Effort \n(Optional)\nx Apneas and \nHypopneas \nxOxygen desaturations\nSignal quality Auto-rejects bad signal \nquality in EEG with optional \nairflow and SpO2. \nAuto-rejects bad signal \nquality in EEG. \nAuto-rejects bad signal \nquality in EEG, airflow and \nSpO2 \nSleep Measures xSleep, REM and N3 \nonset \nxTotal sleep and \nrecording times \nxSleep efficiency \nx% time by sleep stage \nxAwakenings per hour \nxWake after sleep onset \nxSleep, REM and N3 \nonset \nxTotal sleep and \nrecording times \nxSleep efficiency \nx% time by sleep stage \nxAwakenings per hour \nxWake after sleep onset \nxSleep onset \nxTotal sleep and \nrecording times \nxSleep efficiency \nx% time by sleep stage \nSleep Staging Based on one forehead \nEEG signals to differentiate \nWake (W), REM (R), NREM \nstage 1 (N1), NREM stage 2 \n(N2) and slow wave sleep \n(N3, includes both stages 3 \nand 4) \nBased on one forehead \nEEG signals to differentiate \nWake (W), REM (R), NREM \nstage 1 (N1), NREM stage \n2 (N2) and slow wave \nsleep (N3, includes both \nstages 3 and 4) \nBased on one forehead \nEEG signal to differentiate \nREM and non-REM sleep, \nand behavioral measures \nfrom actigraphy, snoring \nand airflow to detect sleep \nfrom wake",
+      "character_count": 2130
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nSleep Disordered \nBreathing (when \nrespiratory signals \nare acquired) \nxDetects apneas with \nairflow signal. Each \napnea is classified as \nobstructive but can be \nedited to be central or \nmixed apneas. \nxDetects hypopneas with \nairflow signal. Changes \nin SpO\n2 are used to \ndetermine hypopnea \nseverity (i.e., 4% or 3% \nevents). \nxDetects RERAs with \nairflow signal and \ncortical arousals (i.e., \nhypopneas that do not \nmeet the desaturation \ncriteria) \n\n\n\n\nNone xDetects apneas with \nairflow signal \nxEach apnea classified \nwith the automated \nalgorithms is labeled as \nan obstructive Apnea \n(Ap) or Apnea with \narousal (ApA). \nxDetects hyponeas with \nairflow signal. Changes in \nSpO2 are used to \ndetermine hypopnea \nseverity \nxHypopnea with arousals \nand a 4%, 3%, 1%, or 0% \ndesaturation (H4A, H3A, \nH1A, H0A) \nxHypopnea with no \nassociated arousal (H4, \nH3, H1). \nxHypopneas that do not \nmeet the minimal 1% \ndesaturation criteria \nmust have at least one \narousal indicator to be \nlabeled. \nHeart rate accuracy 20 to 250 bpm + 5 bpm 20 to 250 bpm + 5 bpm 20 to 250 bpm + 5 bpm \nHead Position Via accelerometers \nPosition accuracy 3o @ 30o \nC \nVia accelerometers \nPosition accuracy 3o @ 30o \nC \nVia accelerometers \nPosition accuracy 3o @ 30o \nC \nSnoring Level From microphone \n40 dB @ 3% of dynamic \nrange (min) \n70 dB @ 90% of dynamic \nrange (max) \nAccuracy 0.2 dB at mid \nrange \nFrom microphone \n40 dB @ 3% of dynamic \nrange (min) \n70 dB @ 90% of dynamic \nrange (max) \nAccuracy 0.2 dB at mid \nrange \nFrom microphone \n40 dB @ 3% of dynamic \nrange (min) \n70 dB @ 90% of dynamic \nrange (max) \nAccuracy 0.2 dB at mid \nrange",
+      "character_count": 1804
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nUser Editing xAllows editing of sleep \nstage \nxAllows editing of auto-\nscored obstructive and \nquality events \nxUser can insert missed \nevents or convert \nobstructive to central \nAllows editing of sleep \nstage \nxAllows editing of sleep \nstage \nxAllows editing of auto-\nscored obstructive and \nquality events \nxUser can insert missed \nevents or convert \nobstructive to central \nReports Graphic, narrative and \npatient Hx \no Record time \no Sleep time \no Valid sleep time \no Sleep latency (onset) \no Sleep efficiency \no Sleep times and %time \nper sleep stage \no Sleep stage graph by \nEEG with cortical \narousals \no Pulse rate graph with \nautonomic activations \no Snoring level graph with \nsnoring arousals \no %time snoring > 30, 40, \n50 and 60 dB \no Head movement graph \nwith behavioral arousals \no Head position graph \no Excluded EEG data \no Medical history \no Disease management \ncomments \no Physician review and \nsignature. \n\nOptional: \no AHI, numerical and \ngraphical, supine and \nnon-supine \no RDI, numerical and \ngraphical, supine and \nnon-supine \n\nGraphic, narrative, and \npatient Hx \no Record time \no Sleep time \no Valid sleep time \no Sleep latency (onset) \no Sleep efficiency \no Sleep times and %time \nper sleep stage \no Sleep stage graph by EEG \nwith cortical arousals \no Pulse rate graph with \nautonomic activations \no Snoring level graph with \nsnoring arousals \no %time snoring > 30, 40, \n50 and 60 dB \no Head movement graph \nwith behavioral arousals \no Head position graph \no Excluded EEG data \no Medical history \no Disease management \ncomments \no Physician review and \nsignature. \n\nGraphic, narrative and \npatient Hx \no Recording time \no Sleep time \no Valid sleep time \no Sleep latency (Onset) \no Sleep efficiency \no AHI, numerical and \ngraphical, supine and \nnon-supine \no RDI, numerical and \ngraphical, supine and \nnon-supine \no #Apneas \no #Hypopneas \no Mean SpO2, %time < 90 \n%SpO2 \no %time snoring > 30, 40, \n50 and 60 dB \no Pulse rate graph with \nautonomic activiations \no Snoring level graph with \nsnoring arousals \no Head movement graph \nwith behavioral arousals \no Head position graph \no Sleep vs. wake \nhypnogram \no Physician interpretation \nand comments (free \ntext) \no Clinical History \n(narrative and tabular) \no Sleep study findings \no Treatment \nconsiderations",
+      "character_count": 2463
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nReports, continued o #Apneas \no #Hypopneas \no #RERAs \no Mean SpO2, %time < 90 \nand < 88% SpO2 \no Disease management \nconsiderations \no Physician review and \nsignature. \nTwo Night Reports Multi-night and test-retest \ncomparison table of \nstatistics listed \nMulti-night and test-retest \ncomparison table of \nstatistics listed \nMulti-night and test-retest \ncomparison table of \nstatistics listed \nDisease \nmanagement \ncomments \nOn report, drop down \nselection. \no Cardiac Dysrhythmia \no Restless Leg Syndrome \no Sleep Disordered \nBreathing \no Depression \n\nOn report, drop down \nselection. \no Cardiac Dysrhythmia \no Restless Leg Syndrome \no Sleep Disordered \nBreathing \no Depression \n\nOn report, drop down \nselection. \no Cardiac Dysrhythmia \no Restless Leg Syndrome \no Central sleep apnea \nPlus automatically \ngenerated requiring \nconfirmation or editing \nfrom user. \no Numerous messages \nrelated to sleep apnea. \nCompatibility Sleep Profiler will operate \non any personal computer \nwith Windows XP operating \nsystem and at least 2 GB of \nRAM. The speed by which \na study will process is \ndependent on the \ncomputer processer and \nthe amount of RAM. \nSleep Profiler will operate \non any personal computer \nwith Windows XP operating \nsystem and at least 2 GB of \nRAM. The speed by which \na study will process is \ndependent on the \ncomputer processer and \nthe amount of RAM. \nPersonal computer with \nPentium 4, 1 GB RAM or \nhigher processor (or \nequivalent with Windows \nXP or 7 Operating System \nWeb interface \ncomputer \nrequirements \nx Processor : Minimum \n2.8 GHz \nx Operating System: \nWindows XP or 7 \nx Java version 6 or greater \nx RAM: 1GB \nx USB port: 1 \nx Internet connection: \nconstant \nx Web browser: Internet \nExplorer, or Firefox \nxProcessor : Minimum 2.8 \nGHz \nxOperating System: \nWindows XP or 7 \nxJava version 6 or greater \nxRAM: 1GB \nxUSB port: 1 \nx Internet connection: \nconstant \nxWeb browser: Internet \nExplorer, Firefox or \nChrome, Opera \nxProcessor : Minimum 2.8 \nGHz \nx Operating System: \nWindows XP or 7 \nx JAVA version 6 or greater \nx RAM: 1GB \nx USB port: 1 \nx6. Internet connection: \nconstant \nxWeb browser: Internet \nExplorer, Firefox or \nChrome",
+      "character_count": 2344
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nWeb interface \nserver \nrequirements. \nVirtual server: \nx Processor: > 2 Ghz \nx Operating system: Win \nServer 2008. \nx RAM: > 2GB \nx Certificates: Signed \nSSL \nx .NET framework: \nx version 2.0 – web \nserver \nx version 3.5 – \nprocessing server \nx or Win Server 2008 \nx Database: SQL server \n2005 \nPhysical server: \nx Processor: > 2 Ghz \nx Operating system: \nWin Server 2008 \nEnterprise edition (for \nvirtual servers). \nx RAM: > 2GB \nVirtual server: \nx Processor: > 2 Ghz \nx Operating system: Win \nServer 2008. \nx RAM: > 2GB \nx Certificates: Signed \nSSL \nx .NET framework: \nx version 2.0 – web \nserver \nx version 3.5 – \nprocessing server \nx or Win Server 2008 \nx Database: SQL server \n2005 \nPhysical server: \nx Processor: > 2 Ghz \nx Operating system: \nWin Server 2008 \nEnterprise edition (for \nvirtual servers). \nx RAM: > 2GB \nVirtual server: \nx Processor: > 2 Ghz \nx Operating system: Win \nServer 2008. \nx RAM: > 2GB \nx Certificates: Signed \nSSL \nx .NET framework: \nx version 2.0 – web \nserver \nx version 3.5 – \nprocessing server \nx or Win Server 2008 \nx Database: SQL server \n2005 \nPhysical server: \nx Processor: > 2 Ghz \nx Operating system: \nWin Server 2008 \nEnterprise edition (for \nvirtual servers). \nx RAM: > 2GB \nComputer/portal \nSecurity \nx The person installing \nthe Java applet must \nhave administrator \nprivileges. \nx User must have rights \nto the account and \ngroup to access data \nvia the portal. \nx The firewall is not \nconfigured to prevent \ninput or output \ncommunication with \naccess to the server via \nports 22 and 30-39. \n\nx The person installing \nthe Java applet must \nhave administrator \nprivileges. \nx User must have rights \nto the account and \ngroup to access data \nvia the portal. \nx The firewall is not \nconfigured to prevent \ninput or output \ncommunication with \naccess to the server via \nports 22 and 30-39. \n\nx The person installing \nthe Java applet must \nhave administrator \nprivileges. \nx User must have rights \nto the account and \ngroup to access data \nvia the portal. \nx The firewall is not \nconfigured to prevent \ninput or output \ncommunication with \naccess to the server via \nports 22 and 30-39.",
+      "character_count": 2304
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nDETERMINATION OF SUBSTANTIAL EQUIVALENCE: \nSUMMARY OF NON-CLINICAL TESTS: \nSupport for the substantial equivalence of the Sleep Profiler was provided as a result of risk \nmanagement and software testing. Software verification and validation testing were conducted \nand documentation was provided as recommended by FDA’s Guidance for Industry and FDA \nStaff, “Guidance for the Content of Premarket Submissions for Software Contained in Medical \nDevices.” \n\nThe Sleep Profiler software has been thoroughly tested through verification of specifications \nand system level validation. The results of the verification and validation activities that have \nbeen performed demonstrate that the software meets requirements for safety, function, and \nintended use. \nSUMMARY OF CLINICAL TESTS: \n\nThe Sleep Profiler software accuracy was clinically validated with signals acquired with the X8 \nSystem concurrent to polysomnography (PSG). The following endpoints were evaluated and \nmet: \n\nEndpoint The accuracy of the Slee p Profiler-PSG2 software will be equivalent to the predicate \ndevice(s): \n1 when applied to signals obtained with the FleX8 and compared to PSG to stage sleep. \n2 when applied to signals obtained with the FleX8 and PSG, and compared to PSG for \ndetection of sleep disordered breathing for use in diagnosing OSA based on a minimum \ntargeted positive likelihood ratios for an AHI > 5 and 15 are 3.5 and 5.0 respectively. \n\nWhere, AHI is the Apnea-Hypopnea Index. The AHI is the number of apnea and hypopnea \nevents per hour of sleep. \n\nThe results compared auto-detected staging and sleep disordered breathing (i.e., apnea-\nhypopnea index) to PSG results obtained by one rater per study. The results confirm Sleep \nProfiler’s positive likelihood ratio for overall AHI vs. PSG is equivalent to the predicate ARES. \nThe Sleep Profiler achieves a positive likelihood ratio for REM AHI vs. PSG REM AHI equivalent \nto the ARES positive likelihood ratio across all sleep stages.",
+      "character_count": 2028
+    },
+    {
+      "page": 14,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \n\n\nARES Sleep Profiler Overall Sleep Profiler REM \nA H I > 5 AHI > 15 AHI > 5 AHI > 15 AHI > 5 AHI > 15 \nSample size (n) 73 73 60 60 40 40 \nSensitivity 0.98 0.92 1.00 1.00 0.84 0.73 \nSpecificity 0.76 0.91 0.85 0.97 0.90 0.96 \nLikelihood ratio+ 4.08 10.22 6.67 33.0 8.84 18.33 \nLikelihood ratio- 0.03 0.09 0.00 0.00 0.17 0.28 \n\nWhere likelihood ratio + is the likelihood ratio of a positive test and likelihood ratio – is the \nlikelihood ratio of negative test. The likelihood ratio + is the ratio of the false negative rate (1-\nsensitivity) and true negative rate (specificity); calculated as (1-sensitivity)/specificity. The \nlikelihood ratio – is the ratio of the true positive rate (sensitivity) and false positive rate (1-\nspecificity); calculated as sensitivity/(1-specificity) \n\nAdditionally the Sleep Profiler staging algorithms were compared in a sub-set of subjects (n=43) \nwith at least 4 hours of X8 diagnostic recording time. The results for the weighted majority \nagreement of three raters are presented in the cross-tabulation below: \nEpochs assigned by Sleep Profiler % agreement \nOverall Wake N1 N2 N3 REM Total Positive Negative \nEpochs \nassigned \nby \nExpert \nScoring \nWake 5449 950 567 45 413 7424 0.73 0.94 \nN1 564 431 600 44 113 1752 0.25 0.93 \nN2 582 801 9673 1408 118 12582 0.77 0.84 \nN3 34 19 1035 3591 25 4704 0.76 0.94 \nREM 194 221 550 1 2783 3749 0.74 0.97 \nNo-Cons 378 220 325 46 181 1150 \nTotal 7201 2642 12750 5135 3633 31361 \n\nThe results from the previously cleared application of the Sleep Profiler auto-staging software \nto signals frontal PSG leads is presented below. \nEpochs assigned by Predicate Sleep Profiler % agreement \nOverall Wake N1 N2 N3 REM Total Positive Negative \nEpochs \nassigned \nby \nExpert \nScoring \nWake 6730 921 557 27 296 8531 0.79 0.95 \nN1 807 1962 1652 40 493 4954 0.40 0.91 \nN2 348 1426 11848 958 218 14798 0.80 0.83 \nN3 36 24 1194 3928 8 5190 0.76 0.97 \nREM 178 530 681 35 3641 5065 0.72 0.97 \nNo-Cons 124 91 324 67 47 653 \nTotal 8223 4954 16256 5055 4703 39191",
+      "character_count": 2066
+    },
+    {
+      "page": 15,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \n\nDifferences between the two studies are the result of inter-rater variability in the application of \nthe American Academy of Sleep Medicine scoring rules to wake and stage N1 resulting from \nsleep disordered breathing are explained with supplemental analyses. A new software feature \nmarks epochs that may benefit from manual review to improve the accuracy of the staging \nduring manual review. \nCONCLUSION: \nAdvanced Brain Monitoring considers the Sleep Profiler to be substantially equivalent to the \npredicate devices.",
+      "character_count": 570
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K153412-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Center - WO66-G609\nSilver Spring, MD 20993-0002\nAdvanced Brain Monitoring, Inc.\nƏ\u0003$GULHQQH\u0003/HQ]\nMember\nPathway Regulatory Consulting, LLC\nW324 S3649 County Road E\nDousman, Wisconsin 53118 \nRe: K153412\nTrade/Device Name: Sleep Profiler\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLZ\nDated: February 9, 2016\nReceived: February 11, 2016\nDear Adrienne Lenz:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device \nreferenced above and have determined the device is substantially equivalent (for the indications \nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate \ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to \ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug, \nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). \nYou may, therefore, market the device, subject to the general controls provisions of the Act. The \ngeneral controls provisions of the Act include requirements for annual registration, listing of \ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability \nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), \nit may be subject to additional controls. Existing major regulations affecting your device can be \nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may \npublish further announcements concerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean \nthat FDA has made a determination that your device complies with other requirements of the Act \nor any Federal statutes and regulations administered by other Federal agencies. You must comply \nwith all the Act's requirements, including, but not limited to: registration and listing (21 CFR \nPart 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-\nMarch 14, 2016",
+      "extraction_method": "native",
+      "character_count": 2469
+    },
+    {
+      "block_id": "K153412-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "- Adrienne LenzPage 2\nrelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in \nthe quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product \nradiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please \ncontact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041\nor (301) 796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note \nthe regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 \nCFR Part 803), please go to \nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office \nof Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the \nDivision of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) \n796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.\nSincerely yours,\nCarlos L. Peña, PhD, MS\nDirector\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure\nfor",
+      "extraction_method": "native",
+      "character_count": 1482
+    },
+    {
+      "block_id": "K153412-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Michael J. Hoffmann -A",
+      "extraction_method": "native",
+      "character_count": 22
+    },
+    {
+      "block_id": "K153412-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK153412\nDevice Name\nSleep Profiler\nIndications for Use (Describe)\nSleep Profiler is intended for use for the diagnostic evaluation by a physician to assess sleep quality and score sleep \ndisordered breathing events in adults only. The Sleep Profiler is a software-only device to be used under the supervision \nof a clinician to analyze physiological signals and automatically score sleep study results; including the staging of sleep, \ndetection of arousals, snoring and sleep disordered breathing events (obstructive apneas, hypopneas and respiratory event \nrelated arousals). Central and mixed apneas can be manually marked within the records.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "native",
+      "character_count": 1997
+    },
+    {
+      "block_id": "K153412-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \n510(k) Summary \nIn accordance with 21 CFR 807.92 the following summary of information is provided: \nDATE: March 11, 2016 \nSUBMITTER: \nAdvanced Brain Monitoring \n2237 Faraday Avenue, Suite 100 \nCarlsbad, CA 92008 \nT 760.720.0099 \nF 760.720.3337 \nPRIMARY CONTACT PERSON: \nAdrienne Lenz, RAC \nMember \nPathway Regulatory Consulting, LLC \nT 262-290-0023 \nSECONDARY CONTACT PERSON: \nDan Levendowski \nPresident and Co-founder \nAdvanced Brain Monitoring, Inc. \nDEVICE: \nTRADE NAME: Sleep Profiler \nCOMMON/USUAL NAME: Sleep Profiler \nCLASSIFICATION NAMES: 882.1400 Electroencephalograph, Automatic Event Detection \nSoftware For Polysomnograph With Electroencephalograph \nREVIEW PANEL: Neurology \nPRODUCT CODE: OLZ \nPREDICATE DEVICE(S): \nSleep Profiler (K130007) \nReference predicate device, Apnea Risk Evaluation System (ARES), Model 610 (K112514)",
+      "extraction_method": "native",
+      "character_count": 886
+    },
+    {
+      "block_id": "K153412-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nDEVICE DESCRIPTION: \nThe Sleep Profiler is a software application that analyzes previously recorded physiological \nsignals obtained during sleep. The Sleep Profiler software can analyze any EDF files acquired \nwith the Advanced Brain Monitoring X4 System and the X8 System models SP40 and SP29. \nAutomated algorithms are applied to the raw signals in order to derive additional signals and \ninterpret the raw and derived signal information. The software automates recognition of: \nx Sleep stages Rapid Eye Movement (REM) and nREM (N1, N2, N3) and wake \nx Heart/pulse rate \nx Snoring loudness \nx Sleep/wake \nx Head movement and position \nx Snoring, sympathetic, behavioral and cortical arousals \nx ECG,EOG, EMG waveform \nx SpO2 \nx Airflow \nx Respiratory Effort \nx Apneas and Hypopneas \nx Oxygen desaturations. \nThe software identifies and rejects periods with poor electroencephalography signal quality. \nThe full disclosure recording of derived signals and automated analyses can be visually \ninspected and edited prior to the results being integrated into a sleep study report. \nMedical and history information can be input from a questionnaire. Responses are analyzed to \nprovide a pre-test probability of Obstructive Sleep Apnea (OSA). The automated analyses of \nphysiological data are integrated with the questionnaire data, medical and history information \nto provide a comprehensive report. Several report formats are available depending on \nwhether the user has acquired more than one night of data, wishes to obtain a narrative \nsummary report or provide patient reports. \nThe Sleep Profiler software can be used as a stand-alone application for use on Microsoft \nWindows 7 & 8 operating system platforms (desktop model). Alternatively, the user interface \n(i.e., entry or editing of information) can be delivered via a web-portal (portal model). The \ncapability to enter or edit patient information, call the application to generate a study report, \nand/or download a report is provided using either the desktop PC application or web-portal \napplication. The same analysis and report generation software is used for both the desktop and \nweb-portal applications.",
+      "extraction_method": "native",
+      "character_count": 2219
+    },
+    {
+      "block_id": "K153412-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nINTENDED USE: \nSleep Profiler is intended for use for the diagnostic evaluatio n by a physician to assess sleep \nq u a l i t y a n d s c o r e s l e e p d i s o r d e r e d b r e a t h i n g e v e n t s i n a d u l t s only. The Sleep Profiler is a \nsoftware-only device to be used under the supervision of a clin ician to analyze physiological \nsignals and automatically score sleep study results; including the staging of sleep, detection of \narousals, snoring and sleep disor dered breathing events (obstru ctive apneas, hypopneas and \nrespiratory event related arousals). Central and mixed apneas can be manually marked within \nthe records. \nTECHNOLOGY: \nThe proposed Sleep Profiler has similar indications for use and uses the same fundamental \ntechnology as the legally marketed predicate devices to which substantial equivalency is \nclaimed, the previously cleared version of the Sleep Profiler (K130007) and reference predicate \ndevice Apnea Risk Evaluation System (ARES), Model 610 (K112514) for the new indications and \nfeatures that have been added to the software. \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nClassification OLZ, Automated Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph \nOLZ, Automated Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph \nMNR, Ventilatory Effort \nRecorder",
+      "extraction_method": "native",
+      "character_count": 1484
+    },
+    {
+      "block_id": "K153412-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nIndications for Use Sleep Profiler is intended \nfor use for the diagnostic \nevaluation by a physician to \nassess sleep quality and \nscore sleep disordered \nbreathing events in adults \nonly. The Sleep Profiler is a \nsoftware-only device to be \nused under the supervision \nof a clinician to analyze \nphysiological signals and \nautomatically score sleep \nstudy results; including the \nstaging of sleep, detection \nof arousals, snoring and \nsleep disordered breathing \nevents. (obstructive \napneas, hypopneas and \nrespiratory event related \narousals). Central and \nmixed apneas can be \nmanually marked within \nthe records\n. \nSleep Profiler is intended \nfor the diagnostic \nevaluation by a physician \nto assess sleep quality in \nadults only. The Sleep \nProfiler is a software-\nonly device to be used \nunder the supervision of \na clinician to analyze \nphysiological signals and \nautomatically score sleep \nstudy results, including \nthe staging of sleep, \ndetection of arousals and \nsnoring.",
+      "extraction_method": "native",
+      "character_count": 1162
+    },
+    {
+      "block_id": "K153412-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The Apnea Risk Evaluation \nSystem (ARES) is indicated \nfor use in the diagnostic \nevaluation by a physician of \nadult patients with possible \nsleep apnea. The ARES can \nrecord and score \nrespiratory events during \nsleep (e.g., apneas, \nhypopneas, mixed apneas \nand flow limiting events). \nThe device is designed for \nprescription use in home \ndiagnosis of adults with \npossible sleep-related \nbreathing disorders. \nIntended Use Analyze physiological data \nacquired during sleep. \nAnalyze physiological data \nacquired during sleep. \nAnalyze physiological data \nacquired during sleep. \nPatient Population Adults Adults Adults \nEnvironment of Use Physician office (data \nanalysis and reporting) \nNo limitation on where \ndata are acquired. \nPhysician office (data \nanalysis and reporting) \nNo limitation on where \ndata are acquired. \nPhysician office (data \nanalysis and reporting) \nHome (data acquisition)",
+      "extraction_method": "native",
+      "character_count": 902
+    },
+    {
+      "block_id": "K153412-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nDerived Signals xSleep stages Rapid Eye \nMovement (REM) and \nnREM (N1, N2, N3) and \nwake\nxHeart/pulse rate\nxSnoring loudness\nxSleep/wake\nxHead movement and \nposition\nxSnoring, sympathetic, \nbehavioral and cortical \narousals\nxECG,EOG, EMG waveform \nxSpO2\nxAirflow\nxRespiratory Effort \nxApneas and Hypopneas \nxOxygen desaturations \nx Sleep stages Rapid Eye \nMovement (REM) and \nnREM (N1, N2, N3) and \nwake\nx Pulse rate\nx Snoring loudness\nx Sleep/wake\nx Head movement and \nposition\nx Snoring, sympathetic, \nbehavioral and cortical \narousals\nx ECG,EOG, EMG \nwaveform",
+      "extraction_method": "native",
+      "character_count": 740
+    },
+    {
+      "block_id": "K153412-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "x Sleep stages Rapid Eye \nMovement (REM) and \nnREM \nx Pulse rate\nx Snoring loudness\nx Sleep/wake\nx Head movement and \nposition\nx Snoring, sympathetic, \nbehavioral arousals\nx SpO2\nx Airflow\nx Respiratory Effort \n(Optional)\nx Apneas and \nHypopneas \nxOxygen desaturations\nSignal quality Auto-rejects bad signal \nquality in EEG with optional \nairflow and SpO2. \nAuto-rejects bad signal \nquality in EEG. \nAuto-rejects bad signal \nquality in EEG, airflow and \nSpO2 \nSleep Measures xSleep, REM and N3 \nonset \nxTotal sleep and \nrecording times \nxSleep efficiency \nx% time by sleep stage \nxAwakenings per hour \nxWake after sleep onset \nxSleep, REM and N3 \nonset \nxTotal sleep and \nrecording times \nxSleep efficiency \nx% time by sleep stage \nxAwakenings per hour \nxWake after sleep onset \nxSleep onset \nxTotal sleep and \nrecording times \nxSleep efficiency \nx% time by sleep stage \nSleep Staging Based on one forehead \nEEG signals to differentiate \nWake (W), REM (R), NREM \nstage 1 (N1), NREM stage 2 \n(N2) and slow wave sleep \n(N3, includes both stages 3 \nand 4) \nBased on one forehead \nEEG signals to differentiate \nWake (W), REM (R), NREM \nstage 1 (N1), NREM stage \n2 (N2) and slow wave \nsleep (N3, includes both \nstages 3 and 4) \nBased on one forehead \nEEG signal to differentiate \nREM and non-REM sleep, \nand behavioral measures \nfrom actigraphy, snoring \nand airflow to detect sleep \nfrom wake",
+      "extraction_method": "native",
+      "character_count": 1388
+    },
+    {
+      "block_id": "K153412-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nSleep Disordered \nBreathing (when \nrespiratory signals \nare acquired) \nxDetects apneas with \nairflow signal. Each \napnea is classified as \nobstructive but can be \nedited to be central or \nmixed apneas. \nxDetects hypopneas with \nairflow signal. Changes \nin SpO\n2 are used to \ndetermine hypopnea \nseverity (i.e., 4% or 3% \nevents). \nxDetects RERAs with \nairflow signal and \ncortical arousals (i.e., \nhypopneas that do not \nmeet the desaturation \ncriteria)",
+      "extraction_method": "native",
+      "character_count": 631
+    },
+    {
+      "block_id": "K153412-P009-B002",
+      "page": 9,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "None xDetects apneas with \nairflow signal \nxEach apnea classified \nwith the automated \nalgorithms is labeled as \nan obstructive Apnea \n(Ap) or Apnea with \narousal (ApA). \nxDetects hyponeas with \nairflow signal. Changes in \nSpO2 are used to \ndetermine hypopnea \nseverity \nxHypopnea with arousals \nand a 4%, 3%, 1%, or 0% \ndesaturation (H4A, H3A, \nH1A, H0A) \nxHypopnea with no \nassociated arousal (H4, \nH3, H1). \nxHypopneas that do not \nmeet the minimal 1% \ndesaturation criteria \nmust have at least one \narousal indicator to be \nlabeled. \nHeart rate accuracy 20 to 250 bpm + 5 bpm 20 to 250 bpm + 5 bpm 20 to 250 bpm + 5 bpm \nHead Position Via accelerometers \nPosition accuracy 3o @ 30o \nC \nVia accelerometers \nPosition accuracy 3o @ 30o \nC \nVia accelerometers \nPosition accuracy 3o @ 30o \nC \nSnoring Level From microphone \n40 dB @ 3% of dynamic \nrange (min) \n70 dB @ 90% of dynamic \nrange (max) \nAccuracy 0.2 dB at mid \nrange \nFrom microphone \n40 dB @ 3% of dynamic \nrange (min) \n70 dB @ 90% of dynamic \nrange (max) \nAccuracy 0.2 dB at mid \nrange \nFrom microphone \n40 dB @ 3% of dynamic \nrange (min) \n70 dB @ 90% of dynamic \nrange (max) \nAccuracy 0.2 dB at mid \nrange",
+      "extraction_method": "native",
+      "character_count": 1167
+    },
+    {
+      "block_id": "K153412-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nUser Editing xAllows editing of sleep \nstage \nxAllows editing of auto-\nscored obstructive and \nquality events \nxUser can insert missed \nevents or convert \nobstructive to central \nAllows editing of sleep \nstage \nxAllows editing of sleep \nstage \nxAllows editing of auto-\nscored obstructive and \nquality events \nxUser can insert missed \nevents or convert \nobstructive to central \nReports Graphic, narrative and \npatient Hx \no Record time \no Sleep time \no Valid sleep time \no Sleep latency (onset) \no Sleep efficiency \no Sleep times and %time \nper sleep stage \no Sleep stage graph by \nEEG with cortical \narousals \no Pulse rate graph with \nautonomic activations \no Snoring level graph with \nsnoring arousals \no %time snoring > 30, 40, \n50 and 60 dB \no Head movement graph \nwith behavioral arousals \no Head position graph \no Excluded EEG data \no Medical history \no Disease management \ncomments \no Physician review and \nsignature.",
+      "extraction_method": "native",
+      "character_count": 1101
+    },
+    {
+      "block_id": "K153412-P010-B002",
+      "page": 10,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Optional: \no AHI, numerical and \ngraphical, supine and \nnon-supine \no RDI, numerical and \ngraphical, supine and \nnon-supine",
+      "extraction_method": "native",
+      "character_count": 123
+    },
+    {
+      "block_id": "K153412-P010-B003",
+      "page": 10,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Graphic, narrative, and \npatient Hx \no Record time \no Sleep time \no Valid sleep time \no Sleep latency (onset) \no Sleep efficiency \no Sleep times and %time \nper sleep stage \no Sleep stage graph by EEG \nwith cortical arousals \no Pulse rate graph with \nautonomic activations \no Snoring level graph with \nsnoring arousals \no %time snoring > 30, 40, \n50 and 60 dB \no Head movement graph \nwith behavioral arousals \no Head position graph \no Excluded EEG data \no Medical history \no Disease management \ncomments \no Physician review and \nsignature.",
+      "extraction_method": "native",
+      "character_count": 538
+    },
+    {
+      "block_id": "K153412-P010-B004",
+      "page": 10,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Graphic, narrative and \npatient Hx \no Recording time \no Sleep time \no Valid sleep time \no Sleep latency (Onset) \no Sleep efficiency \no AHI, numerical and \ngraphical, supine and \nnon-supine \no RDI, numerical and \ngraphical, supine and \nnon-supine \no #Apneas \no #Hypopneas \no Mean SpO2, %time < 90 \n%SpO2 \no %time snoring > 30, 40, \n50 and 60 dB \no Pulse rate graph with \nautonomic activiations \no Snoring level graph with \nsnoring arousals \no Head movement graph \nwith behavioral arousals \no Head position graph \no Sleep vs. wake \nhypnogram \no Physician interpretation \nand comments (free \ntext) \no Clinical History \n(narrative and tabular) \no Sleep study findings \no Treatment \nconsiderations",
+      "extraction_method": "native",
+      "character_count": 692
+    },
+    {
+      "block_id": "K153412-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nReports, continued o #Apneas \no #Hypopneas \no #RERAs \no Mean SpO2, %time < 90 \nand < 88% SpO2 \no Disease management \nconsiderations \no Physician review and \nsignature. \nTwo Night Reports Multi-night and test-retest \ncomparison table of \nstatistics listed \nMulti-night and test-retest \ncomparison table of \nstatistics listed \nMulti-night and test-retest \ncomparison table of \nstatistics listed \nDisease \nmanagement \ncomments \nOn report, drop down \nselection. \no Cardiac Dysrhythmia \no Restless Leg Syndrome \no Sleep Disordered \nBreathing \no Depression",
+      "extraction_method": "native",
+      "character_count": 728
+    },
+    {
+      "block_id": "K153412-P011-B002",
+      "page": 11,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "On report, drop down \nselection. \no Cardiac Dysrhythmia \no Restless Leg Syndrome \no Sleep Disordered \nBreathing \no Depression",
+      "extraction_method": "native",
+      "character_count": 125
+    },
+    {
+      "block_id": "K153412-P011-B003",
+      "page": 11,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "On report, drop down \nselection. \no Cardiac Dysrhythmia \no Restless Leg Syndrome \no Central sleep apnea \nPlus automatically \ngenerated requiring \nconfirmation or editing \nfrom user. \no Numerous messages \nrelated to sleep apnea. \nCompatibility Sleep Profiler will operate \non any personal computer \nwith Windows XP operating \nsystem and at least 2 GB of \nRAM. The speed by which \na study will process is \ndependent on the \ncomputer processer and \nthe amount of RAM. \nSleep Profiler will operate \non any personal computer \nwith Windows XP operating \nsystem and at least 2 GB of \nRAM. The speed by which \na study will process is \ndependent on the \ncomputer processer and \nthe amount of RAM. \nPersonal computer with \nPentium 4, 1 GB RAM or \nhigher processor (or \nequivalent with Windows \nXP or 7 Operating System \nWeb interface \ncomputer \nrequirements \nx Processor : Minimum \n2.8 GHz \nx Operating System: \nWindows XP or 7 \nx Java version 6 or greater \nx RAM: 1GB \nx USB port: 1 \nx Internet connection: \nconstant \nx Web browser: Internet \nExplorer, or Firefox \nxProcessor : Minimum 2.8 \nGHz \nxOperating System: \nWindows XP or 7 \nxJava version 6 or greater \nxRAM: 1GB \nxUSB port: 1 \nx Internet connection: \nconstant \nxWeb browser: Internet \nExplorer, Firefox or \nChrome, Opera \nxProcessor : Minimum 2.8 \nGHz \nx Operating System: \nWindows XP or 7 \nx JAVA version 6 or greater \nx RAM: 1GB \nx USB port: 1 \nx6. Internet connection: \nconstant \nxWeb browser: Internet \nExplorer, Firefox or \nChrome",
+      "extraction_method": "native",
+      "character_count": 1485
+    },
+    {
+      "block_id": "K153412-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nSpecification Sleep Profiler Predicate Device, \nSleep Profiler (K130007) \nReference Predicate \nDevice, ARES Model 610 \n(K112514) \nWeb interface \nserver \nrequirements. \nVirtual server: \nx Processor: > 2 Ghz \nx Operating system: Win \nServer 2008. \nx RAM: > 2GB \nx Certificates: Signed \nSSL \nx .NET framework: \nx version 2.0 – web \nserver \nx version 3.5 – \nprocessing server \nx or Win Server 2008 \nx Database: SQL server \n2005 \nPhysical server: \nx Processor: > 2 Ghz \nx Operating system: \nWin Server 2008 \nEnterprise edition (for \nvirtual servers). \nx RAM: > 2GB \nVirtual server: \nx Processor: > 2 Ghz \nx Operating system: Win \nServer 2008. \nx RAM: > 2GB \nx Certificates: Signed \nSSL \nx .NET framework: \nx version 2.0 – web \nserver \nx version 3.5 – \nprocessing server \nx or Win Server 2008 \nx Database: SQL server \n2005 \nPhysical server: \nx Processor: > 2 Ghz \nx Operating system: \nWin Server 2008 \nEnterprise edition (for \nvirtual servers). \nx RAM: > 2GB \nVirtual server: \nx Processor: > 2 Ghz \nx Operating system: Win \nServer 2008. \nx RAM: > 2GB \nx Certificates: Signed \nSSL \nx .NET framework: \nx version 2.0 – web \nserver \nx version 3.5 – \nprocessing server \nx or Win Server 2008 \nx Database: SQL server \n2005 \nPhysical server: \nx Processor: > 2 Ghz \nx Operating system: \nWin Server 2008 \nEnterprise edition (for \nvirtual servers). \nx RAM: > 2GB \nComputer/portal \nSecurity \nx The person installing \nthe Java applet must \nhave administrator \nprivileges. \nx User must have rights \nto the account and \ngroup to access data \nvia the portal. \nx The firewall is not \nconfigured to prevent \ninput or output \ncommunication with \naccess to the server via \nports 22 and 30-39.",
+      "extraction_method": "native",
+      "character_count": 1714
+    },
+    {
+      "block_id": "K153412-P012-B002",
+      "page": 12,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "x The person installing \nthe Java applet must \nhave administrator \nprivileges. \nx User must have rights \nto the account and \ngroup to access data \nvia the portal. \nx The firewall is not \nconfigured to prevent \ninput or output \ncommunication with \naccess to the server via \nports 22 and 30-39.",
+      "extraction_method": "native",
+      "character_count": 292
+    },
+    {
+      "block_id": "K153412-P012-B003",
+      "page": 12,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "x The person installing \nthe Java applet must \nhave administrator \nprivileges. \nx User must have rights \nto the account and \ngroup to access data \nvia the portal. \nx The firewall is not \nconfigured to prevent \ninput or output \ncommunication with \naccess to the server via \nports 22 and 30-39.",
+      "extraction_method": "native",
+      "character_count": 292
+    },
+    {
+      "block_id": "K153412-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler \nDETERMINATION OF SUBSTANTIAL EQUIVALENCE: \nSUMMARY OF NON-CLINICAL TESTS: \nSupport for the substantial equivalence of the Sleep Profiler was provided as a result of risk \nmanagement and software testing. Software verification and validation testing were conducted \nand documentation was provided as recommended by FDA’s Guidance for Industry and FDA \nStaff, “Guidance for the Content of Premarket Submissions for Software Contained in Medical \nDevices.”",
+      "extraction_method": "native",
+      "character_count": 501
+    },
+    {
+      "block_id": "K153412-P013-B002",
+      "page": 13,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The Sleep Profiler software has been thoroughly tested through verification of specifications \nand system level validation. The results of the verification and validation activities that have \nbeen performed demonstrate that the software meets requirements for safety, function, and \nintended use. \nSUMMARY OF CLINICAL TESTS:",
+      "extraction_method": "native",
+      "character_count": 325
+    },
+    {
+      "block_id": "K153412-P013-B003",
+      "page": 13,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The Sleep Profiler software accuracy was clinically validated with signals acquired with the X8 \nSystem concurrent to polysomnography (PSG). The following endpoints were evaluated and \nmet:",
+      "extraction_method": "native",
+      "character_count": 189
+    },
+    {
+      "block_id": "K153412-P013-B004",
+      "page": 13,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Endpoint The accuracy of the Slee p Profiler-PSG2 software will be equivalent to the predicate \ndevice(s): \n1 when applied to signals obtained with the FleX8 and compared to PSG to stage sleep. \n2 when applied to signals obtained with the FleX8 and PSG, and compared to PSG for \ndetection of sleep disordered breathing for use in diagnosing OSA based on a minimum \ntargeted positive likelihood ratios for an AHI > 5 and 15 are 3.5 and 5.0 respectively.",
+      "extraction_method": "native",
+      "character_count": 452
+    },
+    {
+      "block_id": "K153412-P013-B005",
+      "page": 13,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Where, AHI is the Apnea-Hypopnea Index. The AHI is the number of apnea and hypopnea \nevents per hour of sleep.",
+      "extraction_method": "native",
+      "character_count": 110
+    },
+    {
+      "block_id": "K153412-P013-B006",
+      "page": 13,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The results compared auto-detected staging and sleep disordered breathing (i.e., apnea-\nhypopnea index) to PSG results obtained by one rater per study. The results confirm Sleep \nProfiler’s positive likelihood ratio for overall AHI vs. PSG is equivalent to the predicate ARES. \nThe Sleep Profiler achieves a positive likelihood ratio for REM AHI vs. PSG REM AHI equivalent \nto the ARES positive likelihood ratio across all sleep stages.",
+      "extraction_method": "native",
+      "character_count": 436
+    },
+    {
+      "block_id": "K153412-P014-B001",
+      "page": 14,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler",
+      "extraction_method": "native",
+      "character_count": 46
+    },
+    {
+      "block_id": "K153412-P014-B002",
+      "page": 14,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "ARES Sleep Profiler Overall Sleep Profiler REM \nA H I > 5 AHI > 15 AHI > 5 AHI > 15 AHI > 5 AHI > 15 \nSample size (n) 73 73 60 60 40 40 \nSensitivity 0.98 0.92 1.00 1.00 0.84 0.73 \nSpecificity 0.76 0.91 0.85 0.97 0.90 0.96 \nLikelihood ratio+ 4.08 10.22 6.67 33.0 8.84 18.33 \nLikelihood ratio- 0.03 0.09 0.00 0.00 0.17 0.28",
+      "extraction_method": "native",
+      "character_count": 321
+    },
+    {
+      "block_id": "K153412-P014-B003",
+      "page": 14,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Where likelihood ratio + is the likelihood ratio of a positive test and likelihood ratio – is the \nlikelihood ratio of negative test. The likelihood ratio + is the ratio of the false negative rate (1-\nsensitivity) and true negative rate (specificity); calculated as (1-sensitivity)/specificity. The \nlikelihood ratio – is the ratio of the true positive rate (sensitivity) and false positive rate (1-\nspecificity); calculated as sensitivity/(1-specificity)",
+      "extraction_method": "native",
+      "character_count": 455
+    },
+    {
+      "block_id": "K153412-P014-B004",
+      "page": 14,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Additionally the Sleep Profiler staging algorithms were compared in a sub-set of subjects (n=43) \nwith at least 4 hours of X8 diagnostic recording time. The results for the weighted majority \nagreement of three raters are presented in the cross-tabulation below: \nEpochs assigned by Sleep Profiler % agreement \nOverall Wake N1 N2 N3 REM Total Positive Negative \nEpochs \nassigned \nby \nExpert \nScoring \nWake 5449 950 567 45 413 7424 0.73 0.94 \nN1 564 431 600 44 113 1752 0.25 0.93 \nN2 582 801 9673 1408 118 12582 0.77 0.84 \nN3 34 19 1035 3591 25 4704 0.76 0.94 \nREM 194 221 550 1 2783 3749 0.74 0.97 \nNo-Cons 378 220 325 46 181 1150 \nTotal 7201 2642 12750 5135 3633 31361",
+      "extraction_method": "native",
+      "character_count": 669
+    },
+    {
+      "block_id": "K153412-P014-B005",
+      "page": 14,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The results from the previously cleared application of the Sleep Profiler auto-staging software \nto signals frontal PSG leads is presented below. \nEpochs assigned by Predicate Sleep Profiler % agreement \nOverall Wake N1 N2 N3 REM Total Positive Negative \nEpochs \nassigned \nby \nExpert \nScoring \nWake 6730 921 557 27 296 8531 0.79 0.95 \nN1 807 1962 1652 40 493 4954 0.40 0.91 \nN2 348 1426 11848 958 218 14798 0.80 0.83 \nN3 36 24 1194 3928 8 5190 0.76 0.97 \nREM 178 530 681 35 3641 5065 0.72 0.97 \nNo-Cons 124 91 324 67 47 653 \nTotal 8223 4954 16256 5055 4703 39191",
+      "extraction_method": "native",
+      "character_count": 562
+    },
+    {
+      "block_id": "K153412-P015-B001",
+      "page": 15,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler",
+      "extraction_method": "native",
+      "character_count": 46
+    },
+    {
+      "block_id": "K153412-P015-B002",
+      "page": 15,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Differences between the two studies are the result of inter-rater variability in the application of \nthe American Academy of Sleep Medicine scoring rules to wake and stage N1 resulting from \nsleep disordered breathing are explained with supplemental analyses. A new software feature \nmarks epochs that may benefit from manual review to improve the accuracy of the staging \nduring manual review. \nCONCLUSION: \nAdvanced Brain Monitoring considers the Sleep Profiler to be substantially equivalent to the \npredicate devices.",
+      "extraction_method": "native",
+      "character_count": 521
+    }
+  ],
+  "claims": []
+}

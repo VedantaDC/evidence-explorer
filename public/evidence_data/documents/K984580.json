@@ -1,0 +1,641 @@
+{
+  "document": {
+    "k_number": "K984580",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "BIOSACA SYSTEM",
+    "applicant": "Biosys AB (Publ)",
+    "decision_date": "1999-03-12",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf/K984580.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K984580",
+    "sha256": "095d11afb3dcb57a6ef038e264a8b56985c125669ebeed98abd46de3e89c7392",
+    "page_count": 5,
+    "native_pages": 0,
+    "ocr_pages": 5,
+    "family_id": "PSG-015",
+    "family_name": "BIOSACA systems",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "3| 1>(99\n\nBIO SYS 510(k) Device Summary Page | of 2\n\n510(k) Summary KazasyD\n\nSafety and effectiveness information concerning the Biosaca from Biosys AB is\n\nsummarized below.\n\nDate Prepared December 18, 1998\nApplicant BIOSYS AB (publ)\nVasaplatsen 8\nSE-411 34 Géteborg\nTelephone: +46 31 774 21 25\nFax: +46 31 13 98 54\ne-mail: info@biosys.se\nContact Anne Mari Nedevska, Technical Administration Manager\nDevice Name BIOSACA\nCommon Name __ Biological Signal Recorder\nClassification No formal classification name or number has been assigned for\ndevices such as the Biosaca. Stand-alone devices for the same use\nas the Biosaca include the following:\nPanel |Product Code |Name 21 CFR\n84 |IGWQ Electroencephalograph 882.1400\n84 |GYE Physiological telemetry system [882.1855\n84 |GWP Electromyography 882.5050\n84 |LEL Sleep Assessment Device\n80 |FLS Breathing frequency 868.2375\n73 |MNR Ventilatory effort recorder 868.2375\n74 |DPS Electrocardiography (ECG) 870.2340\n74 [DQA Pulse Oximeter 870.2700\n73 jDRX Electrocardiograph electrode 870.2360\nBiosys AB (publ). Telephone Fax E-mall\nVasaplatsen 8 +46(0)31 774 21 25 +46(0)31 13.98 54 info@biosys.se\n\nSE-411 34 Géteborg\n\nOn dee",
+      "character_count": 1166
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "B IO SY S 510(k) Device Summary Page 2 of 2\n\nSubmission\nCorrespondent Jane B, Campbell\n\nJ. & D. Campbell Associates, Inc.\n485 LaRoe Road\n\nChester, New York 10918\n\nTel. 914-469-4289\n\nFax. 914-469-4212\n\ne-mail: jdca@warwick.net\n\nPredicate Devices Compumedics Sleep Monitoring System, Compumedics\nSleep Pty. Ltd (K955841)\n\nEmbla, Flaga hf. (K971813)\n\nDevice Description The BIOSACA is a multi-functional and an ambulatory\nrecording device. It is a portable system for the recording,\nmonitoring, storage and transfer of up to 22 bioparameters\nsuch as brain, heart and muscle activity, eye movement,\nblood pressure, breathing, body movements etc. There ase\napplications for the BIOSACA in neurological, cardiology\nand sleep disorder diagnoses.\n\nFunction The BIOSACA is a biological signal recorder able to receive\nand record up to 22 bioparameters - 16 from two headboxes,\nAC and/or DC, three from the pulse oximeter and three from\nthe sensor pad.\n\nIntended Use The intended use for the BIOSACA is to record, monitor,\ndisplay, print, store and transfer bioparameters such as brain,\nheart and muscle activity, eye movement, blood pressure,\nbreathing and body movements.\n\nThe BIOSACA unit is intended to be used on an Adult\npopulation and for use at home or in health care facilities. It\nis not intended for use as life support equipment such as vital\nsigns monitoring in intensive care units. The unit may be\nused for electrocardiography, electroencephalography,\nelectromyography, electrooculography ballistocardiography\nand with AC and DC sensors.\n\nBiosys AB (pubj). Telephone Fax E-mail\n\nVasaplaisen 8 446(0)31 774 21 25 4+46(0)31 13 98 54 info@biosys.se\nSE-411 34 Giteborg\nSweden hitp:/Awww.biosys.se",
+      "character_count": 1697
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "stt¥tees\n-\nrs “y\n\ni 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n5\nvont\n\nao Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room —W066-G609\nSilver Spring, MD 20993-0002\n\nBiosys AB\n\nc/o Jane B.Campbell\n\nJ. D. Campbell Associates APR -9 2012\n485 Laroe Road\n\nChester, New York 10918\n\nRe: K984580\nTrade/Device Name: BIOSACA\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, DQA, GWQ, MNR\nDated (Date on orig SE ltr): December 18, 1998\nReceived (Date on orig SE ltr): December 23, 1998\n\nDear Ms, Campbell:\nThis letter corrects our substantially equivalent letter of March 12, 1999.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\n\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 2087
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Ms. Jane B.Campbell\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutF DA/CentersO ffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\n\nhttp://www. fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\n\nhttp://www. fda.gov/MedicalDevices/Resourcesfor Y ou/Industry/default.htm.\n\nSincerely yours,\n\n‘Konia Mand”\n\nMalvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health\n\nEnclosure",
+      "character_count": 1973
+    },
+    {
+      "page": 5,
+      "extraction_method": "ocr",
+      "text": "anced\n\nB 1O SY S Appendix VIII Indications for Use.doc\n\nIndications for Use Statement\n\n510(k) Number (ifknown): K AZATY O\nDevice Name: : BIOSACA\n\nIndications for Use:\n\nThe BIOSACA equipment is indicated for use in the recording, displaying,\nmonitoring, printing and storage of biological and non-biological signals for sleep\n\nr disorder and epilepsy investigations as well as Electroencephalography (EEG),\nBlectrocardiography (ECG), Electromyography (EMG), Electrooculography\n(EOG), Ballistocardiography, etc. BIOSACA is designed for both stationary and\nmobile operation and may be used in either the patient's home or the hospital.\nBiological signals are electrical signals which can be recorded directly from the\npatient, Non-biological signals are recorded using indirect methods such as\nrecording the flow of air (breathing), blood pressure, etc.\n\nThe equipment is suitable for home use as the patient needs only a minima] amount\nof instruction in how to use it. The system has no lights or sounds that could\nconfuse the patient. Signals may be stored for later or may be viewed directly in\nreal-time in the hospital, for instance. When monitoring, the operator sees the\nsignals at the same time as they are recorded.\n\nThe Biosaca unit is intended for use on an adult population and at home or\nin health care facilities. It is not intended for use as life support equipment\nsuch as vital signs monitoring in intensive care units.\n\n(PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE IF NEEDED)\n\nConcurrence of CDRH, Office of Device Evaluation\n\nDivision .\nB1OK) Number ONE Devices apse\n\nPrescription Use K OR Over the Counter Use\n(Per 21 CFR 801.109)",
+      "character_count": 1666
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K984580-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "3| 1>(99",
+      "extraction_method": "ocr",
+      "character_count": 8
+    },
+    {
+      "block_id": "K984580-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "BIO SYS 510(k) Device Summary Page | of 2",
+      "text": "BIO SYS 510(k) Device Summary Page | of 2",
+      "extraction_method": "ocr",
+      "character_count": 41
+    },
+    {
+      "block_id": "K984580-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "510(k) Summary KazasyD",
+      "text": "510(k) Summary KazasyD",
+      "extraction_method": "ocr",
+      "character_count": 22
+    },
+    {
+      "block_id": "K984580-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(k) Summary KazasyD",
+      "text": "Safety and effectiveness information concerning the Biosaca from Biosys AB is",
+      "extraction_method": "ocr",
+      "character_count": 77
+    },
+    {
+      "block_id": "K984580-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "510(k) Summary KazasyD",
+      "text": "summarized below.",
+      "extraction_method": "ocr",
+      "character_count": 17
+    },
+    {
+      "block_id": "K984580-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "510(k) Summary KazasyD",
+      "text": "Date Prepared December 18, 1998\nApplicant BIOSYS AB (publ)\nVasaplatsen 8\nSE-411 34 Géteborg\nTelephone: +46 31 774 21 25\nFax: +46 31 13 98 54\ne-mail: info@biosys.se\nContact Anne Mari Nedevska, Technical Administration Manager\nDevice Name BIOSACA\nCommon Name __ Biological Signal Recorder\nClassification No formal classification name or number has been assigned for\ndevices such as the Biosaca. Stand-alone devices for the same use\nas the Biosaca include the following:\nPanel |Product Code |Name 21 CFR\n84 |IGWQ Electroencephalograph 882.1400\n84 |GYE Physiological telemetry system [882.1855\n84 |GWP Electromyography 882.5050\n84 |LEL Sleep Assessment Device\n80 |FLS Breathing frequency 868.2375\n73 |MNR Ventilatory effort recorder 868.2375\n74 |DPS Electrocardiography (ECG) 870.2340\n74 [DQA Pulse Oximeter 870.2700\n73 jDRX Electrocardiograph electrode 870.2360\nBiosys AB (publ). Telephone Fax E-mall\nVasaplatsen 8 +46(0)31 774 21 25 +46(0)31 13.98 54 info@biosys.se",
+      "extraction_method": "ocr",
+      "character_count": 963
+    },
+    {
+      "block_id": "K984580-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "510(k) Summary KazasyD",
+      "text": "SE-411 34 Géteborg",
+      "extraction_method": "ocr",
+      "character_count": 18
+    },
+    {
+      "block_id": "K984580-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "510(k) Summary KazasyD",
+      "text": "On dee",
+      "extraction_method": "ocr",
+      "character_count": 6
+    },
+    {
+      "block_id": "K984580-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "extraction_method": "ocr",
+      "character_count": 43
+    },
+    {
+      "block_id": "K984580-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Submission\nCorrespondent Jane B, Campbell",
+      "extraction_method": "ocr",
+      "character_count": 41
+    },
+    {
+      "block_id": "K984580-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "J. & D. Campbell Associates, Inc.\n485 LaRoe Road",
+      "extraction_method": "ocr",
+      "character_count": 48
+    },
+    {
+      "block_id": "K984580-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Chester, New York 10918",
+      "extraction_method": "ocr",
+      "character_count": 23
+    },
+    {
+      "block_id": "K984580-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Tel. 914-469-4289",
+      "extraction_method": "ocr",
+      "character_count": 17
+    },
+    {
+      "block_id": "K984580-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Fax. 914-469-4212",
+      "extraction_method": "ocr",
+      "character_count": 17
+    },
+    {
+      "block_id": "K984580-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "e-mail: jdca@warwick.net",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K984580-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Predicate Devices Compumedics Sleep Monitoring System, Compumedics\nSleep Pty. Ltd (K955841)",
+      "extraction_method": "ocr",
+      "character_count": 91
+    },
+    {
+      "block_id": "K984580-P002-B009",
+      "page": 2,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Embla, Flaga hf. (K971813)",
+      "extraction_method": "ocr",
+      "character_count": 26
+    },
+    {
+      "block_id": "K984580-P002-B010",
+      "page": 2,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Device Description The BIOSACA is a multi-functional and an ambulatory\nrecording device. It is a portable system for the recording,\nmonitoring, storage and transfer of up to 22 bioparameters\nsuch as brain, heart and muscle activity, eye movement,\nblood pressure, breathing, body movements etc. There ase\napplications for the BIOSACA in neurological, cardiology\nand sleep disorder diagnoses.",
+      "extraction_method": "ocr",
+      "character_count": 390
+    },
+    {
+      "block_id": "K984580-P002-B011",
+      "page": 2,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Function The BIOSACA is a biological signal recorder able to receive\nand record up to 22 bioparameters - 16 from two headboxes,\nAC and/or DC, three from the pulse oximeter and three from\nthe sensor pad.",
+      "extraction_method": "ocr",
+      "character_count": 202
+    },
+    {
+      "block_id": "K984580-P002-B012",
+      "page": 2,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Intended Use The intended use for the BIOSACA is to record, monitor,\ndisplay, print, store and transfer bioparameters such as brain,\nheart and muscle activity, eye movement, blood pressure,\nbreathing and body movements.",
+      "extraction_method": "ocr",
+      "character_count": 219
+    },
+    {
+      "block_id": "K984580-P002-B013",
+      "page": 2,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "The BIOSACA unit is intended to be used on an Adult\npopulation and for use at home or in health care facilities. It\nis not intended for use as life support equipment such as vital\nsigns monitoring in intensive care units. The unit may be\nused for electrocardiography, electroencephalography,\nelectromyography, electrooculography ballistocardiography\nand with AC and DC sensors.",
+      "extraction_method": "ocr",
+      "character_count": 377
+    },
+    {
+      "block_id": "K984580-P002-B014",
+      "page": 2,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Biosys AB (pubj). Telephone Fax E-mail",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K984580-P002-B015",
+      "page": 2,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Vasaplaisen 8 446(0)31 774 21 25 4+46(0)31 13 98 54 info@biosys.se\nSE-411 34 Giteborg\nSweden hitp:/Awww.biosys.se",
+      "extraction_method": "ocr",
+      "character_count": 113
+    },
+    {
+      "block_id": "K984580-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "stt¥tees\n-\nrs “y",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K984580-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "i 4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n5\nvont",
+      "extraction_method": "ocr",
+      "character_count": 70
+    },
+    {
+      "block_id": "K984580-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "ao Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room —W066-G609\nSilver Spring, MD 20993-0002",
+      "extraction_method": "ocr",
+      "character_count": 120
+    },
+    {
+      "block_id": "K984580-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Biosys AB",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K984580-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "c/o Jane B.Campbell",
+      "extraction_method": "ocr",
+      "character_count": 19
+    },
+    {
+      "block_id": "K984580-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "J. D. Campbell Associates APR -9 2012\n485 Laroe Road",
+      "extraction_method": "ocr",
+      "character_count": 52
+    },
+    {
+      "block_id": "K984580-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Chester, New York 10918",
+      "extraction_method": "ocr",
+      "character_count": 23
+    },
+    {
+      "block_id": "K984580-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Re: K984580\nTrade/Device Name: BIOSACA\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, DQA, GWQ, MNR\nDated (Date on orig SE ltr): December 18, 1998\nReceived (Date on orig SE ltr): December 23, 1998",
+      "extraction_method": "ocr",
+      "character_count": 263
+    },
+    {
+      "block_id": "K984580-P003-B009",
+      "page": 3,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Dear Ms, Campbell:\nThis letter corrects our substantially equivalent letter of March 12, 1999.",
+      "extraction_method": "ocr",
+      "character_count": 94
+    },
+    {
+      "block_id": "K984580-P003-B010",
+      "page": 3,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "ocr",
+      "character_count": 1033
+    },
+    {
+      "block_id": "K984580-P003-B011",
+      "page": 3,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may",
+      "extraction_method": "ocr",
+      "character_count": 289
+    },
+    {
+      "block_id": "K984580-P003-B012",
+      "page": 3,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "publish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "ocr",
+      "character_count": 77
+    },
+    {
+      "block_id": "K984580-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Page 2 - Ms. Jane B.Campbell",
+      "extraction_method": "ocr",
+      "character_count": 28
+    },
+    {
+      "block_id": "K984580-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K984580-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutF DA/CentersO ffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to",
+      "extraction_method": "ocr",
+      "character_count": 494
+    },
+    {
+      "block_id": "K984580-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "http://www. fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 158
+    },
+    {
+      "block_id": "K984580-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "You may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address",
+      "extraction_method": "ocr",
+      "character_count": 243
+    },
+    {
+      "block_id": "K984580-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "http://www. fda.gov/MedicalDevices/Resourcesfor Y ou/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 74
+    },
+    {
+      "block_id": "K984580-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Sincerely yours,",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K984580-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "‘Konia Mand”",
+      "extraction_method": "ocr",
+      "character_count": 12
+    },
+    {
+      "block_id": "K984580-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Malvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 176
+    },
+    {
+      "block_id": "K984580-P004-B010",
+      "page": 4,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "Enclosure",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K984580-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "B IO SY S 510(k) Device Summary Page 2 of 2",
+      "text": "anced",
+      "extraction_method": "ocr",
+      "character_count": 5
+    },
+    {
+      "block_id": "K984580-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "B 1O SY S Appendix VIII Indications for Use.doc",
+      "text": "B 1O SY S Appendix VIII Indications for Use.doc",
+      "extraction_method": "ocr",
+      "character_count": 47
+    },
+    {
+      "block_id": "K984580-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "Indications for Use Statement",
+      "text": "Indications for Use Statement",
+      "extraction_method": "ocr",
+      "character_count": 29
+    },
+    {
+      "block_id": "K984580-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Indications for Use Statement",
+      "text": "510(k) Number (ifknown): K AZATY O\nDevice Name: : BIOSACA",
+      "extraction_method": "ocr",
+      "character_count": 57
+    },
+    {
+      "block_id": "K984580-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Indications for Use:",
+      "text": "Indications for Use:",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K984580-P005-B006",
+      "page": 5,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "The BIOSACA equipment is indicated for use in the recording, displaying,\nmonitoring, printing and storage of biological and non-biological signals for sleep",
+      "extraction_method": "ocr",
+      "character_count": 156
+    },
+    {
+      "block_id": "K984580-P005-B007",
+      "page": 5,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "r disorder and epilepsy investigations as well as Electroencephalography (EEG),\nBlectrocardiography (ECG), Electromyography (EMG), Electrooculography\n(EOG), Ballistocardiography, etc. BIOSACA is designed for both stationary and\nmobile operation and may be used in either the patient's home or the hospital.\nBiological signals are electrical signals which can be recorded directly from the\npatient, Non-biological signals are recorded using indirect methods such as\nrecording the flow of air (breathing), blood pressure, etc.",
+      "extraction_method": "ocr",
+      "character_count": 524
+    },
+    {
+      "block_id": "K984580-P005-B008",
+      "page": 5,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "The equipment is suitable for home use as the patient needs only a minima] amount\nof instruction in how to use it. The system has no lights or sounds that could\nconfuse the patient. Signals may be stored for later or may be viewed directly in\nreal-time in the hospital, for instance. When monitoring, the operator sees the\nsignals at the same time as they are recorded.",
+      "extraction_method": "ocr",
+      "character_count": 369
+    },
+    {
+      "block_id": "K984580-P005-B009",
+      "page": 5,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "The Biosaca unit is intended for use on an adult population and at home or\nin health care facilities. It is not intended for use as life support equipment\nsuch as vital signs monitoring in intensive care units.",
+      "extraction_method": "ocr",
+      "character_count": 210
+    },
+    {
+      "block_id": "K984580-P005-B010",
+      "page": 5,
+      "ordinal": 10,
+      "type": "heading",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "(PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "extraction_method": "ocr",
+      "character_count": 74
+    },
+    {
+      "block_id": "K984580-P005-B011",
+      "page": 5,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "Concurrence of CDRH, Office of Device Evaluation",
+      "extraction_method": "ocr",
+      "character_count": 48
+    },
+    {
+      "block_id": "K984580-P005-B012",
+      "page": 5,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "Division .\nB1OK) Number ONE Devices apse",
+      "extraction_method": "ocr",
+      "character_count": 40
+    },
+    {
+      "block_id": "K984580-P005-B013",
+      "page": 5,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE — CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "Prescription Use K OR Over the Counter Use\n(Per 21 CFR 801.109)",
+      "extraction_method": "ocr",
+      "character_count": 63
+    }
+  ],
+  "claims": []
+}

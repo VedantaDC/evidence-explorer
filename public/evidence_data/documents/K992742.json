@@ -1,0 +1,661 @@
+{
+  "document": {
+    "k_number": "K992742",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "NEUROFAX, MODEL EEG-1100A",
+    "applicant": "Nihon Kohden America, Inc.",
+    "decision_date": "1999-10-14",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf/K992742.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K992742",
+    "sha256": "a6a712ecfdc1457950c43ec1017f027518632563366bf84a8886ae715e7de98a",
+    "page_count": 5,
+    "native_pages": 0,
+    "ocr_pages": 5,
+    "family_id": "PSG-007",
+    "family_name": "Neurofax PSG / EEG acquisition",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "OCT 14 1999\n\nNIHON KOHDEN AMERICA, INC. 510(k) NOTIFICATION\nAugust 12, 1999 EEG-1100A EEG/PSG Recorder\nKRAVIAR\na\n\nSECTION 2 - 510(K) SUMMARY\n\nName and Address of Applicant Primary Contact:\n\nNihon Kohden America, inc. Bonnie Bishop, Regulatory Affairs Manager\n2601 Campus Drive (949) 250-3959 ext. 4401\n\nIrvine, Califomia 92612-1601\n\nPhone: (949) 250-3959 Alternate Contact: ;\n\nFax: (949) 250-3210 Gary Reasoner, Director of Product Operations\n\n(949) 250-3959 ext. 3387\n\nThe device has been classified as Class 2 by the Neurology Device Classificaiton Panel under\n21 CFR Part 882.1400 \"Electroencephalograph” per GWQ,. D/-V , : ,\n\nCommon names for the EEG-1100A device include Electroencephalograph (EEG) and\nPolysomnograph (PSG).\n\nThe predicate marketed device is the Nihon Kohden EEG-2100 per 510(k) # K944678,\ncommercial distribution certification dated 5/22/98.\n\nNihon Kohden’s, model number EEG-1100A intended to record, measure and display the\nphysiological data required for EEG and sleep studies (Polysomnography or PSG). These data, may be\nused by the clinician in Sleep Disorders, Epilepsies and other disorders as an aid in diagnosis, This\ndevice Is intended for use by medical personnel. The device will be available for use within a medical\nfacility, laboratory, clinic or nursing home or outside of a medical facility under direct supervision of a\nmedical professional.\n\nThe device complies with IEC 601-1 subclause 56,3(c) as Implemented by 21 CFR Part 898\nPerformance Standard for Electrode Lead Wires and Patient Cables. No other special controls or\nperformance standards are known or established for this device.\n\nThe EEG-1100A device is not sterile.\n\nThe device does not directly contact patients. Accessories that contact patients, such as\nelectrodes, are the same accessories as used with the predicate or are comprised of the same\ncomponent materials with the same design and manufacturing processes as the predicate accessories.\nThe device may also use commercially available electrode and sensor products. Therefore, good\nlaboratory practice studies were not required per 21 CFR part 58.\n\nThe EEG-1100A was subjected to electromagnetic, environmental, safety and performance\ntesting procedures, These tests verified the operation of the device. Software validation tested the\noperation of the software functions of acquiring, processing, displaying and recording of all functions of\nthe device. The results confirmed that the device performed within specifications.\n\nPage 5",
+      "character_count": 2496
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "NIHON KOHDEN AMERICA, INC. 510(k) NOTIFICATION\nAugust 12, 1999 EEG-1100A EEG/PSG Recorder\n\nSECTION 3 - PROPOSED LABELING\n\nA.\n\nIntended Use\n\nThe EEG-1100A Is intended for medical purposes to record, measure and display cerebral and\nextracerebral activity for EEG and Sleep Studies. These data, may be used by the clinician in\nSleep Disorders, Epilepsies and other related disorders as an aid In diagnosis.\n\nDevice/Package Labels\nThe proposed product labels for the device Is located in Attachment 1.\n\nProposed Packaging\nPackaging for the EEG-1100A Is depicted in Attachment 2.\n\ninstructions for Use\nThe proposed instructions for use are provided with each packaged device and are presented in\nAttachment 9.\n\nAdvertisement/Promotional Literature\nTo date no advertisement or promotional literature has been created for the EEG-1100A for\ndistribution in the United States.\n\nContraindications, Precautions & Warmings\nWarnings and cautions are listed in the Operator's Manual as shown in Attachment 3.\n\nPage 6",
+      "character_count": 1003
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "a senvices\n\not HEALTHY g\nMt,\n\n€ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room ~-W066-G609\nSilver Spring, MD 20993-0002\n\nMs. Bonnie Bishop\n\nRegulatory Affairs Manager\n\nNIHON KOHDEN AMERICA, INC. APR -9 2012\n2601 Campus Drive\n\nIrvine, California 92612\n\nRe: K992742\nTrade/Device Name: Neurofax Model EG-1100A Electroencephalograph\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ\nDated (Date on orig SE ltr): August 13, 1999\nReceived (Date on orig SE ltr): August 16, 1999\n\nDear Ms. Bishop:\nThis letter corrects our substantially equivalent letter of October 14, 1999.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 2131
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Ms. Bonnie Bishop\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutFDA/CentersOffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gov/MedicalDevices/Resourcesfor Y ou/Industry/default.htm.\n\nSincerely yours,\n\nKeri. Uoyancb\n\nMalvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health\n\nEnclosure",
+      "character_count": 1966
+    },
+    {
+      "page": 5,
+      "extraction_method": "ocr",
+      "text": "NIHON KOHDEN AMERICA, INC. 510(k) NOTIFICATION\nAugust 12, 1999 EEG-1100A EEG/PSG Recorder\n\nG. Indications for Use Statement\n\n. 510(k) Number (if known): \\K 4 q aq 4 >\n\nDevice Name: EEG-1100A\n\nIndications for Use:\n\nThe EEG-1100A is intended to record, measure and display cerebral and extracerebral activity for EEG\nand Sleep Studies. These data, may be used by the clinician in Sleep Disorders, Epilepsies and other\nrelated disorders as an aid in diagnosis. .\n\nThe device is Intended for use by medical personnel in any location within a medical facility, laboratory,\nclinic or nursing home or outside of a medical facility under direct supervision of a medical professional.\n\nbs oon,\n\n(Division Sign-Off\nBION) Naber ral Restorative Devices RIS22Y 2\n\nPrescription Use Y\n(Per 21 CFR 801.109) *\n\nPaae 7",
+      "character_count": 800
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K992742-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "OCT 14 1999",
+      "text": "OCT 14 1999",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K992742-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "OCT 14 1999",
+      "text": "NIHON KOHDEN AMERICA, INC. 510(k) NOTIFICATION\nAugust 12, 1999 EEG-1100A EEG/PSG Recorder\nKRAVIAR\na",
+      "extraction_method": "ocr",
+      "character_count": 99
+    },
+    {
+      "block_id": "K992742-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "SECTION 2 - 510(K) SUMMARY",
+      "text": "SECTION 2 - 510(K) SUMMARY",
+      "extraction_method": "ocr",
+      "character_count": 26
+    },
+    {
+      "block_id": "K992742-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "Name and Address of Applicant Primary Contact:",
+      "extraction_method": "ocr",
+      "character_count": 46
+    },
+    {
+      "block_id": "K992742-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "Nihon Kohden America, inc. Bonnie Bishop, Regulatory Affairs Manager\n2601 Campus Drive (949) 250-3959 ext. 4401",
+      "extraction_method": "ocr",
+      "character_count": 111
+    },
+    {
+      "block_id": "K992742-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "Irvine, Califomia 92612-1601",
+      "extraction_method": "ocr",
+      "character_count": 28
+    },
+    {
+      "block_id": "K992742-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "Phone: (949) 250-3959 Alternate Contact: ;",
+      "extraction_method": "ocr",
+      "character_count": 42
+    },
+    {
+      "block_id": "K992742-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "Fax: (949) 250-3210 Gary Reasoner, Director of Product Operations",
+      "extraction_method": "ocr",
+      "character_count": 65
+    },
+    {
+      "block_id": "K992742-P001-B009",
+      "page": 1,
+      "ordinal": 9,
+      "type": "list",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "(949) 250-3959 ext. 3387",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K992742-P001-B010",
+      "page": 1,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "The device has been classified as Class 2 by the Neurology Device Classificaiton Panel under\n21 CFR Part 882.1400 \"Electroencephalograph” per GWQ,. D/-V , : ,",
+      "extraction_method": "ocr",
+      "character_count": 158
+    },
+    {
+      "block_id": "K992742-P001-B011",
+      "page": 1,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "Common names for the EEG-1100A device include Electroencephalograph (EEG) and\nPolysomnograph (PSG).",
+      "extraction_method": "ocr",
+      "character_count": 99
+    },
+    {
+      "block_id": "K992742-P001-B012",
+      "page": 1,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "The predicate marketed device is the Nihon Kohden EEG-2100 per 510(k) # K944678,\ncommercial distribution certification dated 5/22/98.",
+      "extraction_method": "ocr",
+      "character_count": 133
+    },
+    {
+      "block_id": "K992742-P001-B013",
+      "page": 1,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "Nihon Kohden’s, model number EEG-1100A intended to record, measure and display the\nphysiological data required for EEG and sleep studies (Polysomnography or PSG). These data, may be\nused by the clinician in Sleep Disorders, Epilepsies and other disorders as an aid in diagnosis, This\ndevice Is intended for use by medical personnel. The device will be available for use within a medical\nfacility, laboratory, clinic or nursing home or outside of a medical facility under direct supervision of a\nmedical professional.",
+      "extraction_method": "ocr",
+      "character_count": 516
+    },
+    {
+      "block_id": "K992742-P001-B014",
+      "page": 1,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "The device complies with IEC 601-1 subclause 56,3(c) as Implemented by 21 CFR Part 898\nPerformance Standard for Electrode Lead Wires and Patient Cables. No other special controls or\nperformance standards are known or established for this device.",
+      "extraction_method": "ocr",
+      "character_count": 245
+    },
+    {
+      "block_id": "K992742-P001-B015",
+      "page": 1,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "The EEG-1100A device is not sterile.",
+      "extraction_method": "ocr",
+      "character_count": 36
+    },
+    {
+      "block_id": "K992742-P001-B016",
+      "page": 1,
+      "ordinal": 16,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "The device does not directly contact patients. Accessories that contact patients, such as\nelectrodes, are the same accessories as used with the predicate or are comprised of the same\ncomponent materials with the same design and manufacturing processes as the predicate accessories.\nThe device may also use commercially available electrode and sensor products. Therefore, good\nlaboratory practice studies were not required per 21 CFR part 58.",
+      "extraction_method": "ocr",
+      "character_count": 441
+    },
+    {
+      "block_id": "K992742-P001-B017",
+      "page": 1,
+      "ordinal": 17,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "The EEG-1100A was subjected to electromagnetic, environmental, safety and performance\ntesting procedures, These tests verified the operation of the device. Software validation tested the\noperation of the software functions of acquiring, processing, displaying and recording of all functions of\nthe device. The results confirmed that the device performed within specifications.",
+      "extraction_method": "ocr",
+      "character_count": 376
+    },
+    {
+      "block_id": "K992742-P001-B018",
+      "page": 1,
+      "ordinal": 18,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "Page 5",
+      "extraction_method": "ocr",
+      "character_count": 6
+    },
+    {
+      "block_id": "K992742-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Name and Address of Applicant Primary Contact:",
+      "text": "NIHON KOHDEN AMERICA, INC. 510(k) NOTIFICATION\nAugust 12, 1999 EEG-1100A EEG/PSG Recorder",
+      "extraction_method": "ocr",
+      "character_count": 89
+    },
+    {
+      "block_id": "K992742-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "SECTION 3 - PROPOSED LABELING",
+      "text": "SECTION 3 - PROPOSED LABELING",
+      "extraction_method": "ocr",
+      "character_count": 29
+    },
+    {
+      "block_id": "K992742-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "A.",
+      "text": "A.",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K992742-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "Intended Use",
+      "text": "Intended Use",
+      "extraction_method": "ocr",
+      "character_count": 12
+    },
+    {
+      "block_id": "K992742-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "The EEG-1100A Is intended for medical purposes to record, measure and display cerebral and\nextracerebral activity for EEG and Sleep Studies. These data, may be used by the clinician in\nSleep Disorders, Epilepsies and other related disorders as an aid In diagnosis.",
+      "extraction_method": "ocr",
+      "character_count": 264
+    },
+    {
+      "block_id": "K992742-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Device/Package Labels\nThe proposed product labels for the device Is located in Attachment 1.",
+      "extraction_method": "ocr",
+      "character_count": 92
+    },
+    {
+      "block_id": "K992742-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Proposed Packaging\nPackaging for the EEG-1100A Is depicted in Attachment 2.",
+      "extraction_method": "ocr",
+      "character_count": 75
+    },
+    {
+      "block_id": "K992742-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "instructions for Use\nThe proposed instructions for use are provided with each packaged device and are presented in\nAttachment 9.",
+      "extraction_method": "ocr",
+      "character_count": 128
+    },
+    {
+      "block_id": "K992742-P002-B009",
+      "page": 2,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Advertisement/Promotional Literature\nTo date no advertisement or promotional literature has been created for the EEG-1100A for\ndistribution in the United States.",
+      "extraction_method": "ocr",
+      "character_count": 161
+    },
+    {
+      "block_id": "K992742-P002-B010",
+      "page": 2,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Contraindications, Precautions & Warmings\nWarnings and cautions are listed in the Operator's Manual as shown in Attachment 3.",
+      "extraction_method": "ocr",
+      "character_count": 125
+    },
+    {
+      "block_id": "K992742-P002-B011",
+      "page": 2,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Page 6",
+      "extraction_method": "ocr",
+      "character_count": 6
+    },
+    {
+      "block_id": "K992742-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "a senvices",
+      "extraction_method": "ocr",
+      "character_count": 10
+    },
+    {
+      "block_id": "K992742-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "ot HEALTHY g\nMt,",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K992742-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "€ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "ocr",
+      "character_count": 61
+    },
+    {
+      "block_id": "K992742-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room ~-W066-G609\nSilver Spring, MD 20993-0002",
+      "extraction_method": "ocr",
+      "character_count": 118
+    },
+    {
+      "block_id": "K992742-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Ms. Bonnie Bishop",
+      "extraction_method": "ocr",
+      "character_count": 17
+    },
+    {
+      "block_id": "K992742-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Regulatory Affairs Manager",
+      "extraction_method": "ocr",
+      "character_count": 26
+    },
+    {
+      "block_id": "K992742-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "NIHON KOHDEN AMERICA, INC. APR -9 2012\n2601 Campus Drive",
+      "extraction_method": "ocr",
+      "character_count": 56
+    },
+    {
+      "block_id": "K992742-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Irvine, California 92612",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K992742-P003-B009",
+      "page": 3,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Re: K992742\nTrade/Device Name: Neurofax Model EG-1100A Electroencephalograph\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ\nDated (Date on orig SE ltr): August 13, 1999\nReceived (Date on orig SE ltr): August 16, 1999",
+      "extraction_method": "ocr",
+      "character_count": 287
+    },
+    {
+      "block_id": "K992742-P003-B010",
+      "page": 3,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Dear Ms. Bishop:\nThis letter corrects our substantially equivalent letter of October 14, 1999.",
+      "extraction_method": "ocr",
+      "character_count": 94
+    },
+    {
+      "block_id": "K992742-P003-B011",
+      "page": 3,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "ocr",
+      "character_count": 1033
+    },
+    {
+      "block_id": "K992742-P003-B012",
+      "page": 3,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "ocr",
+      "character_count": 367
+    },
+    {
+      "block_id": "K992742-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Page 2 - Ms. Bonnie Bishop",
+      "extraction_method": "ocr",
+      "character_count": 26
+    },
+    {
+      "block_id": "K992742-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K992742-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutFDA/CentersOffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 650
+    },
+    {
+      "block_id": "K992742-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "You may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gov/MedicalDevices/Resourcesfor Y ou/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 317
+    },
+    {
+      "block_id": "K992742-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Sincerely yours,",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K992742-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Keri. Uoyancb",
+      "extraction_method": "ocr",
+      "character_count": 13
+    },
+    {
+      "block_id": "K992742-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Malvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 176
+    },
+    {
+      "block_id": "K992742-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "Enclosure",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K992742-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Intended Use",
+      "text": "NIHON KOHDEN AMERICA, INC. 510(k) NOTIFICATION\nAugust 12, 1999 EEG-1100A EEG/PSG Recorder",
+      "extraction_method": "ocr",
+      "character_count": 89
+    },
+    {
+      "block_id": "K992742-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "G. Indications for Use Statement",
+      "text": "G. Indications for Use Statement",
+      "extraction_method": "ocr",
+      "character_count": 32
+    },
+    {
+      "block_id": "K992742-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "G. Indications for Use Statement",
+      "text": ". 510(k) Number (if known): \\K 4 q aq 4 >",
+      "extraction_method": "ocr",
+      "character_count": 41
+    },
+    {
+      "block_id": "K992742-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "G. Indications for Use Statement",
+      "text": "Device Name: EEG-1100A",
+      "extraction_method": "ocr",
+      "character_count": 22
+    },
+    {
+      "block_id": "K992742-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Indications for Use:",
+      "text": "Indications for Use:",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K992742-P005-B006",
+      "page": 5,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "The EEG-1100A is intended to record, measure and display cerebral and extracerebral activity for EEG\nand Sleep Studies. These data, may be used by the clinician in Sleep Disorders, Epilepsies and other\nrelated disorders as an aid in diagnosis. .",
+      "extraction_method": "ocr",
+      "character_count": 245
+    },
+    {
+      "block_id": "K992742-P005-B007",
+      "page": 5,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "The device is Intended for use by medical personnel in any location within a medical facility, laboratory,\nclinic or nursing home or outside of a medical facility under direct supervision of a medical professional.",
+      "extraction_method": "ocr",
+      "character_count": 214
+    },
+    {
+      "block_id": "K992742-P005-B008",
+      "page": 5,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "bs oon,",
+      "extraction_method": "ocr",
+      "character_count": 7
+    },
+    {
+      "block_id": "K992742-P005-B009",
+      "page": 5,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "(Division Sign-Off\nBION) Naber ral Restorative Devices RIS22Y 2",
+      "extraction_method": "ocr",
+      "character_count": 63
+    },
+    {
+      "block_id": "K992742-P005-B010",
+      "page": 5,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "Prescription Use Y\n(Per 21 CFR 801.109) *",
+      "extraction_method": "ocr",
+      "character_count": 41
+    },
+    {
+      "block_id": "K992742-P005-B011",
+      "page": 5,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "Paae 7",
+      "extraction_method": "ocr",
+      "character_count": 6
+    }
+  ],
+  "claims": []
+}

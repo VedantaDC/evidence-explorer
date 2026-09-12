@@ -1,0 +1,79 @@
+{
+  "document": {
+    "k_number": "K090277",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "NATUS SLEEPWORKS, MODEL 104017",
+    "applicant": "Excel-Tech Ltd. (Xltek)",
+    "decision_date": "2011-04-19",
+    "document_type": "Statement",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf9/K090277.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K090277",
+    "sha256": "078e34408441897e21e7c6ebbd5ca559cef059f78a227c297a1df9a6585b84ca",
+    "page_count": 3,
+    "native_pages": 3,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n4 Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room W-066-0609\nSilver Spring, MD 20993-0002\nNatus Medical Incorporated\nc/o Ms. Goldy, Singh APR 19 201,\nDirector of Quality and Regulatory tl\n2568 Bristol Circle\nOakville, Ontario\nCanada L6H 551\nRe: K090277\nTrade/Device Name: Natus Sleep Works\nRegulation Number: 21 CER 882.1400\nRegulation Name: Automatic Event Detection Software for Polysomnograph with\nElectroencephalograph\nRegulatory Class: Class 11\nProduct Code: OLZ\nDated: October 1, 2010\nReceived: November 30, 2010\nDear Ms. Singh:\nWe have reviewed your Section 5 10(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class 11 (Special Controls) or class III (PMA), it\nmay be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 2027
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "Page 2 - Ms. Goldy Singh\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that Your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act's requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CER Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CER 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 53 1-542 of the Act); 21 CFR 1000-1050.\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www .fda. gov,/AbouitFDA/CentersOffices/CDRHICDRH-Offices/ucml 115809.htm for\nthe Center for Devices and Radiological Health's (CDRH's) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification\" (2 1 CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 80'3), please go to\nlhttp://www.fdajzov/Medical Devices/Safety/ReportaProblem/def-ault.lhtm for the CDRH' s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://wwwv.fda.g~ov/MedicalDevices/ResourcesforYou/Industrv/default.htni\nSincerely yours,\nMalvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health\nEnclosure",
+      "character_count": 1959
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "Indications for Use\n510(k) Number (if known):_K090277\nDevice Name: Natus SleepWorks\nIndications For Use:\nThe Sleepworks software works in conjunction with Connex, Trex or Netlink amplifiers\nintended for polysomnography studies. The software allows recording, displaying,\nanalysis, printing and storage of physiological signals to assist in the diagnosis of various\nsleep disorders and sleep related respiratory disorders.\nThe Sleepwdrks allows:\n\" Automated analysis of physiological signals that is intended for use only in adults.\n\" Ani optional Audio / visual alert for user defined threshold onl calibrated DC input.\nThese alerts are not intended for use as life support such as vital signs monitoring\nor continuous medical surveillance inl intensive care units.\n\" Sleep report templates are provided which summarize recorded and scored sleep\ndata using simple measures including count, average, maximum and minimum\nvalues as welt as data ranges for trendled values;\nSleep Works software does not provide any diagnostic conclusion about the patient's\ncondition and is intended to be used only by qualified and trained medical practitioners.\nin research and clinical environments.\nPrescription Use ___X__ AND/OR Over-The-Counter Use _ __\n(Part 21 CFR 801 Subpart 0) (21 CFR 801 Subpart C)\n(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF\nNEEDED)\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n(Division Sign-Offi\nDivision of Ophthalmic, Neurological and Ear,\nNose and Throat Devices\n51O(k)Number 0 0 C Z 7 Page 1 of _1_",
+      "character_count": 1545
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K090277-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n4 Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room W-066-0609\nSilver Spring, MD 20993-0002\nNatus Medical Incorporated\nc/o Ms. Goldy, Singh APR 19 201,\nDirector of Quality and Regulatory tl\n2568 Bristol Circle\nOakville, Ontario\nCanada L6H 551\nRe: K090277\nTrade/Device Name: Natus Sleep Works\nRegulation Number: 21 CER 882.1400\nRegulation Name: Automatic Event Detection Software for Polysomnograph with\nElectroencephalograph\nRegulatory Class: Class 11\nProduct Code: OLZ\nDated: October 1, 2010\nReceived: November 30, 2010\nDear Ms. Singh:\nWe have reviewed your Section 5 10(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class 11 (Special Controls) or class III (PMA), it\nmay be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 2027
+    },
+    {
+      "block_id": "K090277-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Page 2 - Ms. Goldy Singh\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that Your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act's requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CER Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CER 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 53 1-542 of the Act); 21 CFR 1000-1050.\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www .fda. gov,/AbouitFDA/CentersOffices/CDRHICDRH-Offices/ucml 115809.htm for\nthe Center for Devices and Radiological Health's (CDRH's) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification\" (2 1 CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 80'3), please go to\nlhttp://www.fdajzov/Medical Devices/Safety/ReportaProblem/def-ault.lhtm for the CDRH' s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://wwwv.fda.g~ov/MedicalDevices/ResourcesforYou/Industrv/default.htni\nSincerely yours,\nMalvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health\nEnclosure",
+      "extraction_method": "native",
+      "character_count": 1959
+    },
+    {
+      "block_id": "K090277-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Indications for Use\n510(k) Number (if known):_K090277\nDevice Name: Natus SleepWorks\nIndications For Use:\nThe Sleepworks software works in conjunction with Connex, Trex or Netlink amplifiers\nintended for polysomnography studies. The software allows recording, displaying,\nanalysis, printing and storage of physiological signals to assist in the diagnosis of various\nsleep disorders and sleep related respiratory disorders.\nThe Sleepwdrks allows:\n\" Automated analysis of physiological signals that is intended for use only in adults.\n\" Ani optional Audio / visual alert for user defined threshold onl calibrated DC input.\nThese alerts are not intended for use as life support such as vital signs monitoring\nor continuous medical surveillance inl intensive care units.\n\" Sleep report templates are provided which summarize recorded and scored sleep\ndata using simple measures including count, average, maximum and minimum\nvalues as welt as data ranges for trendled values;\nSleep Works software does not provide any diagnostic conclusion about the patient's\ncondition and is intended to be used only by qualified and trained medical practitioners.\nin research and clinical environments.\nPrescription Use ___X__ AND/OR Over-The-Counter Use _ __\n(Part 21 CFR 801 Subpart 0) (21 CFR 801 Subpart C)\n(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF\nNEEDED)\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n(Division Sign-Offi\nDivision of Ophthalmic, Neurological and Ear,\nNose and Throat Devices\n51O(k)Number 0 0 C Z 7 Page 1 of _1_",
+      "extraction_method": "native",
+      "character_count": 1545
+    }
+  ],
+  "claims": []
+}

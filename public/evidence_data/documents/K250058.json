@@ -1,0 +1,757 @@
+{
+  "document": {
+    "k_number": "K250058",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "NEAT 001",
+    "applicant": "Brain Electrophysiology Laboratory Company, LLC",
+    "decision_date": "2025-04-10",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K250058.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K250058",
+    "sha256": "514205d2d0b5382200968f9386f44338bab1d3836d6ba74d5922895142f26817",
+    "page_count": 11,
+    "native_pages": 11,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 07 . 0 5 \nSilver Spring, MD 20993 \nwww.fda.gov \n\n\n\n\n\n\nApril 10, 2025 \n\nBrain Electrophysiology Laboratory Company, LLC \nRoman Shusterman \nChief Technology Officer \n440 E Broadway, Suite 200 \nEugene, Oregon 97401 \n\n\nRe: K250058 \nTrade/Device Name: NEAT 001 \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: January 10, 2025 \nReceived: January 10, 2025 \n\nDear Roman Shusterman: \n\nWe have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register. \n\n\nAdditional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\"",
+      "character_count": 2476
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K250058 - Roman Shusterman Page \n\n2 \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download). \n\nYour device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part \n820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming \nproduct; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a \nchange requires premarket review, the QS regulation requires device manufacturers to review and approve \nchanges to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and \napprovals in the device master record (21 CFR 820.181). \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart \nA) for combination products; and, if applicable, the electronic product radiation control provisions (Sections \n531-542 of the Act); 21 CFR Parts 1000-1050. \n\nAll medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system. \n\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \n\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "character_count": 3932
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "K250058 - Roman Shusterman Page \n\n3 \nSincerely, \n\n\n\n\nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health \n\nEnclosure \n\n\nJay R. Gupta -S",
+      "character_count": 346
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HEALTH AND HUMAN SERVICES\nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 07/31/2026\nSee PRA Statement below.\nSubmission Number (if known)\nI\nDevice Name\nI NEAT 001\nIndications for Use (Describe)\nAutomatic scoring of sleep EEG data to identify stages of sleep according the American Academy of\nSleep Medicine definitions, rules and guidelines. It is to be used with adult populations.\nType of Use (Select one or both, as applicable)\nZPrescription Use (Part 21 CFR 801 Subpart D) ] Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\"",
+      "character_count": 1515
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "Page 1 K250058 \n\n\n510(K) Summary \n\n1. SUBMITTER \nSubmitter Name: \nAddress: \nPhone Number: \nContact Person: \nDate Prepared: \nBrain Electrophysiology Laboratory Company, LLC \n440 E Broadway, Eugene, OR 97401 \n541-653-9797 \nDr. Phan Luu \nApril 07 2025 \n2. DEVICE \nDevice Trade Name: \nCommon Name: \nClassification Name, \nNumber & \nProduct Code: \nClass: \nClassification Panel: \nNEAT 001 \nAutomatic Event Detection Software For \nPolysomnograph With Electroencephalograph \nElectroencephalograph\n\n21 CFR 882.1400 \nOLZ \nII \nNeurology \n3. PREDICATE DEVICES \nPrimary Predicate Device: \nIntended use: \nK162627 \nEnsoSleep is intended for use for the diagnostic \nevaluation by a physician to assess sleep quality \nand as an aid for the diagnosis of sleep and \nrespiratory related sleep disorders in adults only. \nEnsoSleep is a software-only medical device to be \nused under the supervision of a clinician to analyze \nphysiological signals and automatically score \nsleep study results, including the staging of sleep, \ndetection of arousals, leg movements, and sleep \ndisordered breathing events including obstructive \napneas. All automatically scored events are \nsubject to verification by a qualified clinician.\n\nCentral apneas, mixed apneas, and hypopneas \nmust be manually marked within records. \nThe primary predicate device has not been subject to a design-related recall.",
+      "character_count": 1364
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "Page 2 K250058 \n\n4. DEVICE DESCRIPTION \nThe Neurosom EEG Assessment Technology (NEAT) is a medical device software \napplication that allows users to perform sleep staging post-EEG acquisition. NEAT allows \nusers to review sleep stages on scored MFF files and perform sleep scoring on unscored \nMFF files. \nNEAT software is designed in a client-server model and comprises a User Interface (UI) \nthat runs on a Chrome web browser in the client computer and a Command Line Interface \n(CLI) software that runs on a Forward-Looking Operations Workflow (FLOW) server. \n\nThe user interacts with the NEAT UI through the FLOW front-end application to initiate the \nNEAT workflow on unscored MFF files and visualize sleep-scoring results. Sleep stages are \nscored by the containerized neat-cli software on the FLOW server using the EEG data. The \nsleep stages are then added to the input MFF file as an event track file in XML format. Once \nthe new event track file is created, the NEAT UI component retrieves the sleep events from \nthe FLOW server and displays a hypnogram (visual representation of sleep stages over \ntime) on the screen, along with sleep statistics and other subject details. Additionally, a \nsummary of the sleep scoring is automatically generated and added to the same \nparticipant in the FLOW server in PDF format.\n\n\n\nFigure 1. Architecture Overview of NEAT for post-acquisition mode. \n\nModules description \nNEAT UI: \nThe graphical user interface for the NEAT workflow is accessible through the FLOW front- \nend application, which is served by FLOW’s web server. NEAT UI communicates with the \nFLOW server through a RESTful API to run the NEAT workflow and retrieve sleep staging \nresults.",
+      "character_count": 1701
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Page 3 K250058 \n\nRESTful API: \nThe FLOW API runs on the FLOW server and is the primary back end for the application. It is \na RESTful API and communicates over HTTP. \nneat-cli: \nThe neat-cli software runs on the FLOW server as an executable Docker container and \nleverages Python libraries for identifying stages of sleep on MFF files using Machine \nLearning (ML). The neat-cli container interacts with the FLOW API to start the NEAT \nworkflow and store sleep staging results on the database. \nFLOW Database: \n\nAll data that the NEAT workflow uses to perform ML sleep staging is stored in a Mongo DB \ndatabase on the FLOW server. \n\n5. INDICATIONS FOR USE \n\nAutomatically scoring of sleep EEG data to identify stages of sleep according to the \nAmerican Academy of Sleep Medicine definitions, rules and guidelines. It is to be used \nwith adult populations. \n\n6. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH PREDICATE \nDEVICE \n\nNew Device Predicate Device \nDevice Name NEAT EnsoSleep \n510(k) \nnumber \nK162627 \nManufacturer BELCo, LLC EnsoData, Inc. \nRegulation \nname \nElectroencephalograph Electroencephalograph \nProduct code OLZ OLZ \nRegulatory \nclass \nClass II Class II",
+      "character_count": 1172
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Page 4 K250058 \n\n\nRegulation \nnumber \n21 CFR 882.1400 21 CFR 882.1400 \nSoftware \nonly \nYes Yes \nIndication for \nuse \nAutomatically scoring of sleep \nEEG data to identify stages of \nsleep according to the American \nAcademy of Sleep Medicine \ndefinitions, rules and \nguidelines. It is to be used with \nadult populations. \nEnsoSleep is intended for use for diagnostic \nevaluation by a physician to assess sleep \nquality and as an aid for the diagnosis of sleep \nand respiratory related sleep disorders in \nadults only. EnsoSleep is a software-only \nmedical device to be used under the \nsupervision of a clinician to analyze \nphysiological signals and automatically score \nsleep study results, including the staging of \nsleep, detection of arousals, leg movements, \nand sleep disordered breathing events \nincluding obstructive apneas. All \nautomatically scored events are subject to \nverification by a qualified clinician. Central \napneas, mixed apneas, and hypopneas must \nbe manually marked within records.\n\nEnvironment \nfor Use \nPhysician office or at home \nDerived \nSignals \nSleep stages: Rapid eye \nmovement (REM), non-REM (N1, \nN2, N3) and wake \nSleep stages: Rapid eye movement (REM), \nnon-REM (N1, N2, N3) and wake \nSleep \nMeasures \n• Sleep, REM and N3 onset \n• Total sleep and recording \ntimes \n• Sleep efficiency \n• % time by sleep stage \n\nSleep staging Based on one forehead EEG \nsignals to differentiate Wake (W), \nREM (R), NREM stage 1 (N1),\n\nNREM stage 2 (N2) and slow wave \nsleep (N3, includes both stages 3 \nand 4) \nNot known if classification of sleep stages can \noperate on forehead EEG. Automated method, \nhowever, can differentiate Wake (W), REM (R), \nNREM stage 1 (N1), NREM stage 2 (N2) and \nslow wave sleep (N3, includes both stages 3 \nand 4)\n\n\nTable 1: Comparison of the new device to the predicate device",
+      "character_count": 1825
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "Page 5 K250058 \n\n7. PERFORMANCE DATA \nSummary of Non-Clinical Testing \n\nValidation testing involved algorithm testing, which validated NEAT's accuracy. The \nproduct was deemed fit for clinical use. \nNEAT was designed and developed as recommended by the FDA’s Guidance, “Guidance \nfor the Content of Premarket Submissions for Software Contained in Medical Device”. \nAccording to the AAMI/ANSI/IEC 62304 Standard, NEAT safety classification has been set \nto Class B. \"Basic Documentation Level\" applied to this device. \n\nSummary of Clinical Testing \n\nNEAT and EnsoSleep Performance Evaluation Method \n\nEnsoSleep: All data files were scored by EnsoSleep and sleep scores for each 30 second \nepoch were returned in JSON format. EnsoData uses a software-as-a-service model, \nwhere a client uploads PSG data to a cloud server and annotation files are output on the \ncloud server for the client to download.\n\n\nNEAT: All data files were scored by NEAT and sleep scores for each 30-second epoch were \nlabeled with a sleep stage. \nOnce the files were scored, performance on a segment-by-segment basis was compared \nagainst the established gold standard. Evaluation was performed by computing sensitivity \nperformance (positive agreement--PA), specificity (negative agreement--NA), and overall \nagreement (OA) metrics for each data set (i.e., for different EEG systems). For each metric, \nwe compute the bootstrapped (R=2000 resamples) median-point estimates and 95% \nconfidence intervals. The 95% confidence interval was defined as the threshold values \ncutting off the top and bottom 2.5% of values.\n\nSensitivity was calculated by dividing the number of true positives (e.g., number of \nsegments that NEAT correctly classified as N3) by the number of real positive cases (e.g., \ntotal number of segments classified as N3). Specificity (negative agreement--NA) was \ncalculated by dividing the number of true negatives (e.g., number of segments which NEAT \nclassified as not N3) by the number of real negative cases (e.g., number of epochs not \nclassified as N3). OA was defined as the sum of all positive epochs (i.e., number of epochs \nthat was correctly classified as a particular sleep stage) and negative epochs (i.e., number \nof epochs correctly classified as not being part of a particular sleep stages) divided by the \ntotal number of epochs.\n\nNEAT vs EnsoSleep Overall Performance Comparisons",
+      "character_count": 2390
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "Page 6 K250058 \n\nFigure 2 shows confusion matrices for EnsoSleep (left) and NEAT (right) across the two \ndata sets. NEAT was more accurate at classifying Wake, N1, and N3 sleep stages. On the \nother hand, EnsoSleep is better at classifying REM (R) and N2 sleep stages. \n\nEnsoSleep NEAT \nFigure 2. Confusion matrices for EnsoSleep (left) and NEAT (right) performance by sleep \nstage for across data sets. Median performance and 95% confidence interval (CI) are \nshown. Wa=Wake, R=REM. \n\nIn general, although there were different accuracies for different sleep stages for NEAT \nversus ENSO Sleep, these were largely within the range of differences that would be \nexpected among expert human raters. We conclude that there is substantial equivalence \nbetween NEAT and the predicate ENSO Sleep.\n\nThe more specific findings are: \n1) NEAT and EnsoSleep performed in an equivalent manner for correctly classifying Wake \nstate EEG (1-2% difference depending on data set). This difference was within the range of \nhuman agreement variability. \n2) EnsoSleep performed better (3-4% difference depending on data set) classifying REM \nstate EEG. \n3) EnsoSleep was better than NEAT in overall performance (4-7%) and specificity (5-9%) for \nclassifying N1 sleep. However, only in the BEL data set was this difference bigger than the \ndifference observed for human agreement. Moreover, sensitivity was substantially worse \nthan NEAT (8-20%).\n\n4) EnsoSleep was marginally better (5%) at classifying N2 sleep only for the BEL data set \nwhen compared to human agreement variability. Results showed EnsoSleep is more \nsensitive (22%) but less specific (9-11%) than NEAT.",
+      "character_count": 1650
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "Page 7 K250058 \n\n5) EnsoSleep and NEAT were equivalent (1% difference) in overall performance for N3 \nclassification, with EnsoSleep being better (1%) for the BEL data set and NEAT being better \n(1%) for the CSF data set. Sensitivity is substantially better for NEAT across the two data \nsets (15-39%) compared to EnsoSleep, whereas specificity was marginally better for \nEnsoSleep (3-4%). \n6) EnsoSleep sensitivity for N3 sleep is greatly affected by the data set. This may raise \nconcerns about generalizability. \n\nImplications of the Specific Differences Between ENSO Sleep and NEAT \n\nNEAT and EnsoSleep are equivalent in functional features with regard to automated \nstaging of sleep from EEG data. NEAT does not detect leg movements or sleep disordered \nbreathing. With regards to equivalent functional features, although there were statistically \nsignificant differences in performance between the two devices, due to the very small \nconfidence interval estimates from the large resampling number, the differences are best \ninterpreted practically. To provide context for practicality, we compare the differences \nbetween NEAT and EnsoSleep with the range of human differences (i.e., agreement) and \nfound that for the CSF dataset the only practical difference was for REM. Even in this case, \nthe difference between the two devices is 3%.\n\n\nIn general, although there were different accuracies for different sleep stages for NEAT \nversus ENSO Sleep, these were largely within the range of differences that would be \nexpected among expert human raters. We conclude that there is substantial equivalence \nbetween NEAT and the predicate ENSO Sleep.\n\n\n\n8. CONCLUSION \n\nThe information discussed above and provided in the 510(k) submission demonstrate that \nthe NEAT device is substantially equivalent to the predicate.",
+      "character_count": 1821
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K250058-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 07 . 0 5 \nSilver Spring, MD 20993 \nwww.fda.gov",
+      "extraction_method": "native",
+      "character_count": 130
+    },
+    {
+      "block_id": "K250058-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "April 10, 2025",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K250058-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Brain Electrophysiology Laboratory Company, LLC \nRoman Shusterman \nChief Technology Officer \n440 E Broadway, Suite 200 \nEugene, Oregon 97401",
+      "extraction_method": "native",
+      "character_count": 140
+    },
+    {
+      "block_id": "K250058-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K250058 \nTrade/Device Name: NEAT 001 \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: January 10, 2025 \nReceived: January 10, 2025",
+      "extraction_method": "native",
+      "character_count": 216
+    },
+    {
+      "block_id": "K250058-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Dear Roman Shusterman:",
+      "text": "Dear Roman Shusterman:",
+      "extraction_method": "native",
+      "character_count": 22
+    },
+    {
+      "block_id": "K250058-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "We have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "native",
+      "character_count": 1351
+    },
+    {
+      "block_id": "K250058-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K250058-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "Additional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\"",
+      "extraction_method": "native",
+      "character_count": 205
+    },
+    {
+      "block_id": "K250058-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "K250058 - Roman Shusterman Page",
+      "extraction_method": "native",
+      "character_count": 31
+    },
+    {
+      "block_id": "K250058-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "2 \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download).",
+      "extraction_method": "native",
+      "character_count": 173
+    },
+    {
+      "block_id": "K250058-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part \n820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming \nproduct; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a \nchange requires premarket review, the QS regulation requires device manufacturers to review and approve \nchanges to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and \napprovals in the device master record (21 CFR 820.181).",
+      "extraction_method": "native",
+      "character_count": 579
+    },
+    {
+      "block_id": "K250058-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart \nA) for combination products; and, if applicable, the electronic product radiation control provisions (Sections \n531-542 of the Act); 21 CFR Parts 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 1100
+    },
+    {
+      "block_id": "K250058-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "All medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.",
+      "extraction_method": "native",
+      "character_count": 920
+    },
+    {
+      "block_id": "K250058-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems.",
+      "extraction_method": "native",
+      "character_count": 351
+    },
+    {
+      "block_id": "K250058-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "For comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "extraction_method": "native",
+      "character_count": 760
+    },
+    {
+      "block_id": "K250058-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "K250058 - Roman Shusterman Page",
+      "extraction_method": "native",
+      "character_count": 31
+    },
+    {
+      "block_id": "K250058-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "3 \nSincerely,",
+      "extraction_method": "native",
+      "character_count": 13
+    },
+    {
+      "block_id": "K250058-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "Jay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health",
+      "extraction_method": "native",
+      "character_count": 262
+    },
+    {
+      "block_id": "K250058-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "Enclosure",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K250058-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "Jay R. Gupta -S",
+      "extraction_method": "native",
+      "character_count": 15
+    },
+    {
+      "block_id": "K250058-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "DEPARTMENT OF HEALTH AND HUMAN SERVICES\nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 07/31/2026\nSee PRA Statement below.\nSubmission Number (if known)\nI\nDevice Name\nI NEAT 001\nIndications for Use (Describe)\nAutomatic scoring of sleep EEG data to identify stages of sleep according the American Academy of\nSleep Medicine definitions, rules and guidelines. It is to be used with adult populations.\nType of Use (Select one or both, as applicable)\nZPrescription Use (Part 21 CFR 801 Subpart D) ] Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\"",
+      "extraction_method": "native",
+      "character_count": 1515
+    },
+    {
+      "block_id": "K250058-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Roman Shusterman:",
+      "text": "Page 1 K250058",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K250058-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "510(K) Summary",
+      "text": "510(K) Summary",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K250058-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "1. SUBMITTER \nSubmitter Name: \nAddress: \nPhone Number: \nContact Person: \nDate Prepared: \nBrain Electrophysiology Laboratory Company, LLC \n440 E Broadway, Eugene, OR 97401 \n541-653-9797 \nDr. Phan Luu \nApril 07 2025 \n2. DEVICE \nDevice Trade Name: \nCommon Name: \nClassification Name, \nNumber & \nProduct Code: \nClass: \nClassification Panel: \nNEAT 001 \nAutomatic Event Detection Software For \nPolysomnograph With Electroencephalograph \nElectroencephalograph",
+      "extraction_method": "native",
+      "character_count": 452
+    },
+    {
+      "block_id": "K250058-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "21 CFR 882.1400 \nOLZ \nII \nNeurology \n3. PREDICATE DEVICES \nPrimary Predicate Device: \nIntended use: \nK162627 \nEnsoSleep is intended for use for the diagnostic \nevaluation by a physician to assess sleep quality \nand as an aid for the diagnosis of sleep and \nrespiratory related sleep disorders in adults only. \nEnsoSleep is a software-only medical device to be \nused under the supervision of a clinician to analyze \nphysiological signals and automatically score \nsleep study results, including the staging of sleep, \ndetection of arousals, leg movements, and sleep \ndisordered breathing events including obstructive \napneas. All automatically scored events are \nsubject to verification by a qualified clinician.",
+      "extraction_method": "native",
+      "character_count": 710
+    },
+    {
+      "block_id": "K250058-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Central apneas, mixed apneas, and hypopneas \nmust be manually marked within records. \nThe primary predicate device has not been subject to a design-related recall.",
+      "extraction_method": "native",
+      "character_count": 163
+    },
+    {
+      "block_id": "K250058-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Page 2 K250058",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K250058-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "4. DEVICE DESCRIPTION \nThe Neurosom EEG Assessment Technology (NEAT) is a medical device software \napplication that allows users to perform sleep staging post-EEG acquisition. NEAT allows \nusers to review sleep stages on scored MFF files and perform sleep scoring on unscored \nMFF files. \nNEAT software is designed in a client-server model and comprises a User Interface (UI) \nthat runs on a Chrome web browser in the client computer and a Command Line Interface \n(CLI) software that runs on a Forward-Looking Operations Workflow (FLOW) server.",
+      "extraction_method": "native",
+      "character_count": 544
+    },
+    {
+      "block_id": "K250058-P006-B003",
+      "page": 6,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "The user interacts with the NEAT UI through the FLOW front-end application to initiate the \nNEAT workflow on unscored MFF files and visualize sleep-scoring results. Sleep stages are \nscored by the containerized neat-cli software on the FLOW server using the EEG data. The \nsleep stages are then added to the input MFF file as an event track file in XML format. Once \nthe new event track file is created, the NEAT UI component retrieves the sleep events from \nthe FLOW server and displays a hypnogram (visual representation of sleep stages over \ntime) on the screen, along with sleep statistics and other subject details. Additionally, a \nsummary of the sleep scoring is automatically generated and added to the same \nparticipant in the FLOW server in PDF format.",
+      "extraction_method": "native",
+      "character_count": 762
+    },
+    {
+      "block_id": "K250058-P006-B004",
+      "page": 6,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Figure 1. Architecture Overview of NEAT for post-acquisition mode.",
+      "extraction_method": "native",
+      "character_count": 66
+    },
+    {
+      "block_id": "K250058-P006-B005",
+      "page": 6,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Modules description \nNEAT UI: \nThe graphical user interface for the NEAT workflow is accessible through the FLOW front- \nend application, which is served by FLOW’s web server. NEAT UI communicates with the \nFLOW server through a RESTful API to run the NEAT workflow and retrieve sleep staging \nresults.",
+      "extraction_method": "native",
+      "character_count": 302
+    },
+    {
+      "block_id": "K250058-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Page 3 K250058",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K250058-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "RESTful API: \nThe FLOW API runs on the FLOW server and is the primary back end for the application. It is \na RESTful API and communicates over HTTP. \nneat-cli: \nThe neat-cli software runs on the FLOW server as an executable Docker container and \nleverages Python libraries for identifying stages of sleep on MFF files using Machine \nLearning (ML). The neat-cli container interacts with the FLOW API to start the NEAT \nworkflow and store sleep staging results on the database. \nFLOW Database:",
+      "extraction_method": "native",
+      "character_count": 491
+    },
+    {
+      "block_id": "K250058-P007-B003",
+      "page": 7,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "All data that the NEAT workflow uses to perform ML sleep staging is stored in a Mongo DB \ndatabase on the FLOW server.",
+      "extraction_method": "native",
+      "character_count": 118
+    },
+    {
+      "block_id": "K250058-P007-B004",
+      "page": 7,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "5. INDICATIONS FOR USE",
+      "extraction_method": "native",
+      "character_count": 22
+    },
+    {
+      "block_id": "K250058-P007-B005",
+      "page": 7,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "Automatically scoring of sleep EEG data to identify stages of sleep according to the \nAmerican Academy of Sleep Medicine definitions, rules and guidelines. It is to be used \nwith adult populations.",
+      "extraction_method": "native",
+      "character_count": 197
+    },
+    {
+      "block_id": "K250058-P007-B006",
+      "page": 7,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "6. COMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH PREDICATE \nDEVICE",
+      "extraction_method": "native",
+      "character_count": 69
+    },
+    {
+      "block_id": "K250058-P007-B007",
+      "page": 7,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "New Device Predicate Device \nDevice Name NEAT EnsoSleep \n510(k) \nnumber \nK162627 \nManufacturer BELCo, LLC EnsoData, Inc. \nRegulation \nname \nElectroencephalograph Electroencephalograph \nProduct code OLZ OLZ \nRegulatory \nclass \nClass II Class II",
+      "extraction_method": "native",
+      "character_count": 243
+    },
+    {
+      "block_id": "K250058-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "Page 4 K250058",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K250058-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "Regulation \nnumber \n21 CFR 882.1400 21 CFR 882.1400 \nSoftware \nonly \nYes Yes \nIndication for \nuse \nAutomatically scoring of sleep \nEEG data to identify stages of \nsleep according to the American \nAcademy of Sleep Medicine \ndefinitions, rules and \nguidelines. It is to be used with \nadult populations. \nEnsoSleep is intended for use for diagnostic \nevaluation by a physician to assess sleep \nquality and as an aid for the diagnosis of sleep \nand respiratory related sleep disorders in \nadults only. EnsoSleep is a software-only \nmedical device to be used under the \nsupervision of a clinician to analyze \nphysiological signals and automatically score \nsleep study results, including the staging of \nsleep, detection of arousals, leg movements, \nand sleep disordered breathing events \nincluding obstructive apneas. All \nautomatically scored events are subject to \nverification by a qualified clinician. Central \napneas, mixed apneas, and hypopneas must \nbe manually marked within records.",
+      "extraction_method": "native",
+      "character_count": 986
+    },
+    {
+      "block_id": "K250058-P008-B003",
+      "page": 8,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "Environment \nfor Use \nPhysician office or at home \nDerived \nSignals \nSleep stages: Rapid eye \nmovement (REM), non-REM (N1, \nN2, N3) and wake \nSleep stages: Rapid eye movement (REM), \nnon-REM (N1, N2, N3) and wake \nSleep \nMeasures \n• Sleep, REM and N3 onset \n• Total sleep and recording \ntimes \n• Sleep efficiency \n• % time by sleep stage",
+      "extraction_method": "native",
+      "character_count": 337
+    },
+    {
+      "block_id": "K250058-P008-B004",
+      "page": 8,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "Sleep staging Based on one forehead EEG \nsignals to differentiate Wake (W), \nREM (R), NREM stage 1 (N1),",
+      "extraction_method": "native",
+      "character_count": 104
+    },
+    {
+      "block_id": "K250058-P008-B005",
+      "page": 8,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "NREM stage 2 (N2) and slow wave \nsleep (N3, includes both stages 3 \nand 4) \nNot known if classification of sleep stages can \noperate on forehead EEG. Automated method, \nhowever, can differentiate Wake (W), REM (R), \nNREM stage 1 (N1), NREM stage 2 (N2) and \nslow wave sleep (N3, includes both stages 3 \nand 4)",
+      "extraction_method": "native",
+      "character_count": 309
+    },
+    {
+      "block_id": "K250058-P008-B006",
+      "page": 8,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "Table 1: Comparison of the new device to the predicate device",
+      "extraction_method": "native",
+      "character_count": 61
+    },
+    {
+      "block_id": "K250058-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "Page 5 K250058",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K250058-P009-B002",
+      "page": 9,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "7. PERFORMANCE DATA \nSummary of Non-Clinical Testing",
+      "extraction_method": "native",
+      "character_count": 52
+    },
+    {
+      "block_id": "K250058-P009-B003",
+      "page": 9,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "5. INDICATIONS FOR USE",
+      "text": "Validation testing involved algorithm testing, which validated NEAT's accuracy. The \nproduct was deemed fit for clinical use. \nNEAT was designed and developed as recommended by the FDA’s Guidance, “Guidance \nfor the Content of Premarket Submissions for Software Contained in Medical Device”. \nAccording to the AAMI/ANSI/IEC 62304 Standard, NEAT safety classification has been set \nto Class B. \"Basic Documentation Level\" applied to this device.",
+      "extraction_method": "native",
+      "character_count": 444
+    },
+    {
+      "block_id": "K250058-P009-B004",
+      "page": 9,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "Summary of Clinical Testing",
+      "text": "Summary of Clinical Testing",
+      "extraction_method": "native",
+      "character_count": 27
+    },
+    {
+      "block_id": "K250058-P009-B005",
+      "page": 9,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "NEAT and EnsoSleep Performance Evaluation Method",
+      "extraction_method": "native",
+      "character_count": 48
+    },
+    {
+      "block_id": "K250058-P009-B006",
+      "page": 9,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "EnsoSleep: All data files were scored by EnsoSleep and sleep scores for each 30 second \nepoch were returned in JSON format. EnsoData uses a software-as-a-service model, \nwhere a client uploads PSG data to a cloud server and annotation files are output on the \ncloud server for the client to download.",
+      "extraction_method": "native",
+      "character_count": 300
+    },
+    {
+      "block_id": "K250058-P009-B007",
+      "page": 9,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "NEAT: All data files were scored by NEAT and sleep scores for each 30-second epoch were \nlabeled with a sleep stage. \nOnce the files were scored, performance on a segment-by-segment basis was compared \nagainst the established gold standard. Evaluation was performed by computing sensitivity \nperformance (positive agreement--PA), specificity (negative agreement--NA), and overall \nagreement (OA) metrics for each data set (i.e., for different EEG systems). For each metric, \nwe compute the bootstrapped (R=2000 resamples) median-point estimates and 95% \nconfidence intervals. The 95% confidence interval was defined as the threshold values \ncutting off the top and bottom 2.5% of values.",
+      "extraction_method": "native",
+      "character_count": 687
+    },
+    {
+      "block_id": "K250058-P009-B008",
+      "page": 9,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "Sensitivity was calculated by dividing the number of true positives (e.g., number of \nsegments that NEAT correctly classified as N3) by the number of real positive cases (e.g., \ntotal number of segments classified as N3). Specificity (negative agreement--NA) was \ncalculated by dividing the number of true negatives (e.g., number of segments which NEAT \nclassified as not N3) by the number of real negative cases (e.g., number of epochs not \nclassified as N3). OA was defined as the sum of all positive epochs (i.e., number of epochs \nthat was correctly classified as a particular sleep stage) and negative epochs (i.e., number \nof epochs correctly classified as not being part of a particular sleep stages) divided by the \ntotal number of epochs.",
+      "extraction_method": "native",
+      "character_count": 747
+    },
+    {
+      "block_id": "K250058-P009-B009",
+      "page": 9,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "NEAT vs EnsoSleep Overall Performance Comparisons",
+      "extraction_method": "native",
+      "character_count": 49
+    },
+    {
+      "block_id": "K250058-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "Page 6 K250058",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K250058-P010-B002",
+      "page": 10,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "Figure 2 shows confusion matrices for EnsoSleep (left) and NEAT (right) across the two \ndata sets. NEAT was more accurate at classifying Wake, N1, and N3 sleep stages. On the \nother hand, EnsoSleep is better at classifying REM (R) and N2 sleep stages.",
+      "extraction_method": "native",
+      "character_count": 251
+    },
+    {
+      "block_id": "K250058-P010-B003",
+      "page": 10,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "EnsoSleep NEAT \nFigure 2. Confusion matrices for EnsoSleep (left) and NEAT (right) performance by sleep \nstage for across data sets. Median performance and 95% confidence interval (CI) are \nshown. Wa=Wake, R=REM.",
+      "extraction_method": "native",
+      "character_count": 212
+    },
+    {
+      "block_id": "K250058-P010-B004",
+      "page": 10,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "In general, although there were different accuracies for different sleep stages for NEAT \nversus ENSO Sleep, these were largely within the range of differences that would be \nexpected among expert human raters. We conclude that there is substantial equivalence \nbetween NEAT and the predicate ENSO Sleep.",
+      "extraction_method": "native",
+      "character_count": 304
+    },
+    {
+      "block_id": "K250058-P010-B005",
+      "page": 10,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "The more specific findings are: \n1) NEAT and EnsoSleep performed in an equivalent manner for correctly classifying Wake \nstate EEG (1-2% difference depending on data set). This difference was within the range of \nhuman agreement variability. \n2) EnsoSleep performed better (3-4% difference depending on data set) classifying REM \nstate EEG. \n3) EnsoSleep was better than NEAT in overall performance (4-7%) and specificity (5-9%) for \nclassifying N1 sleep. However, only in the BEL data set was this difference bigger than the \ndifference observed for human agreement. Moreover, sensitivity was substantially worse \nthan NEAT (8-20%).",
+      "extraction_method": "native",
+      "character_count": 633
+    },
+    {
+      "block_id": "K250058-P010-B006",
+      "page": 10,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "4) EnsoSleep was marginally better (5%) at classifying N2 sleep only for the BEL data set \nwhen compared to human agreement variability. Results showed EnsoSleep is more \nsensitive (22%) but less specific (9-11%) than NEAT.",
+      "extraction_method": "native",
+      "character_count": 223
+    },
+    {
+      "block_id": "K250058-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "Page 7 K250058",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K250058-P011-B002",
+      "page": 11,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "5) EnsoSleep and NEAT were equivalent (1% difference) in overall performance for N3 \nclassification, with EnsoSleep being better (1%) for the BEL data set and NEAT being better \n(1%) for the CSF data set. Sensitivity is substantially better for NEAT across the two data \nsets (15-39%) compared to EnsoSleep, whereas specificity was marginally better for \nEnsoSleep (3-4%). \n6) EnsoSleep sensitivity for N3 sleep is greatly affected by the data set. This may raise \nconcerns about generalizability.",
+      "extraction_method": "native",
+      "character_count": 497
+    },
+    {
+      "block_id": "K250058-P011-B003",
+      "page": 11,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "Implications of the Specific Differences Between ENSO Sleep and NEAT",
+      "extraction_method": "native",
+      "character_count": 68
+    },
+    {
+      "block_id": "K250058-P011-B004",
+      "page": 11,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "NEAT and EnsoSleep are equivalent in functional features with regard to automated \nstaging of sleep from EEG data. NEAT does not detect leg movements or sleep disordered \nbreathing. With regards to equivalent functional features, although there were statistically \nsignificant differences in performance between the two devices, due to the very small \nconfidence interval estimates from the large resampling number, the differences are best \ninterpreted practically. To provide context for practicality, we compare the differences \nbetween NEAT and EnsoSleep with the range of human differences (i.e., agreement) and \nfound that for the CSF dataset the only practical difference was for REM. Even in this case, \nthe difference between the two devices is 3%.",
+      "extraction_method": "native",
+      "character_count": 757
+    },
+    {
+      "block_id": "K250058-P011-B005",
+      "page": 11,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Summary of Clinical Testing",
+      "text": "In general, although there were different accuracies for different sleep stages for NEAT \nversus ENSO Sleep, these were largely within the range of differences that would be \nexpected among expert human raters. We conclude that there is substantial equivalence \nbetween NEAT and the predicate ENSO Sleep.",
+      "extraction_method": "native",
+      "character_count": 304
+    },
+    {
+      "block_id": "K250058-P011-B006",
+      "page": 11,
+      "ordinal": 6,
+      "type": "heading",
+      "section": "8. CONCLUSION",
+      "text": "8. CONCLUSION",
+      "extraction_method": "native",
+      "character_count": 13
+    },
+    {
+      "block_id": "K250058-P011-B007",
+      "page": 11,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "8. CONCLUSION",
+      "text": "The information discussed above and provided in the 510(k) submission demonstrate that \nthe NEAT device is substantially equivalent to the predicate.",
+      "extraction_method": "native",
+      "character_count": 149
+    }
+  ],
+  "claims": []
+}

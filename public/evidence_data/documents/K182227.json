@@ -1,0 +1,329 @@
+{
+  "document": {
+    "k_number": "K182227",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "Esprit Nova",
+    "applicant": "Neurozone Msh Incorporated",
+    "decision_date": "2019-01-17",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf18/K182227.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K182227",
+    "sha256": "753966bf8ad5b2968acabf9fb18306eb883fa25e1f9d7ae7cb0df21674a674ff",
+    "page_count": 18,
+    "native_pages": 18,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "Neurozone MSH Incorporated\nDaniel Rodriguez\nSenior Manager QA/RA\n17 Lantern Lane\nDundas, L9H 6N9 CA\nRe: K182227\nTrade/Device Name: Esprit Nova\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLZ\nDated: November 3, 2018\nReceived: December 18, 2018\nDear Daniel Rodriguez:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. Although this letter refers to your product as a device, please be aware that \nsome cleared products may instead be combination products. The 510(k) Premarket Notification Database \nlocated at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n-DQXDU\\\u0003\u0014\u001a\u000f\u0003\u0015\u0013\u0014",
+      "character_count": 2489
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K182227 - Daniel Rodriguez Page\n\n2\n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for \ndevices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see \nhttps://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good \nmanufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820) \nfor devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if \napplicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-\n1050.\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice \n(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn \n(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and \nConsumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website \n(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone \n(1-800-638-2041 or 301-796-7100).\nSincerely,\nFor Carlos L. Peña, PhD, MS\nDirector\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure \nJay R. Gupta -S",
+      "character_count": 1748
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 06/30/2020\nSee PRA Statement below.\n510(k) Number (if known)\nK182227\nDevice Name\nEspiritNova\nIndications for Use (Describe)\nEsprit Nova is a software-only product intended to assist a physician in the diagnostic evaluation of sleep quality and \nsleep disordered breathing in adults only. Esprit Nova analyzes the physiological signals and automatically scores sleep \nevents; including the stages of sleep, microarousals, snoring, periodic limb movements, desaturations and sleep disordered \nbreathing events apneas, hypopneas, and respiratory event related arousals). This device is to be used under the \nsupervision of a physician. The device does not provide any diagnostic conclusion about the patient's condition.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "character_count": 2002
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "K182227: ESPRIT NOVA \n510K Summary \nDate: November 3rd., 2018 \nSubmitted by: Neurozone MSH Incorporated \n17 Lantern Lane \nDundas, Ontario \nCanada L9H 6N9 \nContact Person: \nDaniel Ramirez \nSenior Manager, Quality Assurance and Regulatory Affairs \nNeurozone MSH Incorporated \nTel.: 2892389696 \nE-mail: daniel.ramirez@neurozonemsh.com\nPropietary Name: EspritNova \nCommon Name: EspritNova \nClassification Name: 882.1400 Electroencephalograph, Automatic Event Detection Software For \nPolysomnograph With Electroencephalograph \nProduct code: OLZ \nDevice Class: II \nPredicate Devices: Sleep Profiler (K153412) \nSandman Elite (for the Limb Movement detector only) (K153353) \nDescription \nEsprit Nova is a software application that analyzes previously recorded physiological signals obtained \nduring sleep. The software can analyze any EDF files acquired with Trackit SleepWalker (K010460) \nCompumedics Somté PSG System( K072201) and/or Sandman (K040113). Automated algorithms are \napplied to the raw signals to interpret the raw signal information. The software automates recognition \nof: \n Sleep stages Rapid Eye Movement (REM), nREM (N1, N2, N3) and wake\n Heart rate\n Snoring\n Sleep/wake\n Body position\n Arousals\n EEG, ECG, EOG, EMG waveforms\n SaO2\n1 of 15",
+      "character_count": 1258
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": " Airflow\n Respiratory Effort\n Apneas and Hypopneas\n Oxygen desaturations.\n Limb movements\nThe software identifies and rejects periods with poor electroencephalography signal quality. \nThe output of the device is a comprehensive sleep study report. Medical and history information can \nbe entered from a questionnaire. The automated analysis of physiological data is integrated with the \nquestionnaire data, medical and history information and included in the report. The Esprit Nova \nanalysis module is hosted on a central server, while the administrative module is a stand-alone \napplication for use on Microsoft Windows 7 (or higher) operating system platforms. The administrative \nmodule works as a local database to keep records of patients’ and to transmit data back and forth to \nthe central server. \nK182227: ESPRIT NOVA \n2 of 15",
+      "character_count": 841
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "Indications for Use \nEsprit Nova is a software-only product intended to assist a physician in the diagnostic \nevaluation of sleep quality and sleep disordered breathing in adults only. Esprit Nova analyzes \nthe physiological signals and automatically scores sleep events; including the stages of sleep, \nmicroarousals, snoring, periodic limb movements, desaturations and sleep disordered \nbreathing events apneas, hypopneas, and respiratory event related arousals). \nThis device is to be used under the supervision of a physician. \nThe device does not provide any diagnostic conclusion about the patient's condition. \nK182227: ESPRIT NOVA \n3 of 15",
+      "character_count": 647
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Predicate Comparison \nThe substantial equivalence of the Esprit Nova device is based on its similarities to the cleared \nSleepProfiler (K153412). \nDevice Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nClassification Class II, OLZ, Automated \nEvent Detection Software \nfor Polysomnograph with \nElectroencephalograph \nClass II, OLZ, \nAutomated Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph \nIntended Use \nPurpose and function: Sleep monitoring Sleep monitoring \nPatient population Adult Adult \nEnvironment of use \n(data acquisition) \nClinic, home Clinic, home \nIntended User qualified medical \npractitioners \nqualified medical \npractitioners \nSignal Processing \nInput Signal EEG, EOG, ECG, \noximetry, airflow, effort, \nEMG. \nEEG, heart rate, \noximetry, airflow. \nNumber of Electrodes \nand location \nM1, M2, Fpz and \nground. \n2 active (Fp1-Fp2) + \nGround. \nK182227: ESPRIT NOVA \n4 of 15",
+      "character_count": 938
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Device Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nParameters \nParameters  Sleep stages Rapid\nEye Movement (REM)\nand nREM (N1, N2,\nN3) and wake\n Heart rate (trend and\nsummary table)\n Snoring count/index\n Sleep/wake\n body position (trend)\n Arousals\n EEG,ECG,EOG, EMG\nwaveforms\n SaO2\n Airflow\n Respiratory Effort\n Apneas and\nHypopneas\n Oxygen desaturations\n Sleep stages Rapid\nEye Movement (REM)\nand nREM (N1, N2,\nN3) and wake\n Heart/pulse rate\n Snoring loudness\n Sleep/wake\n Head movement and\nposition\n Arousals\n ECG,EOG, EMG\nwaveform\n SpO2\n Airflow\n Respiratory Effort\n Apneas and\nHypopneas\n Oxygen desaturations.\nSignal quality Rejects bad signal \nquality in all signals \nAuto-rejects bad signal \nquality in EEG with \noptional airflow and \nSpO2. \nSleep Measures  Sleep latency\n Total sleep and\nrecording times\n Sleep efficiency\n % time by sleep stage\n Awakenings per hour\n Wake after sleep\nonset\n REM latency\n Sleep, REM and N3\nonset\n Total sleep and\nrecording times\n Sleep efficiency\n % time by sleep stage\n Awakenings per hour\n Wake after sleep onset\nK182227: ESPRIT NOVA \n5 of 15",
+      "character_count": 1150
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "Device Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nSleep Staging Wake (W), REM (R), \nNREM stage 1 (N1), \nNREM stage 2 (N2) and \nslow wave sleep (N3, \nincludes both stages 3 \nand 4) \nBased on one forehead \nEEG signals to \ndifferentiate \nWake (W), REM (R), \nNREM stage 1 (N1), \nNREM stage 2 (N2) and \nslow wave sleep (N3, \nincludes both stages 3 \nand 4) \nSleep Disordered \nBreathing \n Detects apneas with\nairflow. Classifies as\ncentral apnea (CA),\nobstructive apnea\n(OA), mixed apnea\n(MA).\n Detects hypopneas\nwith airflow signal in\nconjunction with\nmicroarousals and\ndesatrations\n Detects RERA with\nairflow cortical\narousals and effort\naccording to the\nAASM definition.\n Detects apneas with\nairflow signal. Each\napnea is classified as\nobstructive but can be\nedited to be central or\nmixed apneas.\n Detects hypopneas\nwith airflow signal.\nChanges in SpO2 are\nused to determine\nhypopnea severity\n(i.e., 4% or 3%\nevents).\n Detects RERAs with\nairflow signal and\ncortical arousals (i.e.,\nhypopneas that do not\nmeet the desaturation\ncriteria)\nSnoring From flow, calibrated \nwith Sound Meter. \nFrom microphone 40 dB \n@ 3% of dynamic range \n(min) 70 dB @ 90% of \ndynamic range (max) \nAccuracy 0.2 dB at mid \nrange. \nUsability \nUser Editing Not allowed Allowed \nK182227: ESPRIT NOVA \n6 of 15",
+      "character_count": 1314
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "Device Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nReports  Graphic, narrative and\npatient Hx\n Record time\n Sleep time\n Valid sleep time\n Sleep latency (onset)\n Sleep efficiency\n Sleep times and\n%time\nper sleep stage\n Sleep stage graph by\nEEG\n Arousal graph\n arousal classification\n(spontaneous, limb\nmovement,\nrespiratory)\n Pulse rate graph with\nautonomic activations.\n Snoring count and\nindex\n Body position graph\n Excluded EEG data\n Medical history\n Disease management\ncomments\n Physician review and\nsignature.\n AHI, numerical and\ngraphical, supine and\nnon-supine\n RDI, numerical and\ngraphical, supine and\nnon-supine.\n #Apneas (OA, CA,\nMA)\n #Hypopneas (OH<\nCH)\n #RERAs\nMean SpO2, %time <\n90 and < 88% SpO2\nGraphic, narrative and \npatient Hx \n Record time\n Sleep time\n Valid sleep time\n Sleep latency (onset)\n Sleep efficiency\n Sleep times and %time \nper sleep stage\n Sleep stage graph by\nEEG with cortical\narousals.\n Pulse rate graph with\nautonomic activations.\n Snoring level graph\nwith snoring arousals\n %time snoring > 30,\n40, 50 and 60 dB\n Head movement graph \nwith behavioral\narousals\n Head position graph\n Excluded EEG data\n Medical history\n Disease management\ncomments\n Physician review and\nsignature.\n AHI, numerical and\ngraphical, supine and\nnon-supine\n RDI, numerical and\ngraphical, supine and\nnon-supine.\n #Apneas\n #Hypopneas\n #RERAs\n Mean SpO2, %time <\n90 and < 88% SpO2\nK182227: ESPRIT NOVA \n7 of 15",
+      "character_count": 1489
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "Device Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nCompatibility PC Intel Core i3 with \nWindows 7. \nhard drive: 1TB \nmonitor: minimum \nresolution 1024x768 \ngraphics: generic \ngraphics cards supporting \nthe above monitor. \nPC with Windows XP \noperating system and at \nleast 2 GB of RAM. \nK182227: ESPRIT NOVA \n8 of 15",
+      "character_count": 346
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "Device Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nWeb interface  processor: Intel Core\ni3 or better\n hard drive: 1TB or\nhigher\n monitor: minimum\nresolution 1024x768\n graphics: generic\ngraphics cards\nsupporting the above\nmonitor\n OS: Microsoft\nWindows 7 or higher\nconnection to the \nInternet is required. \nProcessor : \n Minimum 2.8 GHz.\nOperating System:\nWindows XP or 7.\nJava version 6 or\ngreater\n RAM: 1GB\n USB port: 1\n Internet connection:\nconstant\n Web browser: Internet\n Explorer, or Firefox\nVirtual server: \n Processor: > 2 Ghz\n Operating system: Win\nServer 2008.\n RAM: > 2GB\n Certificates: Signed\n SSL\n .NET framework:\nversion 2.0 – web\nserver\n version 3.5 processing\nserver\n or Win Server 2008\n Database: SQL server\n2005\nPhysical server: \n Processor: > 2 Ghz\n Operating system: Win \nServer 2008\n Enterprise edition (for\nvirtual servers).\n RAM: > 2GB\nPerformance \n(Positive/Negative % Agreement) \nWake 0.83/0.94 0.73/0.94 \nN1 0.29/0.92 0.25/0.93 \nN2 0.82/0.80 0.77/0.84 \nK182227: ESPRIT NOVA \n9 of 15",
+      "character_count": 1061
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "Device Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nN3 0.66/0.96 0.76/0.94 \nREM 0.84/0.97 0.74/0.97 \nIFU Comparison \nEsprit Nova Sleep Profiler (K153412) \nEsprit Nova is a software-only product intended to \nassist a physician in the diagnostic evaluation of \nsleep quality and sleep disordered breathing in \nadults only. Esprit Nova analyzes the \nphysiological signals and automatically scores \nsleep events; including the stages of sleep, \nmicroarousals, snoring, periodic limb movements, \ndesaturations and sleep disordered breathing \nevents apneas, hypopneas, and respiratory event \nrelated arousals). \nThis device is to be used under the supervision of \na physician. \nThe device does not provide any diagnostic \nconclusion about the patient's condition. \nSleep Profiler is intended for use for the \ndiagnostic evaluation by a physician to assess \nsleep quality and score sleep disordered \nbreathing events in adults only. The Sleep Profiler \nis a software -only device to be used under the \nsupervision of a clinician to analyze physiological \nsignals and automatically score sleep study \nresults; including the staging of sleep, detection \nof arousals, snoring and sl eep disordered \nbreathing events (obstructive apneas, hypopneas \nand respiratory event related arousals). Central \nand mixed apneas can be manually marked \nwithin the records. \nEsprit Nova and the predicate Sleep Profiler are both. Software only products intended. For the \nassessment of sleep quality and sleep disordered breathing. Both devices are intended to be use in \nthe adult population only and both of the devices incorporate analysis algorithms that automatically \ndetect and mark sleep events including the stages of sleep, detection of arousals, apneas, hypopneas \nand desaturations as well as snoring events. Both devices are prescription only and are to be used by \nqualified medical practitioners. \nThe proposed Esprit Nova device has similar indications for use and uses the same fundamental \ntechnology as the legally marketed predicate device, Sleep Profiler (K153412). There are no major \ndifferences between the subject and predicate device. Both devices have almost identical IFU. \nBoth devices provide users with a similar set of sleep quality measures as determine by the American \nAcademy for Sleep Medicine. They (subject and predicate devices) also detect other parameters as \narousals, apneas and oxygen desaturations. Both devices offer users a narrative sleep report that \nsummarizes information in the form of graphs and tables, as well as patient medical history as \nentered by the qualified user \nAs demonstrated by the results of the clinical validation when compared to a panel of 3 \nelectrophysiologists scoring studies as done in their daily practice (i.e gold standard) Esprit Nova was \nK182227: ESPRIT NOVA \n10 of 15",
+      "character_count": 2857
+    },
+    {
+      "page": 14,
+      "extraction_method": "native",
+      "text": "found to perform equivalently to the gold standard. Furthermore, Esprit Nova performance is \nequivalent to the reported performance of the predicate device. \nSubstantial Equivalence of the Periodic Leg Movement detector \nFor the Periodic Leg Movement detector we claim substantial equivalence to the Periodic Limb \nMovement Module of the Sandman Elite (K153353). \nDevice Feature Predicate device \nSandman Elite \n(K153353) \nSubject device \nEsprit Nova \n(K182227) \nComment \nBase Amplitude \nIncrease \n5.0 μv 5.0 μv Same \nMaximum Event \nTermination Voltage \nabove baseline \n2.0 μv 2.0 μv Same \nMinimum Event \nTermination Duration \n0.5 sec 0.5 sec Same \nMinimum Event Length 0.5 sec 0.5 sec Same \nMaximum Event \nLength \n10.0 sec 10.0 sec Same \nMinimum Event Interval 5.0 sec 5.0 sec Same \nMaximum Event \nInterval \n90.0 sec 90.0 sec Same \nMaximum Left and \nRight Interval \n5.0 sec 5.0 sec Same \nMinimum number of \nevents per Episode \n4 4 Same \nstage scored before \nanalysis? \nYes Yes Same \nUse a Band Pass Filter \non both Legs? \nYes Yes Same \nLow Frequency for \nboth legs Band Pass \nFilter \n10.0 Hz 10.0 Hz Same \nHigh Frequency both \nlegs Band Pass Filter \n100.0 Hz 100.0 Hz Same \nAnalysis Channels: Left and right legs Left and right legs Same \nPositive Percent \nAgreement (95% CI) \n86 (83 – 88.5) 87 (83 – 93) Equivalent \nFalse detection/h 16.8 (14 – 20.5) 2.4 (1.8 – 3.0) Equivalent \nK182227: ESPRIT NOVA \n11 of 15",
+      "character_count": 1411
+    },
+    {
+      "page": 15,
+      "extraction_method": "native",
+      "text": "In both devices the Periodic Leg Movement detector (PLM) has identical parameters. \nPerformance of the PLM detector implemented in Esprit Nova is also equivalent to \nperformance of the PLM module of the predicate device as demonstrated by the results \nof the clinical test. \nK182227: ESPRIT NOVA \n12 of 15",
+      "character_count": 305
+    },
+    {
+      "page": 16,
+      "extraction_method": "native",
+      "text": "Brief Summary of Non-Clinical and Clinical Performance Tests \nAll functionalities and performance of the Esprit Nova algorithm have been verified and validated \nthrough bench and clinical performance tests according to the intended use and user of the \ndevice. \nNon-Clinical: The Esprit Nova device is compliant with all currently accepted safety standards for \nmedical devices of its class which was demonstrated through testing, verification and validation of \nall components. \nClinical: We conducted an extensive clinical test to: 1) Evaluate the positive and negative percent \nagreement of Esprit Nova, and to 2) Demonstrate equivalence of the performance, in terms of \npositive and negative percent agreement of the Esprit Nova algorithm as compared to sleep study \nassessment by a panel of 3 EEG board certified medical professionals (gold standard). \nEspritNova Clinical Validation \nDataset Description: \nThe sample included 60 PSG studies from adult patients that were seen at a Sleep Clinic. 40 studies \ncorresponded with patients with varying degrees of Obstructive Sleep Apnea (OSA, from severe to \nmild), 4 studies for Restless Legs Syndrome (3 of which also had OSA) seven Titration studies and 9 \nnormal studies. \nDiagnosis # of cases \nObstructive Sleep Apnea 40 \nSevere-12 \nModerate-14 \nMild-14 \nRestless Legs Syndrome 1 \nRestless Legs Syndrome + \nOSA \n3 \nTitration 7 \nNormal 9 \nAGE (Mean ± SD) 44 ± 2.02 \nGENDER \n(Female/Male) 24/36 \nK182227: ESPRIT NOVA \n13 of 15",
+      "character_count": 1480
+    },
+    {
+      "page": 17,
+      "extraction_method": "native",
+      "text": "Results & Discussion \nAlgorithm Performance Comparison \nEpochs assigned by Esprit Nova % agreement \n(95% CI)* \nWake N1 N2 N3 REM Total positive negative \nEpochs \nassign \nby \nexpert \nscoring \nWake 8011 880 359 1 114 9365 0.83 \n(0.80-0.86) \n0.94 \n(0.92-0.95) \nN1 916 1452 2342 27 429 5166 0.29 \n(0.26-0.34)\n0.92 \n(0.91-0.94\nN2 492 1504 15880 1193 376 19445 0.82 \n(0.79-0.85) \n0.80 \n(0.76-0.83) \nN3 24 5 1499 3990 1 5059 0.66 \n(0.56-0.76) \n0.96 \n(0.95-0.98) \nREM 313 346 234 1 5059 5953 0.84 \n(0.81-0.88) \n0.97 \n(0.95-0.98) \nTotal 9756 4187 20314 5212 5979 45448 \n*Bootstrap 95% Confidence Interval\nEsprit Nova performed similar to the qualified medical professionals. The device exhibited better \nperformance in the detection of Wake/REM with higher PPA (83%/84%) and poorer performance in \nthe detection of N1 followed by N3, as was the case for the professional reviewers. While the device \nachieved only 29% PPA (with a 39% as the higher boundary for the 95% bootstrap Confidence \nInterval) this is not only equivalent to the behaviour described for medical professionals for N1 \ndetection. Although direct comparison to the predicate is not possible, it is a reasonable \napproximation considering that the evaluation methodology and the population were similar in both \nstudies. As for the medical experts, Negative percent agreement of Esprit Nova was always above \n80% and reached levels as high as 97%. \nNo complications or adverse events were reported as a consequence of usage of Esprit Nova. \nPeriodic Leg Movement (PLM) Detector Performance \nSandman Elite \n(K153353) \nEsprit Nova \n(K182227) \nProfessional \nReviewers \nPPA (95% CI) 86 (83 – 88.5) 87 (83 – 93) 97 (96 – 99) \nFalse detection rate/hour 16.8 (14 – 20.5) 2.4 (1.8 – 3.0) 1.7 (1.3 – 2.3) \nThe table above shows performance of the Esprit Nova PLM detector compared to a similar detector \nimplemented on a predicate device and mean performance across all 3 professional reviewers. As \ncan be seen, Esprit Nova PLM detector performs very similar to qualified professionals and also to the \npredicate device and even better False Detection rate. \nConclusions \nWe believe that given the equivalence of all technological characteristics of the subject device there \nare no questions of safety or effectiveness of the device. Based on the rationale discussed above we \nbelieve that Esprit Nova is substantially equivalent to the predicate Sleep Profiler(K153412). The \nK182227: ESPRIT NOVA \n14 of 15",
+      "character_count": 2460
+    },
+    {
+      "page": 18,
+      "extraction_method": "native",
+      "text": "Periodic Leg Movement detector Esprit Nova is substantially equivalent to the Periodic Leg Movement \ndetector of the Sandman Elite (K153353). \nK182227: ESPRIT NOVA \n15 of 15",
+      "character_count": 173
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K182227-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Neurozone MSH Incorporated\nDaniel Rodriguez\nSenior Manager QA/RA\n17 Lantern Lane\nDundas, L9H 6N9 CA\nRe: K182227\nTrade/Device Name: Esprit Nova\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLZ\nDated: November 3, 2018\nReceived: December 18, 2018\nDear Daniel Rodriguez:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. Although this letter refers to your product as a device, please be aware that \nsome cleared products may instead be combination products. The 510(k) Premarket Notification Database \nlocated at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n-DQXDU\\\u0003\u0014\u001a\u000f\u0003\u0015\u0013\u0014",
+      "extraction_method": "native",
+      "character_count": 2489
+    },
+    {
+      "block_id": "K182227-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "K182227 - Daniel Rodriguez Page",
+      "extraction_method": "native",
+      "character_count": 31
+    },
+    {
+      "block_id": "K182227-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "2\n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for \ndevices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see \nhttps://www.fda.gov/CombinationProducts/GuidanceRegulatoryInformation/ucm597488.htm); good \nmanufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820) \nfor devices or current good manufacturing practices (21 CFR 4, Subpart A) for combination products; and, if \napplicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-\n1050.\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice \n(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn \n(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and \nConsumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website \n(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone \n(1-800-638-2041 or 301-796-7100).\nSincerely,\nFor Carlos L. Peña, PhD, MS\nDirector\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure \nJay R. Gupta -S",
+      "extraction_method": "native",
+      "character_count": 1715
+    },
+    {
+      "block_id": "K182227-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 06/30/2020\nSee PRA Statement below.\n510(k) Number (if known)\nK182227\nDevice Name\nEspiritNova\nIndications for Use (Describe)\nEsprit Nova is a software-only product intended to assist a physician in the diagnostic evaluation of sleep quality and \nsleep disordered breathing in adults only. Esprit Nova analyzes the physiological signals and automatically scores sleep \nevents; including the stages of sleep, microarousals, snoring, periodic limb movements, desaturations and sleep disordered \nbreathing events apneas, hypopneas, and respiratory event related arousals). This device is to be used under the \nsupervision of a physician. The device does not provide any diagnostic conclusion about the patient's condition.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "native",
+      "character_count": 2002
+    },
+    {
+      "block_id": "K182227-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "K182227: ESPRIT NOVA \n510K Summary \nDate: November 3rd., 2018 \nSubmitted by: Neurozone MSH Incorporated \n17 Lantern Lane \nDundas, Ontario \nCanada L9H 6N9 \nContact Person: \nDaniel Ramirez \nSenior Manager, Quality Assurance and Regulatory Affairs \nNeurozone MSH Incorporated \nTel.: 2892389696 \nE-mail: daniel.ramirez@neurozonemsh.com\nPropietary Name: EspritNova \nCommon Name: EspritNova \nClassification Name: 882.1400 Electroencephalograph, Automatic Event Detection Software For \nPolysomnograph With Electroencephalograph \nProduct code: OLZ \nDevice Class: II \nPredicate Devices: Sleep Profiler (K153412) \nSandman Elite (for the Limb Movement detector only) (K153353) \nDescription \nEsprit Nova is a software application that analyzes previously recorded physiological signals obtained \nduring sleep. The software can analyze any EDF files acquired with Trackit SleepWalker (K010460) \nCompumedics Somté PSG System( K072201) and/or Sandman (K040113). Automated algorithms are \napplied to the raw signals to interpret the raw signal information. The software automates recognition \nof: \n Sleep stages Rapid Eye Movement (REM), nREM (N1, N2, N3) and wake\n Heart rate\n Snoring\n Sleep/wake\n Body position\n Arousals\n EEG, ECG, EOG, EMG waveforms\n SaO2\n1 of 15",
+      "extraction_method": "native",
+      "character_count": 1258
+    },
+    {
+      "block_id": "K182227-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": " Airflow\n Respiratory Effort\n Apneas and Hypopneas\n Oxygen desaturations.\n Limb movements\nThe software identifies and rejects periods with poor electroencephalography signal quality. \nThe output of the device is a comprehensive sleep study report. Medical and history information can \nbe entered from a questionnaire. The automated analysis of physiological data is integrated with the \nquestionnaire data, medical and history information and included in the report. The Esprit Nova \nanalysis module is hosted on a central server, while the administrative module is a stand-alone \napplication for use on Microsoft Windows 7 (or higher) operating system platforms. The administrative \nmodule works as a local database to keep records of patients’ and to transmit data back and forth to \nthe central server. \nK182227: ESPRIT NOVA \n2 of 15",
+      "extraction_method": "native",
+      "character_count": 841
+    },
+    {
+      "block_id": "K182227-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Indications for Use \nEsprit Nova is a software-only product intended to assist a physician in the diagnostic \nevaluation of sleep quality and sleep disordered breathing in adults only. Esprit Nova analyzes \nthe physiological signals and automatically scores sleep events; including the stages of sleep, \nmicroarousals, snoring, periodic limb movements, desaturations and sleep disordered \nbreathing events apneas, hypopneas, and respiratory event related arousals). \nThis device is to be used under the supervision of a physician. \nThe device does not provide any diagnostic conclusion about the patient's condition. \nK182227: ESPRIT NOVA \n3 of 15",
+      "extraction_method": "native",
+      "character_count": 647
+    },
+    {
+      "block_id": "K182227-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Predicate Comparison \nThe substantial equivalence of the Esprit Nova device is based on its similarities to the cleared \nSleepProfiler (K153412). \nDevice Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nClassification Class II, OLZ, Automated \nEvent Detection Software \nfor Polysomnograph with \nElectroencephalograph \nClass II, OLZ, \nAutomated Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph \nIntended Use \nPurpose and function: Sleep monitoring Sleep monitoring \nPatient population Adult Adult \nEnvironment of use \n(data acquisition) \nClinic, home Clinic, home \nIntended User qualified medical \npractitioners \nqualified medical \npractitioners \nSignal Processing \nInput Signal EEG, EOG, ECG, \noximetry, airflow, effort, \nEMG. \nEEG, heart rate, \noximetry, airflow. \nNumber of Electrodes \nand location \nM1, M2, Fpz and \nground. \n2 active (Fp1-Fp2) + \nGround. \nK182227: ESPRIT NOVA \n4 of 15",
+      "extraction_method": "native",
+      "character_count": 938
+    },
+    {
+      "block_id": "K182227-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Device Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nParameters \nParameters  Sleep stages Rapid\nEye Movement (REM)\nand nREM (N1, N2,\nN3) and wake\n Heart rate (trend and\nsummary table)\n Snoring count/index\n Sleep/wake\n body position (trend)\n Arousals\n EEG,ECG,EOG, EMG\nwaveforms\n SaO2\n Airflow\n Respiratory Effort\n Apneas and\nHypopneas\n Oxygen desaturations\n Sleep stages Rapid\nEye Movement (REM)\nand nREM (N1, N2,\nN3) and wake\n Heart/pulse rate\n Snoring loudness\n Sleep/wake\n Head movement and\nposition\n Arousals\n ECG,EOG, EMG\nwaveform\n SpO2\n Airflow\n Respiratory Effort\n Apneas and\nHypopneas\n Oxygen desaturations.\nSignal quality Rejects bad signal \nquality in all signals \nAuto-rejects bad signal \nquality in EEG with \noptional airflow and \nSpO2. \nSleep Measures  Sleep latency\n Total sleep and\nrecording times\n Sleep efficiency\n % time by sleep stage\n Awakenings per hour\n Wake after sleep\nonset\n REM latency\n Sleep, REM and N3\nonset\n Total sleep and\nrecording times\n Sleep efficiency\n % time by sleep stage\n Awakenings per hour\n Wake after sleep onset\nK182227: ESPRIT NOVA \n5 of 15",
+      "extraction_method": "native",
+      "character_count": 1150
+    },
+    {
+      "block_id": "K182227-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Device Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nSleep Staging Wake (W), REM (R), \nNREM stage 1 (N1), \nNREM stage 2 (N2) and \nslow wave sleep (N3, \nincludes both stages 3 \nand 4) \nBased on one forehead \nEEG signals to \ndifferentiate \nWake (W), REM (R), \nNREM stage 1 (N1), \nNREM stage 2 (N2) and \nslow wave sleep (N3, \nincludes both stages 3 \nand 4) \nSleep Disordered \nBreathing \n Detects apneas with\nairflow. Classifies as\ncentral apnea (CA),\nobstructive apnea\n(OA), mixed apnea\n(MA).\n Detects hypopneas\nwith airflow signal in\nconjunction with\nmicroarousals and\ndesatrations\n Detects RERA with\nairflow cortical\narousals and effort\naccording to the\nAASM definition.\n Detects apneas with\nairflow signal. Each\napnea is classified as\nobstructive but can be\nedited to be central or\nmixed apneas.\n Detects hypopneas\nwith airflow signal.\nChanges in SpO2 are\nused to determine\nhypopnea severity\n(i.e., 4% or 3%\nevents).\n Detects RERAs with\nairflow signal and\ncortical arousals (i.e.,\nhypopneas that do not\nmeet the desaturation\ncriteria)\nSnoring From flow, calibrated \nwith Sound Meter. \nFrom microphone 40 dB \n@ 3% of dynamic range \n(min) 70 dB @ 90% of \ndynamic range (max) \nAccuracy 0.2 dB at mid \nrange. \nUsability \nUser Editing Not allowed Allowed \nK182227: ESPRIT NOVA \n6 of 15",
+      "extraction_method": "native",
+      "character_count": 1314
+    },
+    {
+      "block_id": "K182227-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Device Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nReports  Graphic, narrative and\npatient Hx\n Record time\n Sleep time\n Valid sleep time\n Sleep latency (onset)\n Sleep efficiency\n Sleep times and\n%time\nper sleep stage\n Sleep stage graph by\nEEG\n Arousal graph\n arousal classification\n(spontaneous, limb\nmovement,\nrespiratory)\n Pulse rate graph with\nautonomic activations.\n Snoring count and\nindex\n Body position graph\n Excluded EEG data\n Medical history\n Disease management\ncomments\n Physician review and\nsignature.\n AHI, numerical and\ngraphical, supine and\nnon-supine\n RDI, numerical and\ngraphical, supine and\nnon-supine.\n #Apneas (OA, CA,\nMA)\n #Hypopneas (OH<\nCH)\n #RERAs\nMean SpO2, %time <\n90 and < 88% SpO2\nGraphic, narrative and \npatient Hx \n Record time\n Sleep time\n Valid sleep time\n Sleep latency (onset)\n Sleep efficiency\n Sleep times and %time \nper sleep stage\n Sleep stage graph by\nEEG with cortical\narousals.\n Pulse rate graph with\nautonomic activations.\n Snoring level graph\nwith snoring arousals\n %time snoring > 30,\n40, 50 and 60 dB\n Head movement graph \nwith behavioral\narousals\n Head position graph\n Excluded EEG data\n Medical history\n Disease management\ncomments\n Physician review and\nsignature.\n AHI, numerical and\ngraphical, supine and\nnon-supine\n RDI, numerical and\ngraphical, supine and\nnon-supine.\n #Apneas\n #Hypopneas\n #RERAs\n Mean SpO2, %time <\n90 and < 88% SpO2\nK182227: ESPRIT NOVA \n7 of 15",
+      "extraction_method": "native",
+      "character_count": 1489
+    },
+    {
+      "block_id": "K182227-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Device Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nCompatibility PC Intel Core i3 with \nWindows 7. \nhard drive: 1TB \nmonitor: minimum \nresolution 1024x768 \ngraphics: generic \ngraphics cards supporting \nthe above monitor. \nPC with Windows XP \noperating system and at \nleast 2 GB of RAM. \nK182227: ESPRIT NOVA \n8 of 15",
+      "extraction_method": "native",
+      "character_count": 346
+    },
+    {
+      "block_id": "K182227-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Device Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nWeb interface  processor: Intel Core\ni3 or better\n hard drive: 1TB or\nhigher\n monitor: minimum\nresolution 1024x768\n graphics: generic\ngraphics cards\nsupporting the above\nmonitor\n OS: Microsoft\nWindows 7 or higher\nconnection to the \nInternet is required. \nProcessor : \n Minimum 2.8 GHz.\nOperating System:\nWindows XP or 7.\nJava version 6 or\ngreater\n RAM: 1GB\n USB port: 1\n Internet connection:\nconstant\n Web browser: Internet\n Explorer, or Firefox\nVirtual server: \n Processor: > 2 Ghz\n Operating system: Win\nServer 2008.\n RAM: > 2GB\n Certificates: Signed\n SSL\n .NET framework:\nversion 2.0 – web\nserver\n version 3.5 processing\nserver\n or Win Server 2008\n Database: SQL server\n2005\nPhysical server: \n Processor: > 2 Ghz\n Operating system: Win \nServer 2008\n Enterprise edition (for\nvirtual servers).\n RAM: > 2GB\nPerformance \n(Positive/Negative % Agreement) \nWake 0.83/0.94 0.73/0.94 \nN1 0.29/0.92 0.25/0.93 \nN2 0.82/0.80 0.77/0.84 \nK182227: ESPRIT NOVA \n9 of 15",
+      "extraction_method": "native",
+      "character_count": 1061
+    },
+    {
+      "block_id": "K182227-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Device Feature Subject Device \nEsprit Nova \nPredicate \nSleep Profiler (K153412) \nN3 0.66/0.96 0.76/0.94 \nREM 0.84/0.97 0.74/0.97 \nIFU Comparison \nEsprit Nova Sleep Profiler (K153412) \nEsprit Nova is a software-only product intended to \nassist a physician in the diagnostic evaluation of \nsleep quality and sleep disordered breathing in \nadults only. Esprit Nova analyzes the \nphysiological signals and automatically scores \nsleep events; including the stages of sleep, \nmicroarousals, snoring, periodic limb movements, \ndesaturations and sleep disordered breathing \nevents apneas, hypopneas, and respiratory event \nrelated arousals). \nThis device is to be used under the supervision of \na physician. \nThe device does not provide any diagnostic \nconclusion about the patient's condition. \nSleep Profiler is intended for use for the \ndiagnostic evaluation by a physician to assess \nsleep quality and score sleep disordered \nbreathing events in adults only. The Sleep Profiler \nis a software -only device to be used under the \nsupervision of a clinician to analyze physiological \nsignals and automatically score sleep study \nresults; including the staging of sleep, detection \nof arousals, snoring and sl eep disordered \nbreathing events (obstructive apneas, hypopneas \nand respiratory event related arousals). Central \nand mixed apneas can be manually marked \nwithin the records. \nEsprit Nova and the predicate Sleep Profiler are both. Software only products intended. For the \nassessment of sleep quality and sleep disordered breathing. Both devices are intended to be use in \nthe adult population only and both of the devices incorporate analysis algorithms that automatically \ndetect and mark sleep events including the stages of sleep, detection of arousals, apneas, hypopneas \nand desaturations as well as snoring events. Both devices are prescription only and are to be used by \nqualified medical practitioners. \nThe proposed Esprit Nova device has similar indications for use and uses the same fundamental \ntechnology as the legally marketed predicate device, Sleep Profiler (K153412). There are no major \ndifferences between the subject and predicate device. Both devices have almost identical IFU. \nBoth devices provide users with a similar set of sleep quality measures as determine by the American \nAcademy for Sleep Medicine. They (subject and predicate devices) also detect other parameters as \narousals, apneas and oxygen desaturations. Both devices offer users a narrative sleep report that \nsummarizes information in the form of graphs and tables, as well as patient medical history as \nentered by the qualified user \nAs demonstrated by the results of the clinical validation when compared to a panel of 3 \nelectrophysiologists scoring studies as done in their daily practice (i.e gold standard) Esprit Nova was \nK182227: ESPRIT NOVA \n10 of 15",
+      "extraction_method": "native",
+      "character_count": 2857
+    },
+    {
+      "block_id": "K182227-P014-B001",
+      "page": 14,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "found to perform equivalently to the gold standard. Furthermore, Esprit Nova performance is \nequivalent to the reported performance of the predicate device. \nSubstantial Equivalence of the Periodic Leg Movement detector \nFor the Periodic Leg Movement detector we claim substantial equivalence to the Periodic Limb \nMovement Module of the Sandman Elite (K153353). \nDevice Feature Predicate device \nSandman Elite \n(K153353) \nSubject device \nEsprit Nova \n(K182227) \nComment \nBase Amplitude \nIncrease \n5.0 μv 5.0 μv Same \nMaximum Event \nTermination Voltage \nabove baseline \n2.0 μv 2.0 μv Same \nMinimum Event \nTermination Duration \n0.5 sec 0.5 sec Same \nMinimum Event Length 0.5 sec 0.5 sec Same \nMaximum Event \nLength \n10.0 sec 10.0 sec Same \nMinimum Event Interval 5.0 sec 5.0 sec Same \nMaximum Event \nInterval \n90.0 sec 90.0 sec Same \nMaximum Left and \nRight Interval \n5.0 sec 5.0 sec Same \nMinimum number of \nevents per Episode \n4 4 Same \nstage scored before \nanalysis? \nYes Yes Same \nUse a Band Pass Filter \non both Legs? \nYes Yes Same \nLow Frequency for \nboth legs Band Pass \nFilter \n10.0 Hz 10.0 Hz Same \nHigh Frequency both \nlegs Band Pass Filter \n100.0 Hz 100.0 Hz Same \nAnalysis Channels: Left and right legs Left and right legs Same \nPositive Percent \nAgreement (95% CI) \n86 (83 – 88.5) 87 (83 – 93) Equivalent \nFalse detection/h 16.8 (14 – 20.5) 2.4 (1.8 – 3.0) Equivalent \nK182227: ESPRIT NOVA \n11 of 15",
+      "extraction_method": "native",
+      "character_count": 1411
+    },
+    {
+      "block_id": "K182227-P015-B001",
+      "page": 15,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "In both devices the Periodic Leg Movement detector (PLM) has identical parameters. \nPerformance of the PLM detector implemented in Esprit Nova is also equivalent to \nperformance of the PLM module of the predicate device as demonstrated by the results \nof the clinical test. \nK182227: ESPRIT NOVA \n12 of 15",
+      "extraction_method": "native",
+      "character_count": 305
+    },
+    {
+      "block_id": "K182227-P016-B001",
+      "page": 16,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Brief Summary of Non-Clinical and Clinical Performance Tests \nAll functionalities and performance of the Esprit Nova algorithm have been verified and validated \nthrough bench and clinical performance tests according to the intended use and user of the \ndevice. \nNon-Clinical: The Esprit Nova device is compliant with all currently accepted safety standards for \nmedical devices of its class which was demonstrated through testing, verification and validation of \nall components. \nClinical: We conducted an extensive clinical test to: 1) Evaluate the positive and negative percent \nagreement of Esprit Nova, and to 2) Demonstrate equivalence of the performance, in terms of \npositive and negative percent agreement of the Esprit Nova algorithm as compared to sleep study \nassessment by a panel of 3 EEG board certified medical professionals (gold standard). \nEspritNova Clinical Validation \nDataset Description: \nThe sample included 60 PSG studies from adult patients that were seen at a Sleep Clinic. 40 studies \ncorresponded with patients with varying degrees of Obstructive Sleep Apnea (OSA, from severe to \nmild), 4 studies for Restless Legs Syndrome (3 of which also had OSA) seven Titration studies and 9 \nnormal studies. \nDiagnosis # of cases \nObstructive Sleep Apnea 40 \nSevere-12 \nModerate-14 \nMild-14 \nRestless Legs Syndrome 1 \nRestless Legs Syndrome + \nOSA \n3 \nTitration 7 \nNormal 9 \nAGE (Mean ± SD) 44 ± 2.02 \nGENDER \n(Female/Male) 24/36 \nK182227: ESPRIT NOVA \n13 of 15",
+      "extraction_method": "native",
+      "character_count": 1480
+    },
+    {
+      "block_id": "K182227-P017-B001",
+      "page": 17,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Results & Discussion \nAlgorithm Performance Comparison \nEpochs assigned by Esprit Nova % agreement \n(95% CI)* \nWake N1 N2 N3 REM Total positive negative \nEpochs \nassign \nby \nexpert \nscoring \nWake 8011 880 359 1 114 9365 0.83 \n(0.80-0.86) \n0.94 \n(0.92-0.95) \nN1 916 1452 2342 27 429 5166 0.29 \n(0.26-0.34)\n0.92 \n(0.91-0.94\nN2 492 1504 15880 1193 376 19445 0.82 \n(0.79-0.85) \n0.80 \n(0.76-0.83) \nN3 24 5 1499 3990 1 5059 0.66 \n(0.56-0.76) \n0.96 \n(0.95-0.98) \nREM 313 346 234 1 5059 5953 0.84 \n(0.81-0.88) \n0.97 \n(0.95-0.98) \nTotal 9756 4187 20314 5212 5979 45448 \n*Bootstrap 95% Confidence Interval\nEsprit Nova performed similar to the qualified medical professionals. The device exhibited better \nperformance in the detection of Wake/REM with higher PPA (83%/84%) and poorer performance in \nthe detection of N1 followed by N3, as was the case for the professional reviewers. While the device \nachieved only 29% PPA (with a 39% as the higher boundary for the 95% bootstrap Confidence \nInterval) this is not only equivalent to the behaviour described for medical professionals for N1 \ndetection. Although direct comparison to the predicate is not possible, it is a reasonable \napproximation considering that the evaluation methodology and the population were similar in both \nstudies. As for the medical experts, Negative percent agreement of Esprit Nova was always above \n80% and reached levels as high as 97%. \nNo complications or adverse events were reported as a consequence of usage of Esprit Nova. \nPeriodic Leg Movement (PLM) Detector Performance \nSandman Elite \n(K153353) \nEsprit Nova \n(K182227) \nProfessional \nReviewers \nPPA (95% CI) 86 (83 – 88.5) 87 (83 – 93) 97 (96 – 99) \nFalse detection rate/hour 16.8 (14 – 20.5) 2.4 (1.8 – 3.0) 1.7 (1.3 – 2.3) \nThe table above shows performance of the Esprit Nova PLM detector compared to a similar detector \nimplemented on a predicate device and mean performance across all 3 professional reviewers. As \ncan be seen, Esprit Nova PLM detector performs very similar to qualified professionals and also to the \npredicate device and even better False Detection rate. \nConclusions \nWe believe that given the equivalence of all technological characteristics of the subject device there \nare no questions of safety or effectiveness of the device. Based on the rationale discussed above we \nbelieve that Esprit Nova is substantially equivalent to the predicate Sleep Profiler(K153412). The \nK182227: ESPRIT NOVA \n14 of 15",
+      "extraction_method": "native",
+      "character_count": 2460
+    },
+    {
+      "block_id": "K182227-P018-B001",
+      "page": 18,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Periodic Leg Movement detector Esprit Nova is substantially equivalent to the Periodic Leg Movement \ndetector of the Sandman Elite (K153353). \nK182227: ESPRIT NOVA \n15 of 15",
+      "extraction_method": "native",
+      "character_count": 173
+    }
+  ],
+  "claims": []
+}

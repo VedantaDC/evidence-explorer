@@ -1,0 +1,585 @@
+{
+  "document": {
+    "k_number": "K202142",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "Sleepware G3",
+    "applicant": "Respironics, Inc.",
+    "decision_date": "2020-10-29",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf20/K202142.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K202142",
+    "sha256": "0da418fdf8d59348fd399215b1f1365f35e774087274ad6633654d6c512bc396",
+    "page_count": 9,
+    "native_pages": 8,
+    "ocr_pages": 1,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 0 4 . 1 9 \nSilver Spring, MD 20993 \nwww.fda.gov \nOctober 29, 2020\nRespironics, Inc.\nJonquil Mau\nRegulatory Engineer\n1001 Murry Ridge Lane\nMurrysville, Pennsylvania 15668\nRe: K202142\nTrade/Device Name: Sleepware G3\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLZ\nDated: July 30, 2020\nReceived: July 31, 2020\nDear Jonquil Mau:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. Although this letter refers to your product as a device, please be aware that \nsome cleared products may instead be combination products. The 510(k) Premarket Notification Database \nlocated at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfmidentifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part",
+      "character_count": 2614
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K202142 - Jonquil Mau Page 2\n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for \ndevices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for \ncombination products; and, if applicable, the electronic product radiation control provisions (Sections 531-\n542 of the Act); 21 CFR 1000-1050. \nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). \nSincerely, \n\n\n\nfor \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional\nand Neurodiagnostic Devices \nOHT5: Office of Neurological \nand Physical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health\nEnclosure",
+      "character_count": 2100
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "DEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120\nFood and Drug Administration Expiration Date: 06/30/2020\n\nIndications for Use See PRA Statement below.\n\n510(k) Number (if known)\nK202142\n\nDevice Name\nSleepware G3\n\nIndications for Use (Describe)\n\nSleepware G3 is a software application used for analysis (automatic and manual scoring), display, retrieval,\nsummarization, report generation, and networking of data received from monitoring devices used to categorize sleep\nrelated events that help aid in the diagnosis of sleep-related disorders. It is indicated for use with adults (18 and older) and\ninfant patients (one year old or less) in a clinical environment by or on the order of a physician.\n\nThe optional Somnolyzer scoring algorithms are for use with adults (18 and older) to generate an output that is ready for\nreview and interpretation by a physician. Cardio-Respiratory Sleep Staging (CReSS) is an additional functionality of\nSomnolyzer which uses standard Home Sleep Apnea Test HSAT signals (in the absence of EEG signals) to infer sleep\nstage.\n\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) [_] Over-The-Counter Use (21 CFR 801 Subpart C)\n\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\n\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\n\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\n\nDepartment of Health and Human Services\nFood and Drug Administration\n\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”\n\nFORM FDA 3881 (7/1 7) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF",
+      "character_count": 2233
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary \n\nPage 1 of 6 \n\nTRADITIONAL 510(K) SUMMARY \nK202142 \nI. Submitter \nContact Person Jonquil Mau \nRegulatory Engineer \njonquil.mau@philips.com \n\nAddress & Phone 1740 Golden Mile Highway \nMonroeville, PA 15146 \nPhone: (678) 768-2773 \n\nManufacturing Facility Respironics Inc. \n1001 Murry Ridge Ln \nMurrysville, Pennsylvania 15668 \n\n\nDate of Preparation October 29, 2020 \nII. Subject Device \n\nName of Device: Sleepware G3 \n\nCommon/Usual Name: Polysomnography (PSG) Software \n\nClassification Name: Electroencephalograph (21 CFR 882.1400) \n\nRegulatory Class: II \n\nProduct Code: OLZ Automatic Event Detection Software for Polysomnograph with \nElectroencephalograph \nIII. Legally Marketed Predicate Device \n\n• K142988 Sleepware G3, Respironics Inc.",
+      "character_count": 786
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary \n\nPage 2 of 6 \n\nIV. Device Description \nSleepware G3 software is a polysomnography scoring application, used by trained clinical professionals, \nfor managing data from sleep diagnostic devices using a personal computer. Sleepware G3 is able to \nconfigure sleep diagnostic device parameters, transfer data stored in sleep diagnostic device memory to \nthe personal host computer, process and auto-score data to display graphical and statistical analyses, \nprovide aid to clinical professionals for evaluating the physiological data waveforms relevant to sleep \nmonitoring, and create unique patient reports. \nSleepware G3 includes an optional Somnolyzer plug-in. The auto-scoring algorithms of the Somnolyzer \nInside software can be used in addition to, or in the place of, the auto-scoring algorithms that are included \nin Sleepware G3. \nSleepware G3, remains unchanged in function and fundamental scientific technology from Sleepware G3 \nwhich was cleared under K142988. \nV. Intended Use \nSleepware G3 is a software application used for analysis (automatic and manual scoring), display, \nretrieval, summarization, report generation, and networking of data received from monitoring devices \nused to categorize sleep related events that help aid in the diagnosis of sleep-related disorders. \nThe optional Somnolyzer software application is intended to mark sleep study signals in order to aid in the \nidentification of events and annotation of traces; automatically calculate measures obtained from \nrecorded signals (e.g. magnitude, time, frequency and statistical measures of marked events); and infer \nsleep staging in the absence of EEG. All output subject to verification by a qualified user. \nComparison of Technological Characteristics with the Predicate Device \nThe predicate Sleepware G3 software (cleared in K142988), and the subject device software Sleepware \nG3 K202142 are designed to detect events for polysomnography with electroencephalography. While the \nIndications for Use statement for Sleepware G3 is not identical to the predicate device, the differences do \nnot alter the intended diagnostic use of the device relative to the predicate. The Indications for Use have \nbeen updated to now include that Somnolyzer’s scoring results are ready to review by a physician, which \nis one of the modifications being proposed in this submission. The subject and predicate device is based \non the following technological elements:",
+      "character_count": 2487
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary \n\nPage 3 of 6 \n\n• Same intended use as the Sleepware G3 (K142988). \n• Same control mechanism and real-time operating principle as Sleepware G3 (K142988). \n• Same technology and user interface as Sleepware G3 (K142988). \nThe following differences exist between the subject and predicate devices: \n• Modification #1: Added additional claim to Sleepware G3. \nSomnolyzer’s auto-scoring events are non-inferior to manual expert scoring and do not require review \nby a lab technician. \no For a full PSG acquisition, Somnolyzer scoring for sleep stages according to AASM criteria is \nnon-inferior to manual expert scoring from a Registered Polysomnographic Technologist \n(RPSGT). \no For a full PSG acquisition, Somnolyzer scoring for arousals during sleep according to AASM \ncriteria is non-inferior to manual expert scoring from an RPSGT. \no For a full PSG acquisition, Somnolyzer scoring for apneas and hypopneas during sleep \naccording to AASM criteria is non-inferior to manual expert scoring from an RPSGT. \no For a full PSG acquisition, Somnolyzer scoring for periodic limb movements during sleep \naccording to AASM criteria is non-inferior to manual expert scoring from an RPSGT. \no For an HST acquisition, Somnolyzer scoring for apneas and hypopneas according to AASM \ncriteria is non-inferior to manual expert scoring from an RPSGT. \n\n• Modification #2: Cardio-Respiratory Sleep Staging (CReSS) \nFor an HST acquisition, Somnolyzer scoring provides an approximate sleep staging based on cardio-\nrespiratory signals (CReSS) such that (given Somnolyzer apnea and hypopnea scoring) the AHI based \non the cardio-respiratory feature-based sleep time is superior to the REI based on monitoring time. \nSomnolyzer's Cardio-Respiratory Sleep Staging (CReSS) applies clinically-validated algorithms to provide \nsleep staging for HST studies. \n• Modification #3: Indications for Use update \nThe Indications for Use statement now includes language that Somnolyzer’s scoring results are ready to \nreview by a physician. There are no other changes to the Indications for Use from what was previous \ncleared in K142988. While the Indications for Use statement for Sleepware G3 is not identical to the",
+      "character_count": 2234
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary \n\nPage 4 of 6 \n\npredicate device, the differences do not alter the intended diagnostic use of the device relative to the \npredicate. Please refer to the table below for a side by side comparison of the predicate and subject \ndevice Indications for Use statements. \nTable 1: Indications for Use Comparison \nPredicate Device/ Premarket Notification Subject Device \nSleepware G3 /K142988 Sleepware G3 \nSleepware G3 is a software application used for \nanalysis (automatic and manual scoring), display, \nretrieval, summarization, report generation and \nnetworking of data received from monitoring \ndevices used to categorize sleep related events \nthat help aid in the diagnosis of sleep related \ndisorders. It is indicated for use with infant or \nadult patients in a clinical environment by or on \nthe order of a physician. \n\nThe optional Somnolyzer Inside scoring package \nhas the same intended use as Sleepware G3, but \nis indicated for use with adult patients only. \nSleepware G3 is a software application used for \nanalysis (automatic and manual scoring), display, \nretrieval, summarization, report generation, and \nnetworking of data received from monitoring \ndevices used to categorize sleep related events \nthat help aid in the diagnosis of sleep-related \ndisorders. It is indicated for use with adults (18 \nand older) and infant patients (one year old or \nless) in a clinical environment by or on the order \nof a physician. \n\nThe optional Somnolyzer scoring algorithms are \nfor use with adults (18 and older) to generate an \noutput that is ready for review and interpretation \nby a physician. \n\nCardio-Respiratory Sleep Staging (CReSS) is an \nadditional functionality of Somnolyzer which uses \nstandard Home Sleep Apnea Test (HSAT) signals \n(in the absence of EEG signals) to infer sleep \nstage. \n\n• Modification #4: Notable features and modifications to Sleepware G3 since K142988 was \ncleared: \no Improvements to Standard Analysis Desaturation Detection \no Portable Device Manager - This feature provides a workflow for assigning, managing and tracking \nHST devices assigned to patients. \no Sleepware Support Surface Pro – Supporting running Sleepware G3 software on a Surface Pro \ntablet for offline study review. \no Added Sleepware Bedside Assistant (“SBA”)– Application for the Microsoft Surface Pro platform. \nThis application provides the ability for sleep techs to perform bedside bio-calibration and \nimpedance tests. \no Added feature allowing the customer to view hypopneas that are associated with 4% desaturation \nin addition to the currently-available hypopneas with 3% desaturation per AASM 2.4. \no Updated the encryption algorithm.",
+      "character_count": 2697
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary \n\nPage 5 of 6 \n\nVI. Performance Data Provided to Demonstrate Substantial \nEquivalence: \nSoftware Verification and Validation Testing \nSoftware verification and validation testing were conducted and documentation was provided as \nrecommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of Premarket \nSubmissions for Software Contained in Medical Devices.” The software for this device was considered to \nhave a “moderate” level of concern, since a failure or latent flaw in the software could result in minor harm \nto the patient. \nNon-Clinical Performance Testing \nSoftware verification and validation included software code reviews, automated testing, bench verification \ntesting and labeling review. \nTesting confirmed that the device under review performs equivalently to the device predicate Sleepware \nG3 (K142988). All tests had passing results. \nClinical Performance Testing \nFive clinical studies were provided in this submission. These clinical studies included a total of 1,204 \npolysomnography (PSG) and home sleep apnea test (HSAT) files to validate the Somnolyzer and CReSS \nalgorithms against manual scoring. Four studies assessed the Somnolyzer algorithm. In these studies, The \nnon-inferiority margin for comparisons of Somnolyzer against human scoring were set at the lower-margin \nof the agreement observed across expert technologists. All of the primary and secondary endpoints were \nmet across all studies, and thus it was concluded that Somnolyzer is non-inferior to human sleep staging \nand scoring of the apnea hypopnea index (AHI), arousal index (ArI), periodic limb movement of sleep index \n(PLMSI), and respiratory event index (REI). By demonstrating non- inferiority against human scoring in a \nlarge, diverse sample of PSGs and HSATs collected via a number of different platforms, the data \ndemonstrate that Somnolyzer produces output that is as reliable as the output of sleep technologist scoring \nand is therefore ready for review and interpretation by a physician. A fifth study assessed the \nCardioRespiratory Sleep Staging (CReSS) algorithm. In that study, we provide evidence that the REI \ncalculated using total sleep time determined by the CReSS algorithm applied to heart rate and airflow \nsignals is a more accurate estimate of the AHI than the REI calculated using total recording time. Accuracy \nis further improved when CReSS is applied to the heart rate, airflow, and respiratory effort signals (the \nmean difference between the REI and AHI was reduced from -6.6 events/hour (95% confidence interval -\n7.51 to -5.71) to -1.76 events/hour (95% confidence interval -2.27 to -1.24) when CReSS was applied to \nthree signals). \nVII. Conclusion \nThe modified Sleepware G3 includes new technological characteristics that do not raise different \nquestions of safety and effectiveness. The proposed scientific evidence and performance testing to",
+      "character_count": 2955
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary \n\nPage 6 of 6 \n\nevaluate these new and different characteristics are acceptable and demonstrate substantial equivalence \nto the legally marketed predicate K142988 Sleepware G3.",
+      "character_count": 224
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K202142-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 0 4 . 1 9 \nSilver Spring, MD 20993 \nwww.fda.gov \nOctober 29, 2020\nRespironics, Inc.\nJonquil Mau\nRegulatory Engineer\n1001 Murry Ridge Lane\nMurrysville, Pennsylvania 15668\nRe: K202142\nTrade/Device Name: Sleepware G3\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLZ\nDated: July 30, 2020\nReceived: July 31, 2020\nDear Jonquil Mau:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. Although this letter refers to your product as a device, please be aware that \nsome cleared products may instead be combination products. The 510(k) Premarket Notification Database \nlocated at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfmidentifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part",
+      "extraction_method": "native",
+      "character_count": 2614
+    },
+    {
+      "block_id": "K202142-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "K202142 - Jonquil Mau Page 2\n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for \ndevices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for \ncombination products; and, if applicable, the electronic product radiation control provisions (Sections 531-\n542 of the Act); 21 CFR 1000-1050. \nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). \nSincerely,",
+      "extraction_method": "native",
+      "character_count": 1820
+    },
+    {
+      "block_id": "K202142-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "for \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional\nand Neurodiagnostic Devices \nOHT5: Office of Neurological \nand Physical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health\nEnclosure",
+      "extraction_method": "native",
+      "character_count": 275
+    },
+    {
+      "block_id": "K202142-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120\nFood and Drug Administration Expiration Date: 06/30/2020",
+      "extraction_method": "ocr",
+      "character_count": 129
+    },
+    {
+      "block_id": "K202142-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "Indications for Use See PRA Statement below.",
+      "text": "Indications for Use See PRA Statement below.",
+      "extraction_method": "ocr",
+      "character_count": 44
+    },
+    {
+      "block_id": "K202142-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Indications for Use See PRA Statement below.",
+      "text": "510(k) Number (if known)\nK202142",
+      "extraction_method": "ocr",
+      "character_count": 32
+    },
+    {
+      "block_id": "K202142-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Indications for Use See PRA Statement below.",
+      "text": "Device Name\nSleepware G3",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K202142-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Indications for Use (Describe)",
+      "text": "Indications for Use (Describe)",
+      "extraction_method": "ocr",
+      "character_count": 30
+    },
+    {
+      "block_id": "K202142-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "Sleepware G3 is a software application used for analysis (automatic and manual scoring), display, retrieval,\nsummarization, report generation, and networking of data received from monitoring devices used to categorize sleep\nrelated events that help aid in the diagnosis of sleep-related disorders. It is indicated for use with adults (18 and older) and\ninfant patients (one year old or less) in a clinical environment by or on the order of a physician.",
+      "extraction_method": "ocr",
+      "character_count": 452
+    },
+    {
+      "block_id": "K202142-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "The optional Somnolyzer scoring algorithms are for use with adults (18 and older) to generate an output that is ready for\nreview and interpretation by a physician. Cardio-Respiratory Sleep Staging (CReSS) is an additional functionality of\nSomnolyzer which uses standard Home Sleep Apnea Test HSAT signals (in the absence of EEG signals) to infer sleep\nstage.",
+      "extraction_method": "ocr",
+      "character_count": 358
+    },
+    {
+      "block_id": "K202142-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "Type of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) [_] Over-The-Counter Use (21 CFR 801 Subpart C)",
+      "extraction_method": "ocr",
+      "character_count": 140
+    },
+    {
+      "block_id": "K202142-P003-B009",
+      "page": 3,
+      "ordinal": 9,
+      "type": "heading",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K202142-P003-B010",
+      "page": 3,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "This section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*",
+      "extraction_method": "ocr",
+      "character_count": 153
+    },
+    {
+      "block_id": "K202142-P003-B011",
+      "page": 3,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "The burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:",
+      "extraction_method": "ocr",
+      "character_count": 410
+    },
+    {
+      "block_id": "K202142-P003-B012",
+      "page": 3,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Department of Health and Human Services\nFood and Drug Administration",
+      "extraction_method": "ocr",
+      "character_count": 68
+    },
+    {
+      "block_id": "K202142-P003-B013",
+      "page": 3,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Office of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov",
+      "extraction_method": "ocr",
+      "character_count": 92
+    },
+    {
+      "block_id": "K202142-P003-B014",
+      "page": 3,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "ocr",
+      "character_count": 160
+    },
+    {
+      "block_id": "K202142-P003-B015",
+      "page": 3,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "FORM FDA 3881 (7/1 7) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF",
+      "extraction_method": "ocr",
+      "character_count": 75
+    },
+    {
+      "block_id": "K202142-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 47
+    },
+    {
+      "block_id": "K202142-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Page 1 of 6",
+      "extraction_method": "native",
+      "character_count": 11
+    },
+    {
+      "block_id": "K202142-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "TRADITIONAL 510(K) SUMMARY \nK202142 \nI. Submitter \nContact Person Jonquil Mau \nRegulatory Engineer \njonquil.mau@philips.com",
+      "extraction_method": "native",
+      "character_count": 123
+    },
+    {
+      "block_id": "K202142-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Address & Phone 1740 Golden Mile Highway \nMonroeville, PA 15146 \nPhone: (678) 768-2773",
+      "extraction_method": "native",
+      "character_count": 86
+    },
+    {
+      "block_id": "K202142-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Manufacturing Facility Respironics Inc. \n1001 Murry Ridge Ln \nMurrysville, Pennsylvania 15668",
+      "extraction_method": "native",
+      "character_count": 93
+    },
+    {
+      "block_id": "K202142-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Date of Preparation October 29, 2020 \nII. Subject Device",
+      "extraction_method": "native",
+      "character_count": 56
+    },
+    {
+      "block_id": "K202142-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Name of Device: Sleepware G3",
+      "extraction_method": "native",
+      "character_count": 28
+    },
+    {
+      "block_id": "K202142-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Common/Usual Name: Polysomnography (PSG) Software",
+      "extraction_method": "native",
+      "character_count": 49
+    },
+    {
+      "block_id": "K202142-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Classification Name: Electroencephalograph (21 CFR 882.1400)",
+      "extraction_method": "native",
+      "character_count": 60
+    },
+    {
+      "block_id": "K202142-P004-B010",
+      "page": 4,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Regulatory Class: II",
+      "extraction_method": "native",
+      "character_count": 20
+    },
+    {
+      "block_id": "K202142-P004-B011",
+      "page": 4,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Product Code: OLZ Automatic Event Detection Software for Polysomnograph with \nElectroencephalograph \nIII. Legally Marketed Predicate Device",
+      "extraction_method": "native",
+      "character_count": 139
+    },
+    {
+      "block_id": "K202142-P004-B012",
+      "page": 4,
+      "ordinal": 12,
+      "type": "list",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "• K142988 Sleepware G3, Respironics Inc.",
+      "extraction_method": "native",
+      "character_count": 40
+    },
+    {
+      "block_id": "K202142-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 47
+    },
+    {
+      "block_id": "K202142-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Page 2 of 6",
+      "extraction_method": "native",
+      "character_count": 11
+    },
+    {
+      "block_id": "K202142-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "IV. Device Description \nSleepware G3 software is a polysomnography scoring application, used by trained clinical professionals, \nfor managing data from sleep diagnostic devices using a personal computer. Sleepware G3 is able to \nconfigure sleep diagnostic device parameters, transfer data stored in sleep diagnostic device memory to \nthe personal host computer, process and auto-score data to display graphical and statistical analyses, \nprovide aid to clinical professionals for evaluating the physiological data waveforms relevant to sleep \nmonitoring, and create unique patient reports. \nSleepware G3 includes an optional Somnolyzer plug-in. The auto-scoring algorithms of the Somnolyzer \nInside software can be used in addition to, or in the place of, the auto-scoring algorithms that are included \nin Sleepware G3. \nSleepware G3, remains unchanged in function and fundamental scientific technology from Sleepware G3 \nwhich was cleared under K142988. \nV. Intended Use \nSleepware G3 is a software application used for analysis (automatic and manual scoring), display, \nretrieval, summarization, report generation, and networking of data received from monitoring devices \nused to categorize sleep related events that help aid in the diagnosis of sleep-related disorders. \nThe optional Somnolyzer software application is intended to mark sleep study signals in order to aid in the \nidentification of events and annotation of traces; automatically calculate measures obtained from \nrecorded signals (e.g. magnitude, time, frequency and statistical measures of marked events); and infer \nsleep staging in the absence of EEG. All output subject to verification by a qualified user. \nComparison of Technological Characteristics with the Predicate Device \nThe predicate Sleepware G3 software (cleared in K142988), and the subject device software Sleepware \nG3 K202142 are designed to detect events for polysomnography with electroencephalography. While the \nIndications for Use statement for Sleepware G3 is not identical to the predicate device, the differences do \nnot alter the intended diagnostic use of the device relative to the predicate. The Indications for Use have \nbeen updated to now include that Somnolyzer’s scoring results are ready to review by a physician, which \nis one of the modifications being proposed in this submission. The subject and predicate device is based \non the following technological elements:",
+      "extraction_method": "native",
+      "character_count": 2423
+    },
+    {
+      "block_id": "K202142-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 47
+    },
+    {
+      "block_id": "K202142-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Page 3 of 6",
+      "extraction_method": "native",
+      "character_count": 11
+    },
+    {
+      "block_id": "K202142-P006-B003",
+      "page": 6,
+      "ordinal": 3,
+      "type": "list",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "• Same intended use as the Sleepware G3 (K142988). \n• Same control mechanism and real-time operating principle as Sleepware G3 (K142988). \n• Same technology and user interface as Sleepware G3 (K142988). \nThe following differences exist between the subject and predicate devices: \n• Modification #1: Added additional claim to Sleepware G3. \nSomnolyzer’s auto-scoring events are non-inferior to manual expert scoring and do not require review \nby a lab technician. \no For a full PSG acquisition, Somnolyzer scoring for sleep stages according to AASM criteria is \nnon-inferior to manual expert scoring from a Registered Polysomnographic Technologist \n(RPSGT). \no For a full PSG acquisition, Somnolyzer scoring for arousals during sleep according to AASM \ncriteria is non-inferior to manual expert scoring from an RPSGT. \no For a full PSG acquisition, Somnolyzer scoring for apneas and hypopneas during sleep \naccording to AASM criteria is non-inferior to manual expert scoring from an RPSGT. \no For a full PSG acquisition, Somnolyzer scoring for periodic limb movements during sleep \naccording to AASM criteria is non-inferior to manual expert scoring from an RPSGT. \no For an HST acquisition, Somnolyzer scoring for apneas and hypopneas according to AASM \ncriteria is non-inferior to manual expert scoring from an RPSGT.",
+      "extraction_method": "native",
+      "character_count": 1318
+    },
+    {
+      "block_id": "K202142-P006-B004",
+      "page": 6,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "• Modification #2: Cardio-Respiratory Sleep Staging (CReSS) \nFor an HST acquisition, Somnolyzer scoring provides an approximate sleep staging based on cardio-\nrespiratory signals (CReSS) such that (given Somnolyzer apnea and hypopnea scoring) the AHI based \non the cardio-respiratory feature-based sleep time is superior to the REI based on monitoring time. \nSomnolyzer's Cardio-Respiratory Sleep Staging (CReSS) applies clinically-validated algorithms to provide \nsleep staging for HST studies. \n• Modification #3: Indications for Use update \nThe Indications for Use statement now includes language that Somnolyzer’s scoring results are ready to \nreview by a physician. There are no other changes to the Indications for Use from what was previous \ncleared in K142988. While the Indications for Use statement for Sleepware G3 is not identical to the",
+      "extraction_method": "native",
+      "character_count": 849
+    },
+    {
+      "block_id": "K202142-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 47
+    },
+    {
+      "block_id": "K202142-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Page 4 of 6",
+      "extraction_method": "native",
+      "character_count": 11
+    },
+    {
+      "block_id": "K202142-P007-B003",
+      "page": 7,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "predicate device, the differences do not alter the intended diagnostic use of the device relative to the \npredicate. Please refer to the table below for a side by side comparison of the predicate and subject \ndevice Indications for Use statements. \nTable 1: Indications for Use Comparison \nPredicate Device/ Premarket Notification Subject Device \nSleepware G3 /K142988 Sleepware G3 \nSleepware G3 is a software application used for \nanalysis (automatic and manual scoring), display, \nretrieval, summarization, report generation and \nnetworking of data received from monitoring \ndevices used to categorize sleep related events \nthat help aid in the diagnosis of sleep related \ndisorders. It is indicated for use with infant or \nadult patients in a clinical environment by or on \nthe order of a physician.",
+      "extraction_method": "native",
+      "character_count": 802
+    },
+    {
+      "block_id": "K202142-P007-B004",
+      "page": 7,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "The optional Somnolyzer Inside scoring package \nhas the same intended use as Sleepware G3, but \nis indicated for use with adult patients only. \nSleepware G3 is a software application used for \nanalysis (automatic and manual scoring), display, \nretrieval, summarization, report generation, and \nnetworking of data received from monitoring \ndevices used to categorize sleep related events \nthat help aid in the diagnosis of sleep-related \ndisorders. It is indicated for use with adults (18 \nand older) and infant patients (one year old or \nless) in a clinical environment by or on the order \nof a physician.",
+      "extraction_method": "native",
+      "character_count": 605
+    },
+    {
+      "block_id": "K202142-P007-B005",
+      "page": 7,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "The optional Somnolyzer scoring algorithms are \nfor use with adults (18 and older) to generate an \noutput that is ready for review and interpretation \nby a physician.",
+      "extraction_method": "native",
+      "character_count": 166
+    },
+    {
+      "block_id": "K202142-P007-B006",
+      "page": 7,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Cardio-Respiratory Sleep Staging (CReSS) is an \nadditional functionality of Somnolyzer which uses \nstandard Home Sleep Apnea Test (HSAT) signals \n(in the absence of EEG signals) to infer sleep \nstage.",
+      "extraction_method": "native",
+      "character_count": 200
+    },
+    {
+      "block_id": "K202142-P007-B007",
+      "page": 7,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "• Modification #4: Notable features and modifications to Sleepware G3 since K142988 was \ncleared: \no Improvements to Standard Analysis Desaturation Detection \no Portable Device Manager - This feature provides a workflow for assigning, managing and tracking \nHST devices assigned to patients. \no Sleepware Support Surface Pro – Supporting running Sleepware G3 software on a Surface Pro \ntablet for offline study review. \no Added Sleepware Bedside Assistant (“SBA”)– Application for the Microsoft Surface Pro platform. \nThis application provides the ability for sleep techs to perform bedside bio-calibration and \nimpedance tests. \no Added feature allowing the customer to view hypopneas that are associated with 4% desaturation \nin addition to the currently-available hypopneas with 3% desaturation per AASM 2.4. \no Updated the encryption algorithm.",
+      "extraction_method": "native",
+      "character_count": 848
+    },
+    {
+      "block_id": "K202142-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 47
+    },
+    {
+      "block_id": "K202142-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Page 5 of 6",
+      "extraction_method": "native",
+      "character_count": 11
+    },
+    {
+      "block_id": "K202142-P008-B003",
+      "page": 8,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "VI. Performance Data Provided to Demonstrate Substantial \nEquivalence: \nSoftware Verification and Validation Testing \nSoftware verification and validation testing were conducted and documentation was provided as \nrecommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of Premarket \nSubmissions for Software Contained in Medical Devices.” The software for this device was considered to \nhave a “moderate” level of concern, since a failure or latent flaw in the software could result in minor harm \nto the patient. \nNon-Clinical Performance Testing \nSoftware verification and validation included software code reviews, automated testing, bench verification \ntesting and labeling review. \nTesting confirmed that the device under review performs equivalently to the device predicate Sleepware \nG3 (K142988). All tests had passing results. \nClinical Performance Testing \nFive clinical studies were provided in this submission. These clinical studies included a total of 1,204 \npolysomnography (PSG) and home sleep apnea test (HSAT) files to validate the Somnolyzer and CReSS \nalgorithms against manual scoring. Four studies assessed the Somnolyzer algorithm. In these studies, The \nnon-inferiority margin for comparisons of Somnolyzer against human scoring were set at the lower-margin \nof the agreement observed across expert technologists. All of the primary and secondary endpoints were \nmet across all studies, and thus it was concluded that Somnolyzer is non-inferior to human sleep staging \nand scoring of the apnea hypopnea index (AHI), arousal index (ArI), periodic limb movement of sleep index \n(PLMSI), and respiratory event index (REI). By demonstrating non- inferiority against human scoring in a \nlarge, diverse sample of PSGs and HSATs collected via a number of different platforms, the data \ndemonstrate that Somnolyzer produces output that is as reliable as the output of sleep technologist scoring \nand is therefore ready for review and interpretation by a physician. A fifth study assessed the \nCardioRespiratory Sleep Staging (CReSS) algorithm. In that study, we provide evidence that the REI \ncalculated using total sleep time determined by the CReSS algorithm applied to heart rate and airflow \nsignals is a more accurate estimate of the AHI than the REI calculated using total recording time. Accuracy \nis further improved when CReSS is applied to the heart rate, airflow, and respiratory effort signals (the \nmean difference between the REI and AHI was reduced from -6.6 events/hour (95% confidence interval -\n7.51 to -5.71) to -1.76 events/hour (95% confidence interval -2.27 to -1.24) when CReSS was applied to \nthree signals). \nVII. Conclusion \nThe modified Sleepware G3 includes new technological characteristics that do not raise different \nquestions of safety and effectiveness. The proposed scientific evidence and performance testing to",
+      "extraction_method": "native",
+      "character_count": 2891
+    },
+    {
+      "block_id": "K202142-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 47
+    },
+    {
+      "block_id": "K202142-P009-B002",
+      "page": 9,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Page 6 of 6",
+      "extraction_method": "native",
+      "character_count": 11
+    },
+    {
+      "block_id": "K202142-P009-B003",
+      "page": 9,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "evaluate these new and different characteristics are acceptable and demonstrate substantial equivalence \nto the legally marketed predicate K142988 Sleepware G3.",
+      "extraction_method": "native",
+      "character_count": 160
+    }
+  ],
+  "claims": []
+}

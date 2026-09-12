@@ -1,0 +1,797 @@
+{
+  "document": {
+    "k_number": "K974583",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "DEEGLITE",
+    "applicant": "Grass-Telefactor Product Group",
+    "decision_date": "1998-06-09",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf/K974583.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K974583",
+    "sha256": "f1fb6969aa09fb020f9292a0b5c13940e4963d1451137a1f62d42f8c94e39225",
+    "page_count": 6,
+    "native_pages": 0,
+    "ocr_pages": 6,
+    "family_id": "PSG-012",
+    "family_name": "DEEG-LITE / H2O",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "Section 2: 510(K) Summary & Certification\n\nJUN ~9 (998\n\nKGF#593\n\n2.0 Summary\n\nThis summary is submitted in accordance with the content & format requirements of section 807.92\nof the CFR, by Telefactor Corporation, and is a part of the Premarket Notification 510(k)\nApplication.\n\n(Requirement: CFR807.92 paragraph (a))\n\na.\n\nb.\n\nDate: March 04, 1998\nName & address of the submitter: Telefactor Corporation\n1094 New Dehaven Street\nWest Conshohocken, PA 19428\n\nEstablishment registration number: 2523420\n\nContact person: James S. Bryan\n\nc.\n\nd.\n\ng.\n\nChief Engineer\nTel: (610) 825-4555\nFAX: (610) 941-0348\n\nTrade Name: DEEG-LITE-OXY\n\nCommon Name: Portable EEG Recorder\n\nProduct Classification (per CDRH Database):\nProduct Category: ELECTROENCEPHALOGRAPH\nRegulation Number: 882.1400 oo\nMedical Specialty: NE\n\nProduct Code: GWQ } OLY, DgA\n\nProduct class: Class I Device Tier: 2\n\nThis device claims equivalence to: Telefactor Corporation’s DEEG-LITE Portable EEG-\nRecorder for which previously granted 510(k) number is: K972202\n\nBrief functional description of the device: DEEG-LITE-OXY receives signals from an\nEEG Amplifier, formats & records them on the digital media for subsequent evaluation by a\nqualified clinician.",
+      "character_count": 1213
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "h. Intended use for the device:\nINDICATIONS FOR USE, previously approved for DEEG-LITE (510(k) #K972202:\n\nDEEG-LITE is intended for use in long-term digital recording of voltages produced by the brain\nand measured on the scalp (EEG) for subsequent diagnostic review with a digital workstation\nsupplied by the manufacturer (Telefactor Beekeeper) or similar compatible device.\n\nINDICATION FOR USE for DEEG-LITE-OXY (modified to include pulse-oximeter)\n\nThe DEEG-LITE-OXY is intended for use in long-term recording of voltages produced by the brain\nand measured on the scalp (EEG) for subsequent diagnostic review with a digital workstation\nsupplied by the manufacturer (Telefactor Beekeeper) or similar compatible device. An integrated\npulse oximeter provides supplemental diagnostic data in the form of blood oxygen saturation (SpO2\npercent).\n\ni. Technological characteristics: The DEEG-LITE-OXY system consists of (a) a laptop\ncomputer with liquid crystal display, (b) a MicroCoder which consists of state of the art\ncomponents such as: a high resolution Analog to Digital converter, a DSP (Digital Signal\nProcessor) and XILINX programmable logic devices, (c) a power supply and (d) a wearable,\n32 channel EEG amplifier/recorder, and (e) an internal pulse oximeter module supplied by\nNellcor(model MP205). The DEEG-LITE-OXY system operates ona safe low voltage\npower supply. With the exception of the pulse oximeter module, all of the foregoing\ncomponents are identical of those included in the predicate device DEEG-LITE.\n\n(Requirement: CFR807.92 paragraph (b))\n\nj. Brief statement of substantial equivalence to Telefactor DEEG-LITE: The DEEG-LITE\nsystem is often operated with an external pulse oximeter device powered from the a-c mains\nand supplying a non-isolated analog output coupled to the non-isolated analog input of the\nDEEG-LITE. The DEEG-LITE-OXY is completely equivalent to the foregoing configuration\nexcept that the pulse oximeter circuitry and processor have been obtained as an OEM module\nwhich can be operated from isolated battery power and coupled digitally to the DEEG-LITE-\nOXY recording system. Providing an internal pulse oximeter eliminates any possibility of\nerror in the D-to-A and A-to-D communication process used in DEEG-LITE and makes the\nresulting system portable and more easily set-up in both the office and home environment. The\nperformance of the DEEG-LITE BEG recording capability is in no way degraded by the\naddition of the internal pulse oximeter, and the oximeter with only 300 milliwatts power\nconsumption does not significantly affect battery life.",
+      "character_count": 2592
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "(1) Nonclinical (Bench Tests): The results of the bench tests described in volume 3, document\nthe equivalent noise performance of the DEEG-LITE OXY system to that of the DEEG-\nLITE system. Section 5-f of this application summarizes bench test data which confirms\nthat the internal Nellcor oximeter (equivalent to that documented in Nellcor’s document for\ntheir 510(k) #K962424) meets Nellcor’s specifications when installed in the\nDEEG-LITE-OXY electronic environment.\n\n(2) Clinical tests: Because of the identical performance confirmed by the Bench Tests, clinical\nperformance tests are deemed unnecessary.\n\n(3) Summary of Safety and Effectiveness: Electrical safety for EEG monitoring equipment is\n\nwell specified by the UL2601-1 and IEC601-1 standards. The design of the\nDEEG-LITE-OXY electronics is identical to that of the DEEG-LITE and has been carried\nout with careful attention to compliance with these standards.\n\n(4) Conclusion: It is our conclusion that the nonclinical (Bench Tests) and the substantially\nequivalent design of the DEEG-LITE-OXY to that of the DEEG-LITE, demonstrate that the\ndevice is safe, effective and performs as well as the predicate device DEEG-LITE.\n\n2.1 Certification\n\nI certify, that to the best of my knowledge, the information provided in this summary for the\nPremarket Notification 510(k) for the DEEG-LITE-OXY, is true and accurate.\n\nDate: March 06, 1998\n\nWest Conshohocken, PA 19428",
+      "character_count": 1424
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "VIC:\nsp stavices,\noe “ty\n\n€ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\nwtacty,\not “%\n\n“ey,\n\ntavaia\n\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room —-W066-G609\nSilver Spring, MD 20993-0002 ,\n\nMr. James S. Bryan\n\nTelefactor Corporation\n\n1094 New Dehaven Avenue\n\nWest Conshohocken, Pennsylvania 19428\n\nRe: K974583\nTrade/Device Name: DEEG-LITE-OXY\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ, DQA\nDated (Date on orig SE Itr): March 6, 1998\nReceived (Date on orig SE ltr): March 11, 1998\n\nAPR -9 2012\n\nDear Mr. Bryan:\nThis letter corrects our substantially equivalent letter of June 9, 1998.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 2113
+    },
+    {
+      "page": 5,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Mr. James S. Bryan\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutF DA/CentersOffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, “Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\n\nhttp://www.fda.gov/MedicalDevices/Resourcesfor Y ou/Industry/default.htm.\n\nSincerely yours,\n\nou\n\nMalvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health\n\nEnclosure",
+      "character_count": 1958
+    },
+    {
+      "page": 6,
+      "extraction_method": "ocr",
+      "text": "Page_! of\n\n510(k) Number (if known):__K974583\n\nDevice Name:___DEEG-LITE-Oxy\n\nIndications For Use:\n\nIndication for use for DEEG-LITE-OXxY (modified to include’\npulse-oximeter)\n\nThe DEEG-LITE-OXY is intended for use in long-term recording of\nvoltages produced by the brain and measured on the scalp (EEG) for\nsubsequent diagnostic review with a digital workstation supplied\nby the manufacturer (Telefactor Beekeeper) or similar compatible\ndevice. -An integrated pulse oximeter provides supplemental\nGiagnostic data in the form of blood oxygen saturation (Sp02\npercent).\n\n-\n\nce\n\n{PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER’ PAGE IF\nNEEDED) - iets TPA\n\nConcurrence of CDRH, Office of Deyice Evaluation (ODE)\n\n| Pr secipsontuse_ ee OR” .- - Over-The-Counter Usé'®:\n! (Per 21 CFR 801.109) me\n(Optional Format 1-2-96)",
+      "character_count": 823
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K974583-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "Section 2: 510(K) Summary & Certification",
+      "text": "Section 2: 510(K) Summary & Certification",
+      "extraction_method": "ocr",
+      "character_count": 41
+    },
+    {
+      "block_id": "K974583-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "JUN ~9 (998",
+      "text": "JUN ~9 (998",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K974583-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "KGF#593",
+      "text": "KGF#593",
+      "extraction_method": "ocr",
+      "character_count": 7
+    },
+    {
+      "block_id": "K974583-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "2.0 Summary",
+      "text": "2.0 Summary",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K974583-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "This summary is submitted in accordance with the content & format requirements of section 807.92\nof the CFR, by Telefactor Corporation, and is a part of the Premarket Notification 510(k)\nApplication.",
+      "extraction_method": "ocr",
+      "character_count": 199
+    },
+    {
+      "block_id": "K974583-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "(Requirement: CFR807.92 paragraph (a))",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K974583-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "a.",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K974583-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "b.",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K974583-P001-B009",
+      "page": 1,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "Date: March 04, 1998\nName & address of the submitter: Telefactor Corporation\n1094 New Dehaven Street\nWest Conshohocken, PA 19428",
+      "extraction_method": "ocr",
+      "character_count": 128
+    },
+    {
+      "block_id": "K974583-P001-B010",
+      "page": 1,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "Establishment registration number: 2523420",
+      "extraction_method": "ocr",
+      "character_count": 42
+    },
+    {
+      "block_id": "K974583-P001-B011",
+      "page": 1,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "Contact person: James S. Bryan",
+      "extraction_method": "ocr",
+      "character_count": 30
+    },
+    {
+      "block_id": "K974583-P001-B012",
+      "page": 1,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "c.",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K974583-P001-B013",
+      "page": 1,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "d.",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K974583-P001-B014",
+      "page": 1,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "g.",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K974583-P001-B015",
+      "page": 1,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "Chief Engineer\nTel: (610) 825-4555\nFAX: (610) 941-0348",
+      "extraction_method": "ocr",
+      "character_count": 54
+    },
+    {
+      "block_id": "K974583-P001-B016",
+      "page": 1,
+      "ordinal": 16,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "Trade Name: DEEG-LITE-OXY",
+      "extraction_method": "ocr",
+      "character_count": 25
+    },
+    {
+      "block_id": "K974583-P001-B017",
+      "page": 1,
+      "ordinal": 17,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "Common Name: Portable EEG Recorder",
+      "extraction_method": "ocr",
+      "character_count": 34
+    },
+    {
+      "block_id": "K974583-P001-B018",
+      "page": 1,
+      "ordinal": 18,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "Product Classification (per CDRH Database):\nProduct Category: ELECTROENCEPHALOGRAPH\nRegulation Number: 882.1400 oo\nMedical Specialty: NE",
+      "extraction_method": "ocr",
+      "character_count": 136
+    },
+    {
+      "block_id": "K974583-P001-B019",
+      "page": 1,
+      "ordinal": 19,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "Product Code: GWQ } OLY, DgA",
+      "extraction_method": "ocr",
+      "character_count": 28
+    },
+    {
+      "block_id": "K974583-P001-B020",
+      "page": 1,
+      "ordinal": 20,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "Product class: Class I Device Tier: 2",
+      "extraction_method": "ocr",
+      "character_count": 37
+    },
+    {
+      "block_id": "K974583-P001-B021",
+      "page": 1,
+      "ordinal": 21,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "This device claims equivalence to: Telefactor Corporation’s DEEG-LITE Portable EEG-\nRecorder for which previously granted 510(k) number is: K972202",
+      "extraction_method": "ocr",
+      "character_count": 147
+    },
+    {
+      "block_id": "K974583-P001-B022",
+      "page": 1,
+      "ordinal": 22,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "Brief functional description of the device: DEEG-LITE-OXY receives signals from an\nEEG Amplifier, formats & records them on the digital media for subsequent evaluation by a\nqualified clinician.",
+      "extraction_method": "ocr",
+      "character_count": 193
+    },
+    {
+      "block_id": "K974583-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "h. Intended use for the device:\nINDICATIONS FOR USE, previously approved for DEEG-LITE (510(k) #K972202:",
+      "extraction_method": "ocr",
+      "character_count": 104
+    },
+    {
+      "block_id": "K974583-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "DEEG-LITE is intended for use in long-term digital recording of voltages produced by the brain\nand measured on the scalp (EEG) for subsequent diagnostic review with a digital workstation\nsupplied by the manufacturer (Telefactor Beekeeper) or similar compatible device.",
+      "extraction_method": "ocr",
+      "character_count": 268
+    },
+    {
+      "block_id": "K974583-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "INDICATION FOR USE for DEEG-LITE-OXY (modified to include pulse-oximeter)",
+      "extraction_method": "ocr",
+      "character_count": 73
+    },
+    {
+      "block_id": "K974583-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "The DEEG-LITE-OXY is intended for use in long-term recording of voltages produced by the brain\nand measured on the scalp (EEG) for subsequent diagnostic review with a digital workstation\nsupplied by the manufacturer (Telefactor Beekeeper) or similar compatible device. An integrated\npulse oximeter provides supplemental diagnostic data in the form of blood oxygen saturation (SpO2\npercent).",
+      "extraction_method": "ocr",
+      "character_count": 390
+    },
+    {
+      "block_id": "K974583-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "i. Technological characteristics: The DEEG-LITE-OXY system consists of (a) a laptop\ncomputer with liquid crystal display, (b) a MicroCoder which consists of state of the art\ncomponents such as: a high resolution Analog to Digital converter, a DSP (Digital Signal\nProcessor) and XILINX programmable logic devices, (c) a power supply and (d) a wearable,\n32 channel EEG amplifier/recorder, and (e) an internal pulse oximeter module supplied by\nNellcor(model MP205). The DEEG-LITE-OXY system operates ona safe low voltage\npower supply. With the exception of the pulse oximeter module, all of the foregoing\ncomponents are identical of those included in the predicate device DEEG-LITE.",
+      "extraction_method": "ocr",
+      "character_count": 679
+    },
+    {
+      "block_id": "K974583-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "(Requirement: CFR807.92 paragraph (b))",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K974583-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "j. Brief statement of substantial equivalence to Telefactor DEEG-LITE: The DEEG-LITE\nsystem is often operated with an external pulse oximeter device powered from the a-c mains\nand supplying a non-isolated analog output coupled to the non-isolated analog input of the\nDEEG-LITE. The DEEG-LITE-OXY is completely equivalent to the foregoing configuration\nexcept that the pulse oximeter circuitry and processor have been obtained as an OEM module\nwhich can be operated from isolated battery power and coupled digitally to the DEEG-LITE-\nOXY recording system. Providing an internal pulse oximeter eliminates any possibility of\nerror in the D-to-A and A-to-D communication process used in DEEG-LITE and makes the\nresulting system portable and more easily set-up in both the office and home environment. The\nperformance of the DEEG-LITE BEG recording capability is in no way degraded by the\naddition of the internal pulse oximeter, and the oximeter with only 300 milliwatts power\nconsumption does not significantly affect battery life.",
+      "extraction_method": "ocr",
+      "character_count": 1028
+    },
+    {
+      "block_id": "K974583-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "(1) Nonclinical (Bench Tests): The results of the bench tests described in volume 3, document\nthe equivalent noise performance of the DEEG-LITE OXY system to that of the DEEG-\nLITE system. Section 5-f of this application summarizes bench test data which confirms\nthat the internal Nellcor oximeter (equivalent to that documented in Nellcor’s document for\ntheir 510(k) #K962424) meets Nellcor’s specifications when installed in the\nDEEG-LITE-OXY electronic environment.",
+      "extraction_method": "ocr",
+      "character_count": 468
+    },
+    {
+      "block_id": "K974583-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "2.0 Summary",
+      "text": "(2) Clinical tests: Because of the identical performance confirmed by the Bench Tests, clinical\nperformance tests are deemed unnecessary.",
+      "extraction_method": "ocr",
+      "character_count": 137
+    },
+    {
+      "block_id": "K974583-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "(3) Summary of Safety and Effectiveness: Electrical safety for EEG monitoring equipment is",
+      "text": "(3) Summary of Safety and Effectiveness: Electrical safety for EEG monitoring equipment is",
+      "extraction_method": "ocr",
+      "character_count": 90
+    },
+    {
+      "block_id": "K974583-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "(3) Summary of Safety and Effectiveness: Electrical safety for EEG monitoring equipment is",
+      "text": "well specified by the UL2601-1 and IEC601-1 standards. The design of the\nDEEG-LITE-OXY electronics is identical to that of the DEEG-LITE and has been carried\nout with careful attention to compliance with these standards.",
+      "extraction_method": "ocr",
+      "character_count": 220
+    },
+    {
+      "block_id": "K974583-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "(3) Summary of Safety and Effectiveness: Electrical safety for EEG monitoring equipment is",
+      "text": "(4) Conclusion: It is our conclusion that the nonclinical (Bench Tests) and the substantially\nequivalent design of the DEEG-LITE-OXY to that of the DEEG-LITE, demonstrate that the\ndevice is safe, effective and performs as well as the predicate device DEEG-LITE.",
+      "extraction_method": "ocr",
+      "character_count": 261
+    },
+    {
+      "block_id": "K974583-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "heading",
+      "section": "2.1 Certification",
+      "text": "2.1 Certification",
+      "extraction_method": "ocr",
+      "character_count": 17
+    },
+    {
+      "block_id": "K974583-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "I certify, that to the best of my knowledge, the information provided in this summary for the\nPremarket Notification 510(k) for the DEEG-LITE-OXY, is true and accurate.",
+      "extraction_method": "ocr",
+      "character_count": 168
+    },
+    {
+      "block_id": "K974583-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "Date: March 06, 1998",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K974583-P003-B009",
+      "page": 3,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "West Conshohocken, PA 19428",
+      "extraction_method": "ocr",
+      "character_count": 27
+    },
+    {
+      "block_id": "K974583-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "VIC:\nsp stavices,\noe “ty",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K974583-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "€ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "ocr",
+      "character_count": 61
+    },
+    {
+      "block_id": "K974583-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "wtacty,\not “%",
+      "extraction_method": "ocr",
+      "character_count": 13
+    },
+    {
+      "block_id": "K974583-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "“ey,",
+      "extraction_method": "ocr",
+      "character_count": 4
+    },
+    {
+      "block_id": "K974583-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "tavaia",
+      "extraction_method": "ocr",
+      "character_count": 6
+    },
+    {
+      "block_id": "K974583-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room —-W066-G609\nSilver Spring, MD 20993-0002 ,",
+      "extraction_method": "ocr",
+      "character_count": 120
+    },
+    {
+      "block_id": "K974583-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "Mr. James S. Bryan",
+      "extraction_method": "ocr",
+      "character_count": 18
+    },
+    {
+      "block_id": "K974583-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "2.1 Certification",
+      "text": "Telefactor Corporation",
+      "extraction_method": "ocr",
+      "character_count": 22
+    },
+    {
+      "block_id": "K974583-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "heading",
+      "section": "1094 New Dehaven Avenue",
+      "text": "1094 New Dehaven Avenue",
+      "extraction_method": "ocr",
+      "character_count": 23
+    },
+    {
+      "block_id": "K974583-P004-B010",
+      "page": 4,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "1094 New Dehaven Avenue",
+      "text": "West Conshohocken, Pennsylvania 19428",
+      "extraction_method": "ocr",
+      "character_count": 37
+    },
+    {
+      "block_id": "K974583-P004-B011",
+      "page": 4,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "1094 New Dehaven Avenue",
+      "text": "Re: K974583\nTrade/Device Name: DEEG-LITE-OXY\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ, DQA\nDated (Date on orig SE Itr): March 6, 1998\nReceived (Date on orig SE ltr): March 11, 1998",
+      "extraction_method": "ocr",
+      "character_count": 257
+    },
+    {
+      "block_id": "K974583-P004-B012",
+      "page": 4,
+      "ordinal": 12,
+      "type": "heading",
+      "section": "APR -9 2012",
+      "text": "APR -9 2012",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K974583-P004-B013",
+      "page": 4,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "Dear Mr. Bryan:\nThis letter corrects our substantially equivalent letter of June 9, 1998.",
+      "extraction_method": "ocr",
+      "character_count": 89
+    },
+    {
+      "block_id": "K974583-P004-B014",
+      "page": 4,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "ocr",
+      "character_count": 1033
+    },
+    {
+      "block_id": "K974583-P004-B015",
+      "page": 4,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "ocr",
+      "character_count": 367
+    },
+    {
+      "block_id": "K974583-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "Page 2 - Mr. James S. Bryan",
+      "extraction_method": "ocr",
+      "character_count": 27
+    },
+    {
+      "block_id": "K974583-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K974583-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutF DA/CentersOffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, “Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 651
+    },
+    {
+      "block_id": "K974583-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "You may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address",
+      "extraction_method": "ocr",
+      "character_count": 243
+    },
+    {
+      "block_id": "K974583-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "http://www.fda.gov/MedicalDevices/Resourcesfor Y ou/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 73
+    },
+    {
+      "block_id": "K974583-P005-B006",
+      "page": 5,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "Sincerely yours,",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K974583-P005-B007",
+      "page": 5,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "ou",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K974583-P005-B008",
+      "page": 5,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "Malvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 176
+    },
+    {
+      "block_id": "K974583-P005-B009",
+      "page": 5,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "Enclosure",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K974583-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "Page_! of",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K974583-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "510(k) Number (if known):__K974583",
+      "extraction_method": "ocr",
+      "character_count": 34
+    },
+    {
+      "block_id": "K974583-P006-B003",
+      "page": 6,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "APR -9 2012",
+      "text": "Device Name:___DEEG-LITE-Oxy",
+      "extraction_method": "ocr",
+      "character_count": 28
+    },
+    {
+      "block_id": "K974583-P006-B004",
+      "page": 6,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "Indications For Use:",
+      "text": "Indications For Use:",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K974583-P006-B005",
+      "page": 6,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "Indication for use for DEEG-LITE-OXxY (modified to include’\npulse-oximeter)",
+      "extraction_method": "ocr",
+      "character_count": 75
+    },
+    {
+      "block_id": "K974583-P006-B006",
+      "page": 6,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "The DEEG-LITE-OXY is intended for use in long-term recording of\nvoltages produced by the brain and measured on the scalp (EEG) for\nsubsequent diagnostic review with a digital workstation supplied\nby the manufacturer (Telefactor Beekeeper) or similar compatible\ndevice. -An integrated pulse oximeter provides supplemental\nGiagnostic data in the form of blood oxygen saturation (Sp02\npercent).",
+      "extraction_method": "ocr",
+      "character_count": 391
+    },
+    {
+      "block_id": "K974583-P006-B007",
+      "page": 6,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "-",
+      "extraction_method": "ocr",
+      "character_count": 1
+    },
+    {
+      "block_id": "K974583-P006-B008",
+      "page": 6,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "ce",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K974583-P006-B009",
+      "page": 6,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "{PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER’ PAGE IF\nNEEDED) - iets TPA",
+      "extraction_method": "ocr",
+      "character_count": 84
+    },
+    {
+      "block_id": "K974583-P006-B010",
+      "page": 6,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "Concurrence of CDRH, Office of Deyice Evaluation (ODE)",
+      "extraction_method": "ocr",
+      "character_count": 54
+    },
+    {
+      "block_id": "K974583-P006-B011",
+      "page": 6,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "| Pr secipsontuse_ ee OR” .- - Over-The-Counter Usé'®:\n! (Per 21 CFR 801.109) me\n(Optional Format 1-2-96)",
+      "extraction_method": "ocr",
+      "character_count": 105
+    }
+  ],
+  "claims": []
+}

@@ -1,0 +1,661 @@
+{
+  "document": {
+    "k_number": "K022121",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "PSG INPUT BOX, MODEL JE-912AK",
+    "applicant": "Nihon Kohden America, Inc.",
+    "decision_date": "2002-07-29",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf2/K022121.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K022121",
+    "sha256": "d59e6a13bd71b646a3c94bcc7122e8364c88da009800a0ba61c3535cc83aaead",
+    "page_count": 5,
+    "native_pages": 0,
+    "ocr_pages": 5,
+    "family_id": "PSG-007",
+    "family_name": "Neurofax PSG / EEG acquisition",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "; kK oAAl2]\n\nSpecial 510(K) Notification\nPSG input Box\n\nNUL & 9 2002\nSECTION 2 - 510(K) SUMMARY\n\nName and Address of Applicant\nNihon Kohden America, Inc.\n\nAttn: Regulatory Affairs\n\n90 Icon Street\n\nFoothill Ranch, Catifomia 92610\nPhone: (949) 580-1555\n\nFax: (949) 580-1550\n\nDevice Name and Classification: PSG amplifier and accessories. The device classification is\nunchanged. The device is classified by the Neurology Panel under 21 CFR Part 882.1400\n“Electroencephalograph” per GWQ. Common names for the device include Electroencephalograph\n(EEG) and Polysomnograph (PSG).\n\n‘Legally Marketed Predicate: Nihon Kohden EEG 9100, cleared under 510K, KO11204\n\nThere are no significant changes in function, biocompatibility, performance or manufacturability compared\nto the predicate device that would affect the safety and effectiveness of the device as intended for use.\nTherefore, Nihon Kohden believes that the new PSG amplifier is substantially equivalent to the predicate\nEEG device. The device has the same intended use and indications for use as the existing marketed\ndevice and uses the same fundamental scientific technology.\n\nDescription and Intended Use: The device is intended to record the physiological data required for EEG\nand sleep studies (Polysomnography or PSG). These data, may be used by clinicians in Sleep\nDisorders, Epilepsies and other disorders as a diagnostic aid. This device is intended for use by medical\npersonne and will be available for use within a medical facility or outside of a medical facility under direct\nsupervision of a medical professional on all patient populations.\n\nPerformance Testing\n\ne The device complies with IEC 601-1 sub-clause 56.3(c) Implemented by 21 CFR Part 898\nPerformance Standard for Electrode Lead Wires and Patient Cables. To date, no other special\ncontrols or performance standards are known or established for this device. The device is\ndesigned to comply with the following voluntary industrial standards: IEC 60601-1 (1988-12),\nAmendment 1 (1991-11), Amendment 2 (1995-03), IEC 60601-1-1 (1992-06), Amendment 1\n(1995-10), IEC 60601-1-2 (1993-05), CISPR11 Group 1, Class B, IEC 60601-2-26 (1994)\n\n© The PSG unit is not sterile.\n\n¢ The device does not directly contact patients. Accessories that contact patients, such as the EEG\nelectrodes and SP02 probes are’ the same as current available component materials and accessories\nlegally cleared and marketed in the USA (see accessories list). Therefore, good laboratory practice\nStudies were not required per 21 CFR, part 58.\n\ne The device was developed in accordance with design controls and operation of the device was\nappropriately verified and validated using test methods as with ail other existing devices. The\ndevice was subjected to enviconmental testing including temperature/humidity stress testing,\nelectromagnetic interference / electromagnetic compatibility testing and safety standards testing\n\nPage 6 of 20",
+      "character_count": 2933
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "\\2orata}\n\nSpecial 510(K) Notification\nPSG input Box\n\nand performance testing procedures. Test criteria are established prior to testing based upon\nproduct specifications and applicable standards. The completed testing showed that the device\nmet its product specifications and verified conformance to safety, reliability, and applicable\nstandards, Software verification and validation tested the operation of the software functions of\nthe device, The results confirmed that the device performed within specifications (see\nAttachment # 6).\n\nPage 7 of 20",
+      "character_count": 551
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "cs\n\nIAL Ty,\noo ty\n\n%,\n\na sterites\n\nSiva!\n\n&,\n\nKe DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room ~W066-G609\nSilver Spring, MD 20993-0002\n\nMs. Serrah Namini\n\nRegulatory Affairs Associate Director\n\nNihon Kohden America, Inc.\n\n90 Icon Street -9 202\nFoothill Ranch, California 92610 APR\n\nRe: K022121\nTrade/Device Name: PSG Input Box, Model JE-912AK\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ\nDated (Date on orig SE Itr): June 28, 2002\nReceived (Date on orig SE ltr): July 1, 2002\n\nDear Ms. Namini:\nThis letter corrects our substantially equivalent letter of July 29, 2002.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\n\nIf your device is classified (see above) into either class II (Special Controls) or class ITI (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 2138
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Ms. Serrah Namini\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\n\ngo to http://www.fda.gov/AboutF DA/CentersOffices/C DRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\n\nhttp://www. fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\n\nhttp://www. fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.\n\nSincerely yours\n\nMalvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\n\\ } Office of Device Evaluation\n‘/ Center for Devices and\nRadiological Health\n\nEnclosure",
+      "character_count": 1963
+    },
+    {
+      "page": 5,
+      "extraction_method": "ocr",
+      "text": "Special §10(K) Notification\nPSG input Box\n\nG. Indications for Use Statement\n\n610{k) Number (if known): _ IC dd 12 |\n\nDevice Name: PSG input Box\n\nIndications for Use:\n\nThe device Is intended to record cerebral, extracerebral and other bio-potential activities for EEG and\nSleep Studies via legatly marketed PSG reading software. These data may be used by clinicians in sleep\ndisorders, Epilepsies and other related disorders as a diagnostic aid.\n\nThe device is intended for use by medical personnel in any location within a medical facility, physician's\noffice, laboratory, clinic or nursing home or outside of a medical facility under direct supervision of a\nmedical professional. The device will be available on ail patient populations (including adults and\nchildren) as determined by a trained professional.\n\nAth A Mom —\n\n(Division Sign-Off) ;\nDivisic:.. «f General, Restorative\nand Ne_vlogical Devices\n\nKovraly\n\n510(k) Number\n\nPage 9 of 20",
+      "character_count": 942
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K022121-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "; kK oAAl2]",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K022121-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Special 510(K) Notification\nPSG input Box",
+      "extraction_method": "ocr",
+      "character_count": 41
+    },
+    {
+      "block_id": "K022121-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "NUL & 9 2002\nSECTION 2 - 510(K) SUMMARY",
+      "extraction_method": "ocr",
+      "character_count": 39
+    },
+    {
+      "block_id": "K022121-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Name and Address of Applicant\nNihon Kohden America, Inc.",
+      "extraction_method": "ocr",
+      "character_count": 56
+    },
+    {
+      "block_id": "K022121-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Attn: Regulatory Affairs",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K022121-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "heading",
+      "section": "90 Icon Street",
+      "text": "90 Icon Street",
+      "extraction_method": "ocr",
+      "character_count": 14
+    },
+    {
+      "block_id": "K022121-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Foothill Ranch, Catifomia 92610\nPhone: (949) 580-1555",
+      "extraction_method": "ocr",
+      "character_count": 53
+    },
+    {
+      "block_id": "K022121-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Fax: (949) 580-1550",
+      "extraction_method": "ocr",
+      "character_count": 19
+    },
+    {
+      "block_id": "K022121-P001-B009",
+      "page": 1,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Device Name and Classification: PSG amplifier and accessories. The device classification is\nunchanged. The device is classified by the Neurology Panel under 21 CFR Part 882.1400\n“Electroencephalograph” per GWQ. Common names for the device include Electroencephalograph\n(EEG) and Polysomnograph (PSG).",
+      "extraction_method": "ocr",
+      "character_count": 300
+    },
+    {
+      "block_id": "K022121-P001-B010",
+      "page": 1,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "‘Legally Marketed Predicate: Nihon Kohden EEG 9100, cleared under 510K, KO11204",
+      "extraction_method": "ocr",
+      "character_count": 79
+    },
+    {
+      "block_id": "K022121-P001-B011",
+      "page": 1,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "There are no significant changes in function, biocompatibility, performance or manufacturability compared\nto the predicate device that would affect the safety and effectiveness of the device as intended for use.\nTherefore, Nihon Kohden believes that the new PSG amplifier is substantially equivalent to the predicate\nEEG device. The device has the same intended use and indications for use as the existing marketed\ndevice and uses the same fundamental scientific technology.",
+      "extraction_method": "ocr",
+      "character_count": 474
+    },
+    {
+      "block_id": "K022121-P001-B012",
+      "page": 1,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Description and Intended Use: The device is intended to record the physiological data required for EEG\nand sleep studies (Polysomnography or PSG). These data, may be used by clinicians in Sleep\nDisorders, Epilepsies and other disorders as a diagnostic aid. This device is intended for use by medical\npersonne and will be available for use within a medical facility or outside of a medical facility under direct\nsupervision of a medical professional on all patient populations.",
+      "extraction_method": "ocr",
+      "character_count": 476
+    },
+    {
+      "block_id": "K022121-P001-B013",
+      "page": 1,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Performance Testing",
+      "extraction_method": "ocr",
+      "character_count": 19
+    },
+    {
+      "block_id": "K022121-P001-B014",
+      "page": 1,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "e The device complies with IEC 601-1 sub-clause 56.3(c) Implemented by 21 CFR Part 898\nPerformance Standard for Electrode Lead Wires and Patient Cables. To date, no other special\ncontrols or performance standards are known or established for this device. The device is\ndesigned to comply with the following voluntary industrial standards: IEC 60601-1 (1988-12),\nAmendment 1 (1991-11), Amendment 2 (1995-03), IEC 60601-1-1 (1992-06), Amendment 1\n(1995-10), IEC 60601-1-2 (1993-05), CISPR11 Group 1, Class B, IEC 60601-2-26 (1994)",
+      "extraction_method": "ocr",
+      "character_count": 528
+    },
+    {
+      "block_id": "K022121-P001-B015",
+      "page": 1,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "© The PSG unit is not sterile.",
+      "extraction_method": "ocr",
+      "character_count": 30
+    },
+    {
+      "block_id": "K022121-P001-B016",
+      "page": 1,
+      "ordinal": 16,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "¢ The device does not directly contact patients. Accessories that contact patients, such as the EEG\nelectrodes and SP02 probes are’ the same as current available component materials and accessories\nlegally cleared and marketed in the USA (see accessories list). Therefore, good laboratory practice\nStudies were not required per 21 CFR, part 58.",
+      "extraction_method": "ocr",
+      "character_count": 344
+    },
+    {
+      "block_id": "K022121-P001-B017",
+      "page": 1,
+      "ordinal": 17,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "e The device was developed in accordance with design controls and operation of the device was\nappropriately verified and validated using test methods as with ail other existing devices. The\ndevice was subjected to enviconmental testing including temperature/humidity stress testing,\nelectromagnetic interference / electromagnetic compatibility testing and safety standards testing",
+      "extraction_method": "ocr",
+      "character_count": 380
+    },
+    {
+      "block_id": "K022121-P001-B018",
+      "page": 1,
+      "ordinal": 18,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Page 6 of 20",
+      "extraction_method": "ocr",
+      "character_count": 12
+    },
+    {
+      "block_id": "K022121-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "\\2orata}",
+      "extraction_method": "ocr",
+      "character_count": 8
+    },
+    {
+      "block_id": "K022121-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Special 510(K) Notification\nPSG input Box",
+      "extraction_method": "ocr",
+      "character_count": 41
+    },
+    {
+      "block_id": "K022121-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "and performance testing procedures. Test criteria are established prior to testing based upon\nproduct specifications and applicable standards. The completed testing showed that the device\nmet its product specifications and verified conformance to safety, reliability, and applicable\nstandards, Software verification and validation tested the operation of the software functions of\nthe device, The results confirmed that the device performed within specifications (see\nAttachment # 6).",
+      "extraction_method": "ocr",
+      "character_count": 484
+    },
+    {
+      "block_id": "K022121-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Page 7 of 20",
+      "extraction_method": "ocr",
+      "character_count": 12
+    },
+    {
+      "block_id": "K022121-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "cs",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K022121-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "IAL Ty,\noo ty",
+      "extraction_method": "ocr",
+      "character_count": 13
+    },
+    {
+      "block_id": "K022121-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "%,",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K022121-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "a sterites",
+      "extraction_method": "ocr",
+      "character_count": 10
+    },
+    {
+      "block_id": "K022121-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Siva!",
+      "extraction_method": "ocr",
+      "character_count": 5
+    },
+    {
+      "block_id": "K022121-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "&,",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K022121-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Ke DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "ocr",
+      "character_count": 62
+    },
+    {
+      "block_id": "K022121-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room ~W066-G609\nSilver Spring, MD 20993-0002",
+      "extraction_method": "ocr",
+      "character_count": 117
+    },
+    {
+      "block_id": "K022121-P003-B009",
+      "page": 3,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Ms. Serrah Namini",
+      "extraction_method": "ocr",
+      "character_count": 17
+    },
+    {
+      "block_id": "K022121-P003-B010",
+      "page": 3,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Regulatory Affairs Associate Director",
+      "extraction_method": "ocr",
+      "character_count": 37
+    },
+    {
+      "block_id": "K022121-P003-B011",
+      "page": 3,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Nihon Kohden America, Inc.",
+      "extraction_method": "ocr",
+      "character_count": 26
+    },
+    {
+      "block_id": "K022121-P003-B012",
+      "page": 3,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "90 Icon Street -9 202\nFoothill Ranch, California 92610 APR",
+      "extraction_method": "ocr",
+      "character_count": 58
+    },
+    {
+      "block_id": "K022121-P003-B013",
+      "page": 3,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Re: K022121\nTrade/Device Name: PSG Input Box, Model JE-912AK\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ\nDated (Date on orig SE Itr): June 28, 2002\nReceived (Date on orig SE ltr): July 1, 2002",
+      "extraction_method": "ocr",
+      "character_count": 266
+    },
+    {
+      "block_id": "K022121-P003-B014",
+      "page": 3,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Dear Ms. Namini:\nThis letter corrects our substantially equivalent letter of July 29, 2002.",
+      "extraction_method": "ocr",
+      "character_count": 91
+    },
+    {
+      "block_id": "K022121-P003-B015",
+      "page": 3,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "ocr",
+      "character_count": 1033
+    },
+    {
+      "block_id": "K022121-P003-B016",
+      "page": 3,
+      "ordinal": 16,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class ITI (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "ocr",
+      "character_count": 367
+    },
+    {
+      "block_id": "K022121-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Page 2 - Ms. Serrah Namini",
+      "extraction_method": "ocr",
+      "character_count": 26
+    },
+    {
+      "block_id": "K022121-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K022121-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please",
+      "extraction_method": "ocr",
+      "character_count": 98
+    },
+    {
+      "block_id": "K022121-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "go to http://www.fda.gov/AboutF DA/CentersOffices/C DRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to",
+      "extraction_method": "ocr",
+      "character_count": 395
+    },
+    {
+      "block_id": "K022121-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "http://www. fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 158
+    },
+    {
+      "block_id": "K022121-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "You may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address",
+      "extraction_method": "ocr",
+      "character_count": 243
+    },
+    {
+      "block_id": "K022121-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "http://www. fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 73
+    },
+    {
+      "block_id": "K022121-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Sincerely yours",
+      "extraction_method": "ocr",
+      "character_count": 15
+    },
+    {
+      "block_id": "K022121-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Malvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\n\\ } Office of Device Evaluation\n‘/ Center for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 183
+    },
+    {
+      "block_id": "K022121-P004-B010",
+      "page": 4,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Enclosure",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K022121-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "90 Icon Street",
+      "text": "Special §10(K) Notification\nPSG input Box",
+      "extraction_method": "ocr",
+      "character_count": 41
+    },
+    {
+      "block_id": "K022121-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "G. Indications for Use Statement",
+      "text": "G. Indications for Use Statement",
+      "extraction_method": "ocr",
+      "character_count": 32
+    },
+    {
+      "block_id": "K022121-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "G. Indications for Use Statement",
+      "text": "610{k) Number (if known): _ IC dd 12 |",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K022121-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "G. Indications for Use Statement",
+      "text": "Device Name: PSG input Box",
+      "extraction_method": "ocr",
+      "character_count": 26
+    },
+    {
+      "block_id": "K022121-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Indications for Use:",
+      "text": "Indications for Use:",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K022121-P005-B006",
+      "page": 5,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "The device Is intended to record cerebral, extracerebral and other bio-potential activities for EEG and\nSleep Studies via legatly marketed PSG reading software. These data may be used by clinicians in sleep\ndisorders, Epilepsies and other related disorders as a diagnostic aid.",
+      "extraction_method": "ocr",
+      "character_count": 277
+    },
+    {
+      "block_id": "K022121-P005-B007",
+      "page": 5,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "The device is intended for use by medical personnel in any location within a medical facility, physician's\noffice, laboratory, clinic or nursing home or outside of a medical facility under direct supervision of a\nmedical professional. The device will be available on ail patient populations (including adults and\nchildren) as determined by a trained professional.",
+      "extraction_method": "ocr",
+      "character_count": 363
+    },
+    {
+      "block_id": "K022121-P005-B008",
+      "page": 5,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "Ath A Mom —",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K022121-P005-B009",
+      "page": 5,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "(Division Sign-Off) ;\nDivisic:.. «f General, Restorative\nand Ne_vlogical Devices",
+      "extraction_method": "ocr",
+      "character_count": 80
+    },
+    {
+      "block_id": "K022121-P005-B010",
+      "page": 5,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "Kovraly",
+      "extraction_method": "ocr",
+      "character_count": 7
+    },
+    {
+      "block_id": "K022121-P005-B011",
+      "page": 5,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "510(k) Number",
+      "extraction_method": "ocr",
+      "character_count": 13
+    },
+    {
+      "block_id": "K022121-P005-B012",
+      "page": 5,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "Indications for Use:",
+      "text": "Page 9 of 20",
+      "extraction_method": "ocr",
+      "character_count": 12
+    }
+  ],
+  "claims": []
+}

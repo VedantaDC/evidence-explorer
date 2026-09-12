@@ -1,0 +1,1059 @@
+{
+  "document": {
+    "k_number": "K012976",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "TWIN PLUS",
+    "applicant": "Grass-Telefactor Divison",
+    "decision_date": "2002-02-12",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf/K012976.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K012976",
+    "sha256": "72ec58bc771eeb304fea075716943c7a6d448e926220216a14c1c19f43f6bb62",
+    "page_count": 8,
+    "native_pages": 0,
+    "ocr_pages": 8,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "K 912976\n\nRA-12-O2\n\nEXHIBIT A\n\nGrass-Telefactor Division\nAstromed-Med, Inc.\nWest-Warwick, RI 02893 USA\nTel: (401) 828-4000\nFax: (401) 822-2430\nContact Person: Jim Bryan\n\nAugust 15, 2001\n\n1. Identification of the Device\n\nClassification Name: Electroencephalograph, 84GWQ, Reg. #882.1400 oy\nCommon/Usual Name: EEG Review Software\n\nProprietary-Trade Name; Grass-Telefactor TWin PLUS Software\n\n2. Equivalent Legally Marketed Devices\n\nThis software is functionally equivalent in design and function to that of the GRASS GAMMA software\npackage and the Telefactor BEEHIVE, and the Telefactor SZAC Seizure Analysis Computer.\n\n3. Indications for Use\n\nThis software is intended for use by qualified research and clinical professionals with specialized training\nin the use of EEG and PSG recording instrumentation for the digital recording, playback, and analysis of\n\nphysiological! signals. Its specifications and features are especially well sui electroencephlography,\n\npolysomnographic sleep recordings, and long term recordings used in epilepsy diagnosis.\n\n4. Theory of Operation and Description of the Device\n\nTWin PLUS will become the universal review package for all GRASS-Telefactor EEG systems. Further\nthe TWin PLUS software package is intended for use with a number o ware inp ices. It\n\nutilizes the windows operating system to manage four or more simultaneous ongoing tasks which include:\n\ne Real-time collection and formatting of real time EEG and other physiological parameters\n\n3M",
+      "character_count": 1484
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "e Real-time display of the foregoing parameters in waveform or numeric format as the data and user\nmay require.\n\n¢ Real time analysis of EEG waveform data to identify events which may be epileptoform in nature and\nhence require special attention from professionals in attendance - SZAC analysis.\n\n¢ Datacollection and recording to disk of real time video and audio data, usually an image of the patient\nbeing monitored.\n\ne Review and analysis of previously recorded data including the ability to look-back to old data while\nreal-time recording of ongoing data is in progress.\n\nInput Ampiiffers:\n\nThe TWin PLUS software package is intended to work with a number of different amplifier systems with\nvarious digital interface modes. Each of these hardware devices have or will have their own separate\n\nThese amplifiers choices include:\n\ne Current BEEHIVE amplifiers which use a special purpose digital interface card for already digitized\ndata.\n\n« The same BEEHIVE amplifiers using a USB interface for the data.\n\n« GRASS-Telefactor TS amplifiers using a computer resident card for A to D converston of their\nmultiplexed analog data stream.\n\nData Formatting and Storage:\n\nAll data is stored in a format (TUFF) as near the original input as possible at sample rates appropriate for\nthe data type. Primary storage is either local or remote hard disk (network server). Provisions exist for\narchiving to several appropriate digital archive media, most frequently CD ROM.\n\nMontaging Capability:\n\nThe TWIN PLUS software has provision for labeling data channels with electrode names and then\ndisplaying waveforms as the algebraic difference of any electrode pair. The playback montage also\nspecifies default digital filter settings.\n\nAnalysis;\n\nSpecific sections of data can be selected easily for further analysis including frequency and amplitude\nmeasurement, potential mapping, spectral analysis, and frequency band mapping.\n\nFlagging of Epileptoform EEG Data Sequences (SZAC):\n\nThe SZAC program module uses the identical software algorithm developed and proven in the SZAC\nComputer previously marketed by Telefactor (K870450) This system is in wide use in the medical\ncommunity, particularly in epilepsy centers around the world. Grass-Telefactor makes no claims for\ndiagnostic accuracy of this algorithm, it is merely a device which marks particular EEG passages for\ndiagnostic consideration either as seizures or as spikes.\n\nEEG Data BASE;\n\nAn EEG data base feature associates stored EEG data with patient name, date and appropriate clinical\nparameters entered by the operator, and provides convenient means for accessing that data for review.\n\nDigital Video Recording:",
+      "character_count": 2664
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "TWIN software uses the output of an appropriate video capture card in the host computer to digitize,\ncompress and store patient image data. Provision is included to play back video data synchronized with the\nEEG waveform display.\n\nSemi Automatic Slee oring:\n\nFWin PLUS includes the next iteration of the Semi Automatic Sleep Scoring System (SASSY K860219).\nThis system functions to display polysomnographic data in standard page sizes and provides means a\nreview operator to assign a sleep stage notation to each page.\n\nReport generation and printout are provided for each study with reported parameters which can be tailored\nby the particular laboratory using the device.\n\nA software option is provided for automatic analysis of SaO2 and respiration data to mark apnea and\ndesaturation events for professional review and classification. A similar module analyzes EMG waveforms\nto mark periodic leg movements. In cach case no diagnostic classification is made without a decision based\non the review of a qualified professional.\n\nThese routines are supplied without any claims for accuracy and the professional can use or ignore them at\n\nhis own discretion. In each case decision thresholds are adjustable and can be set by the person reviewing\nthe data.\n\n210",
+      "character_count": 1258
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "5 Comparison Matrix\n\nTechnical GRASS-Telefactor | GRASS Telefactor Telefactor\nCharacteristic TWin PLUS GAMMA SZAC 16 BEEHIVE 64\nSeizure Analysis\nComputer\nDevice Class CLASS II CLASS II CLASS II CLASS I\nintended User Medical Medical Medical Medical\nProfessional Professional Professional Professional\nOperating System | Windows 98 or Windows 98 Or DOs Dos\n2000 2000\nMax Channels 136 36 16 64 (128 for other\nmodels)\nSample Rate 1000 Hz Max 1000 Hz Max 200 200\nAmplifier control | RS232 RS232 Manual RS232\nRecorder Update Wiper Bar Wiper Bar Scrolled Display Scroiled Display\nMode\nMonitor 1600 x 1200 1600 x 1200 1024 x 440 1024 x440\nResolution\nData Storage Local or Remote Local or remote Local or remote Digital VCR\nhard disk hard disk hard disk\nPrimary Data Random Random Random VCR sequential\nAccess\nUser Input Mouse/keyboard Mouse/keyboard Keyboard Keyboard\nSynchronized Yes \" Yes\nPatient Video\nSeizure Event Yes Yes\nMarking\nSpike Event Yes Yes\nMarking\nApnea Event Yes Yes\nMarking\nDesaturation Event | Yes Yes\nMarking\nPLM Marking _ Yes Yes\nStaging/scoring Manual/computer | Manual/computer\nmethod assisted assisted\nSleep Report Yes Yes\nParameters\nEpilepsy Yes Yes Bechive 7\nParameters\n\n6 Discussion:\n\nThe TWin PLUS software is primari\nitted by the sta\n\nwith enhanced capac’ perm ly the state-of-the-art\n\nexpensive disk capacity and multi-tasking operating systems have\n\nity\n\na composite of the three referenced s\n\npermi\n\nthe referenced products into a single useful modular software package.\n\ness\n\nNone of the products features have any impact on the safety of the patient or operator. Although both TWin\nPLUS and GRASS GAMMA (NIGHT VISION) have the capability to control the data acquisition\n\n?)",
+      "character_count": 1698
+    },
+    {
+      "page": 5,
+      "extraction_method": "ocr",
+      "text": "amplifier settings, neither are required for the safe operation of the amplifiers that they are designed to\ncontrol, nor are they capable of impacting on the safety of the amplifier systems.\n\nAll of the products are designed to be operated by trained medical professionals and the data collected is\n\nreviewed in its entirety by trained medical professionals. None of the products claims to be in and of itself\n“diagnostic”.\n\nms",
+      "character_count": 427
+    },
+    {
+      "page": 6,
+      "extraction_method": "ocr",
+      "text": "avec.\nestenteas\na &,\n\nDEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\nwhary\not 44%,\n\nYs,\n“eras Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room —-W066-G609\nSilver Spring. MD 20993-0002\n\nMr. John B. Chatten\nPresident\nGrass-Telefactor Division\nAstro-Med, Inc.\nWest-Warwick, Rhode Island 02893\nAPR ~9 2012\nRe: K012976\nTrade/Device Name: Grass-Telefactor Twin PLUS Software\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: H\nProduct Code: OLV, GWQ\nDated (Date on orig SE ltr): December 7, 2001\nReceived (Date on orig SE Itr): December 11, 2001\n\nDear Mr. Chatten:\nThis letter corrects our substantially equivalent letter of February 12, 2002.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 2126
+    },
+    {
+      "page": 7,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Mr. John B. Chatten\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutFDA/CentersO ffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\n\nhttp://www.fda.gov/MedicalDevices/Resourcesfor Y ou/Industry/default.htm.\n\nSincerely yours,\n\nKia, Movado”\n\ny fu Malvina B. Eydelman, M.D.\nDirector\n/ Division of Ophthalmic, Neurological,\nH and Ear, Nose and Throat Devices\nL Office of Device Evaluation\nCenter for Devices and\nRadiological Health\n\nEnclosure",
+      "character_count": 1980
+    },
+    {
+      "page": 8,
+      "extraction_method": "ocr",
+      "text": "ae”\n\n7\n\n~\n\nPaso, | of 3\nozATe\n\n5100) Number (if Known):\n\nNevice Nanie:_TWIN Plus mh.\n\nindications for Use:\n\nThis software is intended for use by qualified research and clinical professionals with\nspecialized training in the use of EEG and PSG recording instrumentation for the digital\nrecording, playback, and analysis of physiological signals. It is suitable for digital\nacquisition, display, comparison, analysis, and archiving of EEG potentials and other\nrapidly changing physiological parameters. ,\n\n(PLEASE DO NOT WRITE BELOW IMIS LLINE-CONTINUE ON ANOTHER PAGE IE\nNELULD)\n\nCancurrance of CORH, Office of Nevice Evaluation (OWE)\n\nMam € fered\n(Division Sign-Of)\n\nDivision of General, Restorative\n\nand Neurological Devices =\n\n510k Number__K 012976\n\nPreseripiion Use one Oven Vas Canter Use\n* (Pa 2b Gai G91 108\n(Ont Corsi 1! a)\n\n3",
+      "character_count": 833
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K012976-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "K 912976",
+      "text": "K 912976",
+      "extraction_method": "ocr",
+      "character_count": 8
+    },
+    {
+      "block_id": "K012976-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "RA-12-O2",
+      "text": "RA-12-O2",
+      "extraction_method": "ocr",
+      "character_count": 8
+    },
+    {
+      "block_id": "K012976-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "EXHIBIT A",
+      "text": "EXHIBIT A",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K012976-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "EXHIBIT A",
+      "text": "Grass-Telefactor Division\nAstromed-Med, Inc.\nWest-Warwick, RI 02893 USA\nTel: (401) 828-4000\nFax: (401) 822-2430\nContact Person: Jim Bryan",
+      "extraction_method": "ocr",
+      "character_count": 137
+    },
+    {
+      "block_id": "K012976-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "EXHIBIT A",
+      "text": "August 15, 2001",
+      "extraction_method": "ocr",
+      "character_count": 15
+    },
+    {
+      "block_id": "K012976-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "heading",
+      "section": "1. Identification of the Device",
+      "text": "1. Identification of the Device",
+      "extraction_method": "ocr",
+      "character_count": 31
+    },
+    {
+      "block_id": "K012976-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "1. Identification of the Device",
+      "text": "Classification Name: Electroencephalograph, 84GWQ, Reg. #882.1400 oy\nCommon/Usual Name: EEG Review Software",
+      "extraction_method": "ocr",
+      "character_count": 107
+    },
+    {
+      "block_id": "K012976-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "1. Identification of the Device",
+      "text": "Proprietary-Trade Name; Grass-Telefactor TWin PLUS Software",
+      "extraction_method": "ocr",
+      "character_count": 59
+    },
+    {
+      "block_id": "K012976-P001-B009",
+      "page": 1,
+      "ordinal": 9,
+      "type": "heading",
+      "section": "2. Equivalent Legally Marketed Devices",
+      "text": "2. Equivalent Legally Marketed Devices",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K012976-P001-B010",
+      "page": 1,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "2. Equivalent Legally Marketed Devices",
+      "text": "This software is functionally equivalent in design and function to that of the GRASS GAMMA software\npackage and the Telefactor BEEHIVE, and the Telefactor SZAC Seizure Analysis Computer.",
+      "extraction_method": "ocr",
+      "character_count": 186
+    },
+    {
+      "block_id": "K012976-P001-B011",
+      "page": 1,
+      "ordinal": 11,
+      "type": "heading",
+      "section": "3. Indications for Use",
+      "text": "3. Indications for Use",
+      "extraction_method": "ocr",
+      "character_count": 22
+    },
+    {
+      "block_id": "K012976-P001-B012",
+      "page": 1,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "3. Indications for Use",
+      "text": "This software is intended for use by qualified research and clinical professionals with specialized training\nin the use of EEG and PSG recording instrumentation for the digital recording, playback, and analysis of",
+      "extraction_method": "ocr",
+      "character_count": 213
+    },
+    {
+      "block_id": "K012976-P001-B013",
+      "page": 1,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "3. Indications for Use",
+      "text": "physiological! signals. Its specifications and features are especially well sui electroencephlography,",
+      "extraction_method": "ocr",
+      "character_count": 102
+    },
+    {
+      "block_id": "K012976-P001-B014",
+      "page": 1,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "3. Indications for Use",
+      "text": "polysomnographic sleep recordings, and long term recordings used in epilepsy diagnosis.",
+      "extraction_method": "ocr",
+      "character_count": 87
+    },
+    {
+      "block_id": "K012976-P001-B015",
+      "page": 1,
+      "ordinal": 15,
+      "type": "heading",
+      "section": "4. Theory of Operation and Description of the Device",
+      "text": "4. Theory of Operation and Description of the Device",
+      "extraction_method": "ocr",
+      "character_count": 52
+    },
+    {
+      "block_id": "K012976-P001-B016",
+      "page": 1,
+      "ordinal": 16,
+      "type": "paragraph",
+      "section": "4. Theory of Operation and Description of the Device",
+      "text": "TWin PLUS will become the universal review package for all GRASS-Telefactor EEG systems. Further\nthe TWin PLUS software package is intended for use with a number o ware inp ices. It",
+      "extraction_method": "ocr",
+      "character_count": 181
+    },
+    {
+      "block_id": "K012976-P001-B017",
+      "page": 1,
+      "ordinal": 17,
+      "type": "heading",
+      "section": "utilizes the windows operating system to manage four or more simultaneous ongoing tasks which include:",
+      "text": "utilizes the windows operating system to manage four or more simultaneous ongoing tasks which include:",
+      "extraction_method": "ocr",
+      "character_count": 102
+    },
+    {
+      "block_id": "K012976-P001-B018",
+      "page": 1,
+      "ordinal": 18,
+      "type": "paragraph",
+      "section": "utilizes the windows operating system to manage four or more simultaneous ongoing tasks which include:",
+      "text": "e Real-time collection and formatting of real time EEG and other physiological parameters",
+      "extraction_method": "ocr",
+      "character_count": 89
+    },
+    {
+      "block_id": "K012976-P001-B019",
+      "page": 1,
+      "ordinal": 19,
+      "type": "heading",
+      "section": "3M",
+      "text": "3M",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K012976-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "3M",
+      "text": "e Real-time display of the foregoing parameters in waveform or numeric format as the data and user\nmay require.",
+      "extraction_method": "ocr",
+      "character_count": 111
+    },
+    {
+      "block_id": "K012976-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "3M",
+      "text": "¢ Real time analysis of EEG waveform data to identify events which may be epileptoform in nature and\nhence require special attention from professionals in attendance - SZAC analysis.",
+      "extraction_method": "ocr",
+      "character_count": 182
+    },
+    {
+      "block_id": "K012976-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "3M",
+      "text": "¢ Datacollection and recording to disk of real time video and audio data, usually an image of the patient\nbeing monitored.",
+      "extraction_method": "ocr",
+      "character_count": 122
+    },
+    {
+      "block_id": "K012976-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "3M",
+      "text": "e Review and analysis of previously recorded data including the ability to look-back to old data while\nreal-time recording of ongoing data is in progress.",
+      "extraction_method": "ocr",
+      "character_count": 154
+    },
+    {
+      "block_id": "K012976-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Input Ampiiffers:",
+      "text": "Input Ampiiffers:",
+      "extraction_method": "ocr",
+      "character_count": 17
+    },
+    {
+      "block_id": "K012976-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Input Ampiiffers:",
+      "text": "The TWin PLUS software package is intended to work with a number of different amplifier systems with\nvarious digital interface modes. Each of these hardware devices have or will have their own separate",
+      "extraction_method": "ocr",
+      "character_count": 201
+    },
+    {
+      "block_id": "K012976-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "heading",
+      "section": "These amplifiers choices include:",
+      "text": "These amplifiers choices include:",
+      "extraction_method": "ocr",
+      "character_count": 33
+    },
+    {
+      "block_id": "K012976-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "These amplifiers choices include:",
+      "text": "e Current BEEHIVE amplifiers which use a special purpose digital interface card for already digitized\ndata.",
+      "extraction_method": "ocr",
+      "character_count": 107
+    },
+    {
+      "block_id": "K012976-P002-B009",
+      "page": 2,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "These amplifiers choices include:",
+      "text": "« The same BEEHIVE amplifiers using a USB interface for the data.",
+      "extraction_method": "ocr",
+      "character_count": 65
+    },
+    {
+      "block_id": "K012976-P002-B010",
+      "page": 2,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "These amplifiers choices include:",
+      "text": "« GRASS-Telefactor TS amplifiers using a computer resident card for A to D converston of their\nmultiplexed analog data stream.",
+      "extraction_method": "ocr",
+      "character_count": 126
+    },
+    {
+      "block_id": "K012976-P002-B011",
+      "page": 2,
+      "ordinal": 11,
+      "type": "heading",
+      "section": "Data Formatting and Storage:",
+      "text": "Data Formatting and Storage:",
+      "extraction_method": "ocr",
+      "character_count": 28
+    },
+    {
+      "block_id": "K012976-P002-B012",
+      "page": 2,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "Data Formatting and Storage:",
+      "text": "All data is stored in a format (TUFF) as near the original input as possible at sample rates appropriate for\nthe data type. Primary storage is either local or remote hard disk (network server). Provisions exist for\narchiving to several appropriate digital archive media, most frequently CD ROM.",
+      "extraction_method": "ocr",
+      "character_count": 294
+    },
+    {
+      "block_id": "K012976-P002-B013",
+      "page": 2,
+      "ordinal": 13,
+      "type": "heading",
+      "section": "Montaging Capability:",
+      "text": "Montaging Capability:",
+      "extraction_method": "ocr",
+      "character_count": 21
+    },
+    {
+      "block_id": "K012976-P002-B014",
+      "page": 2,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "Montaging Capability:",
+      "text": "The TWIN PLUS software has provision for labeling data channels with electrode names and then\ndisplaying waveforms as the algebraic difference of any electrode pair. The playback montage also\nspecifies default digital filter settings.",
+      "extraction_method": "ocr",
+      "character_count": 234
+    },
+    {
+      "block_id": "K012976-P002-B015",
+      "page": 2,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "Montaging Capability:",
+      "text": "Analysis;",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K012976-P002-B016",
+      "page": 2,
+      "ordinal": 16,
+      "type": "paragraph",
+      "section": "Montaging Capability:",
+      "text": "Specific sections of data can be selected easily for further analysis including frequency and amplitude\nmeasurement, potential mapping, spectral analysis, and frequency band mapping.",
+      "extraction_method": "ocr",
+      "character_count": 182
+    },
+    {
+      "block_id": "K012976-P002-B017",
+      "page": 2,
+      "ordinal": 17,
+      "type": "heading",
+      "section": "Flagging of Epileptoform EEG Data Sequences (SZAC):",
+      "text": "Flagging of Epileptoform EEG Data Sequences (SZAC):",
+      "extraction_method": "ocr",
+      "character_count": 51
+    },
+    {
+      "block_id": "K012976-P002-B018",
+      "page": 2,
+      "ordinal": 18,
+      "type": "paragraph",
+      "section": "Flagging of Epileptoform EEG Data Sequences (SZAC):",
+      "text": "The SZAC program module uses the identical software algorithm developed and proven in the SZAC\nComputer previously marketed by Telefactor (K870450) This system is in wide use in the medical\ncommunity, particularly in epilepsy centers around the world. Grass-Telefactor makes no claims for\ndiagnostic accuracy of this algorithm, it is merely a device which marks particular EEG passages for\ndiagnostic consideration either as seizures or as spikes.",
+      "extraction_method": "ocr",
+      "character_count": 447
+    },
+    {
+      "block_id": "K012976-P002-B019",
+      "page": 2,
+      "ordinal": 19,
+      "type": "paragraph",
+      "section": "Flagging of Epileptoform EEG Data Sequences (SZAC):",
+      "text": "EEG Data BASE;",
+      "extraction_method": "ocr",
+      "character_count": 14
+    },
+    {
+      "block_id": "K012976-P002-B020",
+      "page": 2,
+      "ordinal": 20,
+      "type": "paragraph",
+      "section": "Flagging of Epileptoform EEG Data Sequences (SZAC):",
+      "text": "An EEG data base feature associates stored EEG data with patient name, date and appropriate clinical\nparameters entered by the operator, and provides convenient means for accessing that data for review.",
+      "extraction_method": "ocr",
+      "character_count": 202
+    },
+    {
+      "block_id": "K012976-P002-B021",
+      "page": 2,
+      "ordinal": 21,
+      "type": "heading",
+      "section": "Digital Video Recording:",
+      "text": "Digital Video Recording:",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K012976-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Digital Video Recording:",
+      "text": "TWIN software uses the output of an appropriate video capture card in the host computer to digitize,\ncompress and store patient image data. Provision is included to play back video data synchronized with the\nEEG waveform display.",
+      "extraction_method": "ocr",
+      "character_count": 229
+    },
+    {
+      "block_id": "K012976-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "Semi Automatic Slee oring:",
+      "text": "Semi Automatic Slee oring:",
+      "extraction_method": "ocr",
+      "character_count": 26
+    },
+    {
+      "block_id": "K012976-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Semi Automatic Slee oring:",
+      "text": "FWin PLUS includes the next iteration of the Semi Automatic Sleep Scoring System (SASSY K860219).\nThis system functions to display polysomnographic data in standard page sizes and provides means a\nreview operator to assign a sleep stage notation to each page.",
+      "extraction_method": "ocr",
+      "character_count": 259
+    },
+    {
+      "block_id": "K012976-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Semi Automatic Slee oring:",
+      "text": "Report generation and printout are provided for each study with reported parameters which can be tailored\nby the particular laboratory using the device.",
+      "extraction_method": "ocr",
+      "character_count": 152
+    },
+    {
+      "block_id": "K012976-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Semi Automatic Slee oring:",
+      "text": "A software option is provided for automatic analysis of SaO2 and respiration data to mark apnea and\ndesaturation events for professional review and classification. A similar module analyzes EMG waveforms\nto mark periodic leg movements. In cach case no diagnostic classification is made without a decision based\non the review of a qualified professional.",
+      "extraction_method": "ocr",
+      "character_count": 353
+    },
+    {
+      "block_id": "K012976-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Semi Automatic Slee oring:",
+      "text": "These routines are supplied without any claims for accuracy and the professional can use or ignore them at",
+      "extraction_method": "ocr",
+      "character_count": 106
+    },
+    {
+      "block_id": "K012976-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Semi Automatic Slee oring:",
+      "text": "his own discretion. In each case decision thresholds are adjustable and can be set by the person reviewing\nthe data.",
+      "extraction_method": "ocr",
+      "character_count": 116
+    },
+    {
+      "block_id": "K012976-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Semi Automatic Slee oring:",
+      "text": "210",
+      "extraction_method": "ocr",
+      "character_count": 3
+    },
+    {
+      "block_id": "K012976-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "5 Comparison Matrix",
+      "text": "5 Comparison Matrix",
+      "extraction_method": "ocr",
+      "character_count": 19
+    },
+    {
+      "block_id": "K012976-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "5 Comparison Matrix",
+      "text": "Technical GRASS-Telefactor | GRASS Telefactor Telefactor\nCharacteristic TWin PLUS GAMMA SZAC 16 BEEHIVE 64\nSeizure Analysis\nComputer\nDevice Class CLASS II CLASS II CLASS II CLASS I\nintended User Medical Medical Medical Medical\nProfessional Professional Professional Professional\nOperating System | Windows 98 or Windows 98 Or DOs Dos\n2000 2000\nMax Channels 136 36 16 64 (128 for other\nmodels)\nSample Rate 1000 Hz Max 1000 Hz Max 200 200\nAmplifier control | RS232 RS232 Manual RS232\nRecorder Update Wiper Bar Wiper Bar Scrolled Display Scroiled Display\nMode\nMonitor 1600 x 1200 1600 x 1200 1024 x 440 1024 x440\nResolution\nData Storage Local or Remote Local or remote Local or remote Digital VCR\nhard disk hard disk hard disk\nPrimary Data Random Random Random VCR sequential\nAccess\nUser Input Mouse/keyboard Mouse/keyboard Keyboard Keyboard\nSynchronized Yes \" Yes\nPatient Video\nSeizure Event Yes Yes\nMarking\nSpike Event Yes Yes\nMarking\nApnea Event Yes Yes\nMarking\nDesaturation Event | Yes Yes\nMarking\nPLM Marking _ Yes Yes\nStaging/scoring Manual/computer | Manual/computer\nmethod assisted assisted\nSleep Report Yes Yes\nParameters\nEpilepsy Yes Yes Bechive 7\nParameters",
+      "extraction_method": "ocr",
+      "character_count": 1165
+    },
+    {
+      "block_id": "K012976-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "6 Discussion:",
+      "text": "6 Discussion:",
+      "extraction_method": "ocr",
+      "character_count": 13
+    },
+    {
+      "block_id": "K012976-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "The TWin PLUS software is primari\nitted by the sta",
+      "extraction_method": "ocr",
+      "character_count": 50
+    },
+    {
+      "block_id": "K012976-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "with enhanced capac’ perm ly the state-of-the-art",
+      "extraction_method": "ocr",
+      "character_count": 49
+    },
+    {
+      "block_id": "K012976-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "expensive disk capacity and multi-tasking operating systems have",
+      "extraction_method": "ocr",
+      "character_count": 64
+    },
+    {
+      "block_id": "K012976-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "ity",
+      "extraction_method": "ocr",
+      "character_count": 3
+    },
+    {
+      "block_id": "K012976-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "a composite of the three referenced s",
+      "extraction_method": "ocr",
+      "character_count": 37
+    },
+    {
+      "block_id": "K012976-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "permi",
+      "extraction_method": "ocr",
+      "character_count": 5
+    },
+    {
+      "block_id": "K012976-P004-B010",
+      "page": 4,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "the referenced products into a single useful modular software package.",
+      "extraction_method": "ocr",
+      "character_count": 70
+    },
+    {
+      "block_id": "K012976-P004-B011",
+      "page": 4,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "ess",
+      "extraction_method": "ocr",
+      "character_count": 3
+    },
+    {
+      "block_id": "K012976-P004-B012",
+      "page": 4,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "None of the products features have any impact on the safety of the patient or operator. Although both TWin\nPLUS and GRASS GAMMA (NIGHT VISION) have the capability to control the data acquisition",
+      "extraction_method": "ocr",
+      "character_count": 194
+    },
+    {
+      "block_id": "K012976-P004-B013",
+      "page": 4,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "?)",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K012976-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "amplifier settings, neither are required for the safe operation of the amplifiers that they are designed to\ncontrol, nor are they capable of impacting on the safety of the amplifier systems.",
+      "extraction_method": "ocr",
+      "character_count": 190
+    },
+    {
+      "block_id": "K012976-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "All of the products are designed to be operated by trained medical professionals and the data collected is",
+      "extraction_method": "ocr",
+      "character_count": 106
+    },
+    {
+      "block_id": "K012976-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "reviewed in its entirety by trained medical professionals. None of the products claims to be in and of itself\n“diagnostic”.",
+      "extraction_method": "ocr",
+      "character_count": 123
+    },
+    {
+      "block_id": "K012976-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "ms",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K012976-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "avec.\nestenteas\na &,",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K012976-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "ocr",
+      "character_count": 59
+    },
+    {
+      "block_id": "K012976-P006-B003",
+      "page": 6,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "whary\not 44%,",
+      "extraction_method": "ocr",
+      "character_count": 13
+    },
+    {
+      "block_id": "K012976-P006-B004",
+      "page": 6,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "Ys,\n“eras Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room —-W066-G609\nSilver Spring. MD 20993-0002",
+      "extraction_method": "ocr",
+      "character_count": 128
+    },
+    {
+      "block_id": "K012976-P006-B005",
+      "page": 6,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "Mr. John B. Chatten\nPresident\nGrass-Telefactor Division\nAstro-Med, Inc.\nWest-Warwick, Rhode Island 02893\nAPR ~9 2012\nRe: K012976\nTrade/Device Name: Grass-Telefactor Twin PLUS Software\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: H\nProduct Code: OLV, GWQ\nDated (Date on orig SE ltr): December 7, 2001\nReceived (Date on orig SE Itr): December 11, 2001",
+      "extraction_method": "ocr",
+      "character_count": 396
+    },
+    {
+      "block_id": "K012976-P006-B006",
+      "page": 6,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "Dear Mr. Chatten:\nThis letter corrects our substantially equivalent letter of February 12, 2002.",
+      "extraction_method": "ocr",
+      "character_count": 96
+    },
+    {
+      "block_id": "K012976-P006-B007",
+      "page": 6,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "ocr",
+      "character_count": 1033
+    },
+    {
+      "block_id": "K012976-P006-B008",
+      "page": 6,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "ocr",
+      "character_count": 367
+    },
+    {
+      "block_id": "K012976-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "Page 2 - Mr. John B. Chatten",
+      "extraction_method": "ocr",
+      "character_count": 28
+    },
+    {
+      "block_id": "K012976-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K012976-P007-B003",
+      "page": 7,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutFDA/CentersO ffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 651
+    },
+    {
+      "block_id": "K012976-P007-B004",
+      "page": 7,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "You may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address",
+      "extraction_method": "ocr",
+      "character_count": 243
+    },
+    {
+      "block_id": "K012976-P007-B005",
+      "page": 7,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "http://www.fda.gov/MedicalDevices/Resourcesfor Y ou/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 73
+    },
+    {
+      "block_id": "K012976-P007-B006",
+      "page": 7,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "Sincerely yours,",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K012976-P007-B007",
+      "page": 7,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "Kia, Movado”",
+      "extraction_method": "ocr",
+      "character_count": 12
+    },
+    {
+      "block_id": "K012976-P007-B008",
+      "page": 7,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "y fu Malvina B. Eydelman, M.D.\nDirector\n/ Division of Ophthalmic, Neurological,\nH and Ear, Nose and Throat Devices\nL Office of Device Evaluation\nCenter for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 187
+    },
+    {
+      "block_id": "K012976-P007-B009",
+      "page": 7,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "Enclosure",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K012976-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "ae”",
+      "extraction_method": "ocr",
+      "character_count": 3
+    },
+    {
+      "block_id": "K012976-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "7",
+      "extraction_method": "ocr",
+      "character_count": 1
+    },
+    {
+      "block_id": "K012976-P008-B003",
+      "page": 8,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "~",
+      "extraction_method": "ocr",
+      "character_count": 1
+    },
+    {
+      "block_id": "K012976-P008-B004",
+      "page": 8,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "6 Discussion:",
+      "text": "Paso, | of 3\nozATe",
+      "extraction_method": "ocr",
+      "character_count": 18
+    },
+    {
+      "block_id": "K012976-P008-B005",
+      "page": 8,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "5100) Number (if Known):",
+      "text": "5100) Number (if Known):",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K012976-P008-B006",
+      "page": 8,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "5100) Number (if Known):",
+      "text": "Nevice Nanie:_TWIN Plus mh.",
+      "extraction_method": "ocr",
+      "character_count": 27
+    },
+    {
+      "block_id": "K012976-P008-B007",
+      "page": 8,
+      "ordinal": 7,
+      "type": "heading",
+      "section": "indications for Use:",
+      "text": "indications for Use:",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K012976-P008-B008",
+      "page": 8,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "indications for Use:",
+      "text": "This software is intended for use by qualified research and clinical professionals with\nspecialized training in the use of EEG and PSG recording instrumentation for the digital\nrecording, playback, and analysis of physiological signals. It is suitable for digital\nacquisition, display, comparison, analysis, and archiving of EEG potentials and other\nrapidly changing physiological parameters. ,",
+      "extraction_method": "ocr",
+      "character_count": 394
+    },
+    {
+      "block_id": "K012976-P008-B009",
+      "page": 8,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "indications for Use:",
+      "text": "(PLEASE DO NOT WRITE BELOW IMIS LLINE-CONTINUE ON ANOTHER PAGE IE\nNELULD)",
+      "extraction_method": "ocr",
+      "character_count": 73
+    },
+    {
+      "block_id": "K012976-P008-B010",
+      "page": 8,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "indications for Use:",
+      "text": "Cancurrance of CORH, Office of Nevice Evaluation (OWE)",
+      "extraction_method": "ocr",
+      "character_count": 54
+    },
+    {
+      "block_id": "K012976-P008-B011",
+      "page": 8,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "indications for Use:",
+      "text": "Mam € fered\n(Division Sign-Of)",
+      "extraction_method": "ocr",
+      "character_count": 30
+    },
+    {
+      "block_id": "K012976-P008-B012",
+      "page": 8,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "indications for Use:",
+      "text": "Division of General, Restorative",
+      "extraction_method": "ocr",
+      "character_count": 32
+    },
+    {
+      "block_id": "K012976-P008-B013",
+      "page": 8,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "indications for Use:",
+      "text": "and Neurological Devices =",
+      "extraction_method": "ocr",
+      "character_count": 26
+    },
+    {
+      "block_id": "K012976-P008-B014",
+      "page": 8,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "indications for Use:",
+      "text": "510k Number__K 012976",
+      "extraction_method": "ocr",
+      "character_count": 21
+    },
+    {
+      "block_id": "K012976-P008-B015",
+      "page": 8,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "indications for Use:",
+      "text": "Preseripiion Use one Oven Vas Canter Use\n* (Pa 2b Gai G91 108\n(Ont Corsi 1! a)",
+      "extraction_method": "ocr",
+      "character_count": 78
+    },
+    {
+      "block_id": "K012976-P008-B016",
+      "page": 8,
+      "ordinal": 16,
+      "type": "paragraph",
+      "section": "indications for Use:",
+      "text": "3",
+      "extraction_method": "ocr",
+      "character_count": 1
+    }
+  ],
+  "claims": []
+}

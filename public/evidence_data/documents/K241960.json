@@ -1,0 +1,355 @@
+{
+  "document": {
+    "k_number": "K241960",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "DeepRESP",
+    "applicant": "Nox Medical Ehf",
+    "decision_date": "2025-03-14",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf24/K241960.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K241960",
+    "sha256": "9f3d1e98471af7673f195aeb1773924112ec5469d23b15593f5fe1dd1358d7de",
+    "page_count": 14,
+    "native_pages": 14,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 07 . 0 5 \nSilver Spring, MD 20993 \nwww.fda.gov \nMarch 14, 2025 \nNox Medical ehf \n℅ Hrishikesh Gadagkar \nSenior Principal \nRqm+ \n2790 Mosside Blvd #800 \nMonroeville, Pennsylvania 15146 \nRe: K241960 \nTrade/Device Name: DeepRESP \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: July 3, 2024 \nReceived: July 3, 2024 \nDear Hrishikesh Gadagkar: \nWe have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register. \nAdditional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\"",
+      "character_count": 2436
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K241960 - Hrishikesh Gadagkar Page \n\n2 \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download). \n\nYour device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part \n820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming \nproduct; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a \nchange requires premarket review, the QS regulation requires device manufacturers to review and approve \nchanges to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and \napprovals in the device master record (21 CFR 820.181). \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart \nA) for combination products; and, if applicable, the electronic product radiation control provisions (Sections \n531-542 of the Act); 21 CFR Parts 1000-1050. \n\nAll medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system. \n\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \n\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "character_count": 3935
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "K241960 - Hrishikesh Gadagkar Page \n\n3 \nSincerely, \n\n\n\n\nfor \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health \n\nEnclosure \n\n\nPatrick \nAntkowiak -S",
+      "character_count": 360
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES\nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 07/31/2026\nSee PRA Statement below.\n510(k) Number (if known)\nK241960\nDevice Name\nDeepRESP\nIndications for Use (Describe)\nDeepRESP is an aid in the diagnosis of various sleep disorders where subjects are often evaluated during the initiation or\nfollow-up of treatment of various sleep disorders. The recordings to be analyzed by DeepRESP can be performed in a\nhospital, patient home, or an ambulatory setting. It is indicated for use with adults (22 years and above) in a clinical\nenvironment by or on the order of a medical professional.\nDeepRESP is intended to mark sleep study signals to aid in the identification of events and annotation of traces;\nautomatically calculate measures obtained from recorded signals (e.g., magnitude, time, frequency, and statistical\nmeasures of marked events); infer sleep staging with arousals with EEG and in the absence of EEG. All output is subject\nto verification by a medical professional.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”",
+      "character_count": 2207
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nPage 1 of 10 Copyright © 2024 Nox Medical ehf \nDATE PREPARED \nMarch 13, 2025 \nMANUFACTURER AND 510(k) OWNER \nNox Medical ehf \nKatrinartuni 2, \nIS - 105 Reykjavik, \nIceland \nTelephone: +354 570 7170 \nOfficial Contact: Kolbrun E Ottosdottir, Chief Compliance Officer \nREPRESENTATIVE/CONSULTANT \nHrishikesh Gadagkar, Sr. Principal \nRQM+ \n2790 Mosside Blvd #800, Monroeville, PA \nTelephone: +1 (410) 245-0501 \nEmail: hgadagkar@rqmplus.com \nDEVICE INFORMATION \nProprietary Name/Trade Name: DeepRESP \nCommon Name: Electroencephalograph, Automatic Event Detection Software \nfor Polysomnograph with Electroencephalograph \nRegulation Number: 882.1400 \nClass: II \nProduct Code: OLZ \nPremarket Review: Division of Neurosurgical, Neurointerventional and Neurodiagnostic \nDevices (DHT5A), Office of Neurological and Physical Medicine \nDevices (OHT5) \nReview Panel: Neurology \nPREDICATE DEVICE IDENTIFICATION \nThe DeepRESP is substantially equivalent to the following predicate: \n510(k) \nNumber Predicate Device Name / Manufacturer Primary \nPredicate \nAdditional \nPredicate \nK192469 Nox Sleep System / Nox Medical x \nK202142 Sleepware G3 / Respironics Inc x \nDEVICE DESCRIPTION \nDeepRESP is a cloud-based software as a medical device (SaMD), designed to perform analysis \nof sleep study recordings, with and without EEG signals, providing data for the assessment and \ndiagnosis of sleep-related disorders. Its algorithmic framework provides the derivation of sleep \nstaging including arousals, scoring of respiratory events and key parameters such as the Apnea-\nHypopnea Index (AHI).",
+      "character_count": 1616
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nDeepRESP is hosted on a serverless stack. It consists of: \n• A web Application Programming Interface (API) intended to interface with a third-party\nclient application, allowing medical professionals to access DeepRESP’s analytical\ncapabilities.\n• Predefined sequences called Protocols that run data analyses, including artificial\nintelligence and rule-based models for the scoring of sleep studies, and a parameter\ncalculation service.\n• A Result storage using an object storage service to temporarily store outputs from the\nDeepRESP Protocols.\nFigure 1 – DeepRESP dataflow \nINDICATIONS FOR USE \nDeepRESP is an aid in the diagnosis of various sleep disorders where subjects are often \nevaluated during the initiation or follow -up of treatment of various sleep disorders. The \nrecordings to be analyzed by DeepRESP can be performed in a hospital, patient home, or an \nambulatory setting. It is indicated for use with adults ( 22 years and above) in a clinical \nenvironment by or on the order of a medical professional. \nDeepRESP is intended to mark sleep study signals to aid in the identification of events and \nannotation of traces; automatically calculate measures obtained from recorded signals (e.g., \nmagnitude, time, frequency, and statistical measures of marked events); infer sleep staging \nwith arousals with EEG and in the absence of EEG. All output is subject to verification by a \nmedical professional. \nCOMPARISON OF TECHNOLOGICAL CHARACTERISTICS \nNox Medical believes that the DeepRESP is substantially equivalent to the primary predicate \ndevice based on the information summarized here:",
+      "character_count": 1650
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nPage 3 of 10 Copyright © 2024 Nox Medical ehf \nTrade/Device Name \nSubject Device: \nDeepRESP \nPrimary Predicate Device: \nNox Sleep System \nAdditional Predicate Device: \nSleepware G3 \nManufacturer Nox Medical Nox Medical Respironics, Inc. \n510(k) Number K241960 K192469 K202142 \nRegulation Number 21 CFR 882.1400 21 CFR 882.1400 21 CFR 882.1400 \nRegulation Name Electroencephalograph Electroencephalograph Electroencephalograph \nRegulatory Class Class II Class II Class II \nProduct Code(s) OLZ \nPrimary: OLZ \nSubsequent: KZM \nOLZ \nIntended Use \nDeepRESP is a cloud-based artificial intelligence-\nenabled software application used for analysis \n(automatic scoring), retrieval, and summarization \nof data recorded with sleep monitoring devices. \nThe device uses an algorithm to categorize sleep-\nrelated events that help aid in the diagnosis of \nsleep-related disorders. The results of the analyzed \ndata are then transferred to another software for \nmanual scoring, display and reporting \nThe Nox Sleep System is used as an aid in the \ndiagnosis of different sleep disorders and for the \nassessment of sleep. \nThe Nox Sleep System is used to measure, record, \ndisplay, organize, analyze, summarize, and retrieve \nphysiological parameters during sleep and wake.The \nNox Sleep System allows the user to decide on the \ncomplexity of the study by varying the number and \ntypes of physiological signals measured. \nThe Nox Sleep System allows for generation of \nuser/pre-defined reports based on subject´s data. \nThe user of the Nox Sleep System are medical \nprofessionals who have received training in the areas \nof hospital/clinical procedures, physiological \nmonitoring of human subjects, or sleep disorder \ninvestigation. \nThe intended environments are hospitals, institutions, \nsleep centers, sleep clinics, or other test \nenvironments, including the patient's home. \nSleepware G3 is a software application used for \nanalysis (automatic and manual scoring), display, \nretrieval, summarization, report generation, and \nnetworking of data received from monitoring devices \nused to categorize sleep related events that help aid \nin the diagnosis of sleep-related disorders. \nThe optional Somnolyzer software application is \nintended to mark sleep study signals in order to aid \nin the identification of events and annotation of \ntraces; automatically calculate measures obtained \nfrom recorded signals (e.g., magnitude, time, \nfrequency, and statistical measures of marked \nevents); and infer sleep staging in the absence of \nEEG. All output subject to verification by a qualified \nuser. \nIndications for Use \nDeepRESP is an aid in the diagnosis of various \nsleep disorders where subjects are often evaluated \nduring the initiation or follow-up of treatment of \nvarious sleep disorders. The recordings to be \nThe Nox Sleep System is used as an aid in the \ndiagnosis of different sleep disorders and for the \nassessment of sleep. \nThe Nox Sleep System is used to measure, record, \nSleepware G3 is a software application used for \nanalysis (automatic and manual scoring), display, \nretrieval, summarization, report generation, and \nnetworking of data received from monitoring devices",
+      "character_count": 3221
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nanalyzed by DeepRESP can be performed in a \nhospital, patient home, or an ambulatory \nsetting. It is indicated for use with adults (22 \nyears and above) in a clinical environment by or on \nthe order of a medical professional. \nDeepRESP is intended to mark sleep study signals \nto aid in the identification of events and annotation \nof traces; automatically calculate measures \nobtained from recorded signals (e.g., magnitude, \ntime, frequency, and statistical measures of \nmarked events); infer sleep staging with arousals \nwith EEG and in the absence of EEG. All output is \nsubject to verification by a medical professional. \ndisplay, organize, analyze, summarize, and retrieve \nphysiological parameters during sleep and wake. \nThe Nox Sleep System allows the user to decide on \nthe complexity of the study by varying the number \nand types of physiological signals measured. \nThe Nox Sleep System allows for generation of \nuser/pre-defined reports based on subject´s data. \nThe user of the Nox Sleep System are medical \nprofessionals who have received training in the areas \nof hospital/clinical procedures, physiological \nmonitoring of human subjects, or sleep disorder \ninvestigation. \nThe intended environments are hospitals, institutions, \nsleep centers, sleep clinics, or other test \nenvironments, including the patient's home. \nused to categorize sleep related events that help aid \nin the diagnosis of sleep-related disorders. It is \nindicated for use with adults (18 and older) and \ninfant patients (one year old or less) in a clinical \nenvironment by or on the order of a physician. \nThe optional Somnolyzer scoring algorithms are for \nuse with adults (18 and older) to generate an output \nthat is ready for review and interpretation by a \nphysician. Cardio-Respiratory Sleep Staging (CReSS) \nis an additional functionality of Somnolyzer which \nuses standard Home Sleep Apnea Test HSAT signals \n(in the absence of EEG signals) to infer sleep stage. \nUse Environment Physician office. No limitation on where data are \nacquired. \nPhysician office. No limitation on where data are \nacquired. \nPhysician office. No limitation on where data are \nacquired. \nPatient Population 22 years and older 22 years and older 18 years and older \nType of Use Prescription Use only Prescription Use only Prescription Use only \nSignals analyzed EEG, Chin EMG, EOG, Abdomen and Thorax RIP, \nSpO2, Nasal Pressure, Body position \nEEG, Chin EMG, EOG Abdomen and Thorax RIP, \nSpO2; Cannula flow; Body position \nEEG, ECG, EOG, EMG waveforms; SpO2; respiratory \neffort; airflow; heart/pulse rate; snoring loudness; \nbody movement and position. \nSleep Scoring \nwith EEG \nAutomatic ready for review by medical professional \nManual through a 3rd party application. \nAutomatic \nManual \nAutomatic ready for review and interpretation by a \nphysician \nManual \nSleep Scoring \nWithout EEG \nAutomatic ready for review by medical professional Not available \nAutomatic ready for review and interpretation by a \nphysician \nScore Sleep Disorder \nRespiratory Events \nAutomatic ready for review by medical professional \nManual through a 3rd party application. \nAutomatic \nManual \nAutomatic ready for review and interpretation by a \nphysician \nManual \nScore Arousal Events \nwith EEG \nAutomatic ready for review by medical professional \nManual through a 3rd party application. Manual \nAutomatic ready for review and interpretation by a \nphysician \nManual",
+      "character_count": 3466
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nScore Arousal Events \nwithout EEG Automatic ready for review by medical professional Not available Automatic ready for review and interpretation by a \nphysician \nScore Body Position \nAutomatic ready for review by medical professional \nManual through a 3rd party application. \nAutomatic \nManual \nAutomatic ready for review and interpretation by a \nphysician \nManual \nManual Review of \nAutomatic Scoring Yes Yes Yes \nSleep Study \nReporting Yes Yes Yes \nHardware \nComponents Not included Included Not included \nPhysical \nCharacteristics API-based software operates in the cloud. Operates on any PC with Windows 10. Operates on Windows 10 PC, and Microsoft Surface \nPro (for offline review). \nPerformance Testing \nIEC 62304:2006/ A1:2015 \nISO 14971:2019 \nANSI/AAMI SW96:2023 \nIEC 62304:2006 \nISO 14971:2007 \nIEC 62304:2006/ A1:2015 \nISO 14971:2007 \nClinical performance \nType I/II studies \nSeverity classification \nAHI ≥ 5 \nPPA% [95% CI]: 87.5 \nNPA% [95% CI]: 91.9 \nOPA% [95% CI]: 87.9 \nAHI ≥ 15 \nPPA% [95% CI]: 74.1 \nNPA% [95% CI]: 94.7 \nOPA% [95% CI]: 81.5 \nSeverity classification \nAHI ≥ 5 \nPPA% [95% CI]: 73.6 \nNPA% [95% CI]: 65.8 \nOPA% [95% CI]: 73.0 \nAHI ≥ 15 \nPPA% [95% CI]: 54.5 \nNPA% [95% CI]: 89.8 \nOPA% [95% CI]: 67.2 \nN/A \nSleep stages \nWake \nPPA% [95% CI]: 95.4 \nNPA% [95% CI]: 94.6 \nOPA% [95% CI]: 94.8 \nREM \nSleep stages \nWake \nPPA% [95% CI]: 56.7 \nNPA% [95% CI]: 98.1 \nOPA% [95% CI]: 89.8 \nREM \nN/A",
+      "character_count": 1457
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nPPA% [95% CI]: 84.3 \nNPA% [95% CI]: 98.3 \nOPA% [95% CI]: 96.3 \nN1 \nPPA% [95% CI]: 42.8 \nNPA% [95% CI]: 89.7 \nOPA% [95% CI]: 87.1 \nN2 \nPPA% [95% CI]: 74.2 \nNPA% [95% CI]: 82.8 \nOPA% [95% CI]: 78.7 \nN3 \nPPA% [95% CI]: 43.1 \nNPA% [95% CI]: 98.5 \nOPA% [95% CI]: 91.6 \nPPA% [95% CI]: 74.8 \nNPA% [95% CI]: 95.1 \nOPA% [95% CI]: 92.1 \nN1 \nPPA% [95% CI]: 9.2 \nNPA% [95% CI]: 98.2 \nOPA% [95% CI]: 93.3 \nN2 \nPPA% [95% CI]: 80.3 \nNPA% [95% CI]: 73.4 \nOPA% [95% CI]: 76.7 \nN3 \nPPA% [95% CI]: 82.4 \nNPA% [95% CI]: 91.7 \nOPA% [95% CI]: 90.5 \nRespiratory events \nPPA% [95% CI]: 72.0 \nNPA% [95% CI]: 94.2 \nOPA% [95% CI]: 87.2 \nRespiratory events \nPPA% [95% CI]: 58.5 \nNPA% [95% CI]: 95.4 \nOPA% [95% CI]: 81.7 \nN/A \nArousal events \nArI ICC [95% CI]: 0.63 N/A \nArousal events \nArI ICC [95% CI]: 0.794 \nClinical performance \nType III studies \nSeverity classification \nAHI ≥ 5 \nPPA% [95% CI]: 93.1 \nNPA% [95% CI]: 81.1 \nOPA% [95% CI]: 92.5 \nAHI ≥ 15 \nPPA% [95% CI]: 82.1 \nSeverity classification \nAHI ≥ 5 \nPPA% [95% CI]: 82.4 \nNPA% [95% CI]: 56.6 \nOPA% [95% CI]: 81.1 \nAHI ≥ 15 \nPPA% [95% CI]: 60.4 \nN/A",
+      "character_count": 1129
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nNPA% [95% CI]: 92.3 \nOPA% [95% CI]: 84.7 \nNPA% [95% CI]: 89.3 \nOPA% [95% CI]: 67.9 \nSleep states \nWake \nPPA% [95% CI]: 76.2 \nNPA% [95% CI]: 96.8 \nOPA% [95% CI]: 92.7 \nNREM \nPPA% [95% CI]: 94.5 \nNPA% [95% CI]: 79.0 \nOPA% [95% CI]: 89.2 \nREM \nPPA% [95% CI]: 79.1 \nNPA% [95% CI]: 98.1 \nOPA% [95% CI]: 95.4 \nSleep states \nWake \nPPA% [95% CI]: 56.8 \nNPA% [95% CI]: 98.0 \nOPA% [95% CI]: 89.9 \nNREM \nPPA% [95% CI]: 93.8 \nNPA% [95% CI]: 70.0 \nOPA% [95% CI]: 85.7 \nREM \nPPA% [95% CI]: 74.7 \nNPA% [95% CI]: 95.1 \nOPA% [95% CI]: 92.2 \nN/A \nRespiratory events \nPPA% [95% CI]: 75.4 \nNPA% [95% CI]: 87.8 \nOPA% [95% CI]: 83.7 \nRespiratory events \nPPA% [95% CI]: 58.5 \nNPA% [95% CI]: 95.4 \nOPA% [95% CI]: 81.7 \nN/A \nArousal events \nArI ICC [95% CI]: 0.76 N/A \nArousal events \nArI ICC [95% CI]: 0.73",
+      "character_count": 829
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nPage 8 of 10 Copyright © 2024 Nox Medical ehf \nSUMMARY OF NON-CLINICAL TESTING \nSoftware verification and validation testing were performed per IEC 62304:2006/A1:2015 \nMedical device software – Software life cycle processes, IEC 82304-1:2017 Health Software – \ngeneral requirements for product safety and the FDA guidance General Principles of Software \nValidation to demonstrate safety and performance based on current industry standards and \nthat we met the intended use and user needs . Relative documentation was prepared as \nrecommended in FDA’s Guidance for Industry and FDA Staff, Guidance for the Content of \nPremarket Submissions for Software Contained in Medical Devices. \nSUMMARY OF CLINICAL TESTING \nThe clinical performance of DeepRESP was validated by a retrospective study. It used manually \nscored sleep recordings, originating from sleep clinics in the United States, performed as part \nof routine clinical work matching indicated use of the study device and patient population. \nThe performance of DeepRESP with regards to scoring of sleep recordings with \nelectroencephalography (EEG) (i.e. Type I and II), and sleep recordings without EEG (i.e. Type \nIII) was validated. Two separate studies were conducted, one to validate DeepRESP wi th\nscoring of Type I -II recordings and a second one with scoring of Type III recordings. The\nstudies were done by evaluating the agreement in scoring and clinical indices resulting from\nthe automatic scoring by DeepRESP compared to manual scoring. The perf ormance of\nDeepRESP was compared to the agreement of the automatic scoring of the predicate device to\nmanual scoring. The same collection of sleep recordings and same manual scoring were used\nwhen comparing the automatic scoring of DeepRESP and the predicate device. The study\nmethod was a retrospective data study comparing paired differences.\nIn both studies DeepRESPs performance with regards to sleep state estimation and respiratory \nevent scoring was validated against the Nox Sleep System (K192469). For evaluation for \nperformance of arousal scoring, Sleepware G3 (K202142) was used as a comparator. \nFor validating scoring performance for Type I recordings, a total of 2,224 Type I recordings \nwere used. For validating scoring performance for Type III recordings, a total of 3,488 sleep \nrecordings were used, including 2,213 Type I recordings and 1,275 Type II recordings. The \nType I and II recordings were processed as Type III recordings by utilizing only the subset of \nsignals from them that are common to Type III recordings. \nThe recording collection used for validation of Type I scoring consisted of 46% Females, had \nindividuals in all age groups (22-35, 36-45, 46-55, 56-65, 65+), and all BMI groups (<25, 25-\n30, <30). The recording collection used for validation of Type III scoring consisted of 33% \nfemales, had individuals in all age groups (22-35, 36-45, 46-55, 56-65, 65+), and all BMI groups \n(<25, 25-30, <30). The Type I and II sleep recordings were collected as part of standard \nclinical care for patients suspected of sufferin g from sleep disorders. The patients came from \nurban, suburban, and rural areas with a high -level of race/ethnicity diversity (Caucasian or \nWhite, Black or African American, Other, Not Reported). The patient population was therefore \nconsidered as representative of patients seeking medical services for sleep disorders in the \nUnited States.",
+      "character_count": 3468
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nResults: \nIn the retrospective study intended to validate DeepRESP for Type I recordings: \n- In comparison to the primary predicate device with regards to severity classification of\nsleep recordings, with AHI ≥5 and AHI ≥15 as severity thresholds, the study device\nshowcased non-inferiority against the primary predicate device. Additionally, for OPA\n(overall percentage agreement) and PPA (positive percentage agreement) the study\ndevice achieved superiority for AHI ≥15 and AHI ≥5.\n- In comparison to the primary predicate device with regards to overall respiratory event\nscoring the study device showcased non -inferiority for all endpoints, additionally\nachieving superiority for OPA.\n- In comparison to the primary predicate device with regards to sleep state estimation\nthe study device showcased non-inferiority for PPA, NPA, and OPA.\n- In comparison to the additional predicate device with regards to arousal event scoring,\nthe study device achieved non-inferiority.\nThe performance agreement of DeepRESP for type I studies compared to manual scoring can \nbe seen in table 1. \nTable 1. Performance agreement of DeepRESP compared to manual soring. Scoring of Type I recordings. \nPPA% [95% CI] NPA % [95% CI] OPA % [95% CI] \nAHI ≥5 87.5 [86.2, 89.0] 91.9 [87.4, 95.8] 87.9 [86.6, 89.3] \nAHI ≥15 74.1 [72.0, 76.5] 94.7 [93.2, 96.2] 81.5 [79.9, 83.3] \nAHI ≥30 66.8 [63.6, 70.1] 97.9 [97.2, 98.6] 86.7 [85.3, 88.0] \nRespiratory events 72.0 [70.9, 73.2] 94.2 [94.0, 94.5] 87.2 [86.8, 87.5] \nWake 95.4 [95.1, 95.6] 94.6 [94.4, 94.9] 94.8 [94.6, 95.0] \nNREM 92.3 [92.0, 92.6] 92.7 [92.4, 92.9] 92.4 [92.2, 92.6] \nN1 42.8 [41.6, 43.8] 89.7 [89.3, 90.1] 87.1 [86.7, 87.5] \nN2 74.2 [73.4, 74.9] 82.8 [82.3, 83.3] 78.7 [78.3, 79.1] \nN3 43.1 [41.4, 44.8] 98.5 [98.4, 98.7] 91.6 [91.3, 91.9] \nREM 84.3 [83.6, 85.0] 98.3 [98.2, 98.4] 96.3 [96.2, 96.4] \nArousal events 62.2 [61.2, 63.1] 89.3 [88.8, 89.7] 81.4 [81.1, 81.7] \nIn the retrospective study intended to validate DeepRESP for Type III recordings: \n- In comparison to the primary predicate device with regards to severity classification of\nsleep recordings, with AHI ≥5 and AHI ≥15 as severity thresholds, the study device\nshowcased superiority for PPA for all thresholds. In the case of NPA, and OPA, the\nstudy device showcased non-inferiority compared to the primary predicate device.\n- In comparison to the primary predicate device with regards to overall respiratory event\nscoring the study device showcased non -inferiority for NPA, achieving superiority for\nOPA and PPA.\n- In comparison to the primary predicate device with regards to sleep state estimation\nthe study device showcased non-inferiority for PPA, NPA, and OPA.",
+      "character_count": 2726
+    },
+    {
+      "page": 14,
+      "extraction_method": "native",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \n- In comparison to the additional predicate device with regards to arousal event scoring,\nthe study device achieved non-inferiority.\nThe performance agreement of DeepRESP for Type III studies compared to manual scoring \ncan be seen in table 2. \nTable 2. Performance agreement for DeepRESP compared to manual scoring. Scoring of Type III recordings. \nPPA% [95% CI] NPA % [95% CI] OPA % [95% CI] \nAHI ≥5 93.1 [92.2, 93.9] 81.1 [75.1, 86.6] 92.5 [91.7, 93.3] \nAHI ≥15 82.1 [80.6, 83.5] 92.3 [90.5, 94.0] 84.7 [83.5, 85.8] \nAHI ≥30 75.9 [73.7, 78.0] 96.8 [96.0, 97.6] 87.2 [86.2, 88.4] \nRespiratory events 75.4 [74.6, 76.1] 87.8 [87.4, 88.1] 83.7 [83.4, 84.0] \nWake 76.2 [75.5, 77.0] 96.8 [96.6, 97.0] 92.7 [92.5, 92.9] \nNREM 94.5 [94.2, 94.7] 79.0 [78.4, 79.6] 89.2 [88.9, 89.4] \nREM 79.1 [78.2, 79.9] 98.1 [98.0, 98.2] 95.4 [95.2, 95.5] \nArousal events 66.8 [65.8, 67.6] 86.8 [86.4, 87.1] 81.8 [81.5, 82.0] \nThe validation results demonstrate that the predefined clinical performance criteria of \nDeepRESP against the primary predicate device and additional predicate device have been met \nfor studies with and without EEG signals. DeepRESP is therefore considered as deemed effective \nin its intended purpose, i.e. categorising sleep related events, that help aid in the diagnosis of \nsleep related disorders. \nCONCLUSION \nBased on the verification and validation testing performed in accordance with IEC \n62304:2006/A1:2015, it can be concluded that the subject device does not raise new issues of \nsafety or effectiveness compared to the primary predicate device. The DeepRESP device is \ndemonstrated to be substantially equivalent to the primary predicate device.",
+      "character_count": 1712
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K241960-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 07 . 0 5 \nSilver Spring, MD 20993 \nwww.fda.gov \nMarch 14, 2025 \nNox Medical ehf \n℅ Hrishikesh Gadagkar \nSenior Principal \nRqm+ \n2790 Mosside Blvd #800 \nMonroeville, Pennsylvania 15146 \nRe: K241960 \nTrade/Device Name: DeepRESP \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: July 3, 2024 \nReceived: July 3, 2024 \nDear Hrishikesh Gadagkar: \nWe have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register. \nAdditional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\"",
+      "extraction_method": "native",
+      "character_count": 2436
+    },
+    {
+      "block_id": "K241960-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "K241960 - Hrishikesh Gadagkar Page",
+      "extraction_method": "native",
+      "character_count": 34
+    },
+    {
+      "block_id": "K241960-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "2 \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download).",
+      "extraction_method": "native",
+      "character_count": 173
+    },
+    {
+      "block_id": "K241960-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part \n820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming \nproduct; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a \nchange requires premarket review, the QS regulation requires device manufacturers to review and approve \nchanges to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and \napprovals in the device master record (21 CFR 820.181).",
+      "extraction_method": "native",
+      "character_count": 579
+    },
+    {
+      "block_id": "K241960-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart \nA) for combination products; and, if applicable, the electronic product radiation control provisions (Sections \n531-542 of the Act); 21 CFR Parts 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 1100
+    },
+    {
+      "block_id": "K241960-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "All medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.",
+      "extraction_method": "native",
+      "character_count": 920
+    },
+    {
+      "block_id": "K241960-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems.",
+      "extraction_method": "native",
+      "character_count": 351
+    },
+    {
+      "block_id": "K241960-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "For comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "extraction_method": "native",
+      "character_count": 760
+    },
+    {
+      "block_id": "K241960-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "K241960 - Hrishikesh Gadagkar Page",
+      "extraction_method": "native",
+      "character_count": 34
+    },
+    {
+      "block_id": "K241960-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "3 \nSincerely,",
+      "extraction_method": "native",
+      "character_count": 13
+    },
+    {
+      "block_id": "K241960-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "for \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health",
+      "extraction_method": "native",
+      "character_count": 267
+    },
+    {
+      "block_id": "K241960-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Enclosure",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K241960-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Patrick \nAntkowiak -S",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K241960-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "FORM FDA 3881 (8/23) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES\nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 07/31/2026\nSee PRA Statement below.\n510(k) Number (if known)\nK241960\nDevice Name\nDeepRESP\nIndications for Use (Describe)\nDeepRESP is an aid in the diagnosis of various sleep disorders where subjects are often evaluated during the initiation or\nfollow-up of treatment of various sleep disorders. The recordings to be analyzed by DeepRESP can be performed in a\nhospital, patient home, or an ambulatory setting. It is indicated for use with adults (22 years and above) in a clinical\nenvironment by or on the order of a medical professional.\nDeepRESP is intended to mark sleep study signals to aid in the identification of events and annotation of traces;\nautomatically calculate measures obtained from recorded signals (e.g., magnitude, time, frequency, and statistical\nmeasures of marked events); infer sleep staging with arousals with EEG and in the absence of EEG. All output is subject\nto verification by a medical professional.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "native",
+      "character_count": 2207
+    },
+    {
+      "block_id": "K241960-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nPage 1 of 10 Copyright © 2024 Nox Medical ehf \nDATE PREPARED \nMarch 13, 2025 \nMANUFACTURER AND 510(k) OWNER \nNox Medical ehf \nKatrinartuni 2, \nIS - 105 Reykjavik, \nIceland \nTelephone: +354 570 7170 \nOfficial Contact: Kolbrun E Ottosdottir, Chief Compliance Officer \nREPRESENTATIVE/CONSULTANT \nHrishikesh Gadagkar, Sr. Principal \nRQM+ \n2790 Mosside Blvd #800, Monroeville, PA \nTelephone: +1 (410) 245-0501 \nEmail: hgadagkar@rqmplus.com \nDEVICE INFORMATION \nProprietary Name/Trade Name: DeepRESP \nCommon Name: Electroencephalograph, Automatic Event Detection Software \nfor Polysomnograph with Electroencephalograph \nRegulation Number: 882.1400 \nClass: II \nProduct Code: OLZ \nPremarket Review: Division of Neurosurgical, Neurointerventional and Neurodiagnostic \nDevices (DHT5A), Office of Neurological and Physical Medicine \nDevices (OHT5) \nReview Panel: Neurology \nPREDICATE DEVICE IDENTIFICATION \nThe DeepRESP is substantially equivalent to the following predicate: \n510(k) \nNumber Predicate Device Name / Manufacturer Primary \nPredicate \nAdditional \nPredicate \nK192469 Nox Sleep System / Nox Medical x \nK202142 Sleepware G3 / Respironics Inc x \nDEVICE DESCRIPTION \nDeepRESP is a cloud-based software as a medical device (SaMD), designed to perform analysis \nof sleep study recordings, with and without EEG signals, providing data for the assessment and \ndiagnosis of sleep-related disorders. Its algorithmic framework provides the derivation of sleep \nstaging including arousals, scoring of respiratory events and key parameters such as the Apnea-\nHypopnea Index (AHI).",
+      "extraction_method": "native",
+      "character_count": 1616
+    },
+    {
+      "block_id": "K241960-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nDeepRESP is hosted on a serverless stack. It consists of: \n• A web Application Programming Interface (API) intended to interface with a third-party\nclient application, allowing medical professionals to access DeepRESP’s analytical\ncapabilities.\n• Predefined sequences called Protocols that run data analyses, including artificial\nintelligence and rule-based models for the scoring of sleep studies, and a parameter\ncalculation service.\n• A Result storage using an object storage service to temporarily store outputs from the\nDeepRESP Protocols.\nFigure 1 – DeepRESP dataflow \nINDICATIONS FOR USE \nDeepRESP is an aid in the diagnosis of various sleep disorders where subjects are often \nevaluated during the initiation or follow -up of treatment of various sleep disorders. The \nrecordings to be analyzed by DeepRESP can be performed in a hospital, patient home, or an \nambulatory setting. It is indicated for use with adults ( 22 years and above) in a clinical \nenvironment by or on the order of a medical professional. \nDeepRESP is intended to mark sleep study signals to aid in the identification of events and \nannotation of traces; automatically calculate measures obtained from recorded signals (e.g., \nmagnitude, time, frequency, and statistical measures of marked events); infer sleep staging \nwith arousals with EEG and in the absence of EEG. All output is subject to verification by a \nmedical professional. \nCOMPARISON OF TECHNOLOGICAL CHARACTERISTICS \nNox Medical believes that the DeepRESP is substantially equivalent to the primary predicate \ndevice based on the information summarized here:",
+      "extraction_method": "native",
+      "character_count": 1650
+    },
+    {
+      "block_id": "K241960-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nPage 3 of 10 Copyright © 2024 Nox Medical ehf \nTrade/Device Name \nSubject Device: \nDeepRESP \nPrimary Predicate Device: \nNox Sleep System \nAdditional Predicate Device: \nSleepware G3 \nManufacturer Nox Medical Nox Medical Respironics, Inc. \n510(k) Number K241960 K192469 K202142 \nRegulation Number 21 CFR 882.1400 21 CFR 882.1400 21 CFR 882.1400 \nRegulation Name Electroencephalograph Electroencephalograph Electroencephalograph \nRegulatory Class Class II Class II Class II \nProduct Code(s) OLZ \nPrimary: OLZ \nSubsequent: KZM \nOLZ \nIntended Use \nDeepRESP is a cloud-based artificial intelligence-\nenabled software application used for analysis \n(automatic scoring), retrieval, and summarization \nof data recorded with sleep monitoring devices. \nThe device uses an algorithm to categorize sleep-\nrelated events that help aid in the diagnosis of \nsleep-related disorders. The results of the analyzed \ndata are then transferred to another software for \nmanual scoring, display and reporting \nThe Nox Sleep System is used as an aid in the \ndiagnosis of different sleep disorders and for the \nassessment of sleep. \nThe Nox Sleep System is used to measure, record, \ndisplay, organize, analyze, summarize, and retrieve \nphysiological parameters during sleep and wake.The \nNox Sleep System allows the user to decide on the \ncomplexity of the study by varying the number and \ntypes of physiological signals measured. \nThe Nox Sleep System allows for generation of \nuser/pre-defined reports based on subject´s data. \nThe user of the Nox Sleep System are medical \nprofessionals who have received training in the areas \nof hospital/clinical procedures, physiological \nmonitoring of human subjects, or sleep disorder \ninvestigation. \nThe intended environments are hospitals, institutions, \nsleep centers, sleep clinics, or other test \nenvironments, including the patient's home. \nSleepware G3 is a software application used for \nanalysis (automatic and manual scoring), display, \nretrieval, summarization, report generation, and \nnetworking of data received from monitoring devices \nused to categorize sleep related events that help aid \nin the diagnosis of sleep-related disorders. \nThe optional Somnolyzer software application is \nintended to mark sleep study signals in order to aid \nin the identification of events and annotation of \ntraces; automatically calculate measures obtained \nfrom recorded signals (e.g., magnitude, time, \nfrequency, and statistical measures of marked \nevents); and infer sleep staging in the absence of \nEEG. All output subject to verification by a qualified \nuser. \nIndications for Use \nDeepRESP is an aid in the diagnosis of various \nsleep disorders where subjects are often evaluated \nduring the initiation or follow-up of treatment of \nvarious sleep disorders. The recordings to be \nThe Nox Sleep System is used as an aid in the \ndiagnosis of different sleep disorders and for the \nassessment of sleep. \nThe Nox Sleep System is used to measure, record, \nSleepware G3 is a software application used for \nanalysis (automatic and manual scoring), display, \nretrieval, summarization, report generation, and \nnetworking of data received from monitoring devices",
+      "extraction_method": "native",
+      "character_count": 3221
+    },
+    {
+      "block_id": "K241960-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nanalyzed by DeepRESP can be performed in a \nhospital, patient home, or an ambulatory \nsetting. It is indicated for use with adults (22 \nyears and above) in a clinical environment by or on \nthe order of a medical professional. \nDeepRESP is intended to mark sleep study signals \nto aid in the identification of events and annotation \nof traces; automatically calculate measures \nobtained from recorded signals (e.g., magnitude, \ntime, frequency, and statistical measures of \nmarked events); infer sleep staging with arousals \nwith EEG and in the absence of EEG. All output is \nsubject to verification by a medical professional. \ndisplay, organize, analyze, summarize, and retrieve \nphysiological parameters during sleep and wake. \nThe Nox Sleep System allows the user to decide on \nthe complexity of the study by varying the number \nand types of physiological signals measured. \nThe Nox Sleep System allows for generation of \nuser/pre-defined reports based on subject´s data. \nThe user of the Nox Sleep System are medical \nprofessionals who have received training in the areas \nof hospital/clinical procedures, physiological \nmonitoring of human subjects, or sleep disorder \ninvestigation. \nThe intended environments are hospitals, institutions, \nsleep centers, sleep clinics, or other test \nenvironments, including the patient's home. \nused to categorize sleep related events that help aid \nin the diagnosis of sleep-related disorders. It is \nindicated for use with adults (18 and older) and \ninfant patients (one year old or less) in a clinical \nenvironment by or on the order of a physician. \nThe optional Somnolyzer scoring algorithms are for \nuse with adults (18 and older) to generate an output \nthat is ready for review and interpretation by a \nphysician. Cardio-Respiratory Sleep Staging (CReSS) \nis an additional functionality of Somnolyzer which \nuses standard Home Sleep Apnea Test HSAT signals \n(in the absence of EEG signals) to infer sleep stage. \nUse Environment Physician office. No limitation on where data are \nacquired. \nPhysician office. No limitation on where data are \nacquired. \nPhysician office. No limitation on where data are \nacquired. \nPatient Population 22 years and older 22 years and older 18 years and older \nType of Use Prescription Use only Prescription Use only Prescription Use only \nSignals analyzed EEG, Chin EMG, EOG, Abdomen and Thorax RIP, \nSpO2, Nasal Pressure, Body position \nEEG, Chin EMG, EOG Abdomen and Thorax RIP, \nSpO2; Cannula flow; Body position \nEEG, ECG, EOG, EMG waveforms; SpO2; respiratory \neffort; airflow; heart/pulse rate; snoring loudness; \nbody movement and position. \nSleep Scoring \nwith EEG \nAutomatic ready for review by medical professional \nManual through a 3rd party application. \nAutomatic \nManual \nAutomatic ready for review and interpretation by a \nphysician \nManual \nSleep Scoring \nWithout EEG \nAutomatic ready for review by medical professional Not available \nAutomatic ready for review and interpretation by a \nphysician \nScore Sleep Disorder \nRespiratory Events \nAutomatic ready for review by medical professional \nManual through a 3rd party application. \nAutomatic \nManual \nAutomatic ready for review and interpretation by a \nphysician \nManual \nScore Arousal Events \nwith EEG \nAutomatic ready for review by medical professional \nManual through a 3rd party application. Manual \nAutomatic ready for review and interpretation by a \nphysician \nManual",
+      "extraction_method": "native",
+      "character_count": 3466
+    },
+    {
+      "block_id": "K241960-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nScore Arousal Events \nwithout EEG Automatic ready for review by medical professional Not available Automatic ready for review and interpretation by a \nphysician \nScore Body Position \nAutomatic ready for review by medical professional \nManual through a 3rd party application. \nAutomatic \nManual \nAutomatic ready for review and interpretation by a \nphysician \nManual \nManual Review of \nAutomatic Scoring Yes Yes Yes \nSleep Study \nReporting Yes Yes Yes \nHardware \nComponents Not included Included Not included \nPhysical \nCharacteristics API-based software operates in the cloud. Operates on any PC with Windows 10. Operates on Windows 10 PC, and Microsoft Surface \nPro (for offline review). \nPerformance Testing \nIEC 62304:2006/ A1:2015 \nISO 14971:2019 \nANSI/AAMI SW96:2023 \nIEC 62304:2006 \nISO 14971:2007 \nIEC 62304:2006/ A1:2015 \nISO 14971:2007 \nClinical performance \nType I/II studies \nSeverity classification \nAHI ≥ 5 \nPPA% [95% CI]: 87.5 \nNPA% [95% CI]: 91.9 \nOPA% [95% CI]: 87.9 \nAHI ≥ 15 \nPPA% [95% CI]: 74.1 \nNPA% [95% CI]: 94.7 \nOPA% [95% CI]: 81.5 \nSeverity classification \nAHI ≥ 5 \nPPA% [95% CI]: 73.6 \nNPA% [95% CI]: 65.8 \nOPA% [95% CI]: 73.0 \nAHI ≥ 15 \nPPA% [95% CI]: 54.5 \nNPA% [95% CI]: 89.8 \nOPA% [95% CI]: 67.2 \nN/A \nSleep stages \nWake \nPPA% [95% CI]: 95.4 \nNPA% [95% CI]: 94.6 \nOPA% [95% CI]: 94.8 \nREM \nSleep stages \nWake \nPPA% [95% CI]: 56.7 \nNPA% [95% CI]: 98.1 \nOPA% [95% CI]: 89.8 \nREM \nN/A",
+      "extraction_method": "native",
+      "character_count": 1457
+    },
+    {
+      "block_id": "K241960-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nPPA% [95% CI]: 84.3 \nNPA% [95% CI]: 98.3 \nOPA% [95% CI]: 96.3 \nN1 \nPPA% [95% CI]: 42.8 \nNPA% [95% CI]: 89.7 \nOPA% [95% CI]: 87.1 \nN2 \nPPA% [95% CI]: 74.2 \nNPA% [95% CI]: 82.8 \nOPA% [95% CI]: 78.7 \nN3 \nPPA% [95% CI]: 43.1 \nNPA% [95% CI]: 98.5 \nOPA% [95% CI]: 91.6 \nPPA% [95% CI]: 74.8 \nNPA% [95% CI]: 95.1 \nOPA% [95% CI]: 92.1 \nN1 \nPPA% [95% CI]: 9.2 \nNPA% [95% CI]: 98.2 \nOPA% [95% CI]: 93.3 \nN2 \nPPA% [95% CI]: 80.3 \nNPA% [95% CI]: 73.4 \nOPA% [95% CI]: 76.7 \nN3 \nPPA% [95% CI]: 82.4 \nNPA% [95% CI]: 91.7 \nOPA% [95% CI]: 90.5 \nRespiratory events \nPPA% [95% CI]: 72.0 \nNPA% [95% CI]: 94.2 \nOPA% [95% CI]: 87.2 \nRespiratory events \nPPA% [95% CI]: 58.5 \nNPA% [95% CI]: 95.4 \nOPA% [95% CI]: 81.7 \nN/A \nArousal events \nArI ICC [95% CI]: 0.63 N/A \nArousal events \nArI ICC [95% CI]: 0.794 \nClinical performance \nType III studies \nSeverity classification \nAHI ≥ 5 \nPPA% [95% CI]: 93.1 \nNPA% [95% CI]: 81.1 \nOPA% [95% CI]: 92.5 \nAHI ≥ 15 \nPPA% [95% CI]: 82.1 \nSeverity classification \nAHI ≥ 5 \nPPA% [95% CI]: 82.4 \nNPA% [95% CI]: 56.6 \nOPA% [95% CI]: 81.1 \nAHI ≥ 15 \nPPA% [95% CI]: 60.4 \nN/A",
+      "extraction_method": "native",
+      "character_count": 1129
+    },
+    {
+      "block_id": "K241960-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nNPA% [95% CI]: 92.3 \nOPA% [95% CI]: 84.7 \nNPA% [95% CI]: 89.3 \nOPA% [95% CI]: 67.9 \nSleep states \nWake \nPPA% [95% CI]: 76.2 \nNPA% [95% CI]: 96.8 \nOPA% [95% CI]: 92.7 \nNREM \nPPA% [95% CI]: 94.5 \nNPA% [95% CI]: 79.0 \nOPA% [95% CI]: 89.2 \nREM \nPPA% [95% CI]: 79.1 \nNPA% [95% CI]: 98.1 \nOPA% [95% CI]: 95.4 \nSleep states \nWake \nPPA% [95% CI]: 56.8 \nNPA% [95% CI]: 98.0 \nOPA% [95% CI]: 89.9 \nNREM \nPPA% [95% CI]: 93.8 \nNPA% [95% CI]: 70.0 \nOPA% [95% CI]: 85.7 \nREM \nPPA% [95% CI]: 74.7 \nNPA% [95% CI]: 95.1 \nOPA% [95% CI]: 92.2 \nN/A \nRespiratory events \nPPA% [95% CI]: 75.4 \nNPA% [95% CI]: 87.8 \nOPA% [95% CI]: 83.7 \nRespiratory events \nPPA% [95% CI]: 58.5 \nNPA% [95% CI]: 95.4 \nOPA% [95% CI]: 81.7 \nN/A \nArousal events \nArI ICC [95% CI]: 0.76 N/A \nArousal events \nArI ICC [95% CI]: 0.73",
+      "extraction_method": "native",
+      "character_count": 829
+    },
+    {
+      "block_id": "K241960-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nPage 8 of 10 Copyright © 2024 Nox Medical ehf \nSUMMARY OF NON-CLINICAL TESTING \nSoftware verification and validation testing were performed per IEC 62304:2006/A1:2015 \nMedical device software – Software life cycle processes, IEC 82304-1:2017 Health Software – \ngeneral requirements for product safety and the FDA guidance General Principles of Software \nValidation to demonstrate safety and performance based on current industry standards and \nthat we met the intended use and user needs . Relative documentation was prepared as \nrecommended in FDA’s Guidance for Industry and FDA Staff, Guidance for the Content of \nPremarket Submissions for Software Contained in Medical Devices. \nSUMMARY OF CLINICAL TESTING \nThe clinical performance of DeepRESP was validated by a retrospective study. It used manually \nscored sleep recordings, originating from sleep clinics in the United States, performed as part \nof routine clinical work matching indicated use of the study device and patient population. \nThe performance of DeepRESP with regards to scoring of sleep recordings with \nelectroencephalography (EEG) (i.e. Type I and II), and sleep recordings without EEG (i.e. Type \nIII) was validated. Two separate studies were conducted, one to validate DeepRESP wi th\nscoring of Type I -II recordings and a second one with scoring of Type III recordings. The\nstudies were done by evaluating the agreement in scoring and clinical indices resulting from\nthe automatic scoring by DeepRESP compared to manual scoring. The perf ormance of\nDeepRESP was compared to the agreement of the automatic scoring of the predicate device to\nmanual scoring. The same collection of sleep recordings and same manual scoring were used\nwhen comparing the automatic scoring of DeepRESP and the predicate device. The study\nmethod was a retrospective data study comparing paired differences.\nIn both studies DeepRESPs performance with regards to sleep state estimation and respiratory \nevent scoring was validated against the Nox Sleep System (K192469). For evaluation for \nperformance of arousal scoring, Sleepware G3 (K202142) was used as a comparator. \nFor validating scoring performance for Type I recordings, a total of 2,224 Type I recordings \nwere used. For validating scoring performance for Type III recordings, a total of 3,488 sleep \nrecordings were used, including 2,213 Type I recordings and 1,275 Type II recordings. The \nType I and II recordings were processed as Type III recordings by utilizing only the subset of \nsignals from them that are common to Type III recordings. \nThe recording collection used for validation of Type I scoring consisted of 46% Females, had \nindividuals in all age groups (22-35, 36-45, 46-55, 56-65, 65+), and all BMI groups (<25, 25-\n30, <30). The recording collection used for validation of Type III scoring consisted of 33% \nfemales, had individuals in all age groups (22-35, 36-45, 46-55, 56-65, 65+), and all BMI groups \n(<25, 25-30, <30). The Type I and II sleep recordings were collected as part of standard \nclinical care for patients suspected of sufferin g from sleep disorders. The patients came from \nurban, suburban, and rural areas with a high -level of race/ethnicity diversity (Caucasian or \nWhite, Black or African American, Other, Not Reported). The patient population was therefore \nconsidered as representative of patients seeking medical services for sleep disorders in the \nUnited States.",
+      "extraction_method": "native",
+      "character_count": 3468
+    },
+    {
+      "block_id": "K241960-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \nResults: \nIn the retrospective study intended to validate DeepRESP for Type I recordings: \n- In comparison to the primary predicate device with regards to severity classification of\nsleep recordings, with AHI ≥5 and AHI ≥15 as severity thresholds, the study device\nshowcased non-inferiority against the primary predicate device. Additionally, for OPA\n(overall percentage agreement) and PPA (positive percentage agreement) the study\ndevice achieved superiority for AHI ≥15 and AHI ≥5.\n- In comparison to the primary predicate device with regards to overall respiratory event\nscoring the study device showcased non -inferiority for all endpoints, additionally\nachieving superiority for OPA.\n- In comparison to the primary predicate device with regards to sleep state estimation\nthe study device showcased non-inferiority for PPA, NPA, and OPA.\n- In comparison to the additional predicate device with regards to arousal event scoring,\nthe study device achieved non-inferiority.\nThe performance agreement of DeepRESP for type I studies compared to manual scoring can \nbe seen in table 1. \nTable 1. Performance agreement of DeepRESP compared to manual soring. Scoring of Type I recordings. \nPPA% [95% CI] NPA % [95% CI] OPA % [95% CI] \nAHI ≥5 87.5 [86.2, 89.0] 91.9 [87.4, 95.8] 87.9 [86.6, 89.3] \nAHI ≥15 74.1 [72.0, 76.5] 94.7 [93.2, 96.2] 81.5 [79.9, 83.3] \nAHI ≥30 66.8 [63.6, 70.1] 97.9 [97.2, 98.6] 86.7 [85.3, 88.0] \nRespiratory events 72.0 [70.9, 73.2] 94.2 [94.0, 94.5] 87.2 [86.8, 87.5] \nWake 95.4 [95.1, 95.6] 94.6 [94.4, 94.9] 94.8 [94.6, 95.0] \nNREM 92.3 [92.0, 92.6] 92.7 [92.4, 92.9] 92.4 [92.2, 92.6] \nN1 42.8 [41.6, 43.8] 89.7 [89.3, 90.1] 87.1 [86.7, 87.5] \nN2 74.2 [73.4, 74.9] 82.8 [82.3, 83.3] 78.7 [78.3, 79.1] \nN3 43.1 [41.4, 44.8] 98.5 [98.4, 98.7] 91.6 [91.3, 91.9] \nREM 84.3 [83.6, 85.0] 98.3 [98.2, 98.4] 96.3 [96.2, 96.4] \nArousal events 62.2 [61.2, 63.1] 89.3 [88.8, 89.7] 81.4 [81.1, 81.7] \nIn the retrospective study intended to validate DeepRESP for Type III recordings: \n- In comparison to the primary predicate device with regards to severity classification of\nsleep recordings, with AHI ≥5 and AHI ≥15 as severity thresholds, the study device\nshowcased superiority for PPA for all thresholds. In the case of NPA, and OPA, the\nstudy device showcased non-inferiority compared to the primary predicate device.\n- In comparison to the primary predicate device with regards to overall respiratory event\nscoring the study device showcased non -inferiority for NPA, achieving superiority for\nOPA and PPA.\n- In comparison to the primary predicate device with regards to sleep state estimation\nthe study device showcased non-inferiority for PPA, NPA, and OPA.",
+      "extraction_method": "native",
+      "character_count": 2726
+    },
+    {
+      "block_id": "K241960-P014-B001",
+      "page": 14,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(k) Summary \nDeepRESP – 510(k) Traditional \n- In comparison to the additional predicate device with regards to arousal event scoring,\nthe study device achieved non-inferiority.\nThe performance agreement of DeepRESP for Type III studies compared to manual scoring \ncan be seen in table 2. \nTable 2. Performance agreement for DeepRESP compared to manual scoring. Scoring of Type III recordings. \nPPA% [95% CI] NPA % [95% CI] OPA % [95% CI] \nAHI ≥5 93.1 [92.2, 93.9] 81.1 [75.1, 86.6] 92.5 [91.7, 93.3] \nAHI ≥15 82.1 [80.6, 83.5] 92.3 [90.5, 94.0] 84.7 [83.5, 85.8] \nAHI ≥30 75.9 [73.7, 78.0] 96.8 [96.0, 97.6] 87.2 [86.2, 88.4] \nRespiratory events 75.4 [74.6, 76.1] 87.8 [87.4, 88.1] 83.7 [83.4, 84.0] \nWake 76.2 [75.5, 77.0] 96.8 [96.6, 97.0] 92.7 [92.5, 92.9] \nNREM 94.5 [94.2, 94.7] 79.0 [78.4, 79.6] 89.2 [88.9, 89.4] \nREM 79.1 [78.2, 79.9] 98.1 [98.0, 98.2] 95.4 [95.2, 95.5] \nArousal events 66.8 [65.8, 67.6] 86.8 [86.4, 87.1] 81.8 [81.5, 82.0] \nThe validation results demonstrate that the predefined clinical performance criteria of \nDeepRESP against the primary predicate device and additional predicate device have been met \nfor studies with and without EEG signals. DeepRESP is therefore considered as deemed effective \nin its intended purpose, i.e. categorising sleep related events, that help aid in the diagnosis of \nsleep related disorders. \nCONCLUSION \nBased on the verification and validation testing performed in accordance with IEC \n62304:2006/A1:2015, it can be concluded that the subject device does not raise new issues of \nsafety or effectiveness compared to the primary predicate device. The DeepRESP device is \ndemonstrated to be substantially equivalent to the primary predicate device.",
+      "extraction_method": "native",
+      "character_count": 1712
+    }
+  ],
+  "claims": []
+}

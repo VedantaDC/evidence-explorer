@@ -1,0 +1,29 @@
+{
+  "document": {
+    "k_number": "K011204",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "NEUROFAX, MODELS EEG-1100A, EEG-9100A",
+    "applicant": "Nihon Kohden America, Inc.",
+    "decision_date": "2001-05-08",
+    "document_type": "Summary",
+    "source_status": "unavailable",
+    "download_status": "public_pdf_unavailable",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf1/K011204.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K011204",
+    "sha256": "",
+    "page_count": 0,
+    "native_pages": 0,
+    "ocr_pages": 0,
+    "family_id": "PSG-007",
+    "family_name": "Neurofax PSG / EEG acquisition",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "source unavailable"
+  },
+  "pages": [],
+  "blocks": [],
+  "claims": []
+}

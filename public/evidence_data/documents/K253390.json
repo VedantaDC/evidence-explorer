@@ -1,0 +1,859 @@
+{
+  "document": {
+    "k_number": "K253390",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "SOMNUM (SOMNUM)",
+    "applicant": "Honeynaps Co., Ltd.",
+    "decision_date": "2026-06-27",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K253390.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K253390",
+    "sha256": "c28c6a5893d6fb0d11d19a7015672311edeae1643dbf33aa7718b41153a7717a",
+    "page_count": 23,
+    "native_pages": 22,
+    "ocr_pages": 1,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "June 27, 2026 \n\nHoneynaps co,. Ltd. \nYoung Jun Lee \nChief Executive Officer \n4F, Marin B/D, 529, Nonhyeon-ro, Gangnam-gu \nSeoul, 06126 \nRepublic Of Korea \n\nRe: K253390 \nTrade/Device Name: Somnum (somnum) \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: May 25, 2026 \nReceived: May 26, 2026 \n\nDear Young Jun Lee: \n\nWe have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "character_count": 2120
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K253390 - Young Jun Lee Page \n\n2 \n\nAdditional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\" \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download). \n\nYour device is also subject to, among other requirements, the Quality Management System Regulation \n(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), \nISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 \nclause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, \nthe QMSR requires device manufacturers to review and approve changes to device design and production \n(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical \nDevice File (ISO 13485 clause 4.2.3). \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the Quality Management \nSystem Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR \nPart 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control \nprovisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. \n\nAll medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system. \n\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \n\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See",
+      "character_count": 3958
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "K253390 - Young Jun Lee Page \n\n3 \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). \n\nSincerely, \n\n\n\n\n\nfor \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health \n\nEnclosure \n\n\nPatrick Antkowiak -S",
+      "character_count": 628
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "Please type in the marketing application/submission number, if it is known. This\ntextbox will be left blank for original applications/submissions.\n\nK253390\n\nPlease provide the device trade name(s).\n\nSOMNUM (SOMNUM)\n\n| Please provide your Indications for Use below. [>|\n\nSOMNUNM is an Al-enabled software program intended for use as an aid in the diagnosis of sleep and\nrespiratory-related sleep disorders. SOMNUM is intended to be used for analysis — including automatic\nscoring using Al/ML algorithms for sleep stage classification, arousal detection, respiratory event detection,\nand leg movement event detection, as well as manual scoring/re-scoring, display, redisplay (retrieve),\nsummarization, and report generation of digital data collected by monitoring devices typically used to\nevaluate sleep and respiratory-related sleep disorders.\n\nThe device is to be used under the supervision of a physician. Use is restricted to data obtained from adult\npatients.\n\nPlease select the types of uses (select one or both, as Prescription Use (21 CFR 801 Subpart D) I?\n\napplicable). [| Over-The-Counter Use (21 CFR 801 Subpart C)\nPlease select the age group(s) for which the device(s) is [_] Neonates/Newborns (Birth to < 29 days old)\nto be used. [| Infants (29 days old to < 2 years old)\n\n| Children (2 years old to < 12 years old)\nC] Adolescents (12 years old to < 22 years old)\n[X] Adults (22 years old and greater)",
+      "character_count": 1413
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 1 / 19 \n\n\n510(k) Summary 1. Submitter Information Name Honeynaps 529, Nonhyeon-ro, Gangnam-gu, Seoul, Republic Submitter Address of Korea 06126 Contact Person Primary Contact Person \nTel +82-2-567-0134 Name Young Jun Lee Title CEO (Chief Executive Officer) Email Tony.lee@honeynaps.com Name Joo Hoon Song Title Team Leader / Quality Innovation Team Email James.song@honeynaps.com \n2. Subject Device Information Trade Name SOMNUM Common Name Sleep Analysis System Regulation Number 21 CFR 882.1400 Regulation Name Electroencephalograph Regulation Class II Classification Product Code OLZ Device Classification Name Automatic Event Detection Software for Polysomnography with Electroencephalography Review Panel Neurology 3. Predicated Device and Reference Device Information 3.1 Predicated Device 510(k) Number K223922 Applicant Honeynaps Co., Ltd Device Name SOMNUM (V.1.1.2.)",
+      "character_count": 941
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 2 / 19 \n\n\n\nRegulation Number 21 CFR 882.1400 Regulation Name Electroencephalograph Regulation Class II Classification Product Code OLZ Device Classification Name Automatic Event Detection Software for Polysomnography with Electroencephalography 3.2 Reference Device 1 510(k) Number K210034 Applicant EnsoData, Inc Device Name EnsoSleep Regulation Number 21 CFR 882.1400 Regulation Name Electroencephalograph Regulation Class II Classification Product Code OLZ Device Classification Name Automatic Event Detection Software for Polysomnography with Electroencephalography 3.3 Reference Device 2 510(k) Number K112102 Applicant YOUNES SLEEP TECHNOLOGIES Device Name MICHELE SLEEP SCORING SYSTEM Regulation Number 21 CFR 868.2375 Regulation Name Beathing frequency monitor Regulation Class II Classification Product Code MNR Device Classification Name ventilatory effort recorder",
+      "character_count": 940
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 3 / 19 \n\n\n4. Device Description SOMNUM is an AI-enabled stand-alone software application that analyzes previously recorded physiological data obtained during level 1 sleep studies from adults (polysomnography, PSG records). SOMNUM automatically detects events and displays scoring results using artificial intelligence (AI)–based algorithms across all functional modules. Physicians can review, edit, or delete auto-scored events and generate a sleep summary report, which includes tables and graphs used for clinical assessment of sleep disorders. Automated AI algorithms are applied to raw signals to identify specific events. In particular, the Sleep Stage Classification module, the Arousal Detection module, the Respiratory Event Detection module, and the Leg Movement Detection module are all powered by AI/ML algorithms. The software automates recognition of the following events: • Sleep Stage Classification (AI/ML-based): Wake, N1, N2, N3, REM • Arousal Event (AI/ML-based): Arousal • Respiratory Events (AI/ML-based): Apnea, Hypopnea • Apnea subclassification (Rule-based): Obstructive, Central, Mixed • Leg Movement Event (AI/ML-based): Periodic Leg Movements during Sleep (PLMs) 5. Indications for Use SOMNUM is an AI-enabled software program intended for use as an aid in the diagnosis of sleep and respiratory-related sleep disorders. SOMNUM is intended to be used for analysis — including automatic scoring using AI/ML algorithms for sleep stage classification, arousal detection, respiratory event detection, and leg movement event detection, as well as manual scoring/re-scoring, display, redisplay (retrieve), summarization, and report generation of digital data collected by monitoring devices typically used to evaluate sleep and respiratory-related sleep disorders. The device is to be used under the supervision of a physician. Use is restricted to data obtained from adult patients.",
+      "character_count": 1971
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 4 / 19 \n\n\n6. Comparison of Technological Characteristics to the Predicated Device Result Subject Device Predicated Device Reference Device 1 Reference Device 2 General Information Trade Name - SOMNUM SOMNUM EnsoSleep MICHELE SLEEP SCORING SYSTEM 510(k) Number - K253390 K223922 K210034 K112102 510(k) Submitter - Honeynaps Honeynaps EnsoData, Inc YOUNES SLEEP TECHNOLOGIES Classification Product Code - OLZ OLZ OLZ MNR Indication for Use \nSame \nSOMNUM is an AI-enabled software program intended for use as an aid in the diagnosis of sleep and respiratory-related sleep disorders. SOMNUM is intended to be used for analysis — including automatic scoring using AI/ML \nSOMNUM is a computer program (software) intended for use as an aid for the diagnosis of sleep and respiratory related sleep disorders. SOMNUM is intended to be used for analysis (automatic scoring and manual re-scoring), display, \nEnsoSleep is intended for use in the diagnostic evaluation by a physician to assess sleep quality and as an aid for physicians in the diagnosis of sleep disorders and respiratory related sleep disorders in pediatric and adult patients as follows: \nThe MICHELE Sleep Scoring System is a computer program (software) intended for use as an aid for the diagnosis of sleep and respiratory related sleep disorders. The MICHELE Sleep Scoring System is intended to be used for analysis",
+      "character_count": 1439
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 5 / 19 \n\n\nalgorithms for sleep stage classification, arousal detection, respiratory event detection, and leg movement event detection, as well as manual scoring/re-scoring, display, redisplay (retrieve), summarization, and report generation of digital data collected by monitoring devices typically used to evaluate sleep and respiratory-related sleep disorders. The device is to be used under the supervision of a \nredisplay(retrieve), summarize, reports generation of digital data collected by monitoring devices typically used to evaluate sleep and respiratory related sleep disorders. The device is to be used under the supervision of a physician Use is restricted to files obtained from adults’ patients. \n• Pediatric patients ages 13 years and older with polysomnography (PSG) tests obtained in a Hospital or Sleep Clinic • Adult patients with PSGs obtained in a Hospital or Sleep Clinic •Adult patients with Home Sleep Tests EnsoSleep is a softwareonly medical device to be used under the supervision of a clinician to analyze physiological signals and automatically score sleep study results, including the staging of sleep, detection of arousals, leg movements, and sleep disordered breathing events including \n(automatic scoring and manual re-scoring), display, redisplay(retrieve), summarize, reports generation and networking of digital data collected by monitoring devices typically used to evaluate sleep and respiratory related sleep disorders. The device is to be used under the supervision of a physician. Use is restricted to files obtained from adult patients.",
+      "character_count": 1644
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 6 / 19 \n\n\nphysician. Use is restricted to files obtained from adult patients. obstructive apneas (OSA), central sleep apneas (CSA), and hypopneas. Central sleep apneas (CSA) should be manually reviewed and modified as appropriate by a clinician. All events can be manually marked or edited within records during review. Photoplethysmography (PPG) total sleep time is not intended for use when electroencephalograph (EEG) data is recorded. PPG total sleep time is not intended to be used as the sole or primary basis for diagnosing any sleep related breathing",
+      "character_count": 623
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 7 / 19 \n\n\ndisorder, prescribing treatment, or determining whether additional diagnostic assessment is warranted. \n\nIntended Use Same Analyze physiological data previously recorded during sleep and present a report. Analyze physiological data previously recorded during sleep and present a report. Analyze pre-recorded physiological data acquired during sleep. Analyze physiological data previously recorded during sleep and present a report. Environment of Use Same as Predicated Device Healthcare Facility Healthcare Facility Physician office (data analysis and reporting). No limitation on where data are acquired. Healthcare Facility Input & Output Data (Result) Data format (Input) Same as Predicated Device EDF (European Data Format) EDF (European Data Format) EDF (European Data Format) EDF (European Data Format) Input Channel Same (AASM Guidance) EEG(F3, F4, M1, M2, C3, C4, O1, O2) EOG(E1, E2, M1, M2) Chin EMG ECG \nEEG(F3, F4, M1, M2, C3, C4, O1, O2) EOG(E1, E2, M1, M2) Chin EMG ECG \nEEG, ECG, EOG, EMG waveforms; SpO2; Respiratory effort; Airflow; \nEEG EOG Chin EMG ECG Chest and abdomen",
+      "character_count": 1164
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 8 / 19 \n\n\nChest and abdomen movements measured by respiratory band Oxygen Saturation Respiratory Airflow Thermistor Leg EMG(Left/Right) \nChest and abdomen movements measured by respiratory band Oxygen Saturation Respiratory Airflow Thermistor Leg EMG(Left/Right) \nHeart / pulse rate; Snoring loudness; Head movement and position. movements measured by respiratory band Oxygen Saturation Respiratory Airflow Thermistor Audio Body Position Airway CO2 Leg EMG(Left/Right) Output Result Same as Predicated Device Sleep Stage Arousal Apnea (Obstructive, Central, Mixed) / Hypopnea PLMs \nSleep Stage Arousal SBD (Sleep Breathing Disorder) PLMs \nSleep Stage Arousal Apnea (Obstructive, Central) / Hypopnea PLMs \nSleep Stage Arousal Apnea (Obstructive, Central, Mixed) / Hypopnea PLMs Auto Scoring Algorithm Sleep Stage Same Five-stage Sleep Stage Scoring (Wake, Sleep Stage N1, N2, N3, REM) Five-stage Sleep Stage Scoring (Wake, Sleep Stage N1, N2, N3, REM) Five-stage Sleep Stage Scoring (Wake, Sleep Stage N1, N2, N3, REM) Five-stage Sleep Stage Scoring (Wake, Sleep Stage N1, N2, N3, REM) Arousal Same as Predicated Detects arousal event Detects arousal event Detects arousal event Respiratory-effort related Detects arousal event",
+      "character_count": 1291
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 9 / 19 \n\n\ndevice arousal (RERA) Limb movement arousal Spontaneous cortical arousal \nApnea Same as Predicated device Yes Yes Yes Yes Obstructive Apnea Same as Reference device Yes Detects OSA event No. OSA must be manually scored Yes Detects OSA event Yes Detects OSA event Central Apnea Same as Reference device Yes Detects CSA event No. CSA must be manually scored Yes Detects CSA event Yes Detects CSA event Mixed Apnea Same as Predicated device Yes Detects MSA event No. MSA must be manually scored No. MSA must be manually scored Yes Detects MSA event Hypopnea Same Yes Yes Yes Yes LM Same Yes Yes Yes Yes PLMs Same Yes Yes Yes Yes Manual Scoring (Edit) Event Edit (Add, Edit, Same as Predicated Yes Available Manual Yes Available Manual Re- No No",
+      "character_count": 816
+    },
+    {
+      "page": 14,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \n20 \n\n\nDelete) device Scoring Scoring Report AASM Polysomnography Report Same Yes Yes Yes Yes Customized Report Same Yes Yes Yes No Others Network Same as Predicated device No PC Stand-Alone No PC Stand-Alone Yes Yes Confidential – Honeynaps Co., Ltd. Page 10 /",
+      "character_count": 285
+    },
+    {
+      "page": 15,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 11 / 19 \n\n\n7. Performance Data 7.1 Software Verification & Validation The subject device software underwent verification and validation testing at the unit, integration, and system levels in accordance with FDA guidance and IEC 62304 processes. Testing was conducted on the final release version, and all test protocols were successfully executed with acceptable pass results. A regression analysis and regression testing were performed to ensure that modifications did not introduce unintended effects. Any anomalies identified during testing were resolved or determined, through risk assessment, not to impact safety or effectiveness. Collectively, the results demonstrate that the software performs as intended and supports substantial equivalence to the predicate device. 7.2 Clinical Study Summary of – U.S. STAGES Study Study Design An independent retrospective cross-sectional validation study was conducted to evaluate the clinical performance of SOMNUM (V.3.0.0) using 100 full-night PSG recordings selected from the National Sleep Research Resource (NSRR) STAGES dataset. PSG recordings were collected from four U.S. sleep centers: Bogan Sleep Consulting, Geisinger Health, MedSleep, and St. Luke's Hospital. Reference Standard Generation The reference standard was independently generated by three RPSGT-certified PSG technologists in accordance with AASM Scoring Manual criteria, without access to SOMNUM automatic scoring output. A 2/3 majority consensus approach was used to establish the final reference label for each epoch. Of 92,383 total epochs, 1,938 epochs (2.10%) were identified as non-consensus epochs and were independently adjudicated by a board-certified sleep physician serving as the final adjudicator. Reported performance metrics are based on consensus-scorable epochs and may not fully reflect device performance in the most clinically ambiguous cases. Non-consensus epochs occurred most frequently during N1 sleep stage classification (56.3% of non-consensus epochs), and device performance estimates may therefore be more optimistic in clinically ambiguous sleep stage classification cases than in routine clinical practice. Patient Characteristics The validation cohort included 100 adult subjects (50 male, 50 female). The mean age was 46.9 ± 14.17 years for male subjects and 49.1 ± 13.16 years for female subjects. Performance Summary 1) Test Data Utilized",
+      "character_count": 2459
+    },
+    {
+      "page": 16,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 12 / 19 \n\n\nAll Sex Age BMI Male: 50 46.9(±14.17) 31.52(±7.56) Female: 50 49.1 (±13.16) 33.83(±8.27) A total of 100 patient datasets were included, consisting of 50 males (mean age 46.9 years old) and 50 females (mean age 49.1 years old). Race, Sex and BMI covered a wide range representing the characteristics typically observed in clinical practice. Dataset included BMI values ranging from normal weight to overweight/obese, demonstrating that the algorithm’s performance is not limited to a specific population subgroup. This dataset incorporated multi-center and multi-ethnic populations, supporting the generalizability of the software performance evaluation. 7.3 Test Result Summary 1) Data for End Point 1.",
+      "character_count": 778
+    },
+    {
+      "page": 17,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 13 / 19 \n\n\n- Sleep Stage Table 1 Performance Comparison of Sleep Stage SOMNUM Reference W N1 N2 N3 R W N1 N2 N3 R 93.6 W % [93.3– 4.1% [3.8– 1.5% [1.3– 0.3% [0.2– 0.6% [0.5– 82. 2 35. 9 4.0 0.5 5.8 93.9] 4.3] 1.6] 0.4] 0.7] N 1 81.4% 4.3% [3.9– [80.6 – 12.4 % [11.7– 0.4% [0.3– 1.5% [1.2– 9.6 26. 1 4.7 0.4 8.7 4.7] 82.2] 13.1] 0.6] 1.7] N 2 0.8% [0.8– 0.9] 1.2% [1.1– 1.3] 93.7% [93.5– 94.0] 1.8% [1.7– 2.0] 2.4% [2.3– 2.6] 3.8 33. 2 85. 0 16. 0 12. 3 87.9% N 3 1.9% [1.6– 0.7% [0.5– 6.7% [6.2– [87.1 – 2.8% [2.5– 0.2 0.2 5.4 82. 3 0.0 2.3] 0.9] 7.3] 88.6] 3.2] 89.8 R 4.3% [4.0– 0.7% [0.6– 4.2% [3.9– 0.9% [0.7– % [89.3– 4.2 4.7 0.8 0.8 73. 2 4.7] 0.9] 4.6] 1.1] 90.3] - Arousal Table 2. Performance Comparison of Arousal SOMNUM Reference [16] PPA NPA OPA PPA NPA OPA 83.8% 99.4% 98.74 [82.62– [99.35– [98.67- 76.82 82.48 - 84.97] 99.45] 98.82]",
+      "character_count": 911
+    },
+    {
+      "page": 18,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 14 / 19 \n\n\n- Respiratory Event Table 3. Performance Comparison of Respiratory Event Respiratory Events SOMNUM Reference [17] OPA PPA NPA OPA PPA NPA Hypopnea 98.58% [98.50– 98.65] 81.71% [80.55– 82.90] 99.29% [99.23– 99.34] 95.5% [95.4- 95.6] 66.3% [64.9- 67.6] 97.1% [97.0- 97.2] Obstructive Apnea 97.42% [97.31– 97.51] 86.26% [85.58– 86.99] 98.66% [98.58– 98.73] 98.8% [98.7- 98.8] 74.1% [72.1- 76.1] 99.3% [99.2- 99.3] Central Apnea 99.83% [99.80– 99.86] 82.19% [78.85– 85.29] 99.93% [99.91– 99.95] 98.9% [98.8- 99.0] 65.3% [63.1- 67.6] 99.5% [99.5- 99.0] Mixed Apnea 99.94% [99.93– 99.96] 75.67% [67.31–83.72] 99.97% [99.96– 99.98] - 76.3% 96.6% - PLMs Table 4. Performance Comparison of PLMS SOMNUM Reference [A10] OPA PPA NPA OPA PPA NPA 97.63% [97.53 – 97.73] 87.18% [86.44–87.93]] 98.61% [98.53–98.69] 91.7% [91.5 - 91.8] 82.0% [81.0 - 83.0] 92.4% [92.2- 92.6] - Conclusion For Sleep Stage, Arousal, Respiratory Events and PLMS, SOMNUM exceeded all performance targets. “Compared with the clinical target of PPA, sleep staging showed an average improvement of 9.75% in concordance except for N1, while arousal and PLMS demonstrated performance improvements of 7%, and 5%, respectively. For respiratory event classification, SOMNUM demonstrated performance that was approximately 12–17% superior to the reference across all event categories except mixed sleep apnea (MSA). For MSA classification, SOMNUM performance was within the confidence interval range",
+      "character_count": 1528
+    },
+    {
+      "page": 19,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 15 / 19 \n\n\nof the reference results, indicating comparable performance to the reference scoring. - - In conclusion, SOMNUM passed all pass/fail criteria for Endpoint 1. - - The number of epochs to calculate PPA/NPA for Endpoint1 2) Data for End Point 2. Table 5. Performance Comparison of Relevant Scoring Variables Between SOMNUM and Performance Target for Endpoint 2. Variable Type Of Limit SOMNUM abs. MAX Target abs. MAX Unit TST U 18 18 60 120 [min] L -6 -120 SE U 2.5 2.5 10 13 % L -1.5 -13 SOL U 8 8 40 40 [min] L -8 -5 ROL U 6 6 170 170 [min] L -5 -130 Wake U 6 18 60 60 [min] L -18 -45 N1 U 10 10 80 80 [min] L -7 -60 N2 U 10 10 70 120 [min] L -8 -120 N1_N2 U 15 15 70 70 [min] L -8 -60 N3 U 4.5 5 140 140 [min] L -5 -10 REM U 8 8 50 80 [min] L -6 -80 Arousal Index U 1.5 3 events/hour L -3",
+      "character_count": 864
+    },
+    {
+      "page": 20,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 16 / 19 \n\n\n- Conclusion Bland-Altman and Deming regression analysis were performed to evaluate the relationship between SOMNUM-derived parameters and reference PSG measurements. The Bland-Altman analysis demonstrated generally consistent proportional relationships across the evaluated sleep and respiratory parameters without substantial systematic deviation. The Deming regression results demonstrated that all 13 evaluated variables satisfied the predefined linearity criteria. 3) Data for End Point 3. Table 6. Likelihood ratio for AHI. Sleep Apnea Diagnostic Agreement Clinical Performance Comparisons Per-Patient SOMNUM vs 2/3 Majority Sleep Apnea Diagnostic Agreement Per-Patient K162627 vs 2/3 Majority Sleep Apnea Diagnostic Agreement Sleep REM Sleep REM AHI >= 5 AHI >= 15 AHI >= 5 AHI >= 15 AHI >= 5 AHI >= 15 AHI >= 5 AHI >= 15 Sample Size (N) 100 100 100 100 72 72 72 72 100. 98.2 100. 95.4 91% 95% 83% 79% (56% - 94%) 0% 8% 0% 5% (82 (83 (72 Sensitivity (100 (94. (100 (89. %- %- %- .0- 44- .0- 39- 98% 100 94% 100. 100. 100. 100. ) %) ) \nPLMS Index U 4 15 7 43 events/hour L -15 -43 AHI Index U 4 4 7 20 events/hour L -3 -20",
+      "character_count": 1204
+    },
+    {
+      "page": 21,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 17 / 19 \n\n\n0) 0) 0) 0) Specificity 95.2 4% (83. 33- 100. 0) \n97.6 2% (92. 10- 100. 0) \n88.8 9% (71. 43- 100. 0) \n97.0 6% (90. 32- 100. 0) \n76% (61 %-90% ) 98% (94 %-100 %) 89% (79 %-97% ) 96% (90% - 100 %) Accuracy 99.0 0% (97. 00- 100. 0) \n98.0 0% (95. 00- 100. 0) \n98.0 0% (95. 00- 100. 0) \n96.0 0% (92. 00- 99.0 0) \n85% (77 %-92% ) 97% (93 %-100 %) 86% (79 %-93% ) \n92% (85% - 97%) Likelihood ratio (+) 21.0 0 41.2 8 9.00 32.4 5 3.76 52.2 5 7.71 22.00 Likelihood ratio (-) 0.00 0.02 0.00 0.05 0.12 0.05 0.19 0.22 * point estimates were calculated directly from the subject-level confusion matrix and 95% confidence intervals were estimated using subject-level bootstrap resampling with 1,000 iterations and the empirical percentile method. - Conclusion SOMNUM demonstrated high sensitivity and specificity across all evaluation conditions. In addition, LR+ values greater than 10 and LR− values below 0.1 were observed under most analysis conditions, suggesting that the device may provide clinically reliable diagnostic information for sleep apnea assessment. Notably, high sensitivity and low LR− values were maintained in REM sleep analyses, indicating relatively stable sleep apnea assessment performance under REM sleep conditions. Comparative analysis demonstrated that SOMNUM showed diagnostic performance generally comparable to or better than the predicate device (K162627) across multiple evaluation conditions. In particular, lower LR− values and consistently high sensitivity were observed under several analysis conditions, supporting reliable detection performance with a reduced likelihood of false-negative classification. Overall, these findings support that SOMNUM provides clinically reliable sleep apnea assessment performance across both Sleep and REM evaluation conditions.",
+      "character_count": 1863
+    },
+    {
+      "page": 22,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 18 / 19 \n\n\n7.4 Clinical Study Summary of Korean 48 case study Korean 48 case study Study Design A retrospective cross-sectional clinical performance study was conducted to evaluate the performance of SOMNUM using 48 full-night polysomnography (PSG) recordings collected from three sleep laboratories. The validation dataset consisted of 48 PSG recordings selected from a total of 400 PSG studies. Device performance was evaluated by comparing SOMNUM automatic scoring results with an independently generated reference standard established using a 2/3 majority consensus of three qualified PSG technologists. Clinical performance was assessed using predefined statistical methods across three endpoints, including epoch-level agreement, subject-level agreement for sleep variables, and patient-level diagnostic performance for sleep apnea.\\ Patient Characteristics The study population consisted of 48 adult subjects, including 32 males and 16 females. The mean age was 44.2 ± 12.1 years (range: 21–67 years) for male subjects and 46.8 ± 16.6 years (range: 22–71 years) for female subjects. The mean body mass index (BMI) was 27.5 ± 3.3 kg/m² (range: 18.8–35.6 kg/m²) for male subjects and 25.5 ± 4.1 kg/m² (range: 18.8–35.6 kg/m²) for female subjects. The validation dataset consisted of 48 PSG recordings Sample Size A total of 48 full-night polysomnography (PSG) recordings were included in the clinical performance study. The validation dataset was selected from a total of 400 PSG recordings collected from three sleep laboratories and consisted of 24 Korean and 24 U.S. PSG recordings. Institutional Source PSG recordings were collected from three sleep laboratories in the Republic of Korea: Soonchunhyang University Hospital (Bucheon), Ajou University Hospital (Suwon), and Chungnam National University Hospital (Daejeon). Performance Result SOMNUM met all predefined acceptance criteria across the three clinical performance endpoints. For epoch-level analysis (Endpoint 1), the device demonstrated high agreement with the reference standard for sleep stage classification, arousal detection, respiratory event detection, and periodic limb movement (PLMS) detection, exceeding the predefined",
+      "character_count": 2264
+    },
+    {
+      "page": 23,
+      "extraction_method": "native",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 19 / 19 \n\n\nperformance targets. For subject-level analysis (Endpoint 2), all evaluated sleep variables demonstrated clinically acceptable agreement with the reference standard based on Bland–Altman analysis and Deming regression. For patient-level analysis (Endpoint 3), SOMNUM demonstrated excellent diagnostic performance for sleep apnea based on the apnea-hypopnea index (AHI), with likelihood ratios meeting or exceeding the predefined acceptance criteria. Overall, SOMNUM met or exceeded the performance of the predicate device across all evaluated endpoints. 8. Conclusion Based on a comparison of the intended use and technological characteristics, performance test, the SOMNUM software is substantially equivalent to the identified predicate device. Minor differences in technological and performance characteristics did not raise new or different questions of safety and effectiveness. Bench testing and clinical performance testing demonstrated substantially equivalent performance to the predicate.",
+      "character_count": 1074
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K253390-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "June 27, 2026",
+      "extraction_method": "native",
+      "character_count": 13
+    },
+    {
+      "block_id": "K253390-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Honeynaps co,. Ltd. \nYoung Jun Lee \nChief Executive Officer \n4F, Marin B/D, 529, Nonhyeon-ro, Gangnam-gu \nSeoul, 06126 \nRepublic Of Korea",
+      "extraction_method": "native",
+      "character_count": 137
+    },
+    {
+      "block_id": "K253390-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K253390 \nTrade/Device Name: Somnum (somnum) \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: May 25, 2026 \nReceived: May 26, 2026",
+      "extraction_method": "native",
+      "character_count": 215
+    },
+    {
+      "block_id": "K253390-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "Dear Young Jun Lee:",
+      "text": "Dear Young Jun Lee:",
+      "extraction_method": "native",
+      "character_count": 19
+    },
+    {
+      "block_id": "K253390-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "We have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "native",
+      "character_count": 1351
+    },
+    {
+      "block_id": "K253390-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K253390-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "K253390 - Young Jun Lee Page",
+      "extraction_method": "native",
+      "character_count": 28
+    },
+    {
+      "block_id": "K253390-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "2",
+      "extraction_method": "native",
+      "character_count": 1
+    },
+    {
+      "block_id": "K253390-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "Additional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\" \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download).",
+      "extraction_method": "native",
+      "character_count": 377
+    },
+    {
+      "block_id": "K253390-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "Your device is also subject to, among other requirements, the Quality Management System Regulation \n(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), \nISO 13485 clause 8.3 (Nonconforming product), ISO 13485 clause 8.5.2 (Corrective action), and ISO 13485 \nclause 8.5.3 (Preventative action). Please note that regardless of whether a change requires premarket review, \nthe QMSR requires device manufacturers to review and approve changes to device design and production \n(ISO 13485 clause 7.3 and ISO 13485 clause 7.5) and document changes and approvals in the Medical \nDevice File (ISO 13485 clause 4.2.3).",
+      "extraction_method": "native",
+      "character_count": 661
+    },
+    {
+      "block_id": "K253390-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the Quality Management \nSystem Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR \nPart 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control \nprovisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 1112
+    },
+    {
+      "block_id": "K253390-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "All medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.",
+      "extraction_method": "native",
+      "character_count": 920
+    },
+    {
+      "block_id": "K253390-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems.",
+      "extraction_method": "native",
+      "character_count": 351
+    },
+    {
+      "block_id": "K253390-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "For comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See",
+      "extraction_method": "native",
+      "character_count": 487
+    },
+    {
+      "block_id": "K253390-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "K253390 - Young Jun Lee Page",
+      "extraction_method": "native",
+      "character_count": 28
+    },
+    {
+      "block_id": "K253390-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "3 \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "extraction_method": "native",
+      "character_count": 274
+    },
+    {
+      "block_id": "K253390-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "Sincerely,",
+      "extraction_method": "native",
+      "character_count": 10
+    },
+    {
+      "block_id": "K253390-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "for \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health",
+      "extraction_method": "native",
+      "character_count": 267
+    },
+    {
+      "block_id": "K253390-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "Enclosure",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K253390-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "Patrick Antkowiak -S",
+      "extraction_method": "native",
+      "character_count": 20
+    },
+    {
+      "block_id": "K253390-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Young Jun Lee:",
+      "text": "Please type in the marketing application/submission number, if it is known. This\ntextbox will be left blank for original applications/submissions.",
+      "extraction_method": "ocr",
+      "character_count": 146
+    },
+    {
+      "block_id": "K253390-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "K253390",
+      "text": "K253390",
+      "extraction_method": "ocr",
+      "character_count": 7
+    },
+    {
+      "block_id": "K253390-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "K253390",
+      "text": "Please provide the device trade name(s).",
+      "extraction_method": "ocr",
+      "character_count": 40
+    },
+    {
+      "block_id": "K253390-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "SOMNUM (SOMNUM)",
+      "text": "SOMNUM (SOMNUM)",
+      "extraction_method": "ocr",
+      "character_count": 15
+    },
+    {
+      "block_id": "K253390-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "| Please provide your Indications for Use below. [>|",
+      "extraction_method": "ocr",
+      "character_count": 52
+    },
+    {
+      "block_id": "K253390-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "SOMNUNM is an Al-enabled software program intended for use as an aid in the diagnosis of sleep and\nrespiratory-related sleep disorders. SOMNUM is intended to be used for analysis — including automatic\nscoring using Al/ML algorithms for sleep stage classification, arousal detection, respiratory event detection,\nand leg movement event detection, as well as manual scoring/re-scoring, display, redisplay (retrieve),\nsummarization, and report generation of digital data collected by monitoring devices typically used to\nevaluate sleep and respiratory-related sleep disorders.",
+      "extraction_method": "ocr",
+      "character_count": 573
+    },
+    {
+      "block_id": "K253390-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "The device is to be used under the supervision of a physician. Use is restricted to data obtained from adult\npatients.",
+      "extraction_method": "ocr",
+      "character_count": 118
+    },
+    {
+      "block_id": "K253390-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Please select the types of uses (select one or both, as Prescription Use (21 CFR 801 Subpart D) I?",
+      "extraction_method": "ocr",
+      "character_count": 98
+    },
+    {
+      "block_id": "K253390-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "applicable). [| Over-The-Counter Use (21 CFR 801 Subpart C)\nPlease select the age group(s) for which the device(s) is [_] Neonates/Newborns (Birth to < 29 days old)\nto be used. [| Infants (29 days old to < 2 years old)",
+      "extraction_method": "ocr",
+      "character_count": 218
+    },
+    {
+      "block_id": "K253390-P004-B010",
+      "page": 4,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "| Children (2 years old to < 12 years old)\nC] Adolescents (12 years old to < 22 years old)\n[X] Adults (22 years old and greater)",
+      "extraction_method": "ocr",
+      "character_count": 128
+    },
+    {
+      "block_id": "K253390-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 1 / 19",
+      "extraction_method": "native",
+      "character_count": 71
+    },
+    {
+      "block_id": "K253390-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "510(k) Summary 1. Submitter Information Name Honeynaps 529, Nonhyeon-ro, Gangnam-gu, Seoul, Republic Submitter Address of Korea 06126 Contact Person Primary Contact Person \nTel +82-2-567-0134 Name Young Jun Lee Title CEO (Chief Executive Officer) Email Tony.lee@honeynaps.com Name Joo Hoon Song Title Team Leader / Quality Innovation Team Email James.song@honeynaps.com \n2. Subject Device Information Trade Name SOMNUM Common Name Sleep Analysis System Regulation Number 21 CFR 882.1400 Regulation Name Electroencephalograph Regulation Class II Classification Product Code OLZ Device Classification Name Automatic Event Detection Software for Polysomnography with Electroencephalography Review Panel Neurology 3. Predicated Device and Reference Device Information 3.1 Predicated Device 510(k) Number K223922 Applicant Honeynaps Co., Ltd Device Name SOMNUM (V.1.1.2.)",
+      "extraction_method": "native",
+      "character_count": 866
+    },
+    {
+      "block_id": "K253390-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 2 / 19",
+      "extraction_method": "native",
+      "character_count": 71
+    },
+    {
+      "block_id": "K253390-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Regulation Number 21 CFR 882.1400 Regulation Name Electroencephalograph Regulation Class II Classification Product Code OLZ Device Classification Name Automatic Event Detection Software for Polysomnography with Electroencephalography 3.2 Reference Device 1 510(k) Number K210034 Applicant EnsoData, Inc Device Name EnsoSleep Regulation Number 21 CFR 882.1400 Regulation Name Electroencephalograph Regulation Class II Classification Product Code OLZ Device Classification Name Automatic Event Detection Software for Polysomnography with Electroencephalography 3.3 Reference Device 2 510(k) Number K112102 Applicant YOUNES SLEEP TECHNOLOGIES Device Name MICHELE SLEEP SCORING SYSTEM Regulation Number 21 CFR 868.2375 Regulation Name Beathing frequency monitor Regulation Class II Classification Product Code MNR Device Classification Name ventilatory effort recorder",
+      "extraction_method": "native",
+      "character_count": 864
+    },
+    {
+      "block_id": "K253390-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 3 / 19",
+      "extraction_method": "native",
+      "character_count": 71
+    },
+    {
+      "block_id": "K253390-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "list",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "4. Device Description SOMNUM is an AI-enabled stand-alone software application that analyzes previously recorded physiological data obtained during level 1 sleep studies from adults (polysomnography, PSG records). SOMNUM automatically detects events and displays scoring results using artificial intelligence (AI)–based algorithms across all functional modules. Physicians can review, edit, or delete auto-scored events and generate a sleep summary report, which includes tables and graphs used for clinical assessment of sleep disorders. Automated AI algorithms are applied to raw signals to identify specific events. In particular, the Sleep Stage Classification module, the Arousal Detection module, the Respiratory Event Detection module, and the Leg Movement Detection module are all powered by AI/ML algorithms. The software automates recognition of the following events: • Sleep Stage Classification (AI/ML-based): Wake, N1, N2, N3, REM • Arousal Event (AI/ML-based): Arousal • Respiratory Events (AI/ML-based): Apnea, Hypopnea • Apnea subclassification (Rule-based): Obstructive, Central, Mixed • Leg Movement Event (AI/ML-based): Periodic Leg Movements during Sleep (PLMs) 5. Indications for Use SOMNUM is an AI-enabled software program intended for use as an aid in the diagnosis of sleep and respiratory-related sleep disorders. SOMNUM is intended to be used for analysis — including automatic scoring using AI/ML algorithms for sleep stage classification, arousal detection, respiratory event detection, and leg movement event detection, as well as manual scoring/re-scoring, display, redisplay (retrieve), summarization, and report generation of digital data collected by monitoring devices typically used to evaluate sleep and respiratory-related sleep disorders. The device is to be used under the supervision of a physician. Use is restricted to data obtained from adult patients.",
+      "extraction_method": "native",
+      "character_count": 1896
+    },
+    {
+      "block_id": "K253390-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 4 / 19",
+      "extraction_method": "native",
+      "character_count": 71
+    },
+    {
+      "block_id": "K253390-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "6. Comparison of Technological Characteristics to the Predicated Device Result Subject Device Predicated Device Reference Device 1 Reference Device 2 General Information Trade Name - SOMNUM SOMNUM EnsoSleep MICHELE SLEEP SCORING SYSTEM 510(k) Number - K253390 K223922 K210034 K112102 510(k) Submitter - Honeynaps Honeynaps EnsoData, Inc YOUNES SLEEP TECHNOLOGIES Classification Product Code - OLZ OLZ OLZ MNR Indication for Use \nSame \nSOMNUM is an AI-enabled software program intended for use as an aid in the diagnosis of sleep and respiratory-related sleep disorders. SOMNUM is intended to be used for analysis — including automatic scoring using AI/ML \nSOMNUM is a computer program (software) intended for use as an aid for the diagnosis of sleep and respiratory related sleep disorders. SOMNUM is intended to be used for analysis (automatic scoring and manual re-scoring), display, \nEnsoSleep is intended for use in the diagnostic evaluation by a physician to assess sleep quality and as an aid for physicians in the diagnosis of sleep disorders and respiratory related sleep disorders in pediatric and adult patients as follows: \nThe MICHELE Sleep Scoring System is a computer program (software) intended for use as an aid for the diagnosis of sleep and respiratory related sleep disorders. The MICHELE Sleep Scoring System is intended to be used for analysis",
+      "extraction_method": "native",
+      "character_count": 1364
+    },
+    {
+      "block_id": "K253390-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 5 / 19",
+      "extraction_method": "native",
+      "character_count": 71
+    },
+    {
+      "block_id": "K253390-P009-B002",
+      "page": 9,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "algorithms for sleep stage classification, arousal detection, respiratory event detection, and leg movement event detection, as well as manual scoring/re-scoring, display, redisplay (retrieve), summarization, and report generation of digital data collected by monitoring devices typically used to evaluate sleep and respiratory-related sleep disorders. The device is to be used under the supervision of a \nredisplay(retrieve), summarize, reports generation of digital data collected by monitoring devices typically used to evaluate sleep and respiratory related sleep disorders. The device is to be used under the supervision of a physician Use is restricted to files obtained from adults’ patients. \n• Pediatric patients ages 13 years and older with polysomnography (PSG) tests obtained in a Hospital or Sleep Clinic • Adult patients with PSGs obtained in a Hospital or Sleep Clinic •Adult patients with Home Sleep Tests EnsoSleep is a softwareonly medical device to be used under the supervision of a clinician to analyze physiological signals and automatically score sleep study results, including the staging of sleep, detection of arousals, leg movements, and sleep disordered breathing events including \n(automatic scoring and manual re-scoring), display, redisplay(retrieve), summarize, reports generation and networking of digital data collected by monitoring devices typically used to evaluate sleep and respiratory related sleep disorders. The device is to be used under the supervision of a physician. Use is restricted to files obtained from adult patients.",
+      "extraction_method": "native",
+      "character_count": 1569
+    },
+    {
+      "block_id": "K253390-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 6 / 19",
+      "extraction_method": "native",
+      "character_count": 71
+    },
+    {
+      "block_id": "K253390-P010-B002",
+      "page": 10,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "physician. Use is restricted to files obtained from adult patients. obstructive apneas (OSA), central sleep apneas (CSA), and hypopneas. Central sleep apneas (CSA) should be manually reviewed and modified as appropriate by a clinician. All events can be manually marked or edited within records during review. Photoplethysmography (PPG) total sleep time is not intended for use when electroencephalograph (EEG) data is recorded. PPG total sleep time is not intended to be used as the sole or primary basis for diagnosing any sleep related breathing",
+      "extraction_method": "native",
+      "character_count": 548
+    },
+    {
+      "block_id": "K253390-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 7 / 19",
+      "extraction_method": "native",
+      "character_count": 71
+    },
+    {
+      "block_id": "K253390-P011-B002",
+      "page": 11,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "disorder, prescribing treatment, or determining whether additional diagnostic assessment is warranted.",
+      "extraction_method": "native",
+      "character_count": 102
+    },
+    {
+      "block_id": "K253390-P011-B003",
+      "page": 11,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Intended Use Same Analyze physiological data previously recorded during sleep and present a report. Analyze physiological data previously recorded during sleep and present a report. Analyze pre-recorded physiological data acquired during sleep. Analyze physiological data previously recorded during sleep and present a report. Environment of Use Same as Predicated Device Healthcare Facility Healthcare Facility Physician office (data analysis and reporting). No limitation on where data are acquired. Healthcare Facility Input & Output Data (Result) Data format (Input) Same as Predicated Device EDF (European Data Format) EDF (European Data Format) EDF (European Data Format) EDF (European Data Format) Input Channel Same (AASM Guidance) EEG(F3, F4, M1, M2, C3, C4, O1, O2) EOG(E1, E2, M1, M2) Chin EMG ECG \nEEG(F3, F4, M1, M2, C3, C4, O1, O2) EOG(E1, E2, M1, M2) Chin EMG ECG \nEEG, ECG, EOG, EMG waveforms; SpO2; Respiratory effort; Airflow; \nEEG EOG Chin EMG ECG Chest and abdomen",
+      "extraction_method": "native",
+      "character_count": 984
+    },
+    {
+      "block_id": "K253390-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 8 / 19",
+      "extraction_method": "native",
+      "character_count": 71
+    },
+    {
+      "block_id": "K253390-P012-B002",
+      "page": 12,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Chest and abdomen movements measured by respiratory band Oxygen Saturation Respiratory Airflow Thermistor Leg EMG(Left/Right) \nChest and abdomen movements measured by respiratory band Oxygen Saturation Respiratory Airflow Thermistor Leg EMG(Left/Right) \nHeart / pulse rate; Snoring loudness; Head movement and position. movements measured by respiratory band Oxygen Saturation Respiratory Airflow Thermistor Audio Body Position Airway CO2 Leg EMG(Left/Right) Output Result Same as Predicated Device Sleep Stage Arousal Apnea (Obstructive, Central, Mixed) / Hypopnea PLMs \nSleep Stage Arousal SBD (Sleep Breathing Disorder) PLMs \nSleep Stage Arousal Apnea (Obstructive, Central) / Hypopnea PLMs \nSleep Stage Arousal Apnea (Obstructive, Central, Mixed) / Hypopnea PLMs Auto Scoring Algorithm Sleep Stage Same Five-stage Sleep Stage Scoring (Wake, Sleep Stage N1, N2, N3, REM) Five-stage Sleep Stage Scoring (Wake, Sleep Stage N1, N2, N3, REM) Five-stage Sleep Stage Scoring (Wake, Sleep Stage N1, N2, N3, REM) Five-stage Sleep Stage Scoring (Wake, Sleep Stage N1, N2, N3, REM) Arousal Same as Predicated Detects arousal event Detects arousal event Detects arousal event Respiratory-effort related Detects arousal event",
+      "extraction_method": "native",
+      "character_count": 1216
+    },
+    {
+      "block_id": "K253390-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 9 / 19",
+      "extraction_method": "native",
+      "character_count": 71
+    },
+    {
+      "block_id": "K253390-P013-B002",
+      "page": 13,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "device arousal (RERA) Limb movement arousal Spontaneous cortical arousal \nApnea Same as Predicated device Yes Yes Yes Yes Obstructive Apnea Same as Reference device Yes Detects OSA event No. OSA must be manually scored Yes Detects OSA event Yes Detects OSA event Central Apnea Same as Reference device Yes Detects CSA event No. CSA must be manually scored Yes Detects CSA event Yes Detects CSA event Mixed Apnea Same as Predicated device Yes Detects MSA event No. MSA must be manually scored No. MSA must be manually scored Yes Detects MSA event Hypopnea Same Yes Yes Yes Yes LM Same Yes Yes Yes Yes PLMs Same Yes Yes Yes Yes Manual Scoring (Edit) Event Edit (Add, Edit, Same as Predicated Yes Available Manual Yes Available Manual Re- No No",
+      "extraction_method": "native",
+      "character_count": 741
+    },
+    {
+      "block_id": "K253390-P014-B001",
+      "page": 14,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \n20",
+      "extraction_method": "native",
+      "character_count": 27
+    },
+    {
+      "block_id": "K253390-P014-B002",
+      "page": 14,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Delete) device Scoring Scoring Report AASM Polysomnography Report Same Yes Yes Yes Yes Customized Report Same Yes Yes Yes No Others Network Same as Predicated device No PC Stand-Alone No PC Stand-Alone Yes Yes Confidential – Honeynaps Co., Ltd. Page 10 /",
+      "extraction_method": "native",
+      "character_count": 254
+    },
+    {
+      "block_id": "K253390-P015-B001",
+      "page": 15,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 11 / 19",
+      "extraction_method": "native",
+      "character_count": 72
+    },
+    {
+      "block_id": "K253390-P015-B002",
+      "page": 15,
+      "ordinal": 2,
+      "type": "list",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "7. Performance Data 7.1 Software Verification & Validation The subject device software underwent verification and validation testing at the unit, integration, and system levels in accordance with FDA guidance and IEC 62304 processes. Testing was conducted on the final release version, and all test protocols were successfully executed with acceptable pass results. A regression analysis and regression testing were performed to ensure that modifications did not introduce unintended effects. Any anomalies identified during testing were resolved or determined, through risk assessment, not to impact safety or effectiveness. Collectively, the results demonstrate that the software performs as intended and supports substantial equivalence to the predicate device. 7.2 Clinical Study Summary of – U.S. STAGES Study Study Design An independent retrospective cross-sectional validation study was conducted to evaluate the clinical performance of SOMNUM (V.3.0.0) using 100 full-night PSG recordings selected from the National Sleep Research Resource (NSRR) STAGES dataset. PSG recordings were collected from four U.S. sleep centers: Bogan Sleep Consulting, Geisinger Health, MedSleep, and St. Luke's Hospital. Reference Standard Generation The reference standard was independently generated by three RPSGT-certified PSG technologists in accordance with AASM Scoring Manual criteria, without access to SOMNUM automatic scoring output. A 2/3 majority consensus approach was used to establish the final reference label for each epoch. Of 92,383 total epochs, 1,938 epochs (2.10%) were identified as non-consensus epochs and were independently adjudicated by a board-certified sleep physician serving as the final adjudicator. Reported performance metrics are based on consensus-scorable epochs and may not fully reflect device performance in the most clinically ambiguous cases. Non-consensus epochs occurred most frequently during N1 sleep stage classification (56.3% of non-consensus epochs), and device performance estimates may therefore be more optimistic in clinically ambiguous sleep stage classification cases than in routine clinical practice. Patient Characteristics The validation cohort included 100 adult subjects (50 male, 50 female). The mean age was 46.9 ± 14.17 years for male subjects and 49.1 ± 13.16 years for female subjects. Performance Summary 1) Test Data Utilized",
+      "extraction_method": "native",
+      "character_count": 2383
+    },
+    {
+      "block_id": "K253390-P016-B001",
+      "page": 16,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 12 / 19",
+      "extraction_method": "native",
+      "character_count": 72
+    },
+    {
+      "block_id": "K253390-P016-B002",
+      "page": 16,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "All Sex Age BMI Male: 50 46.9(±14.17) 31.52(±7.56) Female: 50 49.1 (±13.16) 33.83(±8.27) A total of 100 patient datasets were included, consisting of 50 males (mean age 46.9 years old) and 50 females (mean age 49.1 years old). Race, Sex and BMI covered a wide range representing the characteristics typically observed in clinical practice. Dataset included BMI values ranging from normal weight to overweight/obese, demonstrating that the algorithm’s performance is not limited to a specific population subgroup. This dataset incorporated multi-center and multi-ethnic populations, supporting the generalizability of the software performance evaluation. 7.3 Test Result Summary 1) Data for End Point 1.",
+      "extraction_method": "native",
+      "character_count": 702
+    },
+    {
+      "block_id": "K253390-P017-B001",
+      "page": 17,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 13 / 19",
+      "extraction_method": "native",
+      "character_count": 72
+    },
+    {
+      "block_id": "K253390-P017-B002",
+      "page": 17,
+      "ordinal": 2,
+      "type": "list",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "- Sleep Stage Table 1 Performance Comparison of Sleep Stage SOMNUM Reference W N1 N2 N3 R W N1 N2 N3 R 93.6 W % [93.3– 4.1% [3.8– 1.5% [1.3– 0.3% [0.2– 0.6% [0.5– 82. 2 35. 9 4.0 0.5 5.8 93.9] 4.3] 1.6] 0.4] 0.7] N 1 81.4% 4.3% [3.9– [80.6 – 12.4 % [11.7– 0.4% [0.3– 1.5% [1.2– 9.6 26. 1 4.7 0.4 8.7 4.7] 82.2] 13.1] 0.6] 1.7] N 2 0.8% [0.8– 0.9] 1.2% [1.1– 1.3] 93.7% [93.5– 94.0] 1.8% [1.7– 2.0] 2.4% [2.3– 2.6] 3.8 33. 2 85. 0 16. 0 12. 3 87.9% N 3 1.9% [1.6– 0.7% [0.5– 6.7% [6.2– [87.1 – 2.8% [2.5– 0.2 0.2 5.4 82. 3 0.0 2.3] 0.9] 7.3] 88.6] 3.2] 89.8 R 4.3% [4.0– 0.7% [0.6– 4.2% [3.9– 0.9% [0.7– % [89.3– 4.2 4.7 0.8 0.8 73. 2 4.7] 0.9] 4.6] 1.1] 90.3] - Arousal Table 2. Performance Comparison of Arousal SOMNUM Reference [16] PPA NPA OPA PPA NPA OPA 83.8% 99.4% 98.74 [82.62– [99.35– [98.67- 76.82 82.48 - 84.97] 99.45] 98.82]",
+      "extraction_method": "native",
+      "character_count": 835
+    },
+    {
+      "block_id": "K253390-P018-B001",
+      "page": 18,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 14 / 19",
+      "extraction_method": "native",
+      "character_count": 72
+    },
+    {
+      "block_id": "K253390-P018-B002",
+      "page": 18,
+      "ordinal": 2,
+      "type": "list",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "- Respiratory Event Table 3. Performance Comparison of Respiratory Event Respiratory Events SOMNUM Reference [17] OPA PPA NPA OPA PPA NPA Hypopnea 98.58% [98.50– 98.65] 81.71% [80.55– 82.90] 99.29% [99.23– 99.34] 95.5% [95.4- 95.6] 66.3% [64.9- 67.6] 97.1% [97.0- 97.2] Obstructive Apnea 97.42% [97.31– 97.51] 86.26% [85.58– 86.99] 98.66% [98.58– 98.73] 98.8% [98.7- 98.8] 74.1% [72.1- 76.1] 99.3% [99.2- 99.3] Central Apnea 99.83% [99.80– 99.86] 82.19% [78.85– 85.29] 99.93% [99.91– 99.95] 98.9% [98.8- 99.0] 65.3% [63.1- 67.6] 99.5% [99.5- 99.0] Mixed Apnea 99.94% [99.93– 99.96] 75.67% [67.31–83.72] 99.97% [99.96– 99.98] - 76.3% 96.6% - PLMs Table 4. Performance Comparison of PLMS SOMNUM Reference [A10] OPA PPA NPA OPA PPA NPA 97.63% [97.53 – 97.73] 87.18% [86.44–87.93]] 98.61% [98.53–98.69] 91.7% [91.5 - 91.8] 82.0% [81.0 - 83.0] 92.4% [92.2- 92.6] - Conclusion For Sleep Stage, Arousal, Respiratory Events and PLMS, SOMNUM exceeded all performance targets. “Compared with the clinical target of PPA, sleep staging showed an average improvement of 9.75% in concordance except for N1, while arousal and PLMS demonstrated performance improvements of 7%, and 5%, respectively. For respiratory event classification, SOMNUM demonstrated performance that was approximately 12–17% superior to the reference across all event categories except mixed sleep apnea (MSA). For MSA classification, SOMNUM performance was within the confidence interval range",
+      "extraction_method": "native",
+      "character_count": 1452
+    },
+    {
+      "block_id": "K253390-P019-B001",
+      "page": 19,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 15 / 19",
+      "extraction_method": "native",
+      "character_count": 72
+    },
+    {
+      "block_id": "K253390-P019-B002",
+      "page": 19,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "of the reference results, indicating comparable performance to the reference scoring. - - In conclusion, SOMNUM passed all pass/fail criteria for Endpoint 1. - - The number of epochs to calculate PPA/NPA for Endpoint1 2) Data for End Point 2. Table 5. Performance Comparison of Relevant Scoring Variables Between SOMNUM and Performance Target for Endpoint 2. Variable Type Of Limit SOMNUM abs. MAX Target abs. MAX Unit TST U 18 18 60 120 [min] L -6 -120 SE U 2.5 2.5 10 13 % L -1.5 -13 SOL U 8 8 40 40 [min] L -8 -5 ROL U 6 6 170 170 [min] L -5 -130 Wake U 6 18 60 60 [min] L -18 -45 N1 U 10 10 80 80 [min] L -7 -60 N2 U 10 10 70 120 [min] L -8 -120 N1_N2 U 15 15 70 70 [min] L -8 -60 N3 U 4.5 5 140 140 [min] L -5 -10 REM U 8 8 50 80 [min] L -6 -80 Arousal Index U 1.5 3 events/hour L -3",
+      "extraction_method": "native",
+      "character_count": 788
+    },
+    {
+      "block_id": "K253390-P020-B001",
+      "page": 20,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 16 / 19",
+      "extraction_method": "native",
+      "character_count": 72
+    },
+    {
+      "block_id": "K253390-P020-B002",
+      "page": 20,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "- Conclusion Bland-Altman and Deming regression analysis were performed to evaluate the relationship between SOMNUM-derived parameters and reference PSG measurements. The Bland-Altman analysis demonstrated generally consistent proportional relationships across the evaluated sleep and respiratory parameters without substantial systematic deviation. The Deming regression results demonstrated that all 13 evaluated variables satisfied the predefined linearity criteria. 3) Data for End Point 3. Table 6. Likelihood ratio for AHI. Sleep Apnea Diagnostic Agreement Clinical Performance Comparisons Per-Patient SOMNUM vs 2/3 Majority Sleep Apnea Diagnostic Agreement Per-Patient K162627 vs 2/3 Majority Sleep Apnea Diagnostic Agreement Sleep REM Sleep REM AHI >= 5 AHI >= 15 AHI >= 5 AHI >= 15 AHI >= 5 AHI >= 15 AHI >= 5 AHI >= 15 Sample Size (N) 100 100 100 100 72 72 72 72 100. 98.2 100. 95.4 91% 95% 83% 79% (56% - 94%) 0% 8% 0% 5% (82 (83 (72 Sensitivity (100 (94. (100 (89. %- %- %- .0- 44- .0- 39- 98% 100 94% 100. 100. 100. 100. ) %) ) \nPLMS Index U 4 15 7 43 events/hour L -15 -43 AHI Index U 4 4 7 20 events/hour L -3 -20",
+      "extraction_method": "native",
+      "character_count": 1128
+    },
+    {
+      "block_id": "K253390-P021-B001",
+      "page": 21,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 17 / 19",
+      "extraction_method": "native",
+      "character_count": 72
+    },
+    {
+      "block_id": "K253390-P021-B002",
+      "page": 21,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "0) 0) 0) 0) Specificity 95.2 4% (83. 33- 100. 0) \n97.6 2% (92. 10- 100. 0) \n88.8 9% (71. 43- 100. 0) \n97.0 6% (90. 32- 100. 0) \n76% (61 %-90% ) 98% (94 %-100 %) 89% (79 %-97% ) 96% (90% - 100 %) Accuracy 99.0 0% (97. 00- 100. 0) \n98.0 0% (95. 00- 100. 0) \n98.0 0% (95. 00- 100. 0) \n96.0 0% (92. 00- 99.0 0) \n85% (77 %-92% ) 97% (93 %-100 %) 86% (79 %-93% ) \n92% (85% - 97%) Likelihood ratio (+) 21.0 0 41.2 8 9.00 32.4 5 3.76 52.2 5 7.71 22.00 Likelihood ratio (-) 0.00 0.02 0.00 0.05 0.12 0.05 0.19 0.22 * point estimates were calculated directly from the subject-level confusion matrix and 95% confidence intervals were estimated using subject-level bootstrap resampling with 1,000 iterations and the empirical percentile method. - Conclusion SOMNUM demonstrated high sensitivity and specificity across all evaluation conditions. In addition, LR+ values greater than 10 and LR− values below 0.1 were observed under most analysis conditions, suggesting that the device may provide clinically reliable diagnostic information for sleep apnea assessment. Notably, high sensitivity and low LR− values were maintained in REM sleep analyses, indicating relatively stable sleep apnea assessment performance under REM sleep conditions. Comparative analysis demonstrated that SOMNUM showed diagnostic performance generally comparable to or better than the predicate device (K162627) across multiple evaluation conditions. In particular, lower LR− values and consistently high sensitivity were observed under several analysis conditions, supporting reliable detection performance with a reduced likelihood of false-negative classification. Overall, these findings support that SOMNUM provides clinically reliable sleep apnea assessment performance across both Sleep and REM evaluation conditions.",
+      "extraction_method": "native",
+      "character_count": 1787
+    },
+    {
+      "block_id": "K253390-P022-B001",
+      "page": 22,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 18 / 19",
+      "extraction_method": "native",
+      "character_count": 72
+    },
+    {
+      "block_id": "K253390-P022-B002",
+      "page": 22,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "7.4 Clinical Study Summary of Korean 48 case study Korean 48 case study Study Design A retrospective cross-sectional clinical performance study was conducted to evaluate the performance of SOMNUM using 48 full-night polysomnography (PSG) recordings collected from three sleep laboratories. The validation dataset consisted of 48 PSG recordings selected from a total of 400 PSG studies. Device performance was evaluated by comparing SOMNUM automatic scoring results with an independently generated reference standard established using a 2/3 majority consensus of three qualified PSG technologists. Clinical performance was assessed using predefined statistical methods across three endpoints, including epoch-level agreement, subject-level agreement for sleep variables, and patient-level diagnostic performance for sleep apnea.\\ Patient Characteristics The study population consisted of 48 adult subjects, including 32 males and 16 females. The mean age was 44.2 ± 12.1 years (range: 21–67 years) for male subjects and 46.8 ± 16.6 years (range: 22–71 years) for female subjects. The mean body mass index (BMI) was 27.5 ± 3.3 kg/m² (range: 18.8–35.6 kg/m²) for male subjects and 25.5 ± 4.1 kg/m² (range: 18.8–35.6 kg/m²) for female subjects. The validation dataset consisted of 48 PSG recordings Sample Size A total of 48 full-night polysomnography (PSG) recordings were included in the clinical performance study. The validation dataset was selected from a total of 400 PSG recordings collected from three sleep laboratories and consisted of 24 Korean and 24 U.S. PSG recordings. Institutional Source PSG recordings were collected from three sleep laboratories in the Republic of Korea: Soonchunhyang University Hospital (Bucheon), Ajou University Hospital (Suwon), and Chungnam National University Hospital (Daejeon). Performance Result SOMNUM met all predefined acceptance criteria across the three clinical performance endpoints. For epoch-level analysis (Endpoint 1), the device demonstrated high agreement with the reference standard for sleep stage classification, arousal detection, respiratory event detection, and periodic limb movement (PLMS) detection, exceeding the predefined",
+      "extraction_method": "native",
+      "character_count": 2188
+    },
+    {
+      "block_id": "K253390-P023-B001",
+      "page": 23,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "Doc. No. 510(k) Summary \nConfidential – Honeynaps Co., Ltd. Page 19 / 19",
+      "extraction_method": "native",
+      "character_count": 72
+    },
+    {
+      "block_id": "K253390-P023-B002",
+      "page": 23,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "| Please provide your Indications for Use below. [>|",
+      "text": "performance targets. For subject-level analysis (Endpoint 2), all evaluated sleep variables demonstrated clinically acceptable agreement with the reference standard based on Bland–Altman analysis and Deming regression. For patient-level analysis (Endpoint 3), SOMNUM demonstrated excellent diagnostic performance for sleep apnea based on the apnea-hypopnea index (AHI), with likelihood ratios meeting or exceeding the predefined acceptance criteria. Overall, SOMNUM met or exceeded the performance of the predicate device across all evaluated endpoints. 8. Conclusion Based on a comparison of the intended use and technological characteristics, performance test, the SOMNUM software is substantially equivalent to the identified predicate device. Minor differences in technological and performance characteristics did not raise new or different questions of safety and effectiveness. Bench testing and clinical performance testing demonstrated substantially equivalent performance to the predicate.",
+      "extraction_method": "native",
+      "character_count": 998
+    }
+  ],
+  "claims": []
+}

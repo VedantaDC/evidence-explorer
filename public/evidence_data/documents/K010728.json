@@ -1,0 +1,29 @@
+{
+  "document": {
+    "k_number": "K010728",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "HARMONE-SCHWARZER EEG SYSTEM",
+    "applicant": "Stellate Systems",
+    "decision_date": "2001-05-21",
+    "document_type": "Statement",
+    "source_status": "unavailable",
+    "download_status": "public_pdf_unavailable",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf1/K010728.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K010728",
+    "sha256": "",
+    "page_count": 0,
+    "native_pages": 0,
+    "ocr_pages": 0,
+    "family_id": "PSG-006",
+    "family_name": "Harmonie-Schwarzer EEG System",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "source unavailable"
+  },
+  "pages": [],
+  "blocks": [],
+  "claims": []
+}

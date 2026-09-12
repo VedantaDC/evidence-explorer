@@ -1,0 +1,869 @@
+{
+  "document": {
+    "k_number": "K162140",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "RemLogic",
+    "applicant": "Embla Systems",
+    "decision_date": "2016-12-01",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K162140.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K162140",
+    "sha256": "8a1ac433aebb47fcd7d2d692b66df5e2acb92b7df45d238143a3a4c68cbc2b80",
+    "page_count": 13,
+    "native_pages": 13,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Center - WO66-G609\nSilver Spring, MD 20993-0002\nEmbla Systems\nShane T. Sawall\nRegulatory Affairs Manager\n1 Hines Road Suite 202\nKanata, Ontario\nCanada K2K 3C7\nRe: K162140\nTrade/Device Name: RemLogic\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLZ\nDated: November 1, 2016\nReceived: November 2, 2016\nDear Shane T. Sawall:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device \nreferenced above and have determined the device is substantially equivalent (for the indications \nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate \ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to \ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug, \nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). \nYou may, therefore, market the device, subject to the general controls provisions of the Act. The \ngeneral controls provisions of the Act include requirements for annual registration, listing of \ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability \nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), \nit may be subject to additional controls. Existing major regulations affecting your device can be \nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may \npublish further announcements concerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean \nthat FDA has made a determination that your device complies with other requirements of the Act \nor any Federal statutes and regulations administered by other Federal agencies. You must comply \nwith all the Act's requirements, including, but not limited to: registration and listing (21 CFR \nDecember 1, 2016",
+      "character_count": 2342
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "- Shane T. SawallPage 2\nPart 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-\nrelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in \nthe quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product \nradiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please \ncontact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041\nor (301) 796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note \nthe regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 \nCFR Part 803), please go to \nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office \nof Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the \nDivision of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) \n796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.\nSincerely,\nCarlos L. Peña, PhD, MS\nDirector\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure\nfor\nMichael J. Hoffmann -A",
+      "character_count": 1595
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK162140\nDevice Name\nRemLogic\nIndications for Use (Describe)\nThe RemLogic software is intended for Polysomnography studies and allows recording, displaying, analysis, printing and \nstorage of physiological signals to assist in the diagnosis of various sleep disorders and sleep related respiratory disorders. \nThe RemLogic software allows:\nAutomated analysis of physiological signals that is intended for use only in adults; \nAn optional audio/visual alert for user defined threshold on calibrated DC input. These alerts are not intended for use \nas life support such as vital signs monitoring or continuous medical surveillance in intensive care units. \nSleep report templates which summarize recorded and scored sleep data using simple measures including count, \naverage, maximum and minimum values as well as data ranges for trended values; \nThe RemLogic software does not provide any diagnostic conclusion about the patient's condition and is intended to be \nused only by qualified and trained medical practitioners, in research and clinical environments. \nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”\n2-2",
+      "character_count": 2413
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 1 of 10 \n\n510(K) Summary \n\nSubmitted by: Embla Systems \n1 Hines Road Suite 202 \nKanata, Ontario \nCanada K2K 3C7 \n\nContact Person: Shane Sawall \nRegulatory Affairs Manager \nTel.: (800) 356-0007 x8673 \nE-mail: shane.sawall@natus.com \n\nDate Prepared: Oct. 31, 2016 \n\nProprietary Name: RemLogic \nCommon Name: Polysomnograph software \n\nClassification Name: Automatic Event Detection Software for \nPolysomnograph with Electroencephalograph \n\nProduct code: OLZ \n\nDevice Class: II \n\nRegulation Number: 21 CFR 882.1400 \n\nPredicate Device: Embla (K971813); Natus SleepWorks (K090277) - primary \n\nDescription: \n\n1. Overview RemLogic Software \nThe RemLogic Application is a software product that runs on a desktop or laptop \ncomputer and requires no specialized hardware. It is a Windows based \napplication used by trained medical professionals to investigate sleep disorders. \n\n2. Main Functional Areas \nThe RemLogic application collects and digitizes the electrical voltages of patient \nphysiological signals. After collecting and saving the signals, it provides tools \nand analyzers to analyze the signals, which aid in the interpretation of a sleep \nstudy. The software consists of three main functional areas: \n\n• Acquisition - Real time collection of EEG and other physiological \nparameters. \n8-2",
+      "character_count": 1327
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 2 of 10 \n\n\n• Scoring & Review - Includes functions providing the user with tools to \nquickly review PSG studies, either during real time collection of data or \nafter the recordings are complete \n\n• Reports - Once the digital polysomnography data has been acquired \nscored and reviewed by both a polysomnographic technologist and a \nsleep physician the RemLogic software is used to generate a summary \nreport of the sleep study which includes summary statistics of sleep \nstaging describing the patients sleep architecture, summary of sleep \nevents including maximum, minimum counts, indexes, duration, and range \nbased data as well as graphical representations of each (trends). The \ngenerated sleep reports are part of the digital polysomnography and the \nRemLogic software also includes tools to customize report templates to \nconform to individual sleep center standards/policies and graphic norms. \n\n3. Typical work flow using the RemLogic Application software \nDuring the Acquisition phase, the software collects data based on user selected \nsampling rates, amplifier set-up, and amplifier calibrations. These three factors \ndefine how the software collects and displays the data in real-time. The \nrecording is saved on the hard disk of the user's computer in a raw data format. \nThe user can customize displays, observations, event markers, and tags. \n\n4. Computer-assisted scoring analyzers \nThe RemLogic application software contains a number of computer-assisted \nscoring analyzers. All computer assisted-scoring analyzers are provided to \nassist trained medical practitioners in the review and analysis of vast amounts of \npolysomnography data. The computer assisted-scoring analyzers are for \nanalysis of adult patient data only. Each computer-assisted scoring analyzer \nruns a specific type of event scoring on the patient file. The scoring rule \nparameters used in the computer-assisted scoring analyzers depend on the \nmontage type associated with the study. \n\nThe eight computer-assisted scoring analyzers are: \n• Arousal Analyzer \n• Respiratory Analyzer \n• Limb Movement Analyzer \n• Snoring Analyzer \n• Desaturation Analyzer \n• Heart Rate Analyzer \n• Associations Analyzer \n• XactTrace module \n8-3",
+      "character_count": 2251
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 3 of 10 \n\n\n5. Diagnosis \nThe RemLogic application software is intended for use by qualified and trained \nmedical practitioners in research and clinical environments, who evaluate the \nsoftware output with their clinical experience and judgement to provide \ndiagnostic conclusions about the patient’s condition. The RemLogic software \ndoes not control the delivery of energy, the administration of drugs, or any form \nof life sustaining function to the patient. \n\nIndications for Use: \nThe RemLogic software is intended for Polysomnography studies, and allows \nrecording, displaying, analysis, printing and storage of physiological signals to \nassist in the diagnosis of various sleep disorders and sleep related respiratory \ndisorders. The RemLogic software also allows: \n\n• A utomated analysis of physiological signals that is intended for use only in \nadults; \n\n• An optional audio/visual alert for user defined threshold on calibrated DC \ninput. These alerts are not intended for use as life support such as vital \nsigns monitoring or continuous medical surveillance in intensive care \nunits. \n\n• Sleep report templates which summarize recorded and scored sleep data \nusing simple measures including count, average, maximum and minimum \nvalues as well as data ranges for trended values; \n• \n\nThe RemLogic software does not provide any diagnostic conclusions about the \npatient’s condition and is intended to be used only by qualified and trained \nmedical practitioners, in research and clinical environments. \n\nComparison to Predicate Device: \n\nPredicate Predicate Subject Device \nEmbla K971813 SleepWorks K090277 RemLogic \nDevice Class Class II Class II Class II \nClass Name Electroencephalograph Electroencephalograph Electroencephalograph \nProduct Code OLV = Standard \nPolysomnograph with \nElectroencephalograph \nOLZ = Automatic Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph \nSame as SleepWorks \nIntended User Medical Professional Medical Professional Medical Professional \n8-4",
+      "character_count": 2048
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 4 of 10 \n\n\nIndications for \nUse \nEmbla is a \npolysomnographic \nsystem that is intended \nto record, display, and \nprint EEG and other \nphysiological \ninformation to \nclinicians/physicians. \nThe device will be used \nin hospitals, \ninstitutions, sleep \ncenters or clinics, or \nother test environments \nwhere patients require \ndocumentation of \nvarious sleep or other \nphysiologic disorders. \nThe Sleepworks software \nworks in conjunction with \nConnex, Trex or Netlink \namplifiers \nintended for \npolysomnography studies. \nThe software allows \nrecording, displaying, \nanalysis, printing and \nstorage of physiological \nsignals to assist in the \ndiagnosis of various \nsleep disorders and sleep \nrelated respiratory \ndisorders. \nThe Sleepworks allows: \nAutomated analysis of \nphysiological signals that \nis intended for use only in \nadults. \nAn optional Audio / \nvisual alert for user \ndefined threshold on \ncalibrated DC input. \nThese alerts are not \nintended for use as life \nsupport such as vital \nsigns monitoring \nor continuous medical \nsurveillance in intensive \ncare units. \nSleep report templates \nare provided which \nsummarize recorded and \nscored sleep \ndata using simple \nmeasures including count, \naverage, maximum and \nminimum \nvalues as well as data \nranges for trended values; \nSleep Works software \ndoes not provide any \ndiagnostic conclusion \nabout the patient's \ncondition and is intended \nto be used only by \nThe RemLogic software \nis intended for \nPolysomnography \nstudies and allows \nrecording, displaying, \nanalysis, printing and \nstorage of physiological \nsignals to assist in the \ndiagnosis of various \nsleep disorders and \nsleep related respiratory \ndisorders. The \nRemLogic software \nallows: \nAutomated analysis \nof physiological signals \nthat is intended for use \nonly in adults; \nAn optional \naudio/visual alert for \nuser defined threshold \non calibrated DC input. \nThese alerts are not \nintended for use as life \nsupport such as vital \nsigns monitoring or \ncontinuous medical \nsurveillance in intensive \ncare units. \nSleep report \ntemplates which \nsummarize recorded \nand scored sleep data \nusing simple measures \nincluding count, \naverage, maximum and \nminimum values as well \nas data ranges for \ntrended values; \nThe RemLogic software \ndoes not provide any \ndiagnostic conclusion \nabout the patient's \ncondition and is \nintended to be used \nonly by qualified and \ntrained medical \n8-5",
+      "character_count": 2444
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 5 of 10 \n\nqualified and trained \nmedical practitioners; \nin research and clinical \nenvironments. \npractitioners, in \nresearch and clinical \nenvironments. \nUser input Mouse/keyboard Mouse/keyboard Mouse/keyboard \nAcquire, \ndisplay, store, \nand archive \nPSG data \nYes Yes Yes \nSignal digitized Amplifier included as \npart of the system \nBy separate proprietary \namplifier \nBy separate proprietary \namplifier \nSoftware \nAnalyzers \n\nRespiratory \nevent marking \nYes (Manual & \nComputer Assisted for \napneas only) \nYes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nSleep staging/ \nscoring \nYes. Manual Yes. Manual/computer \nassisted \nYes. Manual \nArousal Event \nMarking \nYes (Manual) Yes. Manual/computer \nassisted \nYes (Manual & \nComputer Assisted) \nLimb \nmovements \nevent marking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nSnore event \nmarking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nOxygen \nDesaturation \nevent marking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nHeart Rate data \ntrend & \nsummary \n(including Heart \nRate Variability) \nNo Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nCO2 data trend \n& summary \nNo Yes Yes \nAssociate \nrelated events \nNo Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nDerived \nrespiratory \ntraces \nNo Yes, Effort Sum, \ndifference, average, Flow \nVolume Loop \nYes, XactTrace module \nand Flattening Index; \ncleared to market via \nK041724 \nSynchronized \npatient video \nNo Yes Yes \n8-6",
+      "character_count": 1639
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 6 of 10 \n\n\nOximetry data \ndisplay and \nreporting \nYes Yes Yes \nData storage Local or remote, hard \ndisk \nLocal or remote, hard disk Local or remote, hard \ndisk \nAudio/ Visual \nAlerts On \nCalibrated \nChannels \nNo Yes Yes \nSignals \nrecorded \n(output) \n Respiratory Effort \n(abdomen and \nchest) \n Airflow \n Pressure \n Snore \n Body Position \n Pulse Rate \n Oximeter \n ECG \n EEG \n EMG \n EOG \n DC \n Leg Movement \nand other signals \nrequired for sleep \nstudies \n Respiratory Effort \n(abdomen and chest) \n\n Airflow \n Pressure \n Snore \n Body Position \n Pulse Rate \n Oximeter \n ECG \n EEG \n EMG \n EOG \n DC \n Leg Movement and \nother signals required \nfor sleep studies \n Respiratory Effort \n(abdomen and \nchest) \n Airflow \n Pressure \n Snore \n Body Position \n Pulse Rate \n Oximeter \n ECG \n EEG \n EMG \n EOG \n DC \n Leg Movement and \nother signals \nrequired for sleep \nstudies \nReport \ngeneration \nincluding counts \nindexes, \nmax/min/averag\ne/duration, \nrange based \ndata \nsummaries. \nNumeric & \ngraphical \nrepresentations \nYes, customizable \ntemplates \nYes, customizable \ntemplates \nYes, customizable \ntemplates \n\nRemLogic also includes derived calculation of pulse transit time (PTT) which is a \nmeasure of time difference between the ECG R top and the peak of the pleth waveform \nfrom the pulse oximeter. The reference predicate for this feature of RemLogic is \nK142988 Sleepware G3. \n\nBrief Summary of Performance Tests: \n\n8-7",
+      "character_count": 1489
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 7 of 10 \n\nBiocompatibility \nThe RemLogic is a software-only device. Biocompatibility testing is not applicable. \n\n\nElectrical Safety and EMC \nThe RemLogic is a software-only device. Electrical safety evaluation and EMC \nevaluation is not applicable. \n\n\nSoftware Verification \nTesting of the RemLogic was performed in compliance with the Natus Medical \nincorporated design control process. It was found that the RemLogic software meets the \ndesign specification and performs as specified. \n\n\nAnimal Study \nThere were no animal studies performed for this submission. \n\n\nClinical Study Summary – Respiratory, Limb Movement and Snore Event Assisted-\nscoring Analyzers \n\n1.1. Participants \nFifty-one (51) diagnostic PSG sleep studies were collected (one study per subject). All \nsubjects involved in this study were adult (>18 years old) subjects with a clinical \nindication for a sleep study. The subject data were de-identified and applied as subject \ndata to this study. \n\n1.2. Dataset description \nTotal Number of Subjects: 51 per event evaluated \nTotal Number of scored Epochs (30 Sec): > 47,113 \nTotal Number of Hours: 392:36:30 \nAverage number of epochs per subject: 924 \nMinimum number of epochs per subject: 764 \n\nData from 51 subjects were evaluated for respiratory, arousal, limb movement and snore \nevents. All epochs from these subjects were scored. \n\n1.3. Objective of the study \nThe goal of the validation study reported here is to establish that RemLogic performance \nis equivalent to the performance of the predicate device. For the purpose of this study \n“Reference standard” is defined using majority rule, that is, at least two out of three \nexpert scorings (medical professionals certified on PSG recording and analysis) agree \non the presence of an event within an epoch. \n\n1.4. PSG acquisition protocol \nFor this study, the following signals were recorded from each subject: \n• Six (6) Electroencephalogram ([EEG] channels: F3, F4, C3, C4, O1, and O2. \n8-8",
+      "character_count": 2011
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 8 of 10 \n\n• Two (2) Electrooculogram (EOG) channels \n• Submental and bilateral tibial electromyogram (EMG) \n• Electrocardiogram (ECG) \n• Airflow (nasal-oral thermistor and nasal pressure sensors or PAP flow) \n• Chest and abdominal movement using respiratory inductance Plethysmography. \n• Pulse oximetry (SpO2) and pulse rate \n• Body position \n• Snoring \n\n1.5. PSG analysis protocol \nAll physiologic data were collected and stored on a RemLogic System. The ECG, EEG, \nEMG, EOG and Snoring channels were sampled at 200 Hz. The Airflow and Chest, \nabdominal movement channels were sampled at 25 Hz. The Pulse oximetry channel \nwas sampled at 10 Hz. The Body Position channel was sampled at 1 Hz. \n\nThe raw PSG recordings were de-identified, randomized and provided to three \nexperienced and certified PSG specialists, including one board certified sleep specialist, \nwho independently marked events of interest in each epoch, applying the following \ncriteria: \n• Apnea is scored when both of the following criteria are met: \na. There is a drop in the peak signal excursion by > 90% of pre-event baseline \nrespiratory nasal pressure or flow sensor signal. \nb. The duration of the > 90% drop in sensor signal is > 10 seconds. \n\n• The apnea is Obstructive if it meets apnea criteria and is associated with \ncontinued or increased inspiratory effort throughout the entire period of \nabsent airflow. \n\n• The apnea is Central if it meets apnea criteria and is associated with absent \ninspiratory effort throughout the entire period of absent airflow. \n\n• The apnea is Mixed if it meets apnea criteria and is associated with absent \ninspiratory effort in the initial portion of the event followed by resumption of \ninspiratory effort in the second portion of the event. \n\n• Hypopnea is scored if all of the following criteria are met: \na. The peak signal excursions drop by > 30% of pre-event baseline using \nnasal pressure, PAP device flow or alternative hypopnea sensor. \nb. The duration of the > 30% drop in signal excursion is > 10 seconds. \nc. There is a > 3% oxygen desaturation from pre-event baseline or the event \nis associated with an arousal. \n\n• Limb movement is scored if the following significant leg movement (LM) events \nare indicated: \na. The minimum duration of a LM event is 0.5 seconds. \nb. The maximum duration of a LM event is 10 seconds. \nc. The minimum amplitude of a LM event is an 8 µ V increase in EMG voltage \nabove resting EMG. \n8-9",
+      "character_count": 2489
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 9 of 10 \n\n\n• Snore: The scoring of snore events relies on clinical interpretation \n\n• Arousals: Score arousals during sleep stages (N1, N2, N3 or R) if there is an \nabrupt shift in the EEG frequency that lasts at least 3 seconds (exclude sleep \nspindles) with at least 10 seconds of stable sleep preceding the change. \nScoring arousals in REM requires a concurrent increase in Chin EMG lasting at \nleast 1 second. \n\nSeparate from the expert review, all PSG studies were also analyzed by RemLogic \nassisted-scoring analyzers at default values for: \n• Central apnea \n• Mixed apnea \n• Obstructive apnea \n• Hypopnea \n• Limb movement \n• Snoring \n• Arousals \n\n1.6. Outcomes \nPositive Percent Agreement (PPA) between RemLogic assisted-scoring analyzers \ncompared to the Reference standard were measured on an epoch basis. The mean and \n95% confidence interval (CI) of the PPA and false detection rate per hour for event \ndetection assisted-scoring analyzers are shown in the following table. \n\nPPA and False Detection Rate Per Hour of RemLogic Event Detection Assisted \nScoring Analyzers \n\nEvent \nRemLogic \nPPA FD/h \nMean 95% CI Mean 95% CI \nCentral Apnea 98% 96% to 99% 2.1 1.2 to 4.1 \nMixed Apnea 98% 96% to 99% 2.4 1.3 to 5.1 \nObstructive Apnea 94% 91% to 95% 7.8 5.6 to 10.9 \nHypopnea 86% 83% to 87% 17.4 15.0 to 20.0 \nArousal 83% 81% to 85% 20.2 17.8 to 22.6 \nLimb Movement 86% 84% to 88% 16.8 14.0 to 19.9 \nSnore 85% 83% to 88% 17.8 14.9 to 20.9 \n\n\n\n8-10",
+      "character_count": 1490
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 10 of 10 \n\n\n1.7. Clinical Study Conclusion \nCompared to the Reference standard, RemLogic assisted-scoring analyzers showed \nperformance levels comparable to the manual markings of expert reviewers. The device \nperformance is clinically equivalent to the Reference standard (majority rule) as \nconstructed for this study, similar to results reported in the literature and to performance \nreported for other commercially available devices. \n\n\n510(k) Summary Conclusions: \nThe substantial equivalence of the RemLogic with the predicate Natus SleepWorks \nproduct was demonstrated by software verification testing and clinical validation. The \nnon-clinical data support the safety of the device. The software verification and \nvalidation demonstrate that RemLogic device should perform as intended in the \nspecified use conditions. The clinical validation of the computer-assisted scoring \nanalyzers demonstrates that the RemLogic device performs comparably to the \npredicate device that is currently marketed for the same intended use. \n\n8-11",
+      "character_count": 1075
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K162140-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Center - WO66-G609\nSilver Spring, MD 20993-0002\nEmbla Systems\nShane T. Sawall\nRegulatory Affairs Manager\n1 Hines Road Suite 202\nKanata, Ontario\nCanada K2K 3C7\nRe: K162140\nTrade/Device Name: RemLogic\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLZ\nDated: November 1, 2016\nReceived: November 2, 2016\nDear Shane T. Sawall:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device \nreferenced above and have determined the device is substantially equivalent (for the indications \nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate \ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to \ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug, \nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). \nYou may, therefore, market the device, subject to the general controls provisions of the Act. The \ngeneral controls provisions of the Act include requirements for annual registration, listing of \ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability \nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), \nit may be subject to additional controls. Existing major regulations affecting your device can be \nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may \npublish further announcements concerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean \nthat FDA has made a determination that your device complies with other requirements of the Act \nor any Federal statutes and regulations administered by other Federal agencies. You must comply \nwith all the Act's requirements, including, but not limited to: registration and listing (21 CFR \nDecember 1, 2016",
+      "extraction_method": "native",
+      "character_count": 2342
+    },
+    {
+      "block_id": "K162140-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "- Shane T. SawallPage 2\nPart 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-\nrelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in \nthe quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product \nradiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please \ncontact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041\nor (301) 796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note \nthe regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 \nCFR Part 803), please go to \nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office \nof Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the \nDivision of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) \n796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.\nSincerely,\nCarlos L. Peña, PhD, MS\nDirector\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure\nfor\nMichael J. Hoffmann -A",
+      "extraction_method": "native",
+      "character_count": 1595
+    },
+    {
+      "block_id": "K162140-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK162140\nDevice Name\nRemLogic\nIndications for Use (Describe)\nThe RemLogic software is intended for Polysomnography studies and allows recording, displaying, analysis, printing and \nstorage of physiological signals to assist in the diagnosis of various sleep disorders and sleep related respiratory disorders. \nThe RemLogic software allows:\nAutomated analysis of physiological signals that is intended for use only in adults; \nAn optional audio/visual alert for user defined threshold on calibrated DC input. These alerts are not intended for use \nas life support such as vital signs monitoring or continuous medical surveillance in intensive care units. \nSleep report templates which summarize recorded and scored sleep data using simple measures including count, \naverage, maximum and minimum values as well as data ranges for trended values; \nThe RemLogic software does not provide any diagnostic conclusion about the patient's condition and is intended to be \nused only by qualified and trained medical practitioners, in research and clinical environments. \nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”\n2-2",
+      "extraction_method": "native",
+      "character_count": 2413
+    },
+    {
+      "block_id": "K162140-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 1 of 10",
+      "extraction_method": "native",
+      "character_count": 44
+    },
+    {
+      "block_id": "K162140-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "510(K) Summary",
+      "text": "510(K) Summary",
+      "extraction_method": "native",
+      "character_count": 14
+    },
+    {
+      "block_id": "K162140-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Submitted by: Embla Systems \n1 Hines Road Suite 202 \nKanata, Ontario \nCanada K2K 3C7",
+      "extraction_method": "native",
+      "character_count": 84
+    },
+    {
+      "block_id": "K162140-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Contact Person: Shane Sawall \nRegulatory Affairs Manager \nTel.: (800) 356-0007 x8673 \nE-mail: shane.sawall@natus.com",
+      "extraction_method": "native",
+      "character_count": 116
+    },
+    {
+      "block_id": "K162140-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Date Prepared: Oct. 31, 2016",
+      "extraction_method": "native",
+      "character_count": 28
+    },
+    {
+      "block_id": "K162140-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Proprietary Name: RemLogic \nCommon Name: Polysomnograph software",
+      "extraction_method": "native",
+      "character_count": 64
+    },
+    {
+      "block_id": "K162140-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Classification Name: Automatic Event Detection Software for \nPolysomnograph with Electroencephalograph",
+      "extraction_method": "native",
+      "character_count": 102
+    },
+    {
+      "block_id": "K162140-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Product code: OLZ",
+      "extraction_method": "native",
+      "character_count": 17
+    },
+    {
+      "block_id": "K162140-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Device Class: II",
+      "extraction_method": "native",
+      "character_count": 16
+    },
+    {
+      "block_id": "K162140-P004-B010",
+      "page": 4,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Regulation Number: 21 CFR 882.1400",
+      "extraction_method": "native",
+      "character_count": 34
+    },
+    {
+      "block_id": "K162140-P004-B011",
+      "page": 4,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "510(K) Summary",
+      "text": "Predicate Device: Embla (K971813); Natus SleepWorks (K090277) - primary",
+      "extraction_method": "native",
+      "character_count": 71
+    },
+    {
+      "block_id": "K162140-P004-B012",
+      "page": 4,
+      "ordinal": 12,
+      "type": "heading",
+      "section": "Description:",
+      "text": "Description:",
+      "extraction_method": "native",
+      "character_count": 12
+    },
+    {
+      "block_id": "K162140-P004-B013",
+      "page": 4,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "1. Overview RemLogic Software \nThe RemLogic Application is a software product that runs on a desktop or laptop \ncomputer and requires no specialized hardware. It is a Windows based \napplication used by trained medical professionals to investigate sleep disorders.",
+      "extraction_method": "native",
+      "character_count": 263
+    },
+    {
+      "block_id": "K162140-P004-B014",
+      "page": 4,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "2. Main Functional Areas \nThe RemLogic application collects and digitizes the electrical voltages of patient \nphysiological signals. After collecting and saving the signals, it provides tools \nand analyzers to analyze the signals, which aid in the interpretation of a sleep \nstudy. The software consists of three main functional areas:",
+      "extraction_method": "native",
+      "character_count": 335
+    },
+    {
+      "block_id": "K162140-P004-B015",
+      "page": 4,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "• Acquisition - Real time collection of EEG and other physiological \nparameters. \n8-2",
+      "extraction_method": "native",
+      "character_count": 85
+    },
+    {
+      "block_id": "K162140-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 2 of 10",
+      "extraction_method": "native",
+      "character_count": 44
+    },
+    {
+      "block_id": "K162140-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "• Scoring & Review - Includes functions providing the user with tools to \nquickly review PSG studies, either during real time collection of data or \nafter the recordings are complete",
+      "extraction_method": "native",
+      "character_count": 182
+    },
+    {
+      "block_id": "K162140-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "• Reports - Once the digital polysomnography data has been acquired \nscored and reviewed by both a polysomnographic technologist and a \nsleep physician the RemLogic software is used to generate a summary \nreport of the sleep study which includes summary statistics of sleep \nstaging describing the patients sleep architecture, summary of sleep \nevents including maximum, minimum counts, indexes, duration, and range \nbased data as well as graphical representations of each (trends). The \ngenerated sleep reports are part of the digital polysomnography and the \nRemLogic software also includes tools to customize report templates to \nconform to individual sleep center standards/policies and graphic norms.",
+      "extraction_method": "native",
+      "character_count": 705
+    },
+    {
+      "block_id": "K162140-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "3. Typical work flow using the RemLogic Application software \nDuring the Acquisition phase, the software collects data based on user selected \nsampling rates, amplifier set-up, and amplifier calibrations. These three factors \ndefine how the software collects and displays the data in real-time. The \nrecording is saved on the hard disk of the user's computer in a raw data format. \nThe user can customize displays, observations, event markers, and tags.",
+      "extraction_method": "native",
+      "character_count": 453
+    },
+    {
+      "block_id": "K162140-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "4. Computer-assisted scoring analyzers \nThe RemLogic application software contains a number of computer-assisted \nscoring analyzers. All computer assisted-scoring analyzers are provided to \nassist trained medical practitioners in the review and analysis of vast amounts of \npolysomnography data. The computer assisted-scoring analyzers are for \nanalysis of adult patient data only. Each computer-assisted scoring analyzer \nruns a specific type of event scoring on the patient file. The scoring rule \nparameters used in the computer-assisted scoring analyzers depend on the \nmontage type associated with the study.",
+      "extraction_method": "native",
+      "character_count": 613
+    },
+    {
+      "block_id": "K162140-P005-B006",
+      "page": 5,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "The eight computer-assisted scoring analyzers are: \n• Arousal Analyzer \n• Respiratory Analyzer \n• Limb Movement Analyzer \n• Snoring Analyzer \n• Desaturation Analyzer \n• Heart Rate Analyzer \n• Associations Analyzer \n• XactTrace module \n8-3",
+      "extraction_method": "native",
+      "character_count": 238
+    },
+    {
+      "block_id": "K162140-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 3 of 10",
+      "extraction_method": "native",
+      "character_count": 44
+    },
+    {
+      "block_id": "K162140-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "5. Diagnosis \nThe RemLogic application software is intended for use by qualified and trained \nmedical practitioners in research and clinical environments, who evaluate the \nsoftware output with their clinical experience and judgement to provide \ndiagnostic conclusions about the patient’s condition. The RemLogic software \ndoes not control the delivery of energy, the administration of drugs, or any form \nof life sustaining function to the patient.",
+      "extraction_method": "native",
+      "character_count": 449
+    },
+    {
+      "block_id": "K162140-P006-B003",
+      "page": 6,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "Indications for Use: \nThe RemLogic software is intended for Polysomnography studies, and allows \nrecording, displaying, analysis, printing and storage of physiological signals to \nassist in the diagnosis of various sleep disorders and sleep related respiratory \ndisorders. The RemLogic software also allows:",
+      "extraction_method": "native",
+      "character_count": 307
+    },
+    {
+      "block_id": "K162140-P006-B004",
+      "page": 6,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "• A utomated analysis of physiological signals that is intended for use only in \nadults;",
+      "extraction_method": "native",
+      "character_count": 88
+    },
+    {
+      "block_id": "K162140-P006-B005",
+      "page": 6,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "• An optional audio/visual alert for user defined threshold on calibrated DC \ninput. These alerts are not intended for use as life support such as vital \nsigns monitoring or continuous medical surveillance in intensive care \nunits.",
+      "extraction_method": "native",
+      "character_count": 231
+    },
+    {
+      "block_id": "K162140-P006-B006",
+      "page": 6,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "• Sleep report templates which summarize recorded and scored sleep data \nusing simple measures including count, average, maximum and minimum \nvalues as well as data ranges for trended values; \n•",
+      "extraction_method": "native",
+      "character_count": 194
+    },
+    {
+      "block_id": "K162140-P006-B007",
+      "page": 6,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Description:",
+      "text": "The RemLogic software does not provide any diagnostic conclusions about the \npatient’s condition and is intended to be used only by qualified and trained \nmedical practitioners, in research and clinical environments.",
+      "extraction_method": "native",
+      "character_count": 216
+    },
+    {
+      "block_id": "K162140-P006-B008",
+      "page": 6,
+      "ordinal": 8,
+      "type": "heading",
+      "section": "Comparison to Predicate Device:",
+      "text": "Comparison to Predicate Device:",
+      "extraction_method": "native",
+      "character_count": 31
+    },
+    {
+      "block_id": "K162140-P006-B009",
+      "page": 6,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "Predicate Predicate Subject Device \nEmbla K971813 SleepWorks K090277 RemLogic \nDevice Class Class II Class II Class II \nClass Name Electroencephalograph Electroencephalograph Electroencephalograph \nProduct Code OLV = Standard \nPolysomnograph with \nElectroencephalograph \nOLZ = Automatic Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph \nSame as SleepWorks \nIntended User Medical Professional Medical Professional Medical Professional \n8-4",
+      "extraction_method": "native",
+      "character_count": 463
+    },
+    {
+      "block_id": "K162140-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 4 of 10",
+      "extraction_method": "native",
+      "character_count": 44
+    },
+    {
+      "block_id": "K162140-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "Indications for \nUse \nEmbla is a \npolysomnographic \nsystem that is intended \nto record, display, and \nprint EEG and other \nphysiological \ninformation to \nclinicians/physicians. \nThe device will be used \nin hospitals, \ninstitutions, sleep \ncenters or clinics, or \nother test environments \nwhere patients require \ndocumentation of \nvarious sleep or other \nphysiologic disorders. \nThe Sleepworks software \nworks in conjunction with \nConnex, Trex or Netlink \namplifiers \nintended for \npolysomnography studies. \nThe software allows \nrecording, displaying, \nanalysis, printing and \nstorage of physiological \nsignals to assist in the \ndiagnosis of various \nsleep disorders and sleep \nrelated respiratory \ndisorders. \nThe Sleepworks allows: \nAutomated analysis of \nphysiological signals that \nis intended for use only in \nadults. \nAn optional Audio / \nvisual alert for user \ndefined threshold on \ncalibrated DC input. \nThese alerts are not \nintended for use as life \nsupport such as vital \nsigns monitoring \nor continuous medical \nsurveillance in intensive \ncare units. \nSleep report templates \nare provided which \nsummarize recorded and \nscored sleep \ndata using simple \nmeasures including count, \naverage, maximum and \nminimum \nvalues as well as data \nranges for trended values; \nSleep Works software \ndoes not provide any \ndiagnostic conclusion \nabout the patient's \ncondition and is intended \nto be used only by \nThe RemLogic software \nis intended for \nPolysomnography \nstudies and allows \nrecording, displaying, \nanalysis, printing and \nstorage of physiological \nsignals to assist in the \ndiagnosis of various \nsleep disorders and \nsleep related respiratory \ndisorders. The \nRemLogic software \nallows: \nAutomated analysis \nof physiological signals \nthat is intended for use \nonly in adults; \nAn optional \naudio/visual alert for \nuser defined threshold \non calibrated DC input. \nThese alerts are not \nintended for use as life \nsupport such as vital \nsigns monitoring or \ncontinuous medical \nsurveillance in intensive \ncare units. \nSleep report \ntemplates which \nsummarize recorded \nand scored sleep data \nusing simple measures \nincluding count, \naverage, maximum and \nminimum values as well \nas data ranges for \ntrended values; \nThe RemLogic software \ndoes not provide any \ndiagnostic conclusion \nabout the patient's \ncondition and is \nintended to be used \nonly by qualified and \ntrained medical \n8-5",
+      "extraction_method": "native",
+      "character_count": 2396
+    },
+    {
+      "block_id": "K162140-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 5 of 10",
+      "extraction_method": "native",
+      "character_count": 44
+    },
+    {
+      "block_id": "K162140-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "qualified and trained \nmedical practitioners; \nin research and clinical \nenvironments. \npractitioners, in \nresearch and clinical \nenvironments. \nUser input Mouse/keyboard Mouse/keyboard Mouse/keyboard \nAcquire, \ndisplay, store, \nand archive \nPSG data \nYes Yes Yes \nSignal digitized Amplifier included as \npart of the system \nBy separate proprietary \namplifier \nBy separate proprietary \namplifier \nSoftware \nAnalyzers",
+      "extraction_method": "native",
+      "character_count": 416
+    },
+    {
+      "block_id": "K162140-P008-B003",
+      "page": 8,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "Respiratory \nevent marking \nYes (Manual & \nComputer Assisted for \napneas only) \nYes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nSleep staging/ \nscoring \nYes. Manual Yes. Manual/computer \nassisted \nYes. Manual \nArousal Event \nMarking \nYes (Manual) Yes. Manual/computer \nassisted \nYes (Manual & \nComputer Assisted) \nLimb \nmovements \nevent marking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nSnore event \nmarking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nOxygen \nDesaturation \nevent marking \nYes (Manual) Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nHeart Rate data \ntrend & \nsummary \n(including Heart \nRate Variability) \nNo Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nCO2 data trend \n& summary \nNo Yes Yes \nAssociate \nrelated events \nNo Yes (Manual & Computer \nAssisted) \nYes (Manual & \nComputer Assisted) \nDerived \nrespiratory \ntraces \nNo Yes, Effort Sum, \ndifference, average, Flow \nVolume Loop \nYes, XactTrace module \nand Flattening Index; \ncleared to market via \nK041724 \nSynchronized \npatient video \nNo Yes Yes \n8-6",
+      "extraction_method": "native",
+      "character_count": 1173
+    },
+    {
+      "block_id": "K162140-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 6 of 10",
+      "extraction_method": "native",
+      "character_count": 44
+    },
+    {
+      "block_id": "K162140-P009-B002",
+      "page": 9,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "Oximetry data \ndisplay and \nreporting \nYes Yes Yes \nData storage Local or remote, hard \ndisk \nLocal or remote, hard disk Local or remote, hard \ndisk \nAudio/ Visual \nAlerts On \nCalibrated \nChannels \nNo Yes Yes \nSignals \nrecorded \n(output) \n Respiratory Effort \n(abdomen and \nchest) \n Airflow \n Pressure \n Snore \n Body Position \n Pulse Rate \n Oximeter \n ECG \n EEG \n EMG \n EOG \n DC \n Leg Movement \nand other signals \nrequired for sleep \nstudies \n Respiratory Effort \n(abdomen and chest)",
+      "extraction_method": "native",
+      "character_count": 497
+    },
+    {
+      "block_id": "K162140-P009-B003",
+      "page": 9,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": " Airflow \n Pressure \n Snore \n Body Position \n Pulse Rate \n Oximeter \n ECG \n EEG \n EMG \n EOG \n DC \n Leg Movement and \nother signals required \nfor sleep studies \n Respiratory Effort \n(abdomen and \nchest) \n Airflow \n Pressure \n Snore \n Body Position \n Pulse Rate \n Oximeter \n ECG \n EEG \n EMG \n EOG \n DC \n Leg Movement and \nother signals \nrequired for sleep \nstudies \nReport \ngeneration \nincluding counts \nindexes, \nmax/min/averag\ne/duration, \nrange based \ndata \nsummaries. \nNumeric & \ngraphical \nrepresentations \nYes, customizable \ntemplates \nYes, customizable \ntemplates \nYes, customizable \ntemplates",
+      "extraction_method": "native",
+      "character_count": 623
+    },
+    {
+      "block_id": "K162140-P009-B004",
+      "page": 9,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Comparison to Predicate Device:",
+      "text": "RemLogic also includes derived calculation of pulse transit time (PTT) which is a \nmeasure of time difference between the ECG R top and the peak of the pleth waveform \nfrom the pulse oximeter. The reference predicate for this feature of RemLogic is \nK142988 Sleepware G3.",
+      "extraction_method": "native",
+      "character_count": 271
+    },
+    {
+      "block_id": "K162140-P009-B005",
+      "page": 9,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Brief Summary of Performance Tests:",
+      "extraction_method": "native",
+      "character_count": 35
+    },
+    {
+      "block_id": "K162140-P009-B006",
+      "page": 9,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "8-7",
+      "extraction_method": "native",
+      "character_count": 3
+    },
+    {
+      "block_id": "K162140-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 7 of 10",
+      "extraction_method": "native",
+      "character_count": 44
+    },
+    {
+      "block_id": "K162140-P010-B002",
+      "page": 10,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Biocompatibility \nThe RemLogic is a software-only device. Biocompatibility testing is not applicable.",
+      "extraction_method": "native",
+      "character_count": 101
+    },
+    {
+      "block_id": "K162140-P010-B003",
+      "page": 10,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Electrical Safety and EMC \nThe RemLogic is a software-only device. Electrical safety evaluation and EMC \nevaluation is not applicable.",
+      "extraction_method": "native",
+      "character_count": 134
+    },
+    {
+      "block_id": "K162140-P010-B004",
+      "page": 10,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Software Verification \nTesting of the RemLogic was performed in compliance with the Natus Medical \nincorporated design control process. It was found that the RemLogic software meets the \ndesign specification and performs as specified.",
+      "extraction_method": "native",
+      "character_count": 234
+    },
+    {
+      "block_id": "K162140-P010-B005",
+      "page": 10,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Animal Study \nThere were no animal studies performed for this submission.",
+      "extraction_method": "native",
+      "character_count": 73
+    },
+    {
+      "block_id": "K162140-P010-B006",
+      "page": 10,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Clinical Study Summary – Respiratory, Limb Movement and Snore Event Assisted-\nscoring Analyzers",
+      "extraction_method": "native",
+      "character_count": 95
+    },
+    {
+      "block_id": "K162140-P010-B007",
+      "page": 10,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.1. Participants \nFifty-one (51) diagnostic PSG sleep studies were collected (one study per subject). All \nsubjects involved in this study were adult (>18 years old) subjects with a clinical \nindication for a sleep study. The subject data were de-identified and applied as subject \ndata to this study.",
+      "extraction_method": "native",
+      "character_count": 302
+    },
+    {
+      "block_id": "K162140-P010-B008",
+      "page": 10,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.2. Dataset description \nTotal Number of Subjects: 51 per event evaluated \nTotal Number of scored Epochs (30 Sec): > 47,113 \nTotal Number of Hours: 392:36:30 \nAverage number of epochs per subject: 924 \nMinimum number of epochs per subject: 764",
+      "extraction_method": "native",
+      "character_count": 244
+    },
+    {
+      "block_id": "K162140-P010-B009",
+      "page": 10,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Data from 51 subjects were evaluated for respiratory, arousal, limb movement and snore \nevents. All epochs from these subjects were scored.",
+      "extraction_method": "native",
+      "character_count": 139
+    },
+    {
+      "block_id": "K162140-P010-B010",
+      "page": 10,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.3. Objective of the study \nThe goal of the validation study reported here is to establish that RemLogic performance \nis equivalent to the performance of the predicate device. For the purpose of this study \n“Reference standard” is defined using majority rule, that is, at least two out of three \nexpert scorings (medical professionals certified on PSG recording and analysis) agree \non the presence of an event within an epoch.",
+      "extraction_method": "native",
+      "character_count": 428
+    },
+    {
+      "block_id": "K162140-P010-B011",
+      "page": 10,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.4. PSG acquisition protocol \nFor this study, the following signals were recorded from each subject: \n• Six (6) Electroencephalogram ([EEG] channels: F3, F4, C3, C4, O1, and O2. \n8-8",
+      "extraction_method": "native",
+      "character_count": 183
+    },
+    {
+      "block_id": "K162140-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 8 of 10",
+      "extraction_method": "native",
+      "character_count": 44
+    },
+    {
+      "block_id": "K162140-P011-B002",
+      "page": 11,
+      "ordinal": 2,
+      "type": "list",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• Two (2) Electrooculogram (EOG) channels \n• Submental and bilateral tibial electromyogram (EMG) \n• Electrocardiogram (ECG) \n• Airflow (nasal-oral thermistor and nasal pressure sensors or PAP flow) \n• Chest and abdominal movement using respiratory inductance Plethysmography. \n• Pulse oximetry (SpO2) and pulse rate \n• Body position \n• Snoring",
+      "extraction_method": "native",
+      "character_count": 343
+    },
+    {
+      "block_id": "K162140-P011-B003",
+      "page": 11,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.5. PSG analysis protocol \nAll physiologic data were collected and stored on a RemLogic System. The ECG, EEG, \nEMG, EOG and Snoring channels were sampled at 200 Hz. The Airflow and Chest, \nabdominal movement channels were sampled at 25 Hz. The Pulse oximetry channel \nwas sampled at 10 Hz. The Body Position channel was sampled at 1 Hz.",
+      "extraction_method": "native",
+      "character_count": 337
+    },
+    {
+      "block_id": "K162140-P011-B004",
+      "page": 11,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "The raw PSG recordings were de-identified, randomized and provided to three \nexperienced and certified PSG specialists, including one board certified sleep specialist, \nwho independently marked events of interest in each epoch, applying the following \ncriteria: \n• Apnea is scored when both of the following criteria are met: \na. There is a drop in the peak signal excursion by > 90% of pre-event baseline \nrespiratory nasal pressure or flow sensor signal. \nb. The duration of the > 90% drop in sensor signal is > 10 seconds.",
+      "extraction_method": "native",
+      "character_count": 525
+    },
+    {
+      "block_id": "K162140-P011-B005",
+      "page": 11,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• The apnea is Obstructive if it meets apnea criteria and is associated with \ncontinued or increased inspiratory effort throughout the entire period of \nabsent airflow.",
+      "extraction_method": "native",
+      "character_count": 168
+    },
+    {
+      "block_id": "K162140-P011-B006",
+      "page": 11,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• The apnea is Central if it meets apnea criteria and is associated with absent \ninspiratory effort throughout the entire period of absent airflow.",
+      "extraction_method": "native",
+      "character_count": 147
+    },
+    {
+      "block_id": "K162140-P011-B007",
+      "page": 11,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• The apnea is Mixed if it meets apnea criteria and is associated with absent \ninspiratory effort in the initial portion of the event followed by resumption of \ninspiratory effort in the second portion of the event.",
+      "extraction_method": "native",
+      "character_count": 215
+    },
+    {
+      "block_id": "K162140-P011-B008",
+      "page": 11,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• Hypopnea is scored if all of the following criteria are met: \na. The peak signal excursions drop by > 30% of pre-event baseline using \nnasal pressure, PAP device flow or alternative hypopnea sensor. \nb. The duration of the > 30% drop in signal excursion is > 10 seconds. \nc. There is a > 3% oxygen desaturation from pre-event baseline or the event \nis associated with an arousal.",
+      "extraction_method": "native",
+      "character_count": 381
+    },
+    {
+      "block_id": "K162140-P011-B009",
+      "page": 11,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• Limb movement is scored if the following significant leg movement (LM) events \nare indicated: \na. The minimum duration of a LM event is 0.5 seconds. \nb. The maximum duration of a LM event is 10 seconds. \nc. The minimum amplitude of a LM event is an 8 µ V increase in EMG voltage \nabove resting EMG. \n8-9",
+      "extraction_method": "native",
+      "character_count": 305
+    },
+    {
+      "block_id": "K162140-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 9 of 10",
+      "extraction_method": "native",
+      "character_count": 44
+    },
+    {
+      "block_id": "K162140-P012-B002",
+      "page": 12,
+      "ordinal": 2,
+      "type": "list",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• Snore: The scoring of snore events relies on clinical interpretation",
+      "extraction_method": "native",
+      "character_count": 70
+    },
+    {
+      "block_id": "K162140-P012-B003",
+      "page": 12,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "• Arousals: Score arousals during sleep stages (N1, N2, N3 or R) if there is an \nabrupt shift in the EEG frequency that lasts at least 3 seconds (exclude sleep \nspindles) with at least 10 seconds of stable sleep preceding the change. \nScoring arousals in REM requires a concurrent increase in Chin EMG lasting at \nleast 1 second.",
+      "extraction_method": "native",
+      "character_count": 329
+    },
+    {
+      "block_id": "K162140-P012-B004",
+      "page": 12,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Separate from the expert review, all PSG studies were also analyzed by RemLogic \nassisted-scoring analyzers at default values for: \n• Central apnea \n• Mixed apnea \n• Obstructive apnea \n• Hypopnea \n• Limb movement \n• Snoring \n• Arousals",
+      "extraction_method": "native",
+      "character_count": 235
+    },
+    {
+      "block_id": "K162140-P012-B005",
+      "page": 12,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.6. Outcomes \nPositive Percent Agreement (PPA) between RemLogic assisted-scoring analyzers \ncompared to the Reference standard were measured on an epoch basis. The mean and \n95% confidence interval (CI) of the PPA and false detection rate per hour for event \ndetection assisted-scoring analyzers are shown in the following table.",
+      "extraction_method": "native",
+      "character_count": 330
+    },
+    {
+      "block_id": "K162140-P012-B006",
+      "page": 12,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "PPA and False Detection Rate Per Hour of RemLogic Event Detection Assisted \nScoring Analyzers",
+      "extraction_method": "native",
+      "character_count": 93
+    },
+    {
+      "block_id": "K162140-P012-B007",
+      "page": 12,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "Event \nRemLogic \nPPA FD/h \nMean 95% CI Mean 95% CI \nCentral Apnea 98% 96% to 99% 2.1 1.2 to 4.1 \nMixed Apnea 98% 96% to 99% 2.4 1.3 to 5.1 \nObstructive Apnea 94% 91% to 95% 7.8 5.6 to 10.9 \nHypopnea 86% 83% to 87% 17.4 15.0 to 20.0 \nArousal 83% 81% to 85% 20.2 17.8 to 22.6 \nLimb Movement 86% 84% to 88% 16.8 14.0 to 19.9 \nSnore 85% 83% to 88% 17.8 14.9 to 20.9",
+      "extraction_method": "native",
+      "character_count": 361
+    },
+    {
+      "block_id": "K162140-P012-B008",
+      "page": 12,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "8-10",
+      "extraction_method": "native",
+      "character_count": 4
+    },
+    {
+      "block_id": "K162140-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "510(K): REMLOGIC \n510K SUMMARY \nPAGE 10 of 10",
+      "extraction_method": "native",
+      "character_count": 45
+    },
+    {
+      "block_id": "K162140-P013-B002",
+      "page": 13,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "1.7. Clinical Study Conclusion \nCompared to the Reference standard, RemLogic assisted-scoring analyzers showed \nperformance levels comparable to the manual markings of expert reviewers. The device \nperformance is clinically equivalent to the Reference standard (majority rule) as \nconstructed for this study, similar to results reported in the literature and to performance \nreported for other commercially available devices.",
+      "extraction_method": "native",
+      "character_count": 425
+    },
+    {
+      "block_id": "K162140-P013-B003",
+      "page": 13,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "510(k) Summary Conclusions: \nThe substantial equivalence of the RemLogic with the predicate Natus SleepWorks \nproduct was demonstrated by software verification testing and clinical validation. The \nnon-clinical data support the safety of the device. The software verification and \nvalidation demonstrate that RemLogic device should perform as intended in the \nspecified use conditions. The clinical validation of the computer-assisted scoring \nanalyzers demonstrates that the RemLogic device performs comparably to the \npredicate device that is currently marketed for the same intended use.",
+      "extraction_method": "native",
+      "character_count": 590
+    },
+    {
+      "block_id": "K162140-P013-B004",
+      "page": 13,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Brief Summary of Performance Tests:",
+      "text": "8-11",
+      "extraction_method": "native",
+      "character_count": 4
+    }
+  ],
+  "claims": []
+}

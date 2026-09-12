@@ -1,0 +1,175 @@
+{
+  "document": {
+    "k_number": "K131415",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "LIVE VIEW PANEL (LVP)",
+    "applicant": "Neurotronics, Inc.",
+    "decision_date": "2013-08-09",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf13/K131415.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K131415",
+    "sha256": "a23e712a0feb150a2e1b5b60ecc50d84c647dbbfc75833ec31d805ddb5bdac08",
+    "page_count": 9,
+    "native_pages": 9,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "510(k) Summary\nSUMMARY DATE:\nMonday May 13, 2013 AUG6 0 9 Z013\n510K SUBMITTER:\nNeurotronics, Inc. Phone: 352.372.9955\n3600 NW 43rd Street, Suite FlI Fax 815.550.2871\nGainesville, FL, 32606\nPrimary Contact:\nName: David Pezet Title: Quality Manager\nEmail: david.pezet@neurotronlcs.com Phone: 352.372.9955 Ext 355\nEstablishment Registration Number:\n1063925\nDEVICE TYPE (COMMON NAME):\nNon-Normalizing Quantitative Electroencephalograph Software\nPROPRIETARY NAME oF THE DEVICE:\nLive View Panel (LVP)",
+      "character_count": 494
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "CLASSIFICATION:\nProduct Code:\nProduct DeieRegulation Regulation\nCode DIc Description Number\nGWQ Full-Montage Standard Electroencephalograph 882.1400\n________Electroencephalograph ___________ ______\nSubs~eunt Product Code:\nProduct DeieRegulation Regulation\nCode DIc Description Number\nAutomatic Event Detection Software For\nOLZ Polysomnograph With Electroencephalograph 882.1400\nF lectroencephalo~raph ______\nOLV Standard Polysomnograph With Electroencephalograph 882.1400Electroencephalograph __________\nOLT ~Non-Normalizing Quantitative Eetonehlgah8210OLT Electroencephalograph Software Eetonehlgah8210\nPREDICATE DEVICES\nSubmitter/Holder jDevice Name Model 510(K)\nNihon Kohden America, Inc. Nihon Kohden EEG-1I200A Series EEG-1200A K080546\nNeurofax\nNeurotronics, Inc. Polysmith Sleep System NT15498 K062943\nNihon Kohden Corp. PSG-l 1100 Sleep Diagnostic System PSG-1I 100 K120888\nNihon Kohden EEG-1I200A with JE-\nNihon Kohden America, Inc. 120A Multi Channel Electrode JE-120A KI113117\nJunction Box",
+      "character_count": 999
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "DESCRIPTION\nThe Live View Panel (LVP) consists of several software components that allow remote viewing\nof digitized physiological waveforms and general patient information for the purpose of viewing\nEEG (electroencephalography) or PSG (polysomnography) patients in real time or in review.\nThe software uses off-the-shelf and custom software components to manage multiple computer\ndisplays to facilitate the viewing of several patients simultaneously.\nThe Live View Panel consists of three software components. The Live View Panel Acquisition\nInterface Server (AIS) located on the acquisition system collects patient data from a recording\nmachine and transmits this information over a network to a client machine. The Live View\nPanel client program receives this information and displays basic information in grid pattern\nalong with other patients. The Live View Panel Monitor Controller program manages a bank of\ndisplays, each displaying a single patient. The Live View Panel grid mimics the physical\nlocations of the monitors to allow the clinician manage and keep track of multiple patients\ndisplayed on the bank of displays.\nThe Live View Panel is software only and does not connect to the patient except through a\ncleared and currently marketed EEG or PSG device. A software module resides on the BEG or\nPSG device and sends patient data to a remote computer where another software module displays\nthe data on an array of monitors. The software runs on off-the-shelf computers.\nA'quR~c~t~l~.. tn Vw Pm.~ I MOEN.n",
+      "character_count": 1518
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "INTENDED USE\nThe Live View Panel is an accessory to EEG and PSG systems, intended to transmit EEG or\nPSG data to a remote location where the data can be viewed by a clinician to aid in diagnosis of\nepilepsies, sleep disorders, and other related disorders.\nThe Live View Panel is intended for use by medical personnel within a medical facility, clinic or\nnursing home, or outside a medical facility under the supervision of a medical professional. The\nLive View Panel is available for use on all patient populations, including adults and children as\ndetermined by the medical professional.\nThis device is not to be used to monitor life threatening situations.\nThis device is not to be used to controi life supporting or life sustaining devices.",
+      "character_count": 743
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "PREDICATE COMPARISON\nIntended Use Comparison\nThe Live View Panel accessory improves upon the predicates' current capabilities for remote\naccess and review of on-line or previously recorded acquisitions. This accessory does not change\nthe indications for use for the devices which it is an accessory. This accessory is intended to aid\nin diagnosis of epilepsies, sleep disorders, and other related disorders.\nTechnical Comparison\nThe Live View Panel contains a subset of features found in the predicate. The device's main\nfunction is to facilitate the viewing of multiple patients' data from a location physically removed\nfrom the patient area. The Live View Panel extends the predicates' ability to view recordings\nremotely by providing an intuitive interface to manage multiple recordings. Therefore\nNeurotronics believes the Live View Panel is substantially equivalent to the Nihon Kohden\nEEG-1200A with JE-120A Multi Channel Electrode Junction Box (KI 13117), Nihon Kohden\nEEG-1200A Series Neurofax (K080546), PS0-I 100 Sleep Diagnostic System (K120888), and\nPolysmith Sleep System, Model NT15498 (K062943).\nLive View Panel EEG Predicates PSG Predicates\n____________________________(Klfl 117, K080546) (K062943, K120888)\nDisplay Electrical activity of the brain and other Same Same\nphysiological signals on a monitor\nDevice uses WindowsTm on a 32-bit computer Same Same\nDisplay waveforms in acquisition and review Same Same\nMaximum number of waveforms on screen is 64 Same Same\n(EEG) and 32 (PSG)\nSimultaneously view waveforms from multiple\nEEG/PSG instruments connected to a network Same Same\nand display values from external instruments\nVariable waveform display duration Same Same\nChange waveform parameters (pattern, montage, Same Sameamplifier conditions, AV induction)\nAdd, edit, delete on screen events Same Same\nThe device can measure vital signs (including\nECG, EMO, Respiration, ocular motility, SpO2, Same Same\nand C02)-\nDisplay patient video along with waveforms Same Same\nFor use by medical personnel in a medical\nfacility, physician's office, laboratory, clinic, or Same Same\nnursing home\nAny patient population including adults and Same Sm\nchildren as determined by a trained professional Sam",
+      "character_count": 2210
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "PERFORMANCE DATA\n*Testing Data\nTesting included: Software testing\nCONCLUSION\nBased on the results of the Intended Use Comparison, the Technical Comparison, and Testing\nData, it is believed that the Live View Panel (LVP) accessory presents no new questions of\nsafety and effectiveness and, is substantially equivalent to the features provided by the Nihon\nKohden EEG-1200A with JE-1 20A Multi Channel Electrode Junction Box (KI 13117), Nihon\nKohden EEG-1200A Series Neurofax. (K080546), Polysmith Sleep System, Model NT15498\n(K062943), and PSG-l100O Sleep Diagnostic System (K120888).",
+      "character_count": 583
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n( 4 Food and Drug Adminismtion\n10903 New Hampshire Avenue\nDccumnen control Center - W066-G609\nSilver Spring. MD 20993-002\nAugust 9, 2013\nNeurotronics, Inc.\nc/o Mr.David Pezet\nQuality Manaper\n3600 NW 43yStreet, Suite F]\nGainesville, FL 32606\nRe: K131415\nTrade/Device Name: Live View Panel\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Standard polysomnograph with electroencephalograph\nProduct Code: OLV, GWQ, QLZ, and OLT\nDated: June 16, 2013\nReceived: June 17, 2013\nDear Mr. Pezet:\nWe have reviewed your Section 5 10(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the\nindications for use stated in the enclosure) to legally marketed predicate devices marketed in\ninterstate commerce prior to May 28, 1976, the enactment date of the Medical Device\nAmendments, or to devices that have been reclassified in accordance with the provisions of\nthe Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a premarket\napproval application (PMA). You may, therefore, market the device, subject to the general\ncontrols provisions of the Act. The general controls provisions of the Act include\nrequirements for annual registration, listing of devices, good manufacturing practice,\nlabeling, and prohibitions against misbranding and adulteration. Please note: CDRH does\nnot evaluate information related to contract liability warranties. We remind you however,\nthat device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class 11 (Special Controls) or class III\n(PMA), it may be subject to additional controls. Existing major regulations affecting your\ndevice can be found in the Code of Federal.Regulations, Title 21, Parts 800 to 898. In\naddition, FDA may publish further announcements concerning your device in the Federal\nRepister.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not\nmean that FDA has made a determination that your device complies with other requirements\nof the Act or any Federal statutes and regulations administered by other Federal agencies.\nYou must comply with all the Act's requirements, including, but not limited to: registration\nand listing (21 CFR Part 807); labeling (2! CFR Part 801); medical device reporting\n(reporting of medical device-related adverse events) (21 CFR 803); good manufacturing",
+      "character_count": 2483
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Page 2 - Mr. David Pezet\npractice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820);\nand if applicable, the electronic product radiation control provisions (Sections 531-542 of the\nAct); 21 CER 1000- 1050.\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 80 1),\nplease contact the Division of Small Manufacturers, International and Consumer Assistance\nat its toll-free number (800) 638-2041 or (301) 796-7 100 or at its Internet address\nhtto)://www.fda.povfMedica]Devices[ResourcesforYou/industrv/default.htm. Also, please\nnote the regulation entitled, 'Misbranding by reference to premarket notification' (21 CFR\nPart 807.97). For questions regarding the reporting of adverse events under the MDR\nregulation (21 CFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safetv/ReportaProblem/default~htm for the CDRi-'s\nOffice of Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free\nnumber (800) 638 2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gaov/MedicaiDevices/ResourcesforYou/Industrv/default.htm.\nSincerely yours,\nJoyce M. Whang -S\nfor Victor Krauthamner, Ph.D.\nActing Director\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure",
+      "character_count": 1503
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "Indications for Use\n510(k) Number (if known): K131415\nDevice Name: -Live View Panel (LVP)\nIndications For Use:\nThe Live View Panel is an accessory to EEG and PSG systems, intended to transmit\nEEG or PSG data to a remote location where the data can be viewed by a clinician to\naid in diagnosis of epilepsies, sleep disorders, and other related disorders\nThe Live View Panel is intended for use by medical personnel within a medical facility,\nclinic or nursing home, or outside a medical facility under the supervision of a medical\nprofessional. The Live View Panel is available for use on all patient populations,\nincluding adults and children as determined by the medical professional.\nThis device is not to be used to monitor life threatening situations.\nThis device is not to be used to control life supporting or life sustaining devices.\nPrescription Use __X____ AND/OR Over-The-Counter Use ___\n(Pant 21 CFR 801 SuIbpart 0) (21 CPR 801 Subpart C)\n(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF\nNEEDED)\nConcurrence of CDRH, Office of Device Evaluation. (ODE)\nJoyce M. Whang -S\n(Division Sign Off)\nDivision of Neurological and Physical Medicine\nDevices (DNPMD)\n510(k Number _K1 31415\nPage 1 of 1",
+      "character_count": 1214
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K131415-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "510(k) Summary\nSUMMARY DATE:\nMonday May 13, 2013 AUG6 0 9 Z013\n510K SUBMITTER:\nNeurotronics, Inc. Phone: 352.372.9955\n3600 NW 43rd Street, Suite FlI Fax 815.550.2871\nGainesville, FL, 32606\nPrimary Contact:\nName: David Pezet Title: Quality Manager\nEmail: david.pezet@neurotronlcs.com Phone: 352.372.9955 Ext 355\nEstablishment Registration Number:\n1063925\nDEVICE TYPE (COMMON NAME):\nNon-Normalizing Quantitative Electroencephalograph Software\nPROPRIETARY NAME oF THE DEVICE:\nLive View Panel (LVP)",
+      "extraction_method": "native",
+      "character_count": 494
+    },
+    {
+      "block_id": "K131415-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "CLASSIFICATION:\nProduct Code:\nProduct DeieRegulation Regulation\nCode DIc Description Number\nGWQ Full-Montage Standard Electroencephalograph 882.1400\n________Electroencephalograph ___________ ______\nSubs~eunt Product Code:\nProduct DeieRegulation Regulation\nCode DIc Description Number\nAutomatic Event Detection Software For\nOLZ Polysomnograph With Electroencephalograph 882.1400\nF lectroencephalo~raph ______\nOLV Standard Polysomnograph With Electroencephalograph 882.1400Electroencephalograph __________\nOLT ~Non-Normalizing Quantitative Eetonehlgah8210OLT Electroencephalograph Software Eetonehlgah8210\nPREDICATE DEVICES\nSubmitter/Holder jDevice Name Model 510(K)\nNihon Kohden America, Inc. Nihon Kohden EEG-1I200A Series EEG-1200A K080546\nNeurofax\nNeurotronics, Inc. Polysmith Sleep System NT15498 K062943\nNihon Kohden Corp. PSG-l 1100 Sleep Diagnostic System PSG-1I 100 K120888\nNihon Kohden EEG-1I200A with JE-\nNihon Kohden America, Inc. 120A Multi Channel Electrode JE-120A KI113117\nJunction Box",
+      "extraction_method": "native",
+      "character_count": 999
+    },
+    {
+      "block_id": "K131415-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DESCRIPTION\nThe Live View Panel (LVP) consists of several software components that allow remote viewing\nof digitized physiological waveforms and general patient information for the purpose of viewing\nEEG (electroencephalography) or PSG (polysomnography) patients in real time or in review.\nThe software uses off-the-shelf and custom software components to manage multiple computer\ndisplays to facilitate the viewing of several patients simultaneously.\nThe Live View Panel consists of three software components. The Live View Panel Acquisition\nInterface Server (AIS) located on the acquisition system collects patient data from a recording\nmachine and transmits this information over a network to a client machine. The Live View\nPanel client program receives this information and displays basic information in grid pattern\nalong with other patients. The Live View Panel Monitor Controller program manages a bank of\ndisplays, each displaying a single patient. The Live View Panel grid mimics the physical\nlocations of the monitors to allow the clinician manage and keep track of multiple patients\ndisplayed on the bank of displays.\nThe Live View Panel is software only and does not connect to the patient except through a\ncleared and currently marketed EEG or PSG device. A software module resides on the BEG or\nPSG device and sends patient data to a remote computer where another software module displays\nthe data on an array of monitors. The software runs on off-the-shelf computers.\nA'quR~c~t~l~.. tn Vw Pm.~ I MOEN.n",
+      "extraction_method": "native",
+      "character_count": 1518
+    },
+    {
+      "block_id": "K131415-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "INTENDED USE\nThe Live View Panel is an accessory to EEG and PSG systems, intended to transmit EEG or\nPSG data to a remote location where the data can be viewed by a clinician to aid in diagnosis of\nepilepsies, sleep disorders, and other related disorders.\nThe Live View Panel is intended for use by medical personnel within a medical facility, clinic or\nnursing home, or outside a medical facility under the supervision of a medical professional. The\nLive View Panel is available for use on all patient populations, including adults and children as\ndetermined by the medical professional.\nThis device is not to be used to monitor life threatening situations.\nThis device is not to be used to controi life supporting or life sustaining devices.",
+      "extraction_method": "native",
+      "character_count": 743
+    },
+    {
+      "block_id": "K131415-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "PREDICATE COMPARISON\nIntended Use Comparison\nThe Live View Panel accessory improves upon the predicates' current capabilities for remote\naccess and review of on-line or previously recorded acquisitions. This accessory does not change\nthe indications for use for the devices which it is an accessory. This accessory is intended to aid\nin diagnosis of epilepsies, sleep disorders, and other related disorders.\nTechnical Comparison\nThe Live View Panel contains a subset of features found in the predicate. The device's main\nfunction is to facilitate the viewing of multiple patients' data from a location physically removed\nfrom the patient area. The Live View Panel extends the predicates' ability to view recordings\nremotely by providing an intuitive interface to manage multiple recordings. Therefore\nNeurotronics believes the Live View Panel is substantially equivalent to the Nihon Kohden\nEEG-1200A with JE-120A Multi Channel Electrode Junction Box (KI 13117), Nihon Kohden\nEEG-1200A Series Neurofax (K080546), PS0-I 100 Sleep Diagnostic System (K120888), and\nPolysmith Sleep System, Model NT15498 (K062943).\nLive View Panel EEG Predicates PSG Predicates\n____________________________(Klfl 117, K080546) (K062943, K120888)\nDisplay Electrical activity of the brain and other Same Same\nphysiological signals on a monitor\nDevice uses WindowsTm on a 32-bit computer Same Same\nDisplay waveforms in acquisition and review Same Same\nMaximum number of waveforms on screen is 64 Same Same\n(EEG) and 32 (PSG)\nSimultaneously view waveforms from multiple\nEEG/PSG instruments connected to a network Same Same\nand display values from external instruments\nVariable waveform display duration Same Same\nChange waveform parameters (pattern, montage, Same Sameamplifier conditions, AV induction)\nAdd, edit, delete on screen events Same Same\nThe device can measure vital signs (including\nECG, EMO, Respiration, ocular motility, SpO2, Same Same\nand C02)-\nDisplay patient video along with waveforms Same Same\nFor use by medical personnel in a medical\nfacility, physician's office, laboratory, clinic, or Same Same\nnursing home\nAny patient population including adults and Same Sm\nchildren as determined by a trained professional Sam",
+      "extraction_method": "native",
+      "character_count": 2210
+    },
+    {
+      "block_id": "K131415-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "PERFORMANCE DATA\n*Testing Data\nTesting included: Software testing\nCONCLUSION\nBased on the results of the Intended Use Comparison, the Technical Comparison, and Testing\nData, it is believed that the Live View Panel (LVP) accessory presents no new questions of\nsafety and effectiveness and, is substantially equivalent to the features provided by the Nihon\nKohden EEG-1200A with JE-1 20A Multi Channel Electrode Junction Box (KI 13117), Nihon\nKohden EEG-1200A Series Neurofax. (K080546), Polysmith Sleep System, Model NT15498\n(K062943), and PSG-l100O Sleep Diagnostic System (K120888).",
+      "extraction_method": "native",
+      "character_count": 583
+    },
+    {
+      "block_id": "K131415-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n( 4 Food and Drug Adminismtion\n10903 New Hampshire Avenue\nDccumnen control Center - W066-G609\nSilver Spring. MD 20993-002\nAugust 9, 2013\nNeurotronics, Inc.\nc/o Mr.David Pezet\nQuality Manaper\n3600 NW 43yStreet, Suite F]\nGainesville, FL 32606\nRe: K131415\nTrade/Device Name: Live View Panel\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Standard polysomnograph with electroencephalograph\nProduct Code: OLV, GWQ, QLZ, and OLT\nDated: June 16, 2013\nReceived: June 17, 2013\nDear Mr. Pezet:\nWe have reviewed your Section 5 10(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the\nindications for use stated in the enclosure) to legally marketed predicate devices marketed in\ninterstate commerce prior to May 28, 1976, the enactment date of the Medical Device\nAmendments, or to devices that have been reclassified in accordance with the provisions of\nthe Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a premarket\napproval application (PMA). You may, therefore, market the device, subject to the general\ncontrols provisions of the Act. The general controls provisions of the Act include\nrequirements for annual registration, listing of devices, good manufacturing practice,\nlabeling, and prohibitions against misbranding and adulteration. Please note: CDRH does\nnot evaluate information related to contract liability warranties. We remind you however,\nthat device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class 11 (Special Controls) or class III\n(PMA), it may be subject to additional controls. Existing major regulations affecting your\ndevice can be found in the Code of Federal.Regulations, Title 21, Parts 800 to 898. In\naddition, FDA may publish further announcements concerning your device in the Federal\nRepister.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not\nmean that FDA has made a determination that your device complies with other requirements\nof the Act or any Federal statutes and regulations administered by other Federal agencies.\nYou must comply with all the Act's requirements, including, but not limited to: registration\nand listing (21 CFR Part 807); labeling (2! CFR Part 801); medical device reporting\n(reporting of medical device-related adverse events) (21 CFR 803); good manufacturing",
+      "extraction_method": "native",
+      "character_count": 2483
+    },
+    {
+      "block_id": "K131415-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Page 2 - Mr. David Pezet\npractice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820);\nand if applicable, the electronic product radiation control provisions (Sections 531-542 of the\nAct); 21 CER 1000- 1050.\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 80 1),\nplease contact the Division of Small Manufacturers, International and Consumer Assistance\nat its toll-free number (800) 638-2041 or (301) 796-7 100 or at its Internet address\nhtto)://www.fda.povfMedica]Devices[ResourcesforYou/industrv/default.htm. Also, please\nnote the regulation entitled, 'Misbranding by reference to premarket notification' (21 CFR\nPart 807.97). For questions regarding the reporting of adverse events under the MDR\nregulation (21 CFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safetv/ReportaProblem/default~htm for the CDRi-'s\nOffice of Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free\nnumber (800) 638 2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gaov/MedicaiDevices/ResourcesforYou/Industrv/default.htm.\nSincerely yours,\nJoyce M. Whang -S\nfor Victor Krauthamner, Ph.D.\nActing Director\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure",
+      "extraction_method": "native",
+      "character_count": 1503
+    },
+    {
+      "block_id": "K131415-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Indications for Use\n510(k) Number (if known): K131415\nDevice Name: -Live View Panel (LVP)\nIndications For Use:\nThe Live View Panel is an accessory to EEG and PSG systems, intended to transmit\nEEG or PSG data to a remote location where the data can be viewed by a clinician to\naid in diagnosis of epilepsies, sleep disorders, and other related disorders\nThe Live View Panel is intended for use by medical personnel within a medical facility,\nclinic or nursing home, or outside a medical facility under the supervision of a medical\nprofessional. The Live View Panel is available for use on all patient populations,\nincluding adults and children as determined by the medical professional.\nThis device is not to be used to monitor life threatening situations.\nThis device is not to be used to control life supporting or life sustaining devices.\nPrescription Use __X____ AND/OR Over-The-Counter Use ___\n(Pant 21 CFR 801 SuIbpart 0) (21 CPR 801 Subpart C)\n(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE IF\nNEEDED)\nConcurrence of CDRH, Office of Device Evaluation. (ODE)\nJoyce M. Whang -S\n(Division Sign Off)\nDivision of Neurological and Physical Medicine\nDevices (DNPMD)\n510(k Number _K1 31415\nPage 1 of 1",
+      "extraction_method": "native",
+      "character_count": 1214
+    }
+  ],
+  "claims": []
+}

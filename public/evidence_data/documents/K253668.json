@@ -1,0 +1,437 @@
+{
+  "document": {
+    "k_number": "K253668",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "Onera SleepMap (SLEEPMAP)",
+    "applicant": "Onera B.V.",
+    "decision_date": "2026-03-08",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K253668.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K253668",
+    "sha256": "f8c3bfe2c6a17f8579cc1cdc9dcd8057e454c5f08e7c41aba6b1ea0f6a9b94bc",
+    "page_count": 16,
+    "native_pages": 16,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 08 . 0 4 \nSilver Spring, MD 20993 \nwww.fda.gov \n\n\n\n\n\nMarch 8, 2026 \nOnera B.V. \nPieter Ermers \nManaging Director \nTorenallee 42-54 \nEindhoven, 5617BD \nNetherlands \n\nRe: K253668 \nTrade/Device Name: Onera SleepMap (SLEEPMAP) \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: November 21, 2025 \nReceived: November 21, 2025 \n\nDear Pieter Ermers: \n\nWe have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register. \n\n\nAdditional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\" \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download).",
+      "character_count": 2614
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K253668 - Pieter Ermers Page \n\n2 \nYour device is also subject to, among other requirements, the Quality Management System Regulation \n(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), \nISO 13485 clause 8.3 (Nonconforming product), and ISO 13485 clause 8.5 (Corrective and preventative \naction). Please note that regardless of whether a change requires premarket review, the QMSR requires \ndevice manufacturers to review and approve changes to device design and production (ISO 13485 clause 7.3 \nand 21 CFR 820.70) and document changes and approvals in the Medical Device File (21 CFR 820.181). \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the Quality Management \nSystem Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR \nPart 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control \nprovisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050. \n\nAll medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system. \n\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \n\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "character_count": 3803
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "K253668 - Pieter Ermers Page \n\n3 \nSincerely, \n\n\n\nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health \n\nEnclosure \n\n\nJAY R. GUPTA -S",
+      "character_count": 342
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "I Indications for Use\nPlease type in the marketing application/submission number, if it is known. This\ntextbox will be left blank for original applications/submissions.\nPlease provide the device trade name(s).\nI K253668\nOnera SleepMap (SLEEPMAP)\n[Please provide your Indications for Use below.\nSleepMap system is intended for use as an aid for physicians in the diagnosis of sleep and respiratory\nrelated disorders in adult patients (aged 18 and up), who have been prescribed a sleep study by their\ndoctor.\nSleepMap is a software- only medical device to be used under the supervision of a clinician to analyze\nphysiological signals and automatically score sleep study recordings, including the staging of sleep,\ndetection of arousals, leg movements, desaturations, obstructive apneas and obstructive hypopneas.\nRespiratory event subtypes (central and mixed apneas; central hypopneas), RERA, Cheyne Stokes\nBreathing, Snoring Events, and Arrhythmia Events are not automatically detected and must be manually\nmarked within records.\nAll automatically scored stages and detected events can be manually marked or edited within records\nduring review.\nAll automatically scored stages, detected events and physiological signals which are retrieved, analyzed,\ndisplayed, and summarized are subject to verification by a qualified clinician\nI\nPrescription Use (Part 21 CFR 801 Subpart D)\n[Over-The-Counter Use (21 CFR 801 Subpart C)\nPlease select the types of uses (select one or both, as\napplicable).\nOnera SleepMap Page 9 of 38",
+      "character_count": 1517
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "K253668 Traditional 510(k) Summary \nPrepared in accordance to 21 CFR 807.92 \nContact Details: \nApplicant’s Name and Address: Onera B.V. \nTorenallee 42-54 \n5617BD Eindhoven \nThe Netherlands \nContact Person: Pieter Ermers \nVP Q&R, Managing Director \nEmail: Pieter.Ermers@Onerahealth.com \nPhone: +31 (0)40 308 2177 \nDate submission was prepared: November 20, 2025 \nDevice Name: \nTrade name: Onera SleepMap \nCommon Name: Electroencephalograph \nClassification: 21 CFR 882.1400, Automatic Event Detection \nSoftware For Polysomnograph With \nElectroencephalograph \nPrimary Product Code OLZ \nDevice Class: 2 \nPage 1 of 12",
+      "character_count": 612
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "Device Description Summary: \nOnera SleepMap is a software-only medical device that analyses previously recorded \nphysiological signals obtained during sleep through a polysomnography sleep test with the \nOnera STS I device. SleepMap can analyze at-home or in-lab sleep study recordings of adult \npatients. \nAutomated algorithms are applied to the raw input signals (read from a measurement file in \nthe EDF file format originating from the Onera STS I device) in order to derive additional \nsignals: \n- a heartrate (HR) signal from the raw ECG signal. The heartrate algorithm does not include\nany automated arrhythmia analysis.\n- a quantized position signal from the raw continuous value position signal.\nAdditionally, multiple algorithms are used to interpret the raw and derived signals by \nclassifying sleep stages, sleep events and artifacts. The software automates recognition of the \nfollowing sleep events: obstructive apnea and obstructive hypopnea events, arousal events, \ndesaturation events, leg movement and PLM events. \nThe Onera SleepMap contains the following algorithms: \n- Sleep staging algorithm, a deep learning model (AI-model) which classifies sleep stages,\nbased on EEG, EOG and EMG inputs.\n- Arousals algorithm, a Convolutional Neural Network (AI-model) which predicts arousals,\nbased on sleep stages, EEG, EOG, EMG, ECG and nasal pressure inputs.\n- Desaturation algorithm, a rule-based algorithm which detects events of minimum 3% or 4%\noxygenation drop based on sleep stages and SpO2 signal inputs.\n- Apnea (obstructive) detection, a rule-based algorithm which detects ≥90% nasal pressure\ndrops, based on sleep stages and nasal pressure signal inputs.\n- Hypopneas (obstructive) detection, a rule-based algorithm which detects ≥30% nasal\npressure drops based on sleep stages, nasal pressure signal, arousal events, and desaturation\nevent inputs.\n- Leg Movement algorithm, a rule-based algorithm which detects (repetitive) EMG amplitude\nincreasements, based on sleep stages, EMG signal and respiratory event inputs.\n- Artifact algorithms, rule-based algorithms which detect artifacts, based on SpO2, EEG, EOG,\nEMG and heart rate inputs.\nAdditionally, clinical users can manually annotate: respiratory event subtypes (central and \nmixed apneas and central hypopneas), RERA, Cheyne Stokes Breathing, Snoring Events, and \nArrhythmia Events. \nAutomated Annotations Manual Annotations \nSleep Stages (N1, N2, N3, REM, WAKE) Sleep Stages ( N1, N2, N3, REM, WAKE, \nunstaged*) \nApnea (Obstructive) Apnea (Obstructive, Central*, Mixed*) \nHypopnea (Obstructive) Hypopnea (Obstructive, Central*) \nDesaturation Desaturation \nArousal Arousal \nLeg Movement Leg Movement \nPage 2 of 12",
+      "character_count": 2691
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Periodic Leg Movement Periodic Leg Movement \nRERA* \nCheyne-Stokes Breathing* \nSnoring* \nArrhythmia* \nSignal artifacts on EEG, EOG, EMG, ECG, \nSpO2, HR signals \nSignal artifacts on EEG, EOG, EMG, ECG, \nSpO2, HR, Respiratory Effort*, Respiratory \nFlow*, Position*, Activity*, Sound* and Nasal \nPressure signals* \n* Events are not automatically detected but can be additionally manually annotated.\nThe raw signals, derived signals and all automated analysis results (annotations) must be \nvisually inspected and reviewed by sleep analysts and physicians prior to the results being \nintegrated into a sleep study report. \nSleepMap calculates aggregated metrics and indexes on the set of annotations resulting from \nthe sleep analyst or physician review and integrates these into a technical sleep report that \ncan be previewed. \nThe technical sleep study report summarizes the sleep stage annotations in a hypnogram, \nprovides the aggregated metrics and indexes, and the technician notes into a PDF document \nwhich is the main output of SleepMap. The technical sleep study report is transferred to the \nOnera Digital Health Platform for storage and is used by the physician to diagnose the sleep \ndisorder. \nIntended Use/Indications for Use: \nSleepMap is intended for use as an aid for physicians in the diagnosis of sleep and respiratory \nrelated disorders in adult patients (aged 18 and up), who have been prescribed a sleep study \nby their doctor. \nSleepMap is a software-only medical device to be used under the supervision of a clinician to \nanalyze physiological signals and automatically score sleep study recordings, including the \nstaging of sleep, detection of arousals, leg movements, desaturations, obstructive apneas and \nobstructive hypopneas. \nRespiratory event subtypes (central and mixed apneas; central hypopneas), RERA, Cheyne \nStokes Breathing, Snoring Events, and Arrhythmia Events are not automatically detected and \nmust be manually marked within records. \nAll automatically detected stages and detected events can be manually marked or edited \nwithin records during review. \nAll automatically scored stages, detected events and physiological signals which are retrieved, \nanalyzed, displayed, and summarized are subject to verification by a qualified clinician. \nThe Onera SleepMap has similar indications as the predicate device. \nLegally marketed Predicate Devices: \nPage 3 of 12",
+      "character_count": 2401
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "510(k) Number Device Name Type \nK162627 EnsoSleep Predicate device \nK162140 RemLogic Reference device \nTechnological Comparison: \nThe table below provides a comparison between the Onera SleepMap and the predicate \ndevice. \nCharacteristic Proposed device Onera \nSleepMap \nPredicate device \nEnsoSleep \nDiscussion \nGeneral \nManufacturer Onera B.V., The \nNetherlands \nEnsoData Inc., USA -- \n510(k) number K253668 K162627 -- \nRegulation number 21 CFR 882.1400 21 CFR 882.1400 Identical \nProduct code OLZ OLZ Identical \nIndications general SleepMap is intended for \nuse as an aid for physicians \nin the diagnosis of sleep \nand respiratory related \ndisorders in adult patients, \n(aged 18 and up), who have \nbeen prescribed a sleep \nstudy by their doctor. \nEnsoSleep is intended for \nuse for the diagnostic \nevaluation by a physician to \nassess sleep quality and as \nan aid for the diagnosis of \nsleep and respiratory \nrelated sleep disorders in \nadults only. \nSimilar \nSleepMap is a software- \nonly medical device to be \nused under the supervision \nof a clinician to analyze \nphysiological signals and \nautomatically score sleep \nstudy recordings, including \nthe staging of sleep, \ndetection of \narousals, leg movements, \ndesaturations, obstructive \napneas and obstructive \nhypopneas. \nEnsoSleep is a software-\nonly medical device to be \nused under the supervision \nof a clinician to analyze \nphysiological signals and \nautomatically score sleep \nstudy results, including the \nstaging of sleep, detection \nof arousals, leg movements, \nand sleep disordered \nbreathing events including \nobstructive apneas. \nSimilar \nRespiratory event subtypes \n(central and mixed apneas; \ncentral hypopneas), RERA, \nCheyne Stokes Breathing, \nSnoring Events, and \nArrhythmia Events are not \nautomatically detected and \nmust be manually marked \nwithin records. \nCentral apneas, mixed \napneas, and hypopneas \nmust be manually marked \nwithin records. \nSimilar. \nPage 4 of 12",
+      "character_count": 1945
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "Characteristic Proposed device Onera \nSleepMap \nPredicate device \nEnsoSleep \nDiscussion \nAll automatically scored \nstages and detected events \ncan be manually marked or \nedited within records \nduring review. \nAll automatically scored \nstages, detected events \nand physiological signals \nwhich are retrieved, \nanalyzed, displayed, and \nsummarized are subject to \nverification by a qualified \nclinician. \nAll automatically scored \nevents are subject to \nverification by a qualified \nclinician \nSimilar \nIndications – \nEnvironment \nPhysician office (data \nanalysis \nand reporting). \nNo limitation \non where data are \nacquired. \nPhysician office (data \nanalysis \nand reporting). \nNo limitation \non where data are \nacquired. \nIdentical \nPatient population Adults only Adults only Identical \nOperating principle 1. Automated analysis of\nsleep study data\n2. Review by a qualified\nclinician\n3. Making the data\navailable for display in a\nreport\n1. Automated analysis of\nsleep study data\n2. Review by a qualified\nclinician\n3. Making the data\navailable for display in a\nreport\nIdentical \nSystem setup • Processing, scoring and\nanalysis of signal data:\ncloud servers\n• Reviewing, report\ngeneration:\ncloud server & browser\nbased\n• Processing, scoring and\nanalysis of signal data:\ncloud servers\n• Reviewing, report\ngeneration:\nstand-alone PC\napplication\nSimilar \nGeneric performance data \nInput signals • EEG\n• EOG\n• EMG\n• SpO2\n• ECG\n• Respiratory Effort\n• Respiratory Flow\n• Position\n• Activity\n• Sound SPL\n• Nasal pressure\n• EMG leg\n• EEG\n• EOG\n• EMG\n• SpO2\n• ECG\n• Respiratory Effort\n• Respiratory Flow\n• Position\n• Activity\n• Sound SPL\n• Nasal pressure\n• EMG leg\n• Pulse Rate\nSimilar \nThe subject device derives \nthe heart rate from the \nECG, whilst the predicate \ndevice uses pulse rate as an \ninput. The difference is not \ndeemed to be clinically \nrelevant. \nPage 5 of 12",
+      "character_count": 1863
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "Characteristic Proposed device Onera \nSleepMap \nPredicate device \nEnsoSleep \nDiscussion \nDerived signals • Heart rate (ECG derived) NA \n- \nDifferent \nThe subject device derives \nthe heart rate from the \nECG, whilst the predicate \ndevice uses pulse rate as an \ninput. \nThis difference does not \nlead to different questions \nof safety and effectiveness \nas the technology is similar \nto the technology used in \nthe reference device Embla \nSystems (Natus), RemLogic \n(K162140) and V&V results \nshowed the used algorithm \nis sufficiently accurate, see \nDHF8001094 HR \nAlgorithm validation report \n• Quantized Position • Quantized Position Different \nThe subject device derives \nthe Quantized position \nfrom the continuous \nposition signal, whilst the \npredicate device uses \nquantized position as an \ninput. \nThis difference does not \nlead to different questions \nof safety and effectiveness \nas the technology is similar \nto the technology used in \nthe reference device Embla \nSystems (Natus), RemLogic \n(K162140) and V&V results \nshowed the used algorithm \nis sufficiently accurate, see \nDHF8001152_Body \nposition validation report \nSleep stages \n(annotations; \nautomatically scored) \n• Wake\n• N1\n• N2\n• N3\n• REM\n• Wake\n• N1\n• N2\n• N3\n• REM\nIdentical \nSee DHF8001073 \nAutomated scoring \nperformance validation \nreport. \nPage 6 of 12",
+      "character_count": 1330
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "Characteristic Proposed device Onera \nSleepMap \nPredicate device \nEnsoSleep \nDiscussion \nSleep events \n(annotations; \nautomatically \ndetected) \n• Arousal events\n• Desaturation events\n• Respiratory events\n(apnea obstructive and\nhypopnea obstructive)\n• Leg movement events,\nPeriodic Leg Movement\n• Artifact events (HR,\nSpO2, EEG, EOG, EMG,\nECG)\n• Arousal events\n• Respiratory events\n(apnea and hypopnea)\n• Leg movement events\nSimilar \nThe subject device \nidentifies and scores \nartifacts based on the input \nsignal quality indicators \n(error values) \nThe difference is not \ndeemed to be clinically \nrelevant. \nSleep events \n(annotations; \nmanually scored) \n• Respiratory event\nsubtypes (apnea central,\napnea mixed,\nhypopneas central)\n• RERA\n• Cheyne Stokes\nBreathing\n• Snoring Events\n• Arrhythmia Events\n• Artifacts events\n(Respiratory Effort,\nRespiratory Flow,\nPosition, Activity, Sound,\nNasal Pressure signals)\nYes, requires 3rd party sleep \nstudy viewer \nDifferent \nThe subject device allows \nthat annotations be \nmanually scored within the \nsignal viewer. This \ndifference does not raise \ndifferent questions of \nsafety and effectiveness. \nManual annotation \nediting \n(stages, events) \n• Wake\n• N1\n• N2\n• N3\n• REM\n• Arousal events\n• Desaturation Events\n• Respiratory events\n(apnea obstructive and\nhypopnea obstructive)\n• Leg movement events\n• Artifact events (HR,\nSpO2, EEG, EOG, EMG,\nECG)\n• Unstaged\n• Respiratory subevents\n(apnea central, apnea\nmixed, hypopnea central)\n• RERA\n• Cheyne Stokes\nBreathing\n• Snoring Events\n• Arrhythmia Events\n• Artifact events\n(Respiratory effort,\nRespiratory flow,\nPosition, Activity, Sound,\nNasal pressure signals)\nYes, requires 3rd party sleep \nstudy viewer \nDifferent \nThe subject device allows \nthat annotations be \nmanually edited within the \nsignal viewer. This \ndifference does not raise \ndifferent questions of \nsafety and effectiveness. \nPage 7 of 12",
+      "character_count": 1895
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "Characteristic Proposed device Onera \nSleepMap \nPredicate device \nEnsoSleep \nDiscussion \nSleep study statistics • Total recording time\n• Lights Off/On\n• Total sleep time\n• Total/% time in sleep\nstages\n• Sleep Latency\n• Wake After Sleep Onset\n• Sleep Efficiency\n• REM latency\n• Total recording time\n• Lights Off/On\n• Total sleep time\n• Total/% time in sleep\nstages\n• Sleep Latency\n• Wake After Sleep Onset\n• Sleep Efficiency\n• REM latency\nIdentical \nSleep study metrics • Respiratory\n• SpO2\n• Arousal\n• Snoring\n• Position\n• Cardiac\n• Arrhythmia\n• Movements\n• Respiratory\n• SpO2\n• Arousal\n• Snoring\n• Position\n• Cardiac\n• Arrhythmia\n• Movements\nIdentical \nTechnical characteristics \nAutomated study \nupload and \ndownload \nYes Yes Identical \nAutomatically \ninitiates study \nscoring \nYes Yes Identical \nAllows editing in \nsleep study viewers \nYes, within SleepMap Yes, requires 3rd party \nsleep study viewer \nDifferent \nThe subject device allows \nannotations to be edited \nwithin the signal viewer. \nThis difference does not \nraise different questions of \nsafety and effectiveness. \nSleep study \nreporting \nYes Yes Identical \nCompatible input \ndevices \nOnera STS I Various PSG systems Different \nThe subject device is \nintended for analyzing \nmeasurement data from a \nsingle input device, whilst \nthe predicate device \nsupports multiple PSG \nsystems. \nThis difference does not \nraise different questions of \nsafety and effectiveness. \nInput data format EDF EDF Identical \nReport data format PDF PDF Identical \nPage 8 of 12",
+      "character_count": 1518
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "Characteristic Proposed device Onera \nSleepMap \nPredicate device \nEnsoSleep \nDiscussion \nCompatibility Browser-based \n(Microsoft Edge or Google \nChrome) \nOperates on any PC with \nWindows 7 and 8 operating \nsystem platforms. \nSimilar. \nThe difference in \ncompatibility depends on \nthe system setup. \nTherefore, this difference \ndoes not raise new \nquestions on safety or \neffectiveness. \nCybersecurity Authentication controls, \nauthorization controls, \ncryptographic controls, \naccess controls, \nintegrity controls, \nintrusion & availability \nmonitoring controls, and \ndatabase controls. \nAuthentication controls, \nauthorization controls, \ncryptographic controls, \naccess \ncontrols, checksum \ncontrols, \nsoftware distribution \ncontrols, \nintrusion detection system \ncontrols, network and \nsystems \ncontrols, and database \ncontrols. \nSimilar. \nThe differences in \ncybersecurity controls \ndepends on the system \nsetup. Therefore, this \ndifference does not raise \nnew questions on safety or \neffectiveness. \nCloud Service \nprovider \nAWS AWS Identical \nNetwork \nrequirements \nHigh-speed internet \nconnection, above 200 \nkb/s \nrecommended. \nHigh-speed internet \nconnection, above 200 \nkb/s \nrecommended. \nIdentical \nThe Onera SleepMap has similar indications as the predicate device, where some elements of \nthe indications have been rephrased to be more specific. \nThe Onera SleepMap has the same technological characteristics as the predicate device \nexcept for the following features: \n- The Onera SleepMap is a native cloud-based application (browser) where the predicate\ndevice is a server connected PC application (executable)\n- The Onera SleepMap derives the heart rate from the ECG input signal, where the\npredicate device utilizes both ECG and pulse rate as input signals.\n- The Onera SleepMap allows for the manual review and editing of annotations within\nthe application, where the predicate device requires a third-party sleep study viewer.\n- The Onera SleepMap applies automated algorithms on PSG measurements acquired\nwith Onera STS I devices only, where the predicate device is measurement device\nagnostic.\nThese differences do not raise new questions on the safety or effectiveness of the Onera \nSleepMap. \nPage 9 of 12",
+      "character_count": 2229
+    },
+    {
+      "page": 14,
+      "extraction_method": "native",
+      "text": "Summary of non-clinical testing: \nCompliance with the following standards, applicable to the system, was verified: \n- EN IEC 62304:2006/A1:2015\n- EN 82304-1:2017\n- EN ISO 20417:2021\n- EN ISO 15223-1:2021\nDocumentation was prepared as recommended in FDA’s Guidance for Industry and FDA \nStaff, ‘Guidance for the Content of Premarket Submissions for Software Contained in \nMedical Devices’. \nFor the Onera SleepMap system, a usability engineering process was followed to ensure \nusability risks were sufficiently mitigated. The Usability engineering activities and report \nconcludes that the system was found to be safe and effective to use: \n• Onera SleepMap can be used by representative users under simulated use conditions\nwithout producing patterns of failures that could result in harm to users and has been\nfound to be reasonably safe and effective for those intended users, uses, and use\nenvironments.\n• The instructions provided in the Instructions for Use, Clinician guide and the\nCloudOps playbook are effective, as demonstrated by overall usability findings and\nqualitative feedback.\nSummary of clinical testing: \nThe Automated Scoring Service AI models and algorithms (sleep staging, arousal event \ndetection, desaturation event detection, obstructive apnea event detection, obstructive \nhypopnea event detection, leg movement and PLM event detection) have been validated \nusing a validation data set consisting of 98 PSG night studies recorded with the Onera STS I \ndevice on 98 unique patients. The recordings consist of N=72 studies performed in the home \nenvironment in the United States, acquired from August 2023 to August 2025, and N=26 \nstudies performed in the clinic environment in Germany, acquired from September 2022 to \nApril 2024. \nAll the recordings have been manually analyzed/scored by 3 independent, US based \ncertified sleep professionals in compliance with AASM scoring guidelines.\nA 2 out of 3 (2/3) majority scoring is constructed as ground truth reference to evaluate the \nAutomated Scoring Service algorithms performance. \nFor all evaluated metrics, the performance point-estimate is calculated from the cross-\nsectional data. Confidence Interval (CI) is calculated as two-sided 95% bootstrap percentile \nmethod (R=1000 resamples) of using subjects as the resampling unit. \nThe following formulas have been used in the tables below: \nPage 10 of 12",
+      "character_count": 2383
+    },
+    {
+      "page": 15,
+      "extraction_method": "native",
+      "text": "Agreement metrics definition, where TP = true positive, FN = false negative, \nFP = false positive, TN = true negative. \nPositive agreement (PA) = 100% * TP / (TP + FN) \nNegative agreement (NA) = 100% * TN / (FP + TN) \nOverall agreement (OA) = 100% * (TP +TN) / (TP + FP + TN + FN) \nFalse Discovery Rate (FDR) = 100% * FP / (FP + TP) \nSleep Staging Performance\nOverall-Epochs SleepMap vs 2/3 Majority Sleep Staging Performance \n(N=98 subjects, 98937 \nepochs) \nPoint-estimate of Percent Agreement (%) with 95% percentile bootstrap confidence \ninterval (R=1000 resamples of subjects) \nPositive \nEpochs \nNegative \nEpochs \nPositive \nAgreement (PA) \nNegative \nAgreement (NA) \nOverall \nAgreement (OA) \nFalse Discovery \nRate (FDR) \nWake 19738 \n(19.3%) \n79199 \n(77.5%) \n82.5% \n(78.9%, \n85.5%) \n98.4% \n(97.6%, \n99.1%) \n95.3% \n(94.1%, \n96.2%) \n7.1% \n(4.3%, \n10.2%) \nN1 1316 \n(1.3%) \n97621 \n(95.5%) \n69.6% \n(65.0%, \n74.5%) \n91.2% \n(89.9%, \n92.4%) \n90.9% \n(89.5%, \n92.1%) \n90.4% \n(89.1%, \n91.6%) \nN2 51752 \n(50.6%) \n47185 \n(46.2%) \n75.4% \n(72.3%, \n78.4%) \n92.1% \n(91.0%, \n93.2%) \n83.4% \n(81.5%, \n85.2%) \n8.7% \n(7.4%, \n10.1%) \nN3 9025 \n(8.8%) \n89912 \n(88.0%) \n85.6% \n(82.9%, \n88.4%) \n93.9% \n(92.1%, \n95.4%) \n93.2% \n(91.6%, \n94.4%) \n41.4% \n(34.1%, \n48.4%) \nREM 17106 \n(16.7%) \n81831 \n(80.1%) \n82.7% \n(79.8%, \n85.4%) \n97.8% \n(97.1%, \n98.3%) \n95.2% \n(94.5%, \n95.8%) \n11.5% \n(8.8%, \n14.7%) \nTotal 98937 \n(96.8%) - \n78.9% \n(76.8%, \n81.0%) \n94.7% \n(94.2%, \n95.2%) \n91.6% \n(90.7%, \n92.4%) \n21.1% \n(19.0%, \n23.2%) \nDisagreeme\nnt epochs* \n3282 \n(3.2%) - - - - - \n’Disagreement epochs’ represents epochs (n=3282) which are excluded from the sleep staging performance validation, as for \nthese epochs the scorers did not reach a 2/3 majority agreement and thus a ground-truth could not be obtained. The scoring \nwas performed by three independent US certified sleep professionals. \nPage 11 of 12",
+      "character_count": 1870
+    },
+    {
+      "page": 16,
+      "extraction_method": "native",
+      "text": "Sleep Event Performance\nOverall-Epochs SleepMap vs 2/3 Majority Sleep Detection of Sleep Events Performance \n(N=98 subjects, 102219 \nepochs) \nPoint-estimate of Percent Agreement (%) with 95% percentile bootstrap confidence \ninterval (R=1000 resamples of subjects) \nPositive \nEpochs \nNegative \nEpochs \nPositive \nAgreement (PA) \nNegative \nAgreement (NA) \nOverall \nAgreement (OA) \nFalse Discovery \nRate (FDR) \nSleep \nDisordered \nBreathing \n15836 \n(15.5%) \n86383 \n(84.5%) \n78.2% \n(72.8%, \n82.7%) \n90.7% \n(89.7%, \n91.7%) \n88.8% \n(87.7%, \n89.8%) \n39.3% \n(32.8%, \n46.6%) \nApnea 6582 \n(6.4%) \n95637 \n(93.6%) \n85.7% \n(79.0%, \n89.9%) \n97.0% \n(96.4%, \n97.6%) \n96.3% \n(95.6%, \n96.9%) \n33.6% \n(25.6%, \n46.1%) \nObstructive \nApnea \n4753 \n(4.6%) \n97466 \n(95.4%) \n84.5% \n(75.3%, \n89.7%) \n95.4% \n(94.1%, \n96.6%) \n94.9% \n(93.6%, \n96.0%) \n52.7% \n(41.2%, \n67.1%) \nHypopnea 8945 \n(8.8%) \n93274 \n(91.2%) \n56.9% \n(52.2%, \n60.9%) \n91.9% \n(90.9%, \n92.9%) \n88.8% \n(87.7%, \n90.1%) \n59.8% \n(55.6%, \n64.3%) \nObstructive \nHypopnea\n8932 \n(8.7%)\n93287 \n(91.3%)\n56.9% \n(52.2%, \n60.9%)\n91.9% \n(90.9%, \n92.9%)\n88.8% \n(87.7%, \n90.1%)\n59.8% \n(55.7%, \n64.4%)\nDesaturation 15737 \n(15.4%) \n86482 \n(84.6%) \n87.5% \n(85.0%, \n89.4%) \n85.6% \n(83.6%, \n87.5%) \n85.9% \n(84.1%, \n87.5%) \n47.5% \n(40.5%, \n55.0%) \nArousal 15119 \n(14.8%) \n87100 \n(85.2%) \n59.8% \n(54.4%, \n64.7%) \n95.1% \n(94.3%, \n95.8%) \n89.9% \n(89.0%, \n90.7%) \n32.1% \n(28.6%, \n36.3%) \nLeg \nMovement \n4718 \n(4.6%) \n97501 \n(95.4%) \n77.6% \n(74.2%, \n80.6%) \n86.9% \n(84.2%, \n89.3%) \n86.5% \n(83.9%, \n88.7%) \n77.8% \n(72.5%, \n82.4%) \nPeriodic Leg \nMovement \n1977 \n(1.9%) \n100242 \n(98.1%) \n72.0% \n(62.2%, \n78.5%) \n91.4% \n(88.9%, \n93.6%) \n91.0% \n(88.6%, \n93.2%) \n85.8% \n(79.6%, \n91.7%) \nThe heartrate (HR) algorithm was validated using a validation data set consisting of 5 min \ntime inte\nrvals from N=249 PSG night studies recorded with the Onera STS I on 215 unique \npatients. The recordings consist of N=171 studies performed in the home environment in the \nUnited States, acquired from August 2023 to August 2025, and N=78 studies performed in \nthe clinic environment in Germany between September 2022 and April 2024. \nAll the recordings have been manually annotated by 2 independent cardiac technologists. The \ndisagreements in annotations between the 2 annotators were adjudicated by an expert board \ncertified cardiologist from Florida, USA. The final manual annotations constitute the ground \ntruth for validation of the algorithm. \nThe HR output showed an absolute error of less than 3 bpm for over 99% of runs, with only \nbrief transient deviations less than 4s.\nBased on the information included in this submission, it was concluded that the Onera \nSleepMap system is as safe, as effective and performs as well as the legally marketed device \nidentified above. \nPage 12 of 12",
+      "character_count": 2788
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K253668-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 08 . 0 4 \nSilver Spring, MD 20993 \nwww.fda.gov",
+      "extraction_method": "native",
+      "character_count": 130
+    },
+    {
+      "block_id": "K253668-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "March 8, 2026 \nOnera B.V. \nPieter Ermers \nManaging Director \nTorenallee 42-54 \nEindhoven, 5617BD \nNetherlands",
+      "extraction_method": "native",
+      "character_count": 109
+    },
+    {
+      "block_id": "K253668-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K253668 \nTrade/Device Name: Onera SleepMap (SLEEPMAP) \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: November 21, 2025 \nReceived: November 21, 2025",
+      "extraction_method": "native",
+      "character_count": 235
+    },
+    {
+      "block_id": "K253668-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "Dear Pieter Ermers:",
+      "text": "Dear Pieter Ermers:",
+      "extraction_method": "native",
+      "character_count": 19
+    },
+    {
+      "block_id": "K253668-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "We have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "native",
+      "character_count": 1351
+    },
+    {
+      "block_id": "K253668-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K253668-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "Additional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\" \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download).",
+      "extraction_method": "native",
+      "character_count": 377
+    },
+    {
+      "block_id": "K253668-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "K253668 - Pieter Ermers Page",
+      "extraction_method": "native",
+      "character_count": 28
+    },
+    {
+      "block_id": "K253668-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "2 \nYour device is also subject to, among other requirements, the Quality Management System Regulation \n(QMSR) (21 CFR Part 820), which includes, but is not limited to, ISO 13485 clause 7.3 (Design controls), \nISO 13485 clause 8.3 (Nonconforming product), and ISO 13485 clause 8.5 (Corrective and preventative \naction). Please note that regardless of whether a change requires premarket review, the QMSR requires \ndevice manufacturers to review and approve changes to device design and production (ISO 13485 clause 7.3 \nand 21 CFR 820.70) and document changes and approvals in the Medical Device File (21 CFR 820.181).",
+      "extraction_method": "native",
+      "character_count": 617
+    },
+    {
+      "block_id": "K253668-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the Quality Management \nSystem Regulation (QMSR) (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR \nPart 4, Subpart A) for combination products; and, if applicable, the electronic product radiation control \nprovisions (Sections 531-542 of the Act); 21 CFR Parts 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 1112
+    },
+    {
+      "block_id": "K253668-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "All medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.",
+      "extraction_method": "native",
+      "character_count": 920
+    },
+    {
+      "block_id": "K253668-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems.",
+      "extraction_method": "native",
+      "character_count": 351
+    },
+    {
+      "block_id": "K253668-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "For comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "extraction_method": "native",
+      "character_count": 760
+    },
+    {
+      "block_id": "K253668-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "K253668 - Pieter Ermers Page",
+      "extraction_method": "native",
+      "character_count": 28
+    },
+    {
+      "block_id": "K253668-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "3 \nSincerely,",
+      "extraction_method": "native",
+      "character_count": 13
+    },
+    {
+      "block_id": "K253668-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "Jay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health",
+      "extraction_method": "native",
+      "character_count": 262
+    },
+    {
+      "block_id": "K253668-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Pieter Ermers:",
+      "text": "Enclosure",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K253668-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "JAY R. GUPTA -S",
+      "text": "JAY R. GUPTA -S",
+      "extraction_method": "native",
+      "character_count": 15
+    },
+    {
+      "block_id": "K253668-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "I Indications for Use\nPlease type in the marketing application/submission number, if it is known. This\ntextbox will be left blank for original applications/submissions.\nPlease provide the device trade name(s).\nI K253668\nOnera SleepMap (SLEEPMAP)\n[Please provide your Indications for Use below.\nSleepMap system is intended for use as an aid for physicians in the diagnosis of sleep and respiratory\nrelated disorders in adult patients (aged 18 and up), who have been prescribed a sleep study by their\ndoctor.\nSleepMap is a software- only medical device to be used under the supervision of a clinician to analyze\nphysiological signals and automatically score sleep study recordings, including the staging of sleep,\ndetection of arousals, leg movements, desaturations, obstructive apneas and obstructive hypopneas.\nRespiratory event subtypes (central and mixed apneas; central hypopneas), RERA, Cheyne Stokes\nBreathing, Snoring Events, and Arrhythmia Events are not automatically detected and must be manually\nmarked within records.\nAll automatically scored stages and detected events can be manually marked or edited within records\nduring review.\nAll automatically scored stages, detected events and physiological signals which are retrieved, analyzed,\ndisplayed, and summarized are subject to verification by a qualified clinician\nI\nPrescription Use (Part 21 CFR 801 Subpart D)\n[Over-The-Counter Use (21 CFR 801 Subpart C)\nPlease select the types of uses (select one or both, as\napplicable).\nOnera SleepMap Page 9 of 38",
+      "extraction_method": "native",
+      "character_count": 1517
+    },
+    {
+      "block_id": "K253668-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "K253668 Traditional 510(k) Summary \nPrepared in accordance to 21 CFR 807.92 \nContact Details: \nApplicant’s Name and Address: Onera B.V. \nTorenallee 42-54 \n5617BD Eindhoven \nThe Netherlands \nContact Person: Pieter Ermers \nVP Q&R, Managing Director \nEmail: Pieter.Ermers@Onerahealth.com \nPhone: +31 (0)40 308 2177 \nDate submission was prepared: November 20, 2025 \nDevice Name: \nTrade name: Onera SleepMap \nCommon Name: Electroencephalograph \nClassification: 21 CFR 882.1400, Automatic Event Detection \nSoftware For Polysomnograph With \nElectroencephalograph \nPrimary Product Code OLZ \nDevice Class: 2 \nPage 1 of 12",
+      "extraction_method": "native",
+      "character_count": 612
+    },
+    {
+      "block_id": "K253668-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "Device Description Summary: \nOnera SleepMap is a software-only medical device that analyses previously recorded \nphysiological signals obtained during sleep through a polysomnography sleep test with the \nOnera STS I device. SleepMap can analyze at-home or in-lab sleep study recordings of adult \npatients. \nAutomated algorithms are applied to the raw input signals (read from a measurement file in \nthe EDF file format originating from the Onera STS I device) in order to derive additional \nsignals: \n- a heartrate (HR) signal from the raw ECG signal. The heartrate algorithm does not include\nany automated arrhythmia analysis.\n- a quantized position signal from the raw continuous value position signal.\nAdditionally, multiple algorithms are used to interpret the raw and derived signals by \nclassifying sleep stages, sleep events and artifacts. The software automates recognition of the \nfollowing sleep events: obstructive apnea and obstructive hypopnea events, arousal events, \ndesaturation events, leg movement and PLM events. \nThe Onera SleepMap contains the following algorithms: \n- Sleep staging algorithm, a deep learning model (AI-model) which classifies sleep stages,\nbased on EEG, EOG and EMG inputs.\n- Arousals algorithm, a Convolutional Neural Network (AI-model) which predicts arousals,\nbased on sleep stages, EEG, EOG, EMG, ECG and nasal pressure inputs.\n- Desaturation algorithm, a rule-based algorithm which detects events of minimum 3% or 4%\noxygenation drop based on sleep stages and SpO2 signal inputs.\n- Apnea (obstructive) detection, a rule-based algorithm which detects ≥90% nasal pressure\ndrops, based on sleep stages and nasal pressure signal inputs.\n- Hypopneas (obstructive) detection, a rule-based algorithm which detects ≥30% nasal\npressure drops based on sleep stages, nasal pressure signal, arousal events, and desaturation\nevent inputs.\n- Leg Movement algorithm, a rule-based algorithm which detects (repetitive) EMG amplitude\nincreasements, based on sleep stages, EMG signal and respiratory event inputs.\n- Artifact algorithms, rule-based algorithms which detect artifacts, based on SpO2, EEG, EOG,\nEMG and heart rate inputs.\nAdditionally, clinical users can manually annotate: respiratory event subtypes (central and \nmixed apneas and central hypopneas), RERA, Cheyne Stokes Breathing, Snoring Events, and \nArrhythmia Events. \nAutomated Annotations Manual Annotations \nSleep Stages (N1, N2, N3, REM, WAKE) Sleep Stages ( N1, N2, N3, REM, WAKE, \nunstaged*) \nApnea (Obstructive) Apnea (Obstructive, Central*, Mixed*) \nHypopnea (Obstructive) Hypopnea (Obstructive, Central*) \nDesaturation Desaturation \nArousal Arousal \nLeg Movement Leg Movement \nPage 2 of 12",
+      "extraction_method": "native",
+      "character_count": 2691
+    },
+    {
+      "block_id": "K253668-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "Periodic Leg Movement Periodic Leg Movement \nRERA* \nCheyne-Stokes Breathing* \nSnoring* \nArrhythmia* \nSignal artifacts on EEG, EOG, EMG, ECG, \nSpO2, HR signals \nSignal artifacts on EEG, EOG, EMG, ECG, \nSpO2, HR, Respiratory Effort*, Respiratory \nFlow*, Position*, Activity*, Sound* and Nasal \nPressure signals* \n* Events are not automatically detected but can be additionally manually annotated.\nThe raw signals, derived signals and all automated analysis results (annotations) must be \nvisually inspected and reviewed by sleep analysts and physicians prior to the results being \nintegrated into a sleep study report. \nSleepMap calculates aggregated metrics and indexes on the set of annotations resulting from \nthe sleep analyst or physician review and integrates these into a technical sleep report that \ncan be previewed. \nThe technical sleep study report summarizes the sleep stage annotations in a hypnogram, \nprovides the aggregated metrics and indexes, and the technician notes into a PDF document \nwhich is the main output of SleepMap. The technical sleep study report is transferred to the \nOnera Digital Health Platform for storage and is used by the physician to diagnose the sleep \ndisorder. \nIntended Use/Indications for Use: \nSleepMap is intended for use as an aid for physicians in the diagnosis of sleep and respiratory \nrelated disorders in adult patients (aged 18 and up), who have been prescribed a sleep study \nby their doctor. \nSleepMap is a software-only medical device to be used under the supervision of a clinician to \nanalyze physiological signals and automatically score sleep study recordings, including the \nstaging of sleep, detection of arousals, leg movements, desaturations, obstructive apneas and \nobstructive hypopneas. \nRespiratory event subtypes (central and mixed apneas; central hypopneas), RERA, Cheyne \nStokes Breathing, Snoring Events, and Arrhythmia Events are not automatically detected and \nmust be manually marked within records. \nAll automatically detected stages and detected events can be manually marked or edited \nwithin records during review. \nAll automatically scored stages, detected events and physiological signals which are retrieved, \nanalyzed, displayed, and summarized are subject to verification by a qualified clinician. \nThe Onera SleepMap has similar indications as the predicate device. \nLegally marketed Predicate Devices: \nPage 3 of 12",
+      "extraction_method": "native",
+      "character_count": 2401
+    },
+    {
+      "block_id": "K253668-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "510(k) Number Device Name Type \nK162627 EnsoSleep Predicate device \nK162140 RemLogic Reference device \nTechnological Comparison: \nThe table below provides a comparison between the Onera SleepMap and the predicate \ndevice. \nCharacteristic Proposed device Onera \nSleepMap \nPredicate device \nEnsoSleep \nDiscussion \nGeneral \nManufacturer Onera B.V., The \nNetherlands \nEnsoData Inc., USA -- \n510(k) number K253668 K162627 -- \nRegulation number 21 CFR 882.1400 21 CFR 882.1400 Identical \nProduct code OLZ OLZ Identical \nIndications general SleepMap is intended for \nuse as an aid for physicians \nin the diagnosis of sleep \nand respiratory related \ndisorders in adult patients, \n(aged 18 and up), who have \nbeen prescribed a sleep \nstudy by their doctor. \nEnsoSleep is intended for \nuse for the diagnostic \nevaluation by a physician to \nassess sleep quality and as \nan aid for the diagnosis of \nsleep and respiratory \nrelated sleep disorders in \nadults only. \nSimilar \nSleepMap is a software- \nonly medical device to be \nused under the supervision \nof a clinician to analyze \nphysiological signals and \nautomatically score sleep \nstudy recordings, including \nthe staging of sleep, \ndetection of \narousals, leg movements, \ndesaturations, obstructive \napneas and obstructive \nhypopneas. \nEnsoSleep is a software-\nonly medical device to be \nused under the supervision \nof a clinician to analyze \nphysiological signals and \nautomatically score sleep \nstudy results, including the \nstaging of sleep, detection \nof arousals, leg movements, \nand sleep disordered \nbreathing events including \nobstructive apneas. \nSimilar \nRespiratory event subtypes \n(central and mixed apneas; \ncentral hypopneas), RERA, \nCheyne Stokes Breathing, \nSnoring Events, and \nArrhythmia Events are not \nautomatically detected and \nmust be manually marked \nwithin records. \nCentral apneas, mixed \napneas, and hypopneas \nmust be manually marked \nwithin records. \nSimilar. \nPage 4 of 12",
+      "extraction_method": "native",
+      "character_count": 1945
+    },
+    {
+      "block_id": "K253668-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "Characteristic Proposed device Onera \nSleepMap \nPredicate device \nEnsoSleep \nDiscussion \nAll automatically scored \nstages and detected events \ncan be manually marked or \nedited within records \nduring review. \nAll automatically scored \nstages, detected events \nand physiological signals \nwhich are retrieved, \nanalyzed, displayed, and \nsummarized are subject to \nverification by a qualified \nclinician. \nAll automatically scored \nevents are subject to \nverification by a qualified \nclinician \nSimilar \nIndications – \nEnvironment \nPhysician office (data \nanalysis \nand reporting). \nNo limitation \non where data are \nacquired. \nPhysician office (data \nanalysis \nand reporting). \nNo limitation \non where data are \nacquired. \nIdentical \nPatient population Adults only Adults only Identical \nOperating principle 1. Automated analysis of\nsleep study data\n2. Review by a qualified\nclinician\n3. Making the data\navailable for display in a\nreport\n1. Automated analysis of\nsleep study data\n2. Review by a qualified\nclinician\n3. Making the data\navailable for display in a\nreport\nIdentical \nSystem setup • Processing, scoring and\nanalysis of signal data:\ncloud servers\n• Reviewing, report\ngeneration:\ncloud server & browser\nbased\n• Processing, scoring and\nanalysis of signal data:\ncloud servers\n• Reviewing, report\ngeneration:\nstand-alone PC\napplication\nSimilar \nGeneric performance data \nInput signals • EEG\n• EOG\n• EMG\n• SpO2\n• ECG\n• Respiratory Effort\n• Respiratory Flow\n• Position\n• Activity\n• Sound SPL\n• Nasal pressure\n• EMG leg\n• EEG\n• EOG\n• EMG\n• SpO2\n• ECG\n• Respiratory Effort\n• Respiratory Flow\n• Position\n• Activity\n• Sound SPL\n• Nasal pressure\n• EMG leg\n• Pulse Rate\nSimilar \nThe subject device derives \nthe heart rate from the \nECG, whilst the predicate \ndevice uses pulse rate as an \ninput. The difference is not \ndeemed to be clinically \nrelevant. \nPage 5 of 12",
+      "extraction_method": "native",
+      "character_count": 1863
+    },
+    {
+      "block_id": "K253668-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "Characteristic Proposed device Onera \nSleepMap \nPredicate device \nEnsoSleep \nDiscussion \nDerived signals • Heart rate (ECG derived) NA \n- \nDifferent \nThe subject device derives \nthe heart rate from the \nECG, whilst the predicate \ndevice uses pulse rate as an \ninput. \nThis difference does not \nlead to different questions \nof safety and effectiveness \nas the technology is similar \nto the technology used in \nthe reference device Embla \nSystems (Natus), RemLogic \n(K162140) and V&V results \nshowed the used algorithm \nis sufficiently accurate, see \nDHF8001094 HR \nAlgorithm validation report \n• Quantized Position • Quantized Position Different \nThe subject device derives \nthe Quantized position \nfrom the continuous \nposition signal, whilst the \npredicate device uses \nquantized position as an \ninput. \nThis difference does not \nlead to different questions \nof safety and effectiveness \nas the technology is similar \nto the technology used in \nthe reference device Embla \nSystems (Natus), RemLogic \n(K162140) and V&V results \nshowed the used algorithm \nis sufficiently accurate, see \nDHF8001152_Body \nposition validation report \nSleep stages \n(annotations; \nautomatically scored) \n• Wake\n• N1\n• N2\n• N3\n• REM\n• Wake\n• N1\n• N2\n• N3\n• REM\nIdentical \nSee DHF8001073 \nAutomated scoring \nperformance validation \nreport. \nPage 6 of 12",
+      "extraction_method": "native",
+      "character_count": 1330
+    },
+    {
+      "block_id": "K253668-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "Characteristic Proposed device Onera \nSleepMap \nPredicate device \nEnsoSleep \nDiscussion \nSleep events \n(annotations; \nautomatically \ndetected) \n• Arousal events\n• Desaturation events\n• Respiratory events\n(apnea obstructive and\nhypopnea obstructive)\n• Leg movement events,\nPeriodic Leg Movement\n• Artifact events (HR,\nSpO2, EEG, EOG, EMG,\nECG)\n• Arousal events\n• Respiratory events\n(apnea and hypopnea)\n• Leg movement events\nSimilar \nThe subject device \nidentifies and scores \nartifacts based on the input \nsignal quality indicators \n(error values) \nThe difference is not \ndeemed to be clinically \nrelevant. \nSleep events \n(annotations; \nmanually scored) \n• Respiratory event\nsubtypes (apnea central,\napnea mixed,\nhypopneas central)\n• RERA\n• Cheyne Stokes\nBreathing\n• Snoring Events\n• Arrhythmia Events\n• Artifacts events\n(Respiratory Effort,\nRespiratory Flow,\nPosition, Activity, Sound,\nNasal Pressure signals)\nYes, requires 3rd party sleep \nstudy viewer \nDifferent \nThe subject device allows \nthat annotations be \nmanually scored within the \nsignal viewer. This \ndifference does not raise \ndifferent questions of \nsafety and effectiveness. \nManual annotation \nediting \n(stages, events) \n• Wake\n• N1\n• N2\n• N3\n• REM\n• Arousal events\n• Desaturation Events\n• Respiratory events\n(apnea obstructive and\nhypopnea obstructive)\n• Leg movement events\n• Artifact events (HR,\nSpO2, EEG, EOG, EMG,\nECG)\n• Unstaged\n• Respiratory subevents\n(apnea central, apnea\nmixed, hypopnea central)\n• RERA\n• Cheyne Stokes\nBreathing\n• Snoring Events\n• Arrhythmia Events\n• Artifact events\n(Respiratory effort,\nRespiratory flow,\nPosition, Activity, Sound,\nNasal pressure signals)\nYes, requires 3rd party sleep \nstudy viewer \nDifferent \nThe subject device allows \nthat annotations be \nmanually edited within the \nsignal viewer. This \ndifference does not raise \ndifferent questions of \nsafety and effectiveness. \nPage 7 of 12",
+      "extraction_method": "native",
+      "character_count": 1895
+    },
+    {
+      "block_id": "K253668-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "Characteristic Proposed device Onera \nSleepMap \nPredicate device \nEnsoSleep \nDiscussion \nSleep study statistics • Total recording time\n• Lights Off/On\n• Total sleep time\n• Total/% time in sleep\nstages\n• Sleep Latency\n• Wake After Sleep Onset\n• Sleep Efficiency\n• REM latency\n• Total recording time\n• Lights Off/On\n• Total sleep time\n• Total/% time in sleep\nstages\n• Sleep Latency\n• Wake After Sleep Onset\n• Sleep Efficiency\n• REM latency\nIdentical \nSleep study metrics • Respiratory\n• SpO2\n• Arousal\n• Snoring\n• Position\n• Cardiac\n• Arrhythmia\n• Movements\n• Respiratory\n• SpO2\n• Arousal\n• Snoring\n• Position\n• Cardiac\n• Arrhythmia\n• Movements\nIdentical \nTechnical characteristics \nAutomated study \nupload and \ndownload \nYes Yes Identical \nAutomatically \ninitiates study \nscoring \nYes Yes Identical \nAllows editing in \nsleep study viewers \nYes, within SleepMap Yes, requires 3rd party \nsleep study viewer \nDifferent \nThe subject device allows \nannotations to be edited \nwithin the signal viewer. \nThis difference does not \nraise different questions of \nsafety and effectiveness. \nSleep study \nreporting \nYes Yes Identical \nCompatible input \ndevices \nOnera STS I Various PSG systems Different \nThe subject device is \nintended for analyzing \nmeasurement data from a \nsingle input device, whilst \nthe predicate device \nsupports multiple PSG \nsystems. \nThis difference does not \nraise different questions of \nsafety and effectiveness. \nInput data format EDF EDF Identical \nReport data format PDF PDF Identical \nPage 8 of 12",
+      "extraction_method": "native",
+      "character_count": 1518
+    },
+    {
+      "block_id": "K253668-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "Characteristic Proposed device Onera \nSleepMap \nPredicate device \nEnsoSleep \nDiscussion \nCompatibility Browser-based \n(Microsoft Edge or Google \nChrome) \nOperates on any PC with \nWindows 7 and 8 operating \nsystem platforms. \nSimilar. \nThe difference in \ncompatibility depends on \nthe system setup. \nTherefore, this difference \ndoes not raise new \nquestions on safety or \neffectiveness. \nCybersecurity Authentication controls, \nauthorization controls, \ncryptographic controls, \naccess controls, \nintegrity controls, \nintrusion & availability \nmonitoring controls, and \ndatabase controls. \nAuthentication controls, \nauthorization controls, \ncryptographic controls, \naccess \ncontrols, checksum \ncontrols, \nsoftware distribution \ncontrols, \nintrusion detection system \ncontrols, network and \nsystems \ncontrols, and database \ncontrols. \nSimilar. \nThe differences in \ncybersecurity controls \ndepends on the system \nsetup. Therefore, this \ndifference does not raise \nnew questions on safety or \neffectiveness. \nCloud Service \nprovider \nAWS AWS Identical \nNetwork \nrequirements \nHigh-speed internet \nconnection, above 200 \nkb/s \nrecommended. \nHigh-speed internet \nconnection, above 200 \nkb/s \nrecommended. \nIdentical \nThe Onera SleepMap has similar indications as the predicate device, where some elements of \nthe indications have been rephrased to be more specific. \nThe Onera SleepMap has the same technological characteristics as the predicate device \nexcept for the following features: \n- The Onera SleepMap is a native cloud-based application (browser) where the predicate\ndevice is a server connected PC application (executable)\n- The Onera SleepMap derives the heart rate from the ECG input signal, where the\npredicate device utilizes both ECG and pulse rate as input signals.\n- The Onera SleepMap allows for the manual review and editing of annotations within\nthe application, where the predicate device requires a third-party sleep study viewer.\n- The Onera SleepMap applies automated algorithms on PSG measurements acquired\nwith Onera STS I devices only, where the predicate device is measurement device\nagnostic.\nThese differences do not raise new questions on the safety or effectiveness of the Onera \nSleepMap. \nPage 9 of 12",
+      "extraction_method": "native",
+      "character_count": 2229
+    },
+    {
+      "block_id": "K253668-P014-B001",
+      "page": 14,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "Summary of non-clinical testing: \nCompliance with the following standards, applicable to the system, was verified: \n- EN IEC 62304:2006/A1:2015\n- EN 82304-1:2017\n- EN ISO 20417:2021\n- EN ISO 15223-1:2021\nDocumentation was prepared as recommended in FDA’s Guidance for Industry and FDA \nStaff, ‘Guidance for the Content of Premarket Submissions for Software Contained in \nMedical Devices’. \nFor the Onera SleepMap system, a usability engineering process was followed to ensure \nusability risks were sufficiently mitigated. The Usability engineering activities and report \nconcludes that the system was found to be safe and effective to use: \n• Onera SleepMap can be used by representative users under simulated use conditions\nwithout producing patterns of failures that could result in harm to users and has been\nfound to be reasonably safe and effective for those intended users, uses, and use\nenvironments.\n• The instructions provided in the Instructions for Use, Clinician guide and the\nCloudOps playbook are effective, as demonstrated by overall usability findings and\nqualitative feedback.\nSummary of clinical testing: \nThe Automated Scoring Service AI models and algorithms (sleep staging, arousal event \ndetection, desaturation event detection, obstructive apnea event detection, obstructive \nhypopnea event detection, leg movement and PLM event detection) have been validated \nusing a validation data set consisting of 98 PSG night studies recorded with the Onera STS I \ndevice on 98 unique patients. The recordings consist of N=72 studies performed in the home \nenvironment in the United States, acquired from August 2023 to August 2025, and N=26 \nstudies performed in the clinic environment in Germany, acquired from September 2022 to \nApril 2024. \nAll the recordings have been manually analyzed/scored by 3 independent, US based \ncertified sleep professionals in compliance with AASM scoring guidelines.\nA 2 out of 3 (2/3) majority scoring is constructed as ground truth reference to evaluate the \nAutomated Scoring Service algorithms performance. \nFor all evaluated metrics, the performance point-estimate is calculated from the cross-\nsectional data. Confidence Interval (CI) is calculated as two-sided 95% bootstrap percentile \nmethod (R=1000 resamples) of using subjects as the resampling unit. \nThe following formulas have been used in the tables below: \nPage 10 of 12",
+      "extraction_method": "native",
+      "character_count": 2383
+    },
+    {
+      "block_id": "K253668-P015-B001",
+      "page": 15,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "Agreement metrics definition, where TP = true positive, FN = false negative, \nFP = false positive, TN = true negative. \nPositive agreement (PA) = 100% * TP / (TP + FN) \nNegative agreement (NA) = 100% * TN / (FP + TN) \nOverall agreement (OA) = 100% * (TP +TN) / (TP + FP + TN + FN) \nFalse Discovery Rate (FDR) = 100% * FP / (FP + TP) \nSleep Staging Performance\nOverall-Epochs SleepMap vs 2/3 Majority Sleep Staging Performance \n(N=98 subjects, 98937 \nepochs) \nPoint-estimate of Percent Agreement (%) with 95% percentile bootstrap confidence \ninterval (R=1000 resamples of subjects) \nPositive \nEpochs \nNegative \nEpochs \nPositive \nAgreement (PA) \nNegative \nAgreement (NA) \nOverall \nAgreement (OA) \nFalse Discovery \nRate (FDR) \nWake 19738 \n(19.3%) \n79199 \n(77.5%) \n82.5% \n(78.9%, \n85.5%) \n98.4% \n(97.6%, \n99.1%) \n95.3% \n(94.1%, \n96.2%) \n7.1% \n(4.3%, \n10.2%) \nN1 1316 \n(1.3%) \n97621 \n(95.5%) \n69.6% \n(65.0%, \n74.5%) \n91.2% \n(89.9%, \n92.4%) \n90.9% \n(89.5%, \n92.1%) \n90.4% \n(89.1%, \n91.6%) \nN2 51752 \n(50.6%) \n47185 \n(46.2%) \n75.4% \n(72.3%, \n78.4%) \n92.1% \n(91.0%, \n93.2%) \n83.4% \n(81.5%, \n85.2%) \n8.7% \n(7.4%, \n10.1%) \nN3 9025 \n(8.8%) \n89912 \n(88.0%) \n85.6% \n(82.9%, \n88.4%) \n93.9% \n(92.1%, \n95.4%) \n93.2% \n(91.6%, \n94.4%) \n41.4% \n(34.1%, \n48.4%) \nREM 17106 \n(16.7%) \n81831 \n(80.1%) \n82.7% \n(79.8%, \n85.4%) \n97.8% \n(97.1%, \n98.3%) \n95.2% \n(94.5%, \n95.8%) \n11.5% \n(8.8%, \n14.7%) \nTotal 98937 \n(96.8%) - \n78.9% \n(76.8%, \n81.0%) \n94.7% \n(94.2%, \n95.2%) \n91.6% \n(90.7%, \n92.4%) \n21.1% \n(19.0%, \n23.2%) \nDisagreeme\nnt epochs* \n3282 \n(3.2%) - - - - - \n’Disagreement epochs’ represents epochs (n=3282) which are excluded from the sleep staging performance validation, as for \nthese epochs the scorers did not reach a 2/3 majority agreement and thus a ground-truth could not be obtained. The scoring \nwas performed by three independent US certified sleep professionals. \nPage 11 of 12",
+      "extraction_method": "native",
+      "character_count": 1870
+    },
+    {
+      "block_id": "K253668-P016-B001",
+      "page": 16,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "JAY R. GUPTA -S",
+      "text": "Sleep Event Performance\nOverall-Epochs SleepMap vs 2/3 Majority Sleep Detection of Sleep Events Performance \n(N=98 subjects, 102219 \nepochs) \nPoint-estimate of Percent Agreement (%) with 95% percentile bootstrap confidence \ninterval (R=1000 resamples of subjects) \nPositive \nEpochs \nNegative \nEpochs \nPositive \nAgreement (PA) \nNegative \nAgreement (NA) \nOverall \nAgreement (OA) \nFalse Discovery \nRate (FDR) \nSleep \nDisordered \nBreathing \n15836 \n(15.5%) \n86383 \n(84.5%) \n78.2% \n(72.8%, \n82.7%) \n90.7% \n(89.7%, \n91.7%) \n88.8% \n(87.7%, \n89.8%) \n39.3% \n(32.8%, \n46.6%) \nApnea 6582 \n(6.4%) \n95637 \n(93.6%) \n85.7% \n(79.0%, \n89.9%) \n97.0% \n(96.4%, \n97.6%) \n96.3% \n(95.6%, \n96.9%) \n33.6% \n(25.6%, \n46.1%) \nObstructive \nApnea \n4753 \n(4.6%) \n97466 \n(95.4%) \n84.5% \n(75.3%, \n89.7%) \n95.4% \n(94.1%, \n96.6%) \n94.9% \n(93.6%, \n96.0%) \n52.7% \n(41.2%, \n67.1%) \nHypopnea 8945 \n(8.8%) \n93274 \n(91.2%) \n56.9% \n(52.2%, \n60.9%) \n91.9% \n(90.9%, \n92.9%) \n88.8% \n(87.7%, \n90.1%) \n59.8% \n(55.6%, \n64.3%) \nObstructive \nHypopnea\n8932 \n(8.7%)\n93287 \n(91.3%)\n56.9% \n(52.2%, \n60.9%)\n91.9% \n(90.9%, \n92.9%)\n88.8% \n(87.7%, \n90.1%)\n59.8% \n(55.7%, \n64.4%)\nDesaturation 15737 \n(15.4%) \n86482 \n(84.6%) \n87.5% \n(85.0%, \n89.4%) \n85.6% \n(83.6%, \n87.5%) \n85.9% \n(84.1%, \n87.5%) \n47.5% \n(40.5%, \n55.0%) \nArousal 15119 \n(14.8%) \n87100 \n(85.2%) \n59.8% \n(54.4%, \n64.7%) \n95.1% \n(94.3%, \n95.8%) \n89.9% \n(89.0%, \n90.7%) \n32.1% \n(28.6%, \n36.3%) \nLeg \nMovement \n4718 \n(4.6%) \n97501 \n(95.4%) \n77.6% \n(74.2%, \n80.6%) \n86.9% \n(84.2%, \n89.3%) \n86.5% \n(83.9%, \n88.7%) \n77.8% \n(72.5%, \n82.4%) \nPeriodic Leg \nMovement \n1977 \n(1.9%) \n100242 \n(98.1%) \n72.0% \n(62.2%, \n78.5%) \n91.4% \n(88.9%, \n93.6%) \n91.0% \n(88.6%, \n93.2%) \n85.8% \n(79.6%, \n91.7%) \nThe heartrate (HR) algorithm was validated using a validation data set consisting of 5 min \ntime inte\nrvals from N=249 PSG night studies recorded with the Onera STS I on 215 unique \npatients. The recordings consist of N=171 studies performed in the home environment in the \nUnited States, acquired from August 2023 to August 2025, and N=78 studies performed in \nthe clinic environment in Germany between September 2022 and April 2024. \nAll the recordings have been manually annotated by 2 independent cardiac technologists. The \ndisagreements in annotations between the 2 annotators were adjudicated by an expert board \ncertified cardiologist from Florida, USA. The final manual annotations constitute the ground \ntruth for validation of the algorithm. \nThe HR output showed an absolute error of less than 3 bpm for over 99% of runs, with only \nbrief transient deviations less than 4s.\nBased on the information included in this submission, it was concluded that the Onera \nSleepMap system is as safe, as effective and performs as well as the legally marketed device \nidentified above. \nPage 12 of 12",
+      "extraction_method": "native",
+      "character_count": 2788
+    }
+  ],
+  "claims": []
+}

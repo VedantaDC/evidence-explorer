@@ -1,0 +1,419 @@
+{
+  "document": {
+    "k_number": "K963631",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "SLEEP STUDY ANALYSIS (SSA) VERSION 96.10",
+    "applicant": "Omega Results",
+    "decision_date": "1997-04-02",
+    "document_type": "Statement",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf/K963631.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K963631",
+    "sha256": "05c0083aae196fdff134f293c456797cbe48737c57ab9d0457be84d4ebdad022",
+    "page_count": 3,
+    "native_pages": 0,
+    "ocr_pages": 3,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "weattyy\nof 4,\n\nVICE,\nsp SHRVlCes\nes “sy\n\n4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\nMer\n\n“om,\na0 Food and Drug Administration\n\n10903 New Hampshire Avenue\nDocument Control Room ~W066-G609\nSilver Spring, MD 20993-0002\n\nMs. Kay Spiekerman Eason\n\nOmega Results, Inc.\n\n3322 Shorecrest, Suite 235 APR -9 2012\nDallas, Texas 75235\n\nRe: K963631\nTrade/Device Name: Sleep Study Analysis (SSA) Version 96.10\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLZ\nDated (Date on orig SE ltr): December 31, 1996\nReceived (Date on orig SE Itr): January 3, 1997\n\nDear Ms. Eason:\nThis letter corrects our substantially equivalent letter of April 2, 1997.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\n\nIf your device is classified (see above) into either class JI (Special Controls) or class II] (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 2119
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Ms. Kay Spiekerman Eason\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/A boutFDA/CentersOffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\n\nhttp://www. fda.gov/MedicalDevices/Resourcesfor Y ow/Industry/default.htm.\n\nSincerely yours,\n\ndoa, (Lleyoncly\n\nMalvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health\n\nEnclosure",
+      "character_count": 1978
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "10(k) Number (if mown):___K963631\n\nevice Name: Sleep Study Analyzer\n\n‘dications For Use:\n\nThis product is indicated for usc under the supervision of a Physician.\n\nThis product is indicated for usc in te computer aided scoring of sleep study recordings.\n\nPATIENT POPULATION\nSSA is intended for usc in the adult population with suspected disorders of slcep.\n\nPHYSIOLOGICAL PARAMETERS\nSSA is intended for use in providing computer assisted human review of the following physiological\nparameters for the purpose of staging and identifying events in sleep:\nElectroencephalogram\nElectromyogran_ -\nElectrocardiogram\nRespiratory Effort.\nRespiratory Air Flow\nPulse Oximetery\n\nCLINICAL UTILITY OF SUMMARY REPORT OUTPUT\n\nThe clinical utility of SSA summary report output is to assist a trained clinician in the review of\npolysomnographic recordings so that the clinician may more easily identify sicep stage events. SSA is\nindicated for use only when operated by a trained clinician who reviews and detennines the presence of\nsleep stage events . SSA is in no way intended to replace a human clinician in discriminating the\nexistence and type of any sleep event which nity have occurred.\n\nENVIRONMENT OF USE\nSSA is indicated for use in a hospital sleep laboratory or a free standing sleep laboratory.\n\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n\nooh Werder S30 97\n\n(Division Sign-Off)\nDivision of Cardiovascular, Respiratory,\nand Neurological Devices\n510{k) Number.\n*rescription Use OR\n\nOver-The-Counter Use\nPer 21 CFR 801.109) .\n\n1-3 (Optional Format 1-2-96)",
+      "character_count": 1560
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K963631-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "weattyy\nof 4,",
+      "extraction_method": "ocr",
+      "character_count": 13
+    },
+    {
+      "block_id": "K963631-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "VICE,\nsp SHRVlCes\nes “sy",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K963631-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "ocr",
+      "character_count": 61
+    },
+    {
+      "block_id": "K963631-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "Mer",
+      "extraction_method": "ocr",
+      "character_count": 3
+    },
+    {
+      "block_id": "K963631-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "“om,\na0 Food and Drug Administration",
+      "extraction_method": "ocr",
+      "character_count": 36
+    },
+    {
+      "block_id": "K963631-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "10903 New Hampshire Avenue\nDocument Control Room ~W066-G609\nSilver Spring, MD 20993-0002",
+      "extraction_method": "ocr",
+      "character_count": 88
+    },
+    {
+      "block_id": "K963631-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "Ms. Kay Spiekerman Eason",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K963631-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "Omega Results, Inc.",
+      "extraction_method": "ocr",
+      "character_count": 19
+    },
+    {
+      "block_id": "K963631-P001-B009",
+      "page": 1,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "3322 Shorecrest, Suite 235 APR -9 2012\nDallas, Texas 75235",
+      "extraction_method": "ocr",
+      "character_count": 58
+    },
+    {
+      "block_id": "K963631-P001-B010",
+      "page": 1,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "Re: K963631\nTrade/Device Name: Sleep Study Analysis (SSA) Version 96.10\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLZ\nDated (Date on orig SE ltr): December 31, 1996\nReceived (Date on orig SE Itr): January 3, 1997",
+      "extraction_method": "ocr",
+      "character_count": 279
+    },
+    {
+      "block_id": "K963631-P001-B011",
+      "page": 1,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "Dear Ms. Eason:\nThis letter corrects our substantially equivalent letter of April 2, 1997.",
+      "extraction_method": "ocr",
+      "character_count": 90
+    },
+    {
+      "block_id": "K963631-P001-B012",
+      "page": 1,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "ocr",
+      "character_count": 1033
+    },
+    {
+      "block_id": "K963631-P001-B013",
+      "page": 1,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "If your device is classified (see above) into either class JI (Special Controls) or class II] (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "ocr",
+      "character_count": 367
+    },
+    {
+      "block_id": "K963631-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "Page 2 - Ms. Kay Spiekerman Eason",
+      "extraction_method": "ocr",
+      "character_count": 33
+    },
+    {
+      "block_id": "K963631-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K963631-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/A boutFDA/CentersOffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 651
+    },
+    {
+      "block_id": "K963631-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "You may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address",
+      "extraction_method": "ocr",
+      "character_count": 243
+    },
+    {
+      "block_id": "K963631-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "http://www. fda.gov/MedicalDevices/Resourcesfor Y ow/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 74
+    },
+    {
+      "block_id": "K963631-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "Sincerely yours,",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K963631-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "doa, (Lleyoncly",
+      "extraction_method": "ocr",
+      "character_count": 15
+    },
+    {
+      "block_id": "K963631-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "Malvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 176
+    },
+    {
+      "block_id": "K963631-P002-B009",
+      "page": 2,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "Enclosure",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K963631-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "10(k) Number (if mown):___K963631",
+      "extraction_method": "ocr",
+      "character_count": 33
+    },
+    {
+      "block_id": "K963631-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "text": "evice Name: Sleep Study Analyzer",
+      "extraction_method": "ocr",
+      "character_count": 32
+    },
+    {
+      "block_id": "K963631-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "‘dications For Use:",
+      "text": "‘dications For Use:",
+      "extraction_method": "ocr",
+      "character_count": 19
+    },
+    {
+      "block_id": "K963631-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "‘dications For Use:",
+      "text": "This product is indicated for usc under the supervision of a Physician.",
+      "extraction_method": "ocr",
+      "character_count": 71
+    },
+    {
+      "block_id": "K963631-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "‘dications For Use:",
+      "text": "This product is indicated for usc in te computer aided scoring of sleep study recordings.",
+      "extraction_method": "ocr",
+      "character_count": 89
+    },
+    {
+      "block_id": "K963631-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "‘dications For Use:",
+      "text": "PATIENT POPULATION\nSSA is intended for usc in the adult population with suspected disorders of slcep.",
+      "extraction_method": "ocr",
+      "character_count": 101
+    },
+    {
+      "block_id": "K963631-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "‘dications For Use:",
+      "text": "PHYSIOLOGICAL PARAMETERS\nSSA is intended for use in providing computer assisted human review of the following physiological\nparameters for the purpose of staging and identifying events in sleep:\nElectroencephalogram\nElectromyogran_ -\nElectrocardiogram\nRespiratory Effort.\nRespiratory Air Flow\nPulse Oximetery",
+      "extraction_method": "ocr",
+      "character_count": 308
+    },
+    {
+      "block_id": "K963631-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "heading",
+      "section": "CLINICAL UTILITY OF SUMMARY REPORT OUTPUT",
+      "text": "CLINICAL UTILITY OF SUMMARY REPORT OUTPUT",
+      "extraction_method": "ocr",
+      "character_count": 41
+    },
+    {
+      "block_id": "K963631-P003-B009",
+      "page": 3,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "CLINICAL UTILITY OF SUMMARY REPORT OUTPUT",
+      "text": "The clinical utility of SSA summary report output is to assist a trained clinician in the review of\npolysomnographic recordings so that the clinician may more easily identify sicep stage events. SSA is\nindicated for use only when operated by a trained clinician who reviews and detennines the presence of\nsleep stage events . SSA is in no way intended to replace a human clinician in discriminating the\nexistence and type of any sleep event which nity have occurred.",
+      "extraction_method": "ocr",
+      "character_count": 466
+    },
+    {
+      "block_id": "K963631-P003-B010",
+      "page": 3,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "CLINICAL UTILITY OF SUMMARY REPORT OUTPUT",
+      "text": "ENVIRONMENT OF USE\nSSA is indicated for use in a hospital sleep laboratory or a free standing sleep laboratory.",
+      "extraction_method": "ocr",
+      "character_count": 111
+    },
+    {
+      "block_id": "K963631-P003-B011",
+      "page": 3,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "CLINICAL UTILITY OF SUMMARY REPORT OUTPUT",
+      "text": "Concurrence of CDRH, Office of Device Evaluation (ODE)",
+      "extraction_method": "ocr",
+      "character_count": 54
+    },
+    {
+      "block_id": "K963631-P003-B012",
+      "page": 3,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "CLINICAL UTILITY OF SUMMARY REPORT OUTPUT",
+      "text": "ooh Werder S30 97",
+      "extraction_method": "ocr",
+      "character_count": 17
+    },
+    {
+      "block_id": "K963631-P003-B013",
+      "page": 3,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "CLINICAL UTILITY OF SUMMARY REPORT OUTPUT",
+      "text": "(Division Sign-Off)\nDivision of Cardiovascular, Respiratory,\nand Neurological Devices\n510{k) Number.\n*rescription Use OR",
+      "extraction_method": "ocr",
+      "character_count": 120
+    },
+    {
+      "block_id": "K963631-P003-B014",
+      "page": 3,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "CLINICAL UTILITY OF SUMMARY REPORT OUTPUT",
+      "text": "Over-The-Counter Use\nPer 21 CFR 801.109) .",
+      "extraction_method": "ocr",
+      "character_count": 42
+    },
+    {
+      "block_id": "K963631-P003-B015",
+      "page": 3,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "CLINICAL UTILITY OF SUMMARY REPORT OUTPUT",
+      "text": "1-3 (Optional Format 1-2-96)",
+      "extraction_method": "ocr",
+      "character_count": 28
+    }
+  ],
+  "claims": []
+}

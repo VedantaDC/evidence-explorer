@@ -1,0 +1,1095 @@
+{
+  "document": {
+    "k_number": "K970951",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "GRASS BRAINWAVE SOFTWARE",
+    "applicant": "Astro-Med, Inc.",
+    "decision_date": "1997-05-19",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf/K970951.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K970951",
+    "sha256": "614cc5ac25cb118e42ebd70598ce3c36022a5a51851bf34788a60a36fc259fef",
+    "page_count": 9,
+    "native_pages": 0,
+    "ocr_pages": 9,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "ote\n\nK9909S8]\n\nEXHIBIT A MAY 19 j997\nGrass@ instrument Division\nAstro-Med, Inc.\nAstro-Med Industrial Park\nWest Warwick, RI 02893 USA\nTel: (401) 828-4000\nFax: (401) 822-2430\nContact Person: Steve Johnson\nFebruary 20, 1997\n\n§10(k) Summary of Safety and Effectiveness\nGrass® NightVision Software i\n\n1. Identification of the Device\n\nClassification Name: Electroencephalograph, oLy > Reg.# 882.1400\nCommon/Usual Name: Polysomnograph/Electroencephalograph Software\n\nProprietary-Trade Name: Grass® Brainwore PSG/EEG Software\n\n2. Equivalent Legally Marketed Devices\n\nThis product is similar in design, function, and intended use to the Stellate Systems Eclipse\nsoftware and the Melville Diagnostics Sandman™ sofiware systems.\n\nLike these equivalent software products, Grass® Night Vision is designed to run ona\npersonal computer platform and interface with signal conditioners/amplifiers to: monitor\nthe signals in a real-time graphical “chart” view on the computer monitor, digitize and\nstore the signals to the computer’s hard drive, replay the data on-screen, simplify the\nmarking and tabulation of diagnostically significant events and measurements, and\ngenerate summary reports and graphs for technologist/physician review.",
+      "character_count": 1220
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "4. Theory of Operation and Description of the Device\n\nThe Grass® NightVision is a Microsoft Windows95™ application software package for\nmonitoring, recording, and reviewing physiological signals. It includes features for\nassisting the user with making measurements, marking significant events, and tabulating\nthe events for easier interpretation. The software consists of two major modules, the\nRecorder and the Reviewer, and several minor modules for setup, montage editing, file\nmanagement, and report generation. Together with a personal computer and a set of\nphysiological signal conditioners (like the Grass® Model 15 amplifier system), the\nNightVision software enables the user to replace or upgrade traditional strip-chart\nrecorders used in the sleep laboratory with modern, digital recording and review methods.\n\nThe Recorder module interfaces with an off-the-shelf A/D board (National Instruments\nAT-MIO-64E3) using a software driver library supplied with the board. A set of user\nspecified channels (1 to 32) are sequentially sampled, digitized, and displayed on the\nscreen in graphical, chart-recorder format, mimicking the traditional paper based strip-\nchart recorders. The Recorder module allows the user to specify the digitizing sample rate\nand a recording montage (the channel set, labels, and amplifier settings) to use for the\nrecording session. The operator has manual control over the start and stop of the\nrecording, much like a tape recorder. In addition, the user can vary the settings of each\non-screen “pen” (color, position, sensitivity, etc.) and can also make user definable event\nmarks for annotation of the recording. The effect is a “virtual” strip-chart recorder where\nthe signal data is saved to the computer’s hard disk. This module creates two files, the\nwaveform data file and a log file of the user keyed real-time annotations.\n\nThe Reviewer module allows the technologist/physician to review a previously recorded\ndata file on-screen. The recording data is displayed in a high-resolution window with\ncontrols for paging forward and backward, expanding/compressing the time scale,\nadjusting the trace settings (color, position, sensitivity, etc.), and for making accurate\nmeasurements of amplitude, time, and other statistics. Additionally, tools are provided for\ntagging each “page” of data with a “sleep stage” and for adding event mark tags to\nsignificant waveform segments. This module creates one new file, the “scoring” file,\nwhich conteins a table of all of the “pages” in the file with the tabulations of the sleep\nstages, user entered event marks, and any other information derived during the reviewing\nsession.\n\nThe Report Generator module takes the “scoring file” table generated during the review\nprocess and processes it into a more easily readable, condensed and formatted report.\nFrom the raw scoring tabulations, the report generator creates totals, averages, minimums,\nmaximums, and correlates the different events. The result is a text report that reduces an\naverage of about 1000 pages of recorded raw data into 2 to 5 pages of summary data and\ngraphs for easier interpretation.",
+      "character_count": 3135
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "The Montage Editor and File Management utilities are for creating and editing recording\nsetups (channel labels, amplifier settings, trace attributes, etc.) and for copying/archiving\nrecording files, respectively.\n\nImportant Note:\n\nThe Grass® NightVision software relies completely on manual user assignments of sleep\nstage and other significant event marks. NightVision uses the power of the computer\nwhenever possible to aid and speed the scoring and review of the data files by keeping\ntrack of relevant signal information (duration, time, signal size, etc.) associated with each\nuser marked event.\n\nUnlike some competitive products on the market, it makes no determination of clinically\nsignificant events automatically using algorithms (like apneas or sleep stages). The\n\nsoftware does not make any judgement of normality or abnormality of any displayed or\nrecorded signal data or the results or any analysis. The software ts not represented as\n\nbeing in and of itself diagnostic.\n\nGrass® Instruments supports the position of the American Sleep Disorders Association\nthat every page of the recording must be manually reviewed due the complexity of the\nmulti-parameter recordings and the confounding aspects of movement and other artifacts\n\ntypical in an all-night sleep recording.\n\ni",
+      "character_count": 1287
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "5.\n\nDraft Advertisement",
+      "character_count": 23
+    },
+    {
+      "page": 5,
+      "extraction_method": "ocr",
+      "text": "piytmrrnnn nemo\n\n®Grass NightVision PSG Astro-Med, Inc.\nDigital PSG/EEG Software\n\nAenea path\n\nECR TR TES\neh LAK\n\nh\n\nee OO NL\nnn\n\n“\n\nave of \\ if WV \\ J |\n\nGrass NightVision is state-of-the-art Windows$5™ polysomnography software with the\nfeatures, versatility, and quality that you've come to expect from Grass. Together with\nthe new Model 15 Amplifier Neurodata Amplifier System and specially developed\nelectrode selectors and accessory hardware, NightVision completes the first digital\nPSG ready to carry on the Grass tradition as the Gold Standard in sleep recordings.\n\nMajor Features:\n\nEmbedded control of the Model 15 Neurodata Amplifier system\n\nSupport for 32 channels of acquisition and display\n\nSupport for simultaneous acquisition of two beds\n\nSimple and accurate calibration of input signa! into user units\n\nReal-time “look-back” and pre-scoring of recorded data, with no memory limits\nReal-time digital filtering, display gain, and trace position control\n\nInteractive control of all channel parameters “on-the-fly”\n\nReal-time event marking - 24 user definable event marks plus “on-the-fly” text\nSpecial analysis functions for the scoring/analysis of sleep parameters\n\nBuilt in Windows95™ networking with optional reading stations and printers",
+      "character_count": 1252
+    },
+    {
+      "page": 6,
+      "extraction_method": "ocr",
+      "text": "=e\n\nNightVision PSG Software\n\nDesigned by Grass specifically for polysomnography, NightVision is a brand new\nWindows95™ software application for recording all-night PSG studies, assisting In\nrapid review and scoring, and for generating flexible PSG reports. Taking full\nadvantage of the Model 15 amplifier system, NightVision manages the creation and use\nof multiple recording montages, including downloading the amplifier settings\nautomatically to the Model 15. Data is presented in familiar chart-recorder format in\nsuper high-resolution displays with amazing flexibility and fully interactive on-screen\ncontrols. Multitasking allows the simultaneous review of previously recorded files or\neven an on-going recording, with the ability to start scoring on-line. NightVision\ncombines the power and configurability of research grade software with the simplicity\nand ease-of-use required in a clinical setting.\n\nIn accordance with American Sleep Disorders Association guidelines for ;\npolysomnography, NightVision uses no automated algorithms for staging sleep or 4\nscoring respiratory events. Instead, fast and convenient on-screen scoring tools\ncombined with lightning fast tabulation of scoring results and report generation result in\nfaster scoring - without sacrificing the quality and thoroughness that hands-on, expert\nscoring guarantees.\n\nSpecifications\n\nMontages Unlimited number of user definable recording montages\n\nChannels 1 to 32 channels per recording montage\n\nDisplay Settings Up to 16 user definable display settings formats per recording montage\n\nDisplay parameters Trace on/off, Trace color, Trace line style, grid width, baseline,\nsensitivity, digital fikers (ow, high), digital display on/off\n\nVertical resolution 12-bits (12 nanovolts - 2.44 mV per bit depending on amplifier gain)\n\nRecorder sample rate 0.1 - 1000Hz, all channels\n\nReal-time Annotation 23 predefinable markers plus one comment key\n\nScoring method Computer assisted (non-automated) with on-screen scoring tools\nScoring output Editable scoring text file for complete disclosure, allows user overrides\nReport generation Sleep summary; arousal summary; latencies; respiratory disturbance\n\nsummaries, details and indices: O2Zsat analysis; correlations of\nprevious with REM/NREM and body position; graphical displays of\nselected channels, trends, events, and hypnograms.\n\nArchive Media Recordable CD-ROM (CD-R)\n\nCursor Measurements 2 on-screen cursors: amplitude, time, duration, min, max, std.dev.,\nintegral, area, rate, peak-peak\n\nAnalysis Functions & — trend, zoom, FFT, hypnogram, goto mark, goto epoch, goto time,\n\nscoring aids marker info,\n\nTime axis settings 1 second/page to 2 minutes/page\n\nPrint functions print epoch or epoch range, variable timebase compression. Speciat\nanalysis views also include print window options.\n\nSave functions save epoch range in NightVision or common ASCIi formats. Save\n\nfunctions also available in special analysis windows.",
+      "character_count": 2945
+    },
+    {
+      "page": 7,
+      "extraction_method": "ocr",
+      "text": "AWN Es\nwe ty\nca\n\nke DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\nWALT\na %\n\nA\n\nhy,\n\n“tata Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control! Room -W066-G609\nSilver Spring, MD 20993-0002\n\nMr. Stephen E. Johnson\n\nEngineering Manager, Medical Products\n\nGrass® Instrument Division\n\nAstro-Med,-Inc. _\nAstro-Med Industrial Park APR 9 2012\nWest Warwick, Rhode Island 02893\n\nRe: K970951\nTrade/Device Name: Grass® Brainwave Software\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV\nDated (Date on orig SE ltr): February 20, 1997\nReceived (Date on orig SE Itr): March 14, 1997\n\nDear Mr. Johnson:\nThis letter corrects our substantially equivalent letter of May 19, 1997.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 2165
+    },
+    {
+      "page": 8,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Mr. Stephen E. Johnson\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutFDA/CentersO ffices/CDRH/CDRHO ffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gov/MedicalDevices/Resourcesfor Y ou/Industry/default.htm.\n\nSincerely yours,\n\nwa Whyancl’\n\nMalvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\n\\ Office of Device Evaluation\nCenter for Devices and\nRadiological Health\n\nEnclosure",
+      "character_count": 1973
+    },
+    {
+      "page": 9,
+      "extraction_method": "ocr",
+      "text": "5 10(k) Number (if known): k970951\n\nDevice Name: Grass Brainwave Software\n\nIndications For Use:\n\nGrass Brainwave Software is intended for use\n\nby qualified research and clinical professionals\nwith specialized training in the use of EEG/PSG\nrecording instrumentation for the digital\nrecording, playback, and analysis. of.. ‘physiological---\nsignals. Its specifications and features make\n\nit especially well suited to electroencephalography\nand polygraphic sleep recordings.\n\n(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)\n\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n\n(Division Sign-Of) <—F tris f\n\nDivision of Cardi\nOvascuiar, Resuirg\nand Neurological Devices su aiory,\n\n510(k) Number_ {7 7O9S |\n\nPrescription Use___ X OR .\n(Per 21 CFR 801.109) Over-The-Counter Use\n\n(Optional Format t-2-96)",
+      "character_count": 830
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K970951-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "ote",
+      "extraction_method": "ocr",
+      "character_count": 3
+    },
+    {
+      "block_id": "K970951-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "K9909S8]",
+      "text": "K9909S8]",
+      "extraction_method": "ocr",
+      "character_count": 8
+    },
+    {
+      "block_id": "K970951-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "K9909S8]",
+      "text": "EXHIBIT A MAY 19 j997\nGrass@ instrument Division\nAstro-Med, Inc.\nAstro-Med Industrial Park\nWest Warwick, RI 02893 USA\nTel: (401) 828-4000\nFax: (401) 822-2430\nContact Person: Steve Johnson\nFebruary 20, 1997",
+      "extraction_method": "ocr",
+      "character_count": 205
+    },
+    {
+      "block_id": "K970951-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "K9909S8]",
+      "text": "§10(k) Summary of Safety and Effectiveness\nGrass® NightVision Software i",
+      "extraction_method": "ocr",
+      "character_count": 72
+    },
+    {
+      "block_id": "K970951-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "1. Identification of the Device",
+      "text": "1. Identification of the Device",
+      "extraction_method": "ocr",
+      "character_count": 31
+    },
+    {
+      "block_id": "K970951-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "1. Identification of the Device",
+      "text": "Classification Name: Electroencephalograph, oLy > Reg.# 882.1400\nCommon/Usual Name: Polysomnograph/Electroencephalograph Software",
+      "extraction_method": "ocr",
+      "character_count": 129
+    },
+    {
+      "block_id": "K970951-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "1. Identification of the Device",
+      "text": "Proprietary-Trade Name: Grass® Brainwore PSG/EEG Software",
+      "extraction_method": "ocr",
+      "character_count": 57
+    },
+    {
+      "block_id": "K970951-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "heading",
+      "section": "2. Equivalent Legally Marketed Devices",
+      "text": "2. Equivalent Legally Marketed Devices",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K970951-P001-B009",
+      "page": 1,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "2. Equivalent Legally Marketed Devices",
+      "text": "This product is similar in design, function, and intended use to the Stellate Systems Eclipse\nsoftware and the Melville Diagnostics Sandman™ sofiware systems.",
+      "extraction_method": "ocr",
+      "character_count": 158
+    },
+    {
+      "block_id": "K970951-P001-B010",
+      "page": 1,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "2. Equivalent Legally Marketed Devices",
+      "text": "Like these equivalent software products, Grass® Night Vision is designed to run ona\npersonal computer platform and interface with signal conditioners/amplifiers to: monitor\nthe signals in a real-time graphical “chart” view on the computer monitor, digitize and\nstore the signals to the computer’s hard drive, replay the data on-screen, simplify the\nmarking and tabulation of diagnostically significant events and measurements, and\ngenerate summary reports and graphs for technologist/physician review.",
+      "extraction_method": "ocr",
+      "character_count": 501
+    },
+    {
+      "block_id": "K970951-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "4. Theory of Operation and Description of the Device",
+      "text": "4. Theory of Operation and Description of the Device",
+      "extraction_method": "ocr",
+      "character_count": 52
+    },
+    {
+      "block_id": "K970951-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "4. Theory of Operation and Description of the Device",
+      "text": "The Grass® NightVision is a Microsoft Windows95™ application software package for\nmonitoring, recording, and reviewing physiological signals. It includes features for\nassisting the user with making measurements, marking significant events, and tabulating\nthe events for easier interpretation. The software consists of two major modules, the\nRecorder and the Reviewer, and several minor modules for setup, montage editing, file\nmanagement, and report generation. Together with a personal computer and a set of\nphysiological signal conditioners (like the Grass® Model 15 amplifier system), the\nNightVision software enables the user to replace or upgrade traditional strip-chart\nrecorders used in the sleep laboratory with modern, digital recording and review methods.",
+      "extraction_method": "ocr",
+      "character_count": 765
+    },
+    {
+      "block_id": "K970951-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "4. Theory of Operation and Description of the Device",
+      "text": "The Recorder module interfaces with an off-the-shelf A/D board (National Instruments\nAT-MIO-64E3) using a software driver library supplied with the board. A set of user\nspecified channels (1 to 32) are sequentially sampled, digitized, and displayed on the\nscreen in graphical, chart-recorder format, mimicking the traditional paper based strip-\nchart recorders. The Recorder module allows the user to specify the digitizing sample rate\nand a recording montage (the channel set, labels, and amplifier settings) to use for the\nrecording session. The operator has manual control over the start and stop of the\nrecording, much like a tape recorder. In addition, the user can vary the settings of each\non-screen “pen” (color, position, sensitivity, etc.) and can also make user definable event\nmarks for annotation of the recording. The effect is a “virtual” strip-chart recorder where\nthe signal data is saved to the computer’s hard disk. This module creates two files, the\nwaveform data file and a log file of the user keyed real-time annotations.",
+      "extraction_method": "ocr",
+      "character_count": 1044
+    },
+    {
+      "block_id": "K970951-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "4. Theory of Operation and Description of the Device",
+      "text": "The Reviewer module allows the technologist/physician to review a previously recorded\ndata file on-screen. The recording data is displayed in a high-resolution window with\ncontrols for paging forward and backward, expanding/compressing the time scale,\nadjusting the trace settings (color, position, sensitivity, etc.), and for making accurate\nmeasurements of amplitude, time, and other statistics. Additionally, tools are provided for\ntagging each “page” of data with a “sleep stage” and for adding event mark tags to\nsignificant waveform segments. This module creates one new file, the “scoring” file,\nwhich conteins a table of all of the “pages” in the file with the tabulations of the sleep\nstages, user entered event marks, and any other information derived during the reviewing\nsession.",
+      "extraction_method": "ocr",
+      "character_count": 791
+    },
+    {
+      "block_id": "K970951-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "4. Theory of Operation and Description of the Device",
+      "text": "The Report Generator module takes the “scoring file” table generated during the review\nprocess and processes it into a more easily readable, condensed and formatted report.\nFrom the raw scoring tabulations, the report generator creates totals, averages, minimums,\nmaximums, and correlates the different events. The result is a text report that reduces an\naverage of about 1000 pages of recorded raw data into 2 to 5 pages of summary data and\ngraphs for easier interpretation.",
+      "extraction_method": "ocr",
+      "character_count": 475
+    },
+    {
+      "block_id": "K970951-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "4. Theory of Operation and Description of the Device",
+      "text": "The Montage Editor and File Management utilities are for creating and editing recording\nsetups (channel labels, amplifier settings, trace attributes, etc.) and for copying/archiving\nrecording files, respectively.",
+      "extraction_method": "ocr",
+      "character_count": 212
+    },
+    {
+      "block_id": "K970951-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "Important Note:",
+      "text": "Important Note:",
+      "extraction_method": "ocr",
+      "character_count": 15
+    },
+    {
+      "block_id": "K970951-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Important Note:",
+      "text": "The Grass® NightVision software relies completely on manual user assignments of sleep\nstage and other significant event marks. NightVision uses the power of the computer\nwhenever possible to aid and speed the scoring and review of the data files by keeping\ntrack of relevant signal information (duration, time, signal size, etc.) associated with each\nuser marked event.",
+      "extraction_method": "ocr",
+      "character_count": 369
+    },
+    {
+      "block_id": "K970951-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Important Note:",
+      "text": "Unlike some competitive products on the market, it makes no determination of clinically\nsignificant events automatically using algorithms (like apneas or sleep stages). The",
+      "extraction_method": "ocr",
+      "character_count": 172
+    },
+    {
+      "block_id": "K970951-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Important Note:",
+      "text": "software does not make any judgement of normality or abnormality of any displayed or\nrecorded signal data or the results or any analysis. The software ts not represented as",
+      "extraction_method": "ocr",
+      "character_count": 172
+    },
+    {
+      "block_id": "K970951-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Important Note:",
+      "text": "being in and of itself diagnostic.",
+      "extraction_method": "ocr",
+      "character_count": 34
+    },
+    {
+      "block_id": "K970951-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Important Note:",
+      "text": "Grass® Instruments supports the position of the American Sleep Disorders Association\nthat every page of the recording must be manually reviewed due the complexity of the\nmulti-parameter recordings and the confounding aspects of movement and other artifacts",
+      "extraction_method": "ocr",
+      "character_count": 256
+    },
+    {
+      "block_id": "K970951-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Important Note:",
+      "text": "typical in an all-night sleep recording.",
+      "extraction_method": "ocr",
+      "character_count": 40
+    },
+    {
+      "block_id": "K970951-P003-B009",
+      "page": 3,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Important Note:",
+      "text": "i",
+      "extraction_method": "ocr",
+      "character_count": 1
+    },
+    {
+      "block_id": "K970951-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "5.",
+      "text": "5.",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K970951-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "5.",
+      "text": "Draft Advertisement",
+      "extraction_method": "ocr",
+      "character_count": 19
+    },
+    {
+      "block_id": "K970951-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "5.",
+      "text": "piytmrrnnn nemo",
+      "extraction_method": "ocr",
+      "character_count": 15
+    },
+    {
+      "block_id": "K970951-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "5.",
+      "text": "®Grass NightVision PSG Astro-Med, Inc.\nDigital PSG/EEG Software",
+      "extraction_method": "ocr",
+      "character_count": 63
+    },
+    {
+      "block_id": "K970951-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "5.",
+      "text": "Aenea path",
+      "extraction_method": "ocr",
+      "character_count": 10
+    },
+    {
+      "block_id": "K970951-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "5.",
+      "text": "ECR TR TES\neh LAK",
+      "extraction_method": "ocr",
+      "character_count": 17
+    },
+    {
+      "block_id": "K970951-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "5.",
+      "text": "h",
+      "extraction_method": "ocr",
+      "character_count": 1
+    },
+    {
+      "block_id": "K970951-P005-B006",
+      "page": 5,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "5.",
+      "text": "ee OO NL\nnn",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K970951-P005-B007",
+      "page": 5,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "5.",
+      "text": "“",
+      "extraction_method": "ocr",
+      "character_count": 1
+    },
+    {
+      "block_id": "K970951-P005-B008",
+      "page": 5,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "5.",
+      "text": "ave of \\ if WV \\ J |",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K970951-P005-B009",
+      "page": 5,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "5.",
+      "text": "Grass NightVision is state-of-the-art Windows$5™ polysomnography software with the\nfeatures, versatility, and quality that you've come to expect from Grass. Together with\nthe new Model 15 Amplifier Neurodata Amplifier System and specially developed\nelectrode selectors and accessory hardware, NightVision completes the first digital\nPSG ready to carry on the Grass tradition as the Gold Standard in sleep recordings.",
+      "extraction_method": "ocr",
+      "character_count": 416
+    },
+    {
+      "block_id": "K970951-P005-B010",
+      "page": 5,
+      "ordinal": 10,
+      "type": "heading",
+      "section": "Major Features:",
+      "text": "Major Features:",
+      "extraction_method": "ocr",
+      "character_count": 15
+    },
+    {
+      "block_id": "K970951-P005-B011",
+      "page": 5,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Embedded control of the Model 15 Neurodata Amplifier system",
+      "extraction_method": "ocr",
+      "character_count": 59
+    },
+    {
+      "block_id": "K970951-P005-B012",
+      "page": 5,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Support for 32 channels of acquisition and display",
+      "extraction_method": "ocr",
+      "character_count": 50
+    },
+    {
+      "block_id": "K970951-P005-B013",
+      "page": 5,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Support for simultaneous acquisition of two beds",
+      "extraction_method": "ocr",
+      "character_count": 48
+    },
+    {
+      "block_id": "K970951-P005-B014",
+      "page": 5,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Simple and accurate calibration of input signa! into user units",
+      "extraction_method": "ocr",
+      "character_count": 63
+    },
+    {
+      "block_id": "K970951-P005-B015",
+      "page": 5,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Real-time “look-back” and pre-scoring of recorded data, with no memory limits\nReal-time digital filtering, display gain, and trace position control",
+      "extraction_method": "ocr",
+      "character_count": 147
+    },
+    {
+      "block_id": "K970951-P005-B016",
+      "page": 5,
+      "ordinal": 16,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Interactive control of all channel parameters “on-the-fly”",
+      "extraction_method": "ocr",
+      "character_count": 58
+    },
+    {
+      "block_id": "K970951-P005-B017",
+      "page": 5,
+      "ordinal": 17,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Real-time event marking - 24 user definable event marks plus “on-the-fly” text\nSpecial analysis functions for the scoring/analysis of sleep parameters",
+      "extraction_method": "ocr",
+      "character_count": 150
+    },
+    {
+      "block_id": "K970951-P005-B018",
+      "page": 5,
+      "ordinal": 18,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Built in Windows95™ networking with optional reading stations and printers",
+      "extraction_method": "ocr",
+      "character_count": 74
+    },
+    {
+      "block_id": "K970951-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "=e",
+      "extraction_method": "ocr",
+      "character_count": 2
+    },
+    {
+      "block_id": "K970951-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "NightVision PSG Software",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K970951-P006-B003",
+      "page": 6,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Designed by Grass specifically for polysomnography, NightVision is a brand new\nWindows95™ software application for recording all-night PSG studies, assisting In\nrapid review and scoring, and for generating flexible PSG reports. Taking full\nadvantage of the Model 15 amplifier system, NightVision manages the creation and use\nof multiple recording montages, including downloading the amplifier settings\nautomatically to the Model 15. Data is presented in familiar chart-recorder format in\nsuper high-resolution displays with amazing flexibility and fully interactive on-screen\ncontrols. Multitasking allows the simultaneous review of previously recorded files or\neven an on-going recording, with the ability to start scoring on-line. NightVision\ncombines the power and configurability of research grade software with the simplicity\nand ease-of-use required in a clinical setting.",
+      "extraction_method": "ocr",
+      "character_count": 878
+    },
+    {
+      "block_id": "K970951-P006-B004",
+      "page": 6,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "In accordance with American Sleep Disorders Association guidelines for ;\npolysomnography, NightVision uses no automated algorithms for staging sleep or 4\nscoring respiratory events. Instead, fast and convenient on-screen scoring tools\ncombined with lightning fast tabulation of scoring results and report generation result in\nfaster scoring - without sacrificing the quality and thoroughness that hands-on, expert\nscoring guarantees.",
+      "extraction_method": "ocr",
+      "character_count": 433
+    },
+    {
+      "block_id": "K970951-P006-B005",
+      "page": 6,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Specifications",
+      "extraction_method": "ocr",
+      "character_count": 14
+    },
+    {
+      "block_id": "K970951-P006-B006",
+      "page": 6,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Montages Unlimited number of user definable recording montages",
+      "extraction_method": "ocr",
+      "character_count": 62
+    },
+    {
+      "block_id": "K970951-P006-B007",
+      "page": 6,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Channels 1 to 32 channels per recording montage",
+      "extraction_method": "ocr",
+      "character_count": 47
+    },
+    {
+      "block_id": "K970951-P006-B008",
+      "page": 6,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Display Settings Up to 16 user definable display settings formats per recording montage",
+      "extraction_method": "ocr",
+      "character_count": 87
+    },
+    {
+      "block_id": "K970951-P006-B009",
+      "page": 6,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Display parameters Trace on/off, Trace color, Trace line style, grid width, baseline,\nsensitivity, digital fikers (ow, high), digital display on/off",
+      "extraction_method": "ocr",
+      "character_count": 148
+    },
+    {
+      "block_id": "K970951-P006-B010",
+      "page": 6,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Vertical resolution 12-bits (12 nanovolts - 2.44 mV per bit depending on amplifier gain)",
+      "extraction_method": "ocr",
+      "character_count": 88
+    },
+    {
+      "block_id": "K970951-P006-B011",
+      "page": 6,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Recorder sample rate 0.1 - 1000Hz, all channels",
+      "extraction_method": "ocr",
+      "character_count": 47
+    },
+    {
+      "block_id": "K970951-P006-B012",
+      "page": 6,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Real-time Annotation 23 predefinable markers plus one comment key",
+      "extraction_method": "ocr",
+      "character_count": 65
+    },
+    {
+      "block_id": "K970951-P006-B013",
+      "page": 6,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Scoring method Computer assisted (non-automated) with on-screen scoring tools\nScoring output Editable scoring text file for complete disclosure, allows user overrides\nReport generation Sleep summary; arousal summary; latencies; respiratory disturbance",
+      "extraction_method": "ocr",
+      "character_count": 251
+    },
+    {
+      "block_id": "K970951-P006-B014",
+      "page": 6,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "summaries, details and indices: O2Zsat analysis; correlations of\nprevious with REM/NREM and body position; graphical displays of\nselected channels, trends, events, and hypnograms.",
+      "extraction_method": "ocr",
+      "character_count": 179
+    },
+    {
+      "block_id": "K970951-P006-B015",
+      "page": 6,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Archive Media Recordable CD-ROM (CD-R)",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K970951-P006-B016",
+      "page": 6,
+      "ordinal": 16,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Cursor Measurements 2 on-screen cursors: amplitude, time, duration, min, max, std.dev.,\nintegral, area, rate, peak-peak",
+      "extraction_method": "ocr",
+      "character_count": 119
+    },
+    {
+      "block_id": "K970951-P006-B017",
+      "page": 6,
+      "ordinal": 17,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Analysis Functions & — trend, zoom, FFT, hypnogram, goto mark, goto epoch, goto time,",
+      "extraction_method": "ocr",
+      "character_count": 85
+    },
+    {
+      "block_id": "K970951-P006-B018",
+      "page": 6,
+      "ordinal": 18,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "scoring aids marker info,",
+      "extraction_method": "ocr",
+      "character_count": 25
+    },
+    {
+      "block_id": "K970951-P006-B019",
+      "page": 6,
+      "ordinal": 19,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Time axis settings 1 second/page to 2 minutes/page",
+      "extraction_method": "ocr",
+      "character_count": 50
+    },
+    {
+      "block_id": "K970951-P006-B020",
+      "page": 6,
+      "ordinal": 20,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Print functions print epoch or epoch range, variable timebase compression. Speciat\nanalysis views also include print window options.",
+      "extraction_method": "ocr",
+      "character_count": 132
+    },
+    {
+      "block_id": "K970951-P006-B021",
+      "page": 6,
+      "ordinal": 21,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "Save functions save epoch range in NightVision or common ASCIi formats. Save",
+      "extraction_method": "ocr",
+      "character_count": 76
+    },
+    {
+      "block_id": "K970951-P006-B022",
+      "page": 6,
+      "ordinal": 22,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "functions also available in special analysis windows.",
+      "extraction_method": "ocr",
+      "character_count": 53
+    },
+    {
+      "block_id": "K970951-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "AWN Es\nwe ty\nca",
+      "extraction_method": "ocr",
+      "character_count": 15
+    },
+    {
+      "block_id": "K970951-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "ke DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "ocr",
+      "character_count": 62
+    },
+    {
+      "block_id": "K970951-P007-B003",
+      "page": 7,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Major Features:",
+      "text": "WALT\na %",
+      "extraction_method": "ocr",
+      "character_count": 8
+    },
+    {
+      "block_id": "K970951-P007-B004",
+      "page": 7,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "A",
+      "text": "A",
+      "extraction_method": "ocr",
+      "character_count": 1
+    },
+    {
+      "block_id": "K970951-P007-B005",
+      "page": 7,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "A",
+      "text": "hy,",
+      "extraction_method": "ocr",
+      "character_count": 3
+    },
+    {
+      "block_id": "K970951-P007-B006",
+      "page": 7,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "A",
+      "text": "“tata Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control! Room -W066-G609\nSilver Spring, MD 20993-0002",
+      "extraction_method": "ocr",
+      "character_count": 124
+    },
+    {
+      "block_id": "K970951-P007-B007",
+      "page": 7,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "A",
+      "text": "Mr. Stephen E. Johnson",
+      "extraction_method": "ocr",
+      "character_count": 22
+    },
+    {
+      "block_id": "K970951-P007-B008",
+      "page": 7,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "A",
+      "text": "Engineering Manager, Medical Products",
+      "extraction_method": "ocr",
+      "character_count": 37
+    },
+    {
+      "block_id": "K970951-P007-B009",
+      "page": 7,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "A",
+      "text": "Grass® Instrument Division",
+      "extraction_method": "ocr",
+      "character_count": 26
+    },
+    {
+      "block_id": "K970951-P007-B010",
+      "page": 7,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "A",
+      "text": "Astro-Med,-Inc. _\nAstro-Med Industrial Park APR 9 2012\nWest Warwick, Rhode Island 02893",
+      "extraction_method": "ocr",
+      "character_count": 87
+    },
+    {
+      "block_id": "K970951-P007-B011",
+      "page": 7,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "A",
+      "text": "Re: K970951\nTrade/Device Name: Grass® Brainwave Software\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV\nDated (Date on orig SE ltr): February 20, 1997\nReceived (Date on orig SE Itr): March 14, 1997",
+      "extraction_method": "ocr",
+      "character_count": 263
+    },
+    {
+      "block_id": "K970951-P007-B012",
+      "page": 7,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "A",
+      "text": "Dear Mr. Johnson:\nThis letter corrects our substantially equivalent letter of May 19, 1997.",
+      "extraction_method": "ocr",
+      "character_count": 91
+    },
+    {
+      "block_id": "K970951-P007-B013",
+      "page": 7,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "A",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "ocr",
+      "character_count": 1033
+    },
+    {
+      "block_id": "K970951-P007-B014",
+      "page": 7,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "A",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "ocr",
+      "character_count": 367
+    },
+    {
+      "block_id": "K970951-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "A",
+      "text": "Page 2 - Mr. Stephen E. Johnson",
+      "extraction_method": "ocr",
+      "character_count": 31
+    },
+    {
+      "block_id": "K970951-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "A",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K970951-P008-B003",
+      "page": 8,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "A",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutFDA/CentersO ffices/CDRH/CDRHO ffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 652
+    },
+    {
+      "block_id": "K970951-P008-B004",
+      "page": 8,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "A",
+      "text": "You may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda.gov/MedicalDevices/Resourcesfor Y ou/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 317
+    },
+    {
+      "block_id": "K970951-P008-B005",
+      "page": 8,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "A",
+      "text": "Sincerely yours,",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K970951-P008-B006",
+      "page": 8,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "A",
+      "text": "wa Whyancl’",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K970951-P008-B007",
+      "page": 8,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "A",
+      "text": "Malvina B. Eydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\n\\ Office of Device Evaluation\nCenter for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 178
+    },
+    {
+      "block_id": "K970951-P008-B008",
+      "page": 8,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "A",
+      "text": "Enclosure",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K970951-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "5 10(k) Number (if known): k970951",
+      "text": "5 10(k) Number (if known): k970951",
+      "extraction_method": "ocr",
+      "character_count": 34
+    },
+    {
+      "block_id": "K970951-P009-B002",
+      "page": 9,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "5 10(k) Number (if known): k970951",
+      "text": "Device Name: Grass Brainwave Software",
+      "extraction_method": "ocr",
+      "character_count": 37
+    },
+    {
+      "block_id": "K970951-P009-B003",
+      "page": 9,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "Indications For Use:",
+      "text": "Indications For Use:",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K970951-P009-B004",
+      "page": 9,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "Grass Brainwave Software is intended for use",
+      "extraction_method": "ocr",
+      "character_count": 44
+    },
+    {
+      "block_id": "K970951-P009-B005",
+      "page": 9,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "by qualified research and clinical professionals\nwith specialized training in the use of EEG/PSG\nrecording instrumentation for the digital\nrecording, playback, and analysis. of.. ‘physiological---\nsignals. Its specifications and features make",
+      "extraction_method": "ocr",
+      "character_count": 242
+    },
+    {
+      "block_id": "K970951-P009-B006",
+      "page": 9,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Indications For Use:",
+      "text": "it especially well suited to electroencephalography\nand polygraphic sleep recordings.",
+      "extraction_method": "ocr",
+      "character_count": 85
+    },
+    {
+      "block_id": "K970951-P009-B007",
+      "page": 9,
+      "ordinal": 7,
+      "type": "heading",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "extraction_method": "ocr",
+      "character_count": 74
+    },
+    {
+      "block_id": "K970951-P009-B008",
+      "page": 9,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "Concurrence of CDRH, Office of Device Evaluation (ODE)",
+      "extraction_method": "ocr",
+      "character_count": 54
+    },
+    {
+      "block_id": "K970951-P009-B009",
+      "page": 9,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "(Division Sign-Of) <—F tris f",
+      "extraction_method": "ocr",
+      "character_count": 29
+    },
+    {
+      "block_id": "K970951-P009-B010",
+      "page": 9,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "Division of Cardi\nOvascuiar, Resuirg\nand Neurological Devices su aiory,",
+      "extraction_method": "ocr",
+      "character_count": 71
+    },
+    {
+      "block_id": "K970951-P009-B011",
+      "page": 9,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "510(k) Number_ {7 7O9S |",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K970951-P009-B012",
+      "page": 9,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "Prescription Use___ X OR .\n(Per 21 CFR 801.109) Over-The-Counter Use",
+      "extraction_method": "ocr",
+      "character_count": 68
+    },
+    {
+      "block_id": "K970951-P009-B013",
+      "page": 9,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)",
+      "text": "(Optional Format t-2-96)",
+      "extraction_method": "ocr",
+      "character_count": 24
+    }
+  ],
+  "claims": []
+}

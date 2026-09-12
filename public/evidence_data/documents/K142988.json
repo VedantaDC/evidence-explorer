@@ -1,0 +1,349 @@
+{
+  "document": {
+    "k_number": "K142988",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "Sleepware G3",
+    "applicant": "Respironics, Inc.",
+    "decision_date": "2015-03-16",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf14/K142988.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K142988",
+    "sha256": "c1c51dd30f2406c3e3d2e1a9409256afa1fafde212f3780da5ac974f93aaf3df",
+    "page_count": 8,
+    "native_pages": 8,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\nFood and Drug Administration \n10903 New Hampshire Avenue \nDocument Control Center - WO66-G609 \nSilver Spring, MD 20993-0002\nRespironics, Inc. \nDaniela Aizpitarte \nRegulatory Affairs Engineer \n1740 Golden Mile Highway \nMonroeville, Pennsylvania 15146\nRe: K142988 \nTrade/Device Name: Sleepware G3 \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: II \nProduct Code: OLZ, MNR, OLV \nDated: February 9, 2015 \nReceived: February 10, 2015 \nDear Ms. Aizpitarte, \nWe have reviewed your Section 510(k) premarket notification of intent to market the device \nreferenced above and have determined the device is substantially equivalent (for the indications \nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate \ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to \ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug, \nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). \nYou may, therefore, market the device, subject to the general controls provisions of the Act. The \ngeneral controls provisions of the Act include requirements for annual registration, listing of \ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability \nwarranties. We remind you, however, that device labeling must be truthful and not misleading. \nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), \nit may be subject to additional controls. Existing major regulations affecting your device can be \nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may \npublish further announcements concerning your device in the Federal Register. \nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean \nthat FDA has made a determination that your device complies with other requirements of the Act \nor any Federal statutes and regulations administered by other Federal agencies. You must comply \nwith all the Act's requirements, including, but not limited to: registration and listing (21 CFR \nPart 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-\nrelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in \nMarch 16, 2015",
+      "character_count": 2567
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "- Daniela Aizpitarte Page 2\nthe quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product \nradiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050. \nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please \ncontact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041 \nor (301) 796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note \nthe regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 \nCFR Part 803), please go to \nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office \nof Surveillance and Biometrics/Division of Postmarket Surveillance. \nYou may obtain other general information on your responsibilities under the Act from the \nDivision of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) \n796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.\nSincerely yours, \nCarlos L. Peña, PhD, MS \nDirector \nDivision of Neurological \nand Physical Medicine Devices \nOffice of Device Evaluation \nCenter for Devices and Radiological Health \nEnclosure\nfor\u0003\nFelipe Aguel -S",
+      "character_count": 1419
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK142988\nDevice Name\nSleepware G3\nIndications for Use (Describe)\nSleepware G3 is a software application used for analysis (automatic and manual scoring), display, retrieval, \nsummarization, report generation and networking of data received from monitoring devices used to categorize sleep \nrelated events that help aid in the diagnosis of sleep related disorders. It is indicated for use with infant or adult patients in \na clinical environment by or on the order of a physician. \nThe optional Somnolyzer Inside scoring package has the same intended use as Sleepware G3, but is indicated for use with \nadult patients only.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "character_count": 1973
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary \n\nRespironics Inc. 2/9/2015 Page 5-1 \n\nTAB 5 \n510(K) SUMMARY \nI. Submitter \nOfficial Contact Daniela Aizpitarte \nRegulatory Affairs Engineer \ndaniela.aizpitarte@philips.com \n\nRespironics Inc. \n1740 Golden Mile Highway \nMonroeville, PA 15146 \n\nPhone: 724-387-7954 \nFax: 724-387-7490 \n\nDate of Preparation February 9, 2015 \nII. Device \n\nName of Device: Sleepware G3 \n\nCommon/Usual Name: Electroencephalograph analysis software \n\nClassification Name: Automatic Event Detection Software For Polysomnograph With \nElectroencephalograph (21 CFR 882.1400) \n\nRegulatory Class: II \n\nP\nrimary Product Code: OLZ \nSecondary Product Code: MNR, OLV \nIII. Predicate Devices \n\n Alice Sleepware Software (K040595) \n Somnolyzer 24x7 (K131994) \nThese predicates have not been subject to any design-related recalls. \nNo reference devices were used in this submission.",
+      "character_count": 896
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "Abbreviated 510(k) Sleepware G3 \nTab 5 – 510(k) Summary \n\nRespironics Inc. 2/9/2015 Page 5-2 \n\nIV. Device Description \nThe Sleepware G3 software is a diagnostic tool, used by trained clinical professionals, for \nmanaging Respironics polysomnography recorders using a personal computer. The Sleepware G3 \nsoftware uses data that is stored in the recorder device memory, and then processes this data to display \na graphical and statistical analysis for use by the trained clinical professional. It\nalso allows the trained \nclinical professional to evaluate (score) the recorded respiratory, sleep staging and/or oximetry \nwaveforms to ensure that the patient being monitored is properly diagnosed. The clinician can create \nunique patient reports for the patient being evaluated, and configure device parameters in the software . \nSleepware G3 was formally known as the Alice Sleepware Software cleared in K040595. \nSomnolyzer 24x7 is a similar standalone, polysomnography scoring application that provides \nautomated analysis of respiratory, sleep staging and/or oximetry waveforms recorded during sleep \nstudies. Like Sleepware G3, it processes information recorded during sleep with electrodes and sensors \nattached to the body according to worldwide accepted scoring standards. It then generates results that \ninclude quantitative sleep, breathing, and motion parameters, used to evaluate sleep and respiratory-\nrelated disorders. Somnolyzer is located on a remote server and is considered to be a software service , \nunlike Sleepware G3 which is located on a personal computer. \nSleepware G3 is being updated to add the scoring algorithms from the Somnolyzer 24x7 software \nservice as an optional software package. The scoring algorithms from the cleared Somnolyzer 24x7 \nsoftware were modified to operate in real time, as a sleep study is occurring, and be displayed on the \nSleepware G3 user interface. \nV. Indications for Use \nSleepware G3 is a software application used for analysis (automatic and manual scoring), \ndisplay, retrieval, summarization, report generation and networking of data received from monitoring \ndevices used to categorize sleep related events that help aid in the diagnosis of sleep related disorders. It \nis indicated for use with infant or adult patients in a clinical environment by or on the order of a physician. \nThe optional Somnolyzer Inside scoring package has the same intended use as Sleepware G3, \nbut is indicated for use with adult patients only. \nThe indications for use for Sleepware G3 are a combination of the indications for uses of the two \npredicate devices. Alice Sleepware Software has been updated to include the Somnolyzer 24x7 product \ncleared in K131994. \nThe patient populations of Somnolyzer 24x7 and Sleepware G3 remain unchanged",
+      "character_count": 2789
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "Abbreviated 510(k) Sleepware G3 \nTab 5 – 510(k) Summary \n\nRespironics Inc. 2/9/2015 Page 5-3 \n\nin this submission. The Alice Sleepware Software (K040595) was cleared for infant or adult patients, and \nSomnolyzer 24x7 (K131994) was cleared for adult patients. The optional Somnolyzer 24x7 scoring \nalgorithms being added to Sleepware G3 can only be used on adult patients. \nThe intended use and purpose of this device has not changed. The Sleepware G3 software with \nthe added Somnolyzer scoring algorithms still allow clinicians to diagnose sleep disorders, and no new \ndiagnostic functions were added. The same scoring rules are used to identify respiratory events, and no \nnew respiratory events have been added. The addition of the algorithms from Somnolyzer 24x7 does not \nmodify the intended use of the Sleepware G3 software package. \nVI. Comparison of Technological Characteristics with the Predicate \nDevice \nBoth the Alice Sleepware and Somnolyzer 24x7 predicate devices and the Sleepware G3 subject \ndevice are software products designed to detect events for polysomnography with \nelectroencephalography. The subject and predicate devices are based on the following same \ntechnological elements: \n Same intended use as the Somnolyzer 24x7 software (K131994) and Alice Sleepware Software \n(K040595). The indications for use that were previously cleared for each software program have \nalso been retained. \n Same control mechanism and real-time operating principle as the Alice Sleepware Software \n(K040595). \n Same technology as the Somnolyzer 24x7 software (K131994) and Alice Sleepware Software \n(K040595). \nThe following differences exist between the subject and predicate devices: \n Modification #1: \nAdded Somnolyzer 24x7 scoring algorithms to Sleepware G3 as an optional \nsoftware package \nThe Somnolyzer 24x7 scoring algorithms were modified to display results in real time, as the \nsleep study is progressing. The algorithms were designed to fulfill the same scoring rules as the \npredicate Somnolyzer 24x7 version 2.5 (K131994). This modification required a change in coding \nlanguage. \n Modification #2: \nConfidence Trend",
+      "character_count": 2144
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Abbreviated 510(k) Sleepware G3 \nTab 5 – 510(k) Summary \n\nRespironics Inc. 2/9/2015 Page 5-4 \n\nRespiratory event detection confidence trends were added to the Somnolyzer plug-in. The \ninformation used to derive the trend data is based off the signal quality of the channels throughout the \nacquisition and the scored events. \nThe product labeling was updated to instruct the sleep scoring technicians to review sections of data \nmarked as yellow and red. This feature allows for the sleep labs to increase scoring efficiency by \nreducing the amount of time it takes to score a sleep study. \n Modification #3: \nUser Interface changes to accommodate for Somnolyzer additions \nThe Sleepware G3 user interface has been modified from the predicate devices to display \nSomnolyzer scoring in real time. The Somnolyzer scoring package has been integrated into the \nconfiguration and settings of the Sleepware G3 program to allow the user to access and launch the \nscoring package. \nVII. Performance Data: \nSoftware Verification and Validation Testing \nSoftware verification and validation testing were conducted and documentation was provided as \nrecommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of Premarket \nSubmissions for Software Contained in Medical Devices.” The software for this device was considered to \nhave a “moderate” level of concern, since a failure or latent flaw in the software could result in minor harm \nto the patient. \nNon-Clinical Tests \nRespironics has determined that the modifications discussed in this submission have no impact on the \nsafety and effectiveness of the Sleepware G3 with Somnolyzer Inside software. Software verification and \nvalidation included software code reviews, automated testing, bench verification testing and labeling \nreview. \nTesting confirmed that the Somnolyzer auto-scoring algorithms perform equivalently to the device \npredicate algorithms in the Somnolyzer 24x7 software (K131994). Overall testing of Sleepware G3 with \nSomnolyzer Inside package showed that the plug-in has been successfully integrated and all product \nrequirements have been met. The verification and validation testing demonstrated that safety and \neffectiveness has not been inadvertently affected by modifications to the system. \nTesting confirmed that the Sleepware G3 performs equivalently to the device predicate Alice Sleepware \nSoftware (K040595). All tests had passing results.",
+      "character_count": 2443
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Abbreviated 510(k) Sleepware G3 \nTab 5 – 510(k) Summary \n\nRespironics Inc. 2/9/2015 Page 5-5 \n\nClinical Tests \nClinical tests were not required to demonstrate the safety and effectiveness of Sleepware G3. Product \nfunctionality has been adequately assessed by non-clinical tests. \nVIII. Conclusion \nSleepware G3 has passed all of the aforementioned non-clinical tests and required no clinical tests in \norder to demonstrate safety or effectiveness. It is therefore concluded that Sleepware G3 is substantially \nequivalent to the predicate device. \n{End of tab}",
+      "character_count": 560
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K142988-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\nFood and Drug Administration \n10903 New Hampshire Avenue \nDocument Control Center - WO66-G609 \nSilver Spring, MD 20993-0002\nRespironics, Inc. \nDaniela Aizpitarte \nRegulatory Affairs Engineer \n1740 Golden Mile Highway \nMonroeville, Pennsylvania 15146\nRe: K142988 \nTrade/Device Name: Sleepware G3 \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: II \nProduct Code: OLZ, MNR, OLV \nDated: February 9, 2015 \nReceived: February 10, 2015 \nDear Ms. Aizpitarte, \nWe have reviewed your Section 510(k) premarket notification of intent to market the device \nreferenced above and have determined the device is substantially equivalent (for the indications \nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate \ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to \ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug, \nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). \nYou may, therefore, market the device, subject to the general controls provisions of the Act. The \ngeneral controls provisions of the Act include requirements for annual registration, listing of \ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability \nwarranties. We remind you, however, that device labeling must be truthful and not misleading. \nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), \nit may be subject to additional controls. Existing major regulations affecting your device can be \nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may \npublish further announcements concerning your device in the Federal Register. \nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean \nthat FDA has made a determination that your device complies with other requirements of the Act \nor any Federal statutes and regulations administered by other Federal agencies. You must comply \nwith all the Act's requirements, including, but not limited to: registration and listing (21 CFR \nPart 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-\nrelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in \nMarch 16, 2015",
+      "extraction_method": "native",
+      "character_count": 2567
+    },
+    {
+      "block_id": "K142988-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "- Daniela Aizpitarte Page 2\nthe quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product \nradiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050. \nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please \ncontact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041 \nor (301) 796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note \nthe regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 \nCFR Part 803), please go to \nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office \nof Surveillance and Biometrics/Division of Postmarket Surveillance. \nYou may obtain other general information on your responsibilities under the Act from the \nDivision of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) \n796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.\nSincerely yours, \nCarlos L. Peña, PhD, MS \nDirector \nDivision of Neurological \nand Physical Medicine Devices \nOffice of Device Evaluation \nCenter for Devices and Radiological Health \nEnclosure\nfor\u0003\nFelipe Aguel -S",
+      "extraction_method": "native",
+      "character_count": 1419
+    },
+    {
+      "block_id": "K142988-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK142988\nDevice Name\nSleepware G3\nIndications for Use (Describe)\nSleepware G3 is a software application used for analysis (automatic and manual scoring), display, retrieval, \nsummarization, report generation and networking of data received from monitoring devices used to categorize sleep \nrelated events that help aid in the diagnosis of sleep related disorders. It is indicated for use with infant or adult patients in \na clinical environment by or on the order of a physician. \nThe optional Somnolyzer Inside scoring package has the same intended use as Sleepware G3, but is indicated for use with \nadult patients only.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "native",
+      "character_count": 1973
+    },
+    {
+      "block_id": "K142988-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Traditional 510(k) Sleepware G3 \n510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 47
+    },
+    {
+      "block_id": "K142988-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Respironics Inc. 2/9/2015 Page 5-1",
+      "extraction_method": "native",
+      "character_count": 34
+    },
+    {
+      "block_id": "K142988-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "TAB 5 \n510(K) SUMMARY \nI. Submitter \nOfficial Contact Daniela Aizpitarte \nRegulatory Affairs Engineer \ndaniela.aizpitarte@philips.com",
+      "extraction_method": "native",
+      "character_count": 133
+    },
+    {
+      "block_id": "K142988-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Respironics Inc. \n1740 Golden Mile Highway \nMonroeville, PA 15146",
+      "extraction_method": "native",
+      "character_count": 65
+    },
+    {
+      "block_id": "K142988-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Phone: 724-387-7954 \nFax: 724-387-7490",
+      "extraction_method": "native",
+      "character_count": 38
+    },
+    {
+      "block_id": "K142988-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Date of Preparation February 9, 2015 \nII. Device",
+      "extraction_method": "native",
+      "character_count": 48
+    },
+    {
+      "block_id": "K142988-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Name of Device: Sleepware G3",
+      "extraction_method": "native",
+      "character_count": 28
+    },
+    {
+      "block_id": "K142988-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Common/Usual Name: Electroencephalograph analysis software",
+      "extraction_method": "native",
+      "character_count": 58
+    },
+    {
+      "block_id": "K142988-P004-B009",
+      "page": 4,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Classification Name: Automatic Event Detection Software For Polysomnograph With \nElectroencephalograph (21 CFR 882.1400)",
+      "extraction_method": "native",
+      "character_count": 120
+    },
+    {
+      "block_id": "K142988-P004-B010",
+      "page": 4,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Regulatory Class: II",
+      "extraction_method": "native",
+      "character_count": 20
+    },
+    {
+      "block_id": "K142988-P004-B011",
+      "page": 4,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "P\nrimary Product Code: OLZ \nSecondary Product Code: MNR, OLV \nIII. Predicate Devices",
+      "extraction_method": "native",
+      "character_count": 84
+    },
+    {
+      "block_id": "K142988-P004-B012",
+      "page": 4,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "Document",
+      "text": " Alice Sleepware Software (K040595) \n Somnolyzer 24x7 (K131994) \nThese predicates have not been subject to any design-related recalls. \nNo reference devices were used in this submission.",
+      "extraction_method": "native",
+      "character_count": 188
+    },
+    {
+      "block_id": "K142988-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Abbreviated 510(k) Sleepware G3 \nTab 5 – 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 55
+    },
+    {
+      "block_id": "K142988-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Respironics Inc. 2/9/2015 Page 5-2",
+      "extraction_method": "native",
+      "character_count": 34
+    },
+    {
+      "block_id": "K142988-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "IV. Device Description \nThe Sleepware G3 software is a diagnostic tool, used by trained clinical professionals, for \nmanaging Respironics polysomnography recorders using a personal computer. The Sleepware G3 \nsoftware uses data that is stored in the recorder device memory, and then processes this data to display \na graphical and statistical analysis for use by the trained clinical professional. It\nalso allows the trained \nclinical professional to evaluate (score) the recorded respiratory, sleep staging and/or oximetry \nwaveforms to ensure that the patient being monitored is properly diagnosed. The clinician can create \nunique patient reports for the patient being evaluated, and configure device parameters in the software . \nSleepware G3 was formally known as the Alice Sleepware Software cleared in K040595. \nSomnolyzer 24x7 is a similar standalone, polysomnography scoring application that provides \nautomated analysis of respiratory, sleep staging and/or oximetry waveforms recorded during sleep \nstudies. Like Sleepware G3, it processes information recorded during sleep with electrodes and sensors \nattached to the body according to worldwide accepted scoring standards. It then generates results that \ninclude quantitative sleep, breathing, and motion parameters, used to evaluate sleep and respiratory-\nrelated disorders. Somnolyzer is located on a remote server and is considered to be a software service , \nunlike Sleepware G3 which is located on a personal computer. \nSleepware G3 is being updated to add the scoring algorithms from the Somnolyzer 24x7 software \nservice as an optional software package. The scoring algorithms from the cleared Somnolyzer 24x7 \nsoftware were modified to operate in real time, as a sleep study is occurring, and be displayed on the \nSleepware G3 user interface. \nV. Indications for Use \nSleepware G3 is a software application used for analysis (automatic and manual scoring), \ndisplay, retrieval, summarization, report generation and networking of data received from monitoring \ndevices used to categorize sleep related events that help aid in the diagnosis of sleep related disorders. It \nis indicated for use with infant or adult patients in a clinical environment by or on the order of a physician. \nThe optional Somnolyzer Inside scoring package has the same intended use as Sleepware G3, \nbut is indicated for use with adult patients only. \nThe indications for use for Sleepware G3 are a combination of the indications for uses of the two \npredicate devices. Alice Sleepware Software has been updated to include the Somnolyzer 24x7 product \ncleared in K131994. \nThe patient populations of Somnolyzer 24x7 and Sleepware G3 remain unchanged",
+      "extraction_method": "native",
+      "character_count": 2694
+    },
+    {
+      "block_id": "K142988-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Abbreviated 510(k) Sleepware G3 \nTab 5 – 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 55
+    },
+    {
+      "block_id": "K142988-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Respironics Inc. 2/9/2015 Page 5-3",
+      "extraction_method": "native",
+      "character_count": 34
+    },
+    {
+      "block_id": "K142988-P006-B003",
+      "page": 6,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "in this submission. The Alice Sleepware Software (K040595) was cleared for infant or adult patients, and \nSomnolyzer 24x7 (K131994) was cleared for adult patients. The optional Somnolyzer 24x7 scoring \nalgorithms being added to Sleepware G3 can only be used on adult patients. \nThe intended use and purpose of this device has not changed. The Sleepware G3 software with \nthe added Somnolyzer scoring algorithms still allow clinicians to diagnose sleep disorders, and no new \ndiagnostic functions were added. The same scoring rules are used to identify respiratory events, and no \nnew respiratory events have been added. The addition of the algorithms from Somnolyzer 24x7 does not \nmodify the intended use of the Sleepware G3 software package. \nVI. Comparison of Technological Characteristics with the Predicate \nDevice \nBoth the Alice Sleepware and Somnolyzer 24x7 predicate devices and the Sleepware G3 subject \ndevice are software products designed to detect events for polysomnography with \nelectroencephalography. The subject and predicate devices are based on the following same \ntechnological elements: \n Same intended use as the Somnolyzer 24x7 software (K131994) and Alice Sleepware Software \n(K040595). The indications for use that were previously cleared for each software program have \nalso been retained. \n Same control mechanism and real-time operating principle as the Alice Sleepware Software \n(K040595). \n Same technology as the Somnolyzer 24x7 software (K131994) and Alice Sleepware Software \n(K040595). \nThe following differences exist between the subject and predicate devices: \n Modification #1: \nAdded Somnolyzer 24x7 scoring algorithms to Sleepware G3 as an optional \nsoftware package \nThe Somnolyzer 24x7 scoring algorithms were modified to display results in real time, as the \nsleep study is progressing. The algorithms were designed to fulfill the same scoring rules as the \npredicate Somnolyzer 24x7 version 2.5 (K131994). This modification required a change in coding \nlanguage. \n Modification #2: \nConfidence Trend",
+      "extraction_method": "native",
+      "character_count": 2049
+    },
+    {
+      "block_id": "K142988-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Abbreviated 510(k) Sleepware G3 \nTab 5 – 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 55
+    },
+    {
+      "block_id": "K142988-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Respironics Inc. 2/9/2015 Page 5-4",
+      "extraction_method": "native",
+      "character_count": 34
+    },
+    {
+      "block_id": "K142988-P007-B003",
+      "page": 7,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Respiratory event detection confidence trends were added to the Somnolyzer plug-in. The \ninformation used to derive the trend data is based off the signal quality of the channels throughout the \nacquisition and the scored events. \nThe product labeling was updated to instruct the sleep scoring technicians to review sections of data \nmarked as yellow and red. This feature allows for the sleep labs to increase scoring efficiency by \nreducing the amount of time it takes to score a sleep study. \n Modification #3: \nUser Interface changes to accommodate for Somnolyzer additions \nThe Sleepware G3 user interface has been modified from the predicate devices to display \nSomnolyzer scoring in real time. The Somnolyzer scoring package has been integrated into the \nconfiguration and settings of the Sleepware G3 program to allow the user to access and launch the \nscoring package. \nVII. Performance Data: \nSoftware Verification and Validation Testing \nSoftware verification and validation testing were conducted and documentation was provided as \nrecommended by FDA’s Guidance for Industry and FDA Staff, “Guidance for the Content of Premarket \nSubmissions for Software Contained in Medical Devices.” The software for this device was considered to \nhave a “moderate” level of concern, since a failure or latent flaw in the software could result in minor harm \nto the patient. \nNon-Clinical Tests \nRespironics has determined that the modifications discussed in this submission have no impact on the \nsafety and effectiveness of the Sleepware G3 with Somnolyzer Inside software. Software verification and \nvalidation included software code reviews, automated testing, bench verification testing and labeling \nreview. \nTesting confirmed that the Somnolyzer auto-scoring algorithms perform equivalently to the device \npredicate algorithms in the Somnolyzer 24x7 software (K131994). Overall testing of Sleepware G3 with \nSomnolyzer Inside package showed that the plug-in has been successfully integrated and all product \nrequirements have been met. The verification and validation testing demonstrated that safety and \neffectiveness has not been inadvertently affected by modifications to the system. \nTesting confirmed that the Sleepware G3 performs equivalently to the device predicate Alice Sleepware \nSoftware (K040595). All tests had passing results.",
+      "extraction_method": "native",
+      "character_count": 2348
+    },
+    {
+      "block_id": "K142988-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Abbreviated 510(k) Sleepware G3 \nTab 5 – 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 55
+    },
+    {
+      "block_id": "K142988-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Respironics Inc. 2/9/2015 Page 5-5",
+      "extraction_method": "native",
+      "character_count": 34
+    },
+    {
+      "block_id": "K142988-P008-B003",
+      "page": 8,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Clinical Tests \nClinical tests were not required to demonstrate the safety and effectiveness of Sleepware G3. Product \nfunctionality has been adequately assessed by non-clinical tests. \nVIII. Conclusion \nSleepware G3 has passed all of the aforementioned non-clinical tests and required no clinical tests in \norder to demonstrate safety or effectiveness. It is therefore concluded that Sleepware G3 is substantially \nequivalent to the predicate device. \n{End of tab}",
+      "extraction_method": "native",
+      "character_count": 465
+    }
+  ],
+  "claims": []
+}

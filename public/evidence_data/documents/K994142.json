@@ -1,0 +1,713 @@
+{
+  "document": {
+    "k_number": "K994142",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "GRASS TS3201/6401 EEG AMPLIFIER SYSTEM",
+    "applicant": "Grass Instrument Co.",
+    "decision_date": "2000-03-06",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf/K994142.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K994142",
+    "sha256": "dab49c84d0982d42101795507787d27ee6a2e8b0779b41ebb27e1cd3bc68673b",
+    "page_count": 7,
+    "native_pages": 0,
+    "ocr_pages": 7,
+    "family_id": "PSG-020",
+    "family_name": "Grass amplifier / Comet-PLUS systems",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "K9q 44\nMAR - 6 2000\n\nEXHIBIT A\n\nGrass® Instrument Division\nAstro-Med, Inc.\nWest Warwick, Rl 02893 USA\nTel: (401) 828-4000\nFax: (401) 822-2430\nContact Person: Steve Johnson\nDecember 1, 1999\n\n510(k) Summary of Safety and Effectiveness\n\nGrass® TS3201/6401 EEG Amplifier\n\n4. Submitter Information\n\nSubmitter’s Name: Stephen E. Johnson\nV.P. or Research & Development\n\nCompany: Grass Instrument Division, Astro-Med, Inc.\n570 Liberty Street\nBraintree, MA 92185\n\nTelephone: (781) 848-2970\n\nFacsimile: (781) 848-2974\n\n2. Identification of the Device\n\nName of Device: Grass® TS3201/6401 ay] Amplifier System\nOw\nClassification: Electroencephatagraph, GWQ, Class Il, per 882.1400\n\n3. Equivalent Devices\n\nThis product is similar in design, function, and intended use to the Bio-Logic\nCEEGRAPH 128-channel Recording System (K973883) and the Telefactor H20\n“Tethered-option” EEG recorder system (K992291).",
+      "character_count": 890
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "Like these equivalent products, the Grass® TS3201/6401 is designed to provide the\nsignal conditioning interface (EEG signal amplification, filtering, and safety isolation)\nbetween the patient and a personal computer platform. When paired with a computer and\nEEG software, these equivalent systems are designed to monitor the EEG signals in a\nreal-time graphical “chart” view on the computer monitor, store the signals to the\ncomputer’s hard drive, replay the data on-screen, simplify the marking and tabulation of\ndiagnostically significant events and measurements, and generate summary reports and\ngraphs for technologist/physician review. These products share the same intended use\nand essential performance and safety characteristics.\n\n4. Description of the Device\n\nThe Grass TS3201/TS6401 systems are 32-channel and 64-channel (respectively) devices\nfor acquiring and conditioning EEG signals and transmitting them to a personal computer\nfor display and storage. The system consists of one or more miniature pager-size 32-\nchannel preamplifier units, which plug into a small “belt-pack” designed to be wom by\nthe patient. The belt-pack provides further signal conditioning, safety isolation and\ncommunication to a remotely located interface panel and data acquisition computer.\n\nUp to two TS3201 or TS6401 bell-packs, in any combination, can be plugged into the\ninterface panel to provide for up to 128 channels of EEG monitoring from a single\nsubject. Each belt-pack includes one additional pair of inputs for standard electrodes for\nmoniloring EOG (eye movemeni) or ECG. Addilionaiiy, each belt-pack also includes a\npatient call pushbutton. which can be used to signal the control room or automatically\ntrigger event marks or recording devices.",
+      "character_count": 1750
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "5. Indications for Use\n\nThe TS3201/6401 amplifier system is designed for use in the recording of routine EEG,\nlong-term EEG with patient video and overnight sleep/EEG recording applications\n(Polysomnography). This device is intended to be used only by physicians, technicians,\nor other medical professionals that are trained in electroencephalography.",
+      "character_count": 351
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "6. Comparison of Technological Characteristics\n\nThe design and technological features of the TS3201/6401 and the predicate devices are\nsimilar. All of the systems provide connections to the patient via a standardized plug-in\ninterface for commonly used EEG electrodes and are intended to record from the same\nanatomical sites. All of the systems perform pre-amplification and fillering of the bio-\npotential signals acquired from these electrodes. Each has a means for sampling the\nchannels at a predetermined or configurable rate and transmitting the sampled EEG data\nto a personal computer. Each system has similar performance specifications, which are\nwell agreed upon by the EEG community (amplifier filter settings, gain, and resolution).\n\nThe essentia! safety characteristics of the devices are identical. Each is powered from a\nlow-voltage DC power supply via a medical-grade power supply as the primary AC\nsafety isolation. Each relies additionally on a second level of safety isolation using either\noptical, capacitor, or lransformer isolation means to isolate the patient leads from ground.\nFinally, each device is designed to be operated with recording and review software\nseparately approved and provided by or recommended by the device manufacturer.\n\nThe major difference between these devices is only in the physical packaging, expansion\ncapabilities, and communication interface. The Bio-Logic device 1s al! contained within\none large box that can be intemally expanded with additional amplifier modules from 32\nchannels to 128 channels. The Telefactor unit is limited to only 32 channels, but is\nsubstantially smaller than the Bio-logic device and can be worn by the patient. The Grass\nTS2201/GAN! cub divides the systems inte separate functional modules that can be\nexternally combined to provide both light-weight, wearable amplifiers with the ability to\nexpand from 32 to 128 channels in 32 channel increments.\n\n7. Testing\n\nThe Grass TS3201/6401 system has been extensively tested to the applicable safety, EMI\nand EMC standards for medical electrical devices, and specifically EEG equipment.\nThird party testing and certification to IEC601-1, FEC601 -1-2, UL2601-1, CSA22.2#601-\n| has been completed or is in process.\n\nAdditional performance testing and bench testing has been completed to verify operation\nof all functional requirements and performance spccifications.\n\nIn conclusion, the Grass TS3201/6401 system is as safe and effective as the predicate\ndevices currently marketed by Bio-Logic Corporation and Telefactor Corporation and\nraises no new safety or effectiveness concems.",
+      "character_count": 2606
+    },
+    {
+      "page": 5,
+      "extraction_method": "ocr",
+      "text": "a MALIN g\no he,\n\nsete rs\nPo\n\n%y\n4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\n%,\n“are Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room —W066-G609\nSilver Spring, MD 20993-0002\n\nMr. Stephen E. Johnson\n\nVice President, Research and Development maar\nGrass Instrument Division APS. ~ 3 fie\nAstro-Med, Inc.\n\n570 Liberty Street\n\nBraintree, Massachusetts 02185\n\nRe: K994142\nTrade/Device Name: Grass TS3201/6401 EEG Amplifier System\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ\nDated (Date on orig SE ltr): December 1, 1999\nReceived (Date on orig SE ltr): December 8, 1999\n\nDear Mr. Johnson:\nThis letter corrects our substantially equivalent letter of March 6, 2000.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 2180
+    },
+    {
+      "page": 6,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Mr. Stephen E. Johnson\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www. fda.gov/AboutFDA/CentersO ffices/C DRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\n\nhttp://www. fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address\n\nhttp://www. fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.\n\nSincerely yours,\n\nKein ACyorsbr\n\nMalvina B. Eydelman, M.D.\n\nDirector\n\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\n\nOffice of Device Evaluation\n\nCenter for Devices and\nRadiological Health\n\nEnclosure",
+      "character_count": 1981
+    },
+    {
+      "page": 7,
+      "extraction_method": "ocr",
+      "text": "Page 1 of 1\n\nS10(k) NUMBER (IF KNow): K @@ueiy- 2\n\nDEVICE NAME: TS3201/6401\n\nINDICATIONS FOR USE:\n\nThe TS3201/6401 amplifier system is designed for use in the recording of routine EEG,\nlong-term EEG with patient video and overnight sleep/EEG recording applications\n(Polysomnography). This device is intended to be used only by physicians, technicians,\nor other medical professionals that are trained in electroencephalography.\n\n(PLEASE DO NOT WRITE BELOW THES LINE-CONTINUE ON ANOTHER PAGE\nIF NEEDED.) , .\n\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n\nPrescription Use\n(Per 21 CFR 801.109}\n\nOver-The-Counter-Use____\n(Optional Format 1-2-96)\n\nOR\nQivision Sign-Off) —\nDivision of General Restorative Devices\n510(k) Number R7tye",
+      "character_count": 736
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K994142-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "K9q 44\nMAR - 6 2000",
+      "extraction_method": "ocr",
+      "character_count": 19
+    },
+    {
+      "block_id": "K994142-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "EXHIBIT A",
+      "text": "EXHIBIT A",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K994142-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "EXHIBIT A",
+      "text": "Grass® Instrument Division\nAstro-Med, Inc.\nWest Warwick, Rl 02893 USA\nTel: (401) 828-4000\nFax: (401) 822-2430\nContact Person: Steve Johnson\nDecember 1, 1999",
+      "extraction_method": "ocr",
+      "character_count": 156
+    },
+    {
+      "block_id": "K994142-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "510(k) Summary of Safety and Effectiveness",
+      "text": "510(k) Summary of Safety and Effectiveness",
+      "extraction_method": "ocr",
+      "character_count": 42
+    },
+    {
+      "block_id": "K994142-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "510(k) Summary of Safety and Effectiveness",
+      "text": "Grass® TS3201/6401 EEG Amplifier",
+      "extraction_method": "ocr",
+      "character_count": 32
+    },
+    {
+      "block_id": "K994142-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "heading",
+      "section": "4. Submitter Information",
+      "text": "4. Submitter Information",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K994142-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "4. Submitter Information",
+      "text": "Submitter’s Name: Stephen E. Johnson\nV.P. or Research & Development",
+      "extraction_method": "ocr",
+      "character_count": 67
+    },
+    {
+      "block_id": "K994142-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "4. Submitter Information",
+      "text": "Company: Grass Instrument Division, Astro-Med, Inc.\n570 Liberty Street\nBraintree, MA 92185",
+      "extraction_method": "ocr",
+      "character_count": 90
+    },
+    {
+      "block_id": "K994142-P001-B009",
+      "page": 1,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "4. Submitter Information",
+      "text": "Telephone: (781) 848-2970",
+      "extraction_method": "ocr",
+      "character_count": 25
+    },
+    {
+      "block_id": "K994142-P001-B010",
+      "page": 1,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "4. Submitter Information",
+      "text": "Facsimile: (781) 848-2974",
+      "extraction_method": "ocr",
+      "character_count": 25
+    },
+    {
+      "block_id": "K994142-P001-B011",
+      "page": 1,
+      "ordinal": 11,
+      "type": "heading",
+      "section": "2. Identification of the Device",
+      "text": "2. Identification of the Device",
+      "extraction_method": "ocr",
+      "character_count": 31
+    },
+    {
+      "block_id": "K994142-P001-B012",
+      "page": 1,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "2. Identification of the Device",
+      "text": "Name of Device: Grass® TS3201/6401 ay] Amplifier System\nOw\nClassification: Electroencephatagraph, GWQ, Class Il, per 882.1400",
+      "extraction_method": "ocr",
+      "character_count": 125
+    },
+    {
+      "block_id": "K994142-P001-B013",
+      "page": 1,
+      "ordinal": 13,
+      "type": "heading",
+      "section": "3. Equivalent Devices",
+      "text": "3. Equivalent Devices",
+      "extraction_method": "ocr",
+      "character_count": 21
+    },
+    {
+      "block_id": "K994142-P001-B014",
+      "page": 1,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "3. Equivalent Devices",
+      "text": "This product is similar in design, function, and intended use to the Bio-Logic\nCEEGRAPH 128-channel Recording System (K973883) and the Telefactor H20\n“Tethered-option” EEG recorder system (K992291).",
+      "extraction_method": "ocr",
+      "character_count": 198
+    },
+    {
+      "block_id": "K994142-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "3. Equivalent Devices",
+      "text": "Like these equivalent products, the Grass® TS3201/6401 is designed to provide the\nsignal conditioning interface (EEG signal amplification, filtering, and safety isolation)\nbetween the patient and a personal computer platform. When paired with a computer and\nEEG software, these equivalent systems are designed to monitor the EEG signals in a\nreal-time graphical “chart” view on the computer monitor, store the signals to the\ncomputer’s hard drive, replay the data on-screen, simplify the marking and tabulation of\ndiagnostically significant events and measurements, and generate summary reports and\ngraphs for technologist/physician review. These products share the same intended use\nand essential performance and safety characteristics.",
+      "extraction_method": "ocr",
+      "character_count": 737
+    },
+    {
+      "block_id": "K994142-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "4. Description of the Device",
+      "text": "4. Description of the Device",
+      "extraction_method": "ocr",
+      "character_count": 28
+    },
+    {
+      "block_id": "K994142-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "4. Description of the Device",
+      "text": "The Grass TS3201/TS6401 systems are 32-channel and 64-channel (respectively) devices\nfor acquiring and conditioning EEG signals and transmitting them to a personal computer\nfor display and storage. The system consists of one or more miniature pager-size 32-\nchannel preamplifier units, which plug into a small “belt-pack” designed to be wom by\nthe patient. The belt-pack provides further signal conditioning, safety isolation and\ncommunication to a remotely located interface panel and data acquisition computer.",
+      "extraction_method": "ocr",
+      "character_count": 512
+    },
+    {
+      "block_id": "K994142-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "4. Description of the Device",
+      "text": "Up to two TS3201 or TS6401 bell-packs, in any combination, can be plugged into the\ninterface panel to provide for up to 128 channels of EEG monitoring from a single\nsubject. Each belt-pack includes one additional pair of inputs for standard electrodes for\nmoniloring EOG (eye movemeni) or ECG. Addilionaiiy, each belt-pack also includes a\npatient call pushbutton. which can be used to signal the control room or automatically\ntrigger event marks or recording devices.",
+      "extraction_method": "ocr",
+      "character_count": 467
+    },
+    {
+      "block_id": "K994142-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "5. Indications for Use",
+      "text": "5. Indications for Use",
+      "extraction_method": "ocr",
+      "character_count": 22
+    },
+    {
+      "block_id": "K994142-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "5. Indications for Use",
+      "text": "The TS3201/6401 amplifier system is designed for use in the recording of routine EEG,\nlong-term EEG with patient video and overnight sleep/EEG recording applications\n(Polysomnography). This device is intended to be used only by physicians, technicians,\nor other medical professionals that are trained in electroencephalography.",
+      "extraction_method": "ocr",
+      "character_count": 327
+    },
+    {
+      "block_id": "K994142-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "6. Comparison of Technological Characteristics",
+      "extraction_method": "ocr",
+      "character_count": 46
+    },
+    {
+      "block_id": "K994142-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "The design and technological features of the TS3201/6401 and the predicate devices are\nsimilar. All of the systems provide connections to the patient via a standardized plug-in\ninterface for commonly used EEG electrodes and are intended to record from the same\nanatomical sites. All of the systems perform pre-amplification and fillering of the bio-\npotential signals acquired from these electrodes. Each has a means for sampling the\nchannels at a predetermined or configurable rate and transmitting the sampled EEG data\nto a personal computer. Each system has similar performance specifications, which are\nwell agreed upon by the EEG community (amplifier filter settings, gain, and resolution).",
+      "extraction_method": "ocr",
+      "character_count": 695
+    },
+    {
+      "block_id": "K994142-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "The essentia! safety characteristics of the devices are identical. Each is powered from a\nlow-voltage DC power supply via a medical-grade power supply as the primary AC\nsafety isolation. Each relies additionally on a second level of safety isolation using either\noptical, capacitor, or lransformer isolation means to isolate the patient leads from ground.\nFinally, each device is designed to be operated with recording and review software\nseparately approved and provided by or recommended by the device manufacturer.",
+      "extraction_method": "ocr",
+      "character_count": 517
+    },
+    {
+      "block_id": "K994142-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "The major difference between these devices is only in the physical packaging, expansion\ncapabilities, and communication interface. The Bio-Logic device 1s al! contained within\none large box that can be intemally expanded with additional amplifier modules from 32\nchannels to 128 channels. The Telefactor unit is limited to only 32 channels, but is\nsubstantially smaller than the Bio-logic device and can be worn by the patient. The Grass\nTS2201/GAN! cub divides the systems inte separate functional modules that can be\nexternally combined to provide both light-weight, wearable amplifiers with the ability to\nexpand from 32 to 128 channels in 32 channel increments.",
+      "extraction_method": "ocr",
+      "character_count": 665
+    },
+    {
+      "block_id": "K994142-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "7. Testing",
+      "text": "7. Testing",
+      "extraction_method": "ocr",
+      "character_count": 10
+    },
+    {
+      "block_id": "K994142-P004-B006",
+      "page": 4,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "The Grass TS3201/6401 system has been extensively tested to the applicable safety, EMI\nand EMC standards for medical electrical devices, and specifically EEG equipment.\nThird party testing and certification to IEC601-1, FEC601 -1-2, UL2601-1, CSA22.2#601-\n| has been completed or is in process.",
+      "extraction_method": "ocr",
+      "character_count": 294
+    },
+    {
+      "block_id": "K994142-P004-B007",
+      "page": 4,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Additional performance testing and bench testing has been completed to verify operation\nof all functional requirements and performance spccifications.",
+      "extraction_method": "ocr",
+      "character_count": 150
+    },
+    {
+      "block_id": "K994142-P004-B008",
+      "page": 4,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "In conclusion, the Grass TS3201/6401 system is as safe and effective as the predicate\ndevices currently marketed by Bio-Logic Corporation and Telefactor Corporation and\nraises no new safety or effectiveness concems.",
+      "extraction_method": "ocr",
+      "character_count": 215
+    },
+    {
+      "block_id": "K994142-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "a MALIN g\no he,",
+      "extraction_method": "ocr",
+      "character_count": 15
+    },
+    {
+      "block_id": "K994142-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "sete rs\nPo",
+      "extraction_method": "ocr",
+      "character_count": 10
+    },
+    {
+      "block_id": "K994142-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "%y\n4 DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "ocr",
+      "character_count": 64
+    },
+    {
+      "block_id": "K994142-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "%,\n“are Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room —W066-G609\nSilver Spring, MD 20993-0002",
+      "extraction_method": "ocr",
+      "character_count": 125
+    },
+    {
+      "block_id": "K994142-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Mr. Stephen E. Johnson",
+      "extraction_method": "ocr",
+      "character_count": 22
+    },
+    {
+      "block_id": "K994142-P005-B006",
+      "page": 5,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Vice President, Research and Development maar\nGrass Instrument Division APS. ~ 3 fie\nAstro-Med, Inc.",
+      "extraction_method": "ocr",
+      "character_count": 100
+    },
+    {
+      "block_id": "K994142-P005-B007",
+      "page": 5,
+      "ordinal": 7,
+      "type": "heading",
+      "section": "570 Liberty Street",
+      "text": "570 Liberty Street",
+      "extraction_method": "ocr",
+      "character_count": 18
+    },
+    {
+      "block_id": "K994142-P005-B008",
+      "page": 5,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Braintree, Massachusetts 02185",
+      "extraction_method": "ocr",
+      "character_count": 30
+    },
+    {
+      "block_id": "K994142-P005-B009",
+      "page": 5,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Re: K994142\nTrade/Device Name: Grass TS3201/6401 EEG Amplifier System\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ\nDated (Date on orig SE ltr): December 1, 1999\nReceived (Date on orig SE ltr): December 8, 1999",
+      "extraction_method": "ocr",
+      "character_count": 282
+    },
+    {
+      "block_id": "K994142-P005-B010",
+      "page": 5,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Dear Mr. Johnson:\nThis letter corrects our substantially equivalent letter of March 6, 2000.",
+      "extraction_method": "ocr",
+      "character_count": 92
+    },
+    {
+      "block_id": "K994142-P005-B011",
+      "page": 5,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "ocr",
+      "character_count": 1033
+    },
+    {
+      "block_id": "K994142-P005-B012",
+      "page": 5,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "ocr",
+      "character_count": 367
+    },
+    {
+      "block_id": "K994142-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Page 2 - Mr. Stephen E. Johnson",
+      "extraction_method": "ocr",
+      "character_count": 31
+    },
+    {
+      "block_id": "K994142-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K994142-P006-B003",
+      "page": 6,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www. fda.gov/AboutFDA/CentersO ffices/C DRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to",
+      "extraction_method": "ocr",
+      "character_count": 495
+    },
+    {
+      "block_id": "K994142-P006-B004",
+      "page": 6,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "http://www. fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 158
+    },
+    {
+      "block_id": "K994142-P006-B005",
+      "page": 6,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "You may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 638-2041 or (301) 796-7100 or at its Internet address",
+      "extraction_method": "ocr",
+      "character_count": 243
+    },
+    {
+      "block_id": "K994142-P006-B006",
+      "page": 6,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "http://www. fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 73
+    },
+    {
+      "block_id": "K994142-P006-B007",
+      "page": 6,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Sincerely yours,",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K994142-P006-B008",
+      "page": 6,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Kein ACyorsbr",
+      "extraction_method": "ocr",
+      "character_count": 13
+    },
+    {
+      "block_id": "K994142-P006-B009",
+      "page": 6,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Malvina B. Eydelman, M.D.",
+      "extraction_method": "ocr",
+      "character_count": 25
+    },
+    {
+      "block_id": "K994142-P006-B010",
+      "page": 6,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Director",
+      "extraction_method": "ocr",
+      "character_count": 8
+    },
+    {
+      "block_id": "K994142-P006-B011",
+      "page": 6,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Division of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices",
+      "extraction_method": "ocr",
+      "character_count": 70
+    },
+    {
+      "block_id": "K994142-P006-B012",
+      "page": 6,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Office of Device Evaluation",
+      "extraction_method": "ocr",
+      "character_count": 27
+    },
+    {
+      "block_id": "K994142-P006-B013",
+      "page": 6,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Center for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 42
+    },
+    {
+      "block_id": "K994142-P006-B014",
+      "page": 6,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Enclosure",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K994142-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "Page 1 of 1",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K994142-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "570 Liberty Street",
+      "text": "S10(k) NUMBER (IF KNow): K @@ueiy- 2",
+      "extraction_method": "ocr",
+      "character_count": 36
+    },
+    {
+      "block_id": "K994142-P007-B003",
+      "page": 7,
+      "ordinal": 3,
+      "type": "heading",
+      "section": "DEVICE NAME: TS3201/6401",
+      "text": "DEVICE NAME: TS3201/6401",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K994142-P007-B004",
+      "page": 7,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "INDICATIONS FOR USE:",
+      "text": "INDICATIONS FOR USE:",
+      "extraction_method": "ocr",
+      "character_count": 20
+    },
+    {
+      "block_id": "K994142-P007-B005",
+      "page": 7,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "The TS3201/6401 amplifier system is designed for use in the recording of routine EEG,\nlong-term EEG with patient video and overnight sleep/EEG recording applications\n(Polysomnography). This device is intended to be used only by physicians, technicians,\nor other medical professionals that are trained in electroencephalography.",
+      "extraction_method": "ocr",
+      "character_count": 327
+    },
+    {
+      "block_id": "K994142-P007-B006",
+      "page": 7,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "(PLEASE DO NOT WRITE BELOW THES LINE-CONTINUE ON ANOTHER PAGE\nIF NEEDED.) , .",
+      "extraction_method": "ocr",
+      "character_count": 77
+    },
+    {
+      "block_id": "K994142-P007-B007",
+      "page": 7,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "Concurrence of CDRH, Office of Device Evaluation (ODE)",
+      "extraction_method": "ocr",
+      "character_count": 54
+    },
+    {
+      "block_id": "K994142-P007-B008",
+      "page": 7,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "Prescription Use\n(Per 21 CFR 801.109}",
+      "extraction_method": "ocr",
+      "character_count": 37
+    },
+    {
+      "block_id": "K994142-P007-B009",
+      "page": 7,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "Over-The-Counter-Use____\n(Optional Format 1-2-96)",
+      "extraction_method": "ocr",
+      "character_count": 49
+    },
+    {
+      "block_id": "K994142-P007-B010",
+      "page": 7,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "INDICATIONS FOR USE:",
+      "text": "OR\nQivision Sign-Off) —\nDivision of General Restorative Devices\n510(k) Number R7tye",
+      "extraction_method": "ocr",
+      "character_count": 83
+    }
+  ],
+  "claims": []
+}

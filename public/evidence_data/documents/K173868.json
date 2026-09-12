@@ -1,0 +1,285 @@
+{
+  "document": {
+    "k_number": "K173868",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "Serenity Body Position Sensor, Serenity RIP Sensors",
+    "applicant": "Neurotronics, Inc.",
+    "decision_date": "2018-07-02",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K173868.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K173868",
+    "sha256": "8ddc23e510c8155885bdea8708c02324b96b8a3e0d3c81c52e348baaa97dc25c",
+    "page_count": 14,
+    "native_pages": 14,
+    "ocr_pages": 0,
+    "family_id": "PSG-033",
+    "family_name": "Serenity PSG sensors",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue Doc ID# 04017.02.11 \nSilver Spring, MD 20993 \nwww.fda.gov \nNeurotronics, Inc.\nDavid Pezet\nQuality Manager\n4500 NW 27th Ave, Suite C2\nGainesville, Florida 32606 \nRe: K173868\nTrade/Device Name: Serenity Body Position Sensor and Serenity RIP Sensors\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLV\nDated: June 5, 2018\nReceived: June 8, 2018\nDear David Pezet:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. The general controls provisions of the Act include requirements for annual \nregistration, listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding \nand adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. \nWe remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803); good \nmanufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820); \nand if applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR \n1000-1050.\n-XO\\\u0003\u0015\u000f\u0003\u0015\u0013\u0014\u001b",
+      "character_count": 2666
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "Page 2 - David Pezet K173868\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice \n(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn \n(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and \nConsumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website \n(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone \n(1-800-638-2041 or 301-796-7100).\nSincerely,\nCarlos L. Peña, PhD, MS\nDirector\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure \n)RU\nJay R. Gupta -S",
+      "character_count": 1123
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 06/30/2020\nSee PRA Statement below.\n510(k) Number (if known)\nK173868\nDevice Name\nSerenity Body Position Sensor and Serenity RIP Sensors\nIndications for Use (Describe)\nThe Serenity RIP and Serenity Body Position Sensors are intended to measure and output respiratory effort signals and \nbody position, respectively, from a patient for archival in a polysomnography study. The sensors are accessories to a \npolysomnography system which records and conditions the physiological signals for analysis and display, such that the \ndata may be analyzed by a qualified sleep clinician to aid in the diagnosis of sleep disorders. \n\nThe Serenity RIP and Serenity Body Position Sensors are intended for use on both adults and children by healthcare \nprofessionals within a hospital, laboratory, clinic, or nursing home; or outside of a medical facility under the direction of a \nmedical professional. \n\nThe Serenity RIP and Serenity Body Position Sensors are not intended for the life monitoring of high risk patients, do not \ninclude or trigger alarms, and are not intended to be used as a critical component of: \n\n• an alarm or alarm system; \n• an apnea monitor or apnea monitoring system; or \n• life monitor or life monitoring system.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "character_count": 2510
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "5 51\n0(k) Summary \n5.1 SU\nMMARY DATE: \nJune\n5, 2018 \n5.2 510K SUBMITTER: \nNeuro\ntronics, Inc. Phone: 352.372.9955 \n4500 NW\n27TH AVE STE C2 Fax: 815.550.2871 \nGainesville, FL 32606 \n5.2.1 Primary Contact: \nName:\nDavid Pezet Title: Quality Manager \nEmail\n: quality@neurotronics.com Phone: 352.372.9955 \n5.2.2 Establishment Registration Number: \n1063\n925 \n5.3 DEVICE TYPE (COMMON NAME): \nBody\nPosition Sensor \nRespi\nratory Inductance Plethysmography (RIP) Sensor \n5.4 PROPRIETARY NAME OF THE DEVICE: \nSere\nnity Body Position Sensor and Serenity RIP Sensors\nK173868 AI Response Page 84 of 133\nPage 1 of 11",
+      "character_count": 601
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "5.5 CL\nASSIFICATION: \n5.5.1 P\nroduct Code \nIt is recommended the Serenity Body Position Sensor and Se renity RIP Sensor be \nclassified as a Class II device by the Neurology Panel under 21 CFR Part 882.1400 \n“Neurological Diagnostic Devices”, product code OLV “Standard Polysomnograph With \nElectroencephalograph”. \nSerenity Body Position Sensor \nProduc\nt Code Device Regulation Description Regulation \nNumber \nOLV Standard Polysomnograph \nWith Electroencephalograph Electroencephalograph 882.1400 \nSerenity RIP Sensor \nProduct \nCode Device Regulation Description Regulation \nNumber \nOLV Standard Polysomnograph \nWith Electroencephalograph Electroencephalograph 882.1400 \n5.5.2 Predicate Device \nSubmitter/Holder Device Name Regulation Classification(s) 510(K) \nNeurotronics, Inc. Polysmith Sleep System 882.1400 OLV, OLZ, DQA K142774 \nRefe\nrence Devices \nSubmitter/Holder Device Name Regula tion Product \nCodes \n510(K) \nNeurotronics, Inc. Nomad Sleep System \nRecorder, Model PMU800 \n882.1835 GWL, DQA, \nMNR \nK092699 \nBraebon Medical Corp. Ultima Body Position \nSensor \n882.5050 LEL K981969 \nAmbu A/S RIPmate; Sleepmate \nRespiratory Effort Sensor \n868.2375 BZQ K903300 \nK173868 AI Response Page 85 of 133\nPage 2 of 11",
+      "character_count": 1216
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "5.6 DES\nCRIPTION \nSereni\nty sleep sensors are intended to measure and output p hysiologic signals used for \nPolysomnography (PSG) or Sleep Studies. These devices are to be used as an accessory \nto compatible amplifiers. \nTypical sleep studies use sensors and electrodes to collect, digitize, and send \nphysiological signals to a host PC. \nSerenity sleep sensors are worn by the patient and connected directly to compatible \ninputs of an amplifier. The amplifier and related software then processes the signal for \nreview by qualified practitioners to score polysomnograms and diagnose Sleep Disorders \nFigu\nre 1 Basic Sleep Study Block Diagram \nThe Serenity Body Position uses a 3-axis accelerometer to track the \npatien\nt’s body orientation; outputting a voltage which corresponds to \none of 5 positions (sitting/upright, supine, prone, left-side, and right-\nside). \nThe Se\nrenity RIP Sensor uses respiratory \ninduct\nance plethysmography to output a waveform \nwhich corresponds to patient’s respiratory effort. \nThe patient wears an adjustable elastic belt which \nconnects to the RIP driver, the RIP driver then \nconnects to the host device. The Serenity RIP \nsensor is available for both thorax and abdomen. \nThorax and abdomen versions are identical, except \nthat they operate at different frequencies to avoid \ninterference. \n5.7 INT\nENDED USE \nK173868 AI Response Page 86 of 133\nPage 3 of 11",
+      "character_count": 1396
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "The Ser\nenity RIP and Body Position Sensors are intended to measure and output \nrespiratory effort signals and body position, respectively, from a patient for archival in a \npolysomnography study. The sensors are accessories to a polysomnography system \nwhich records and conditions the physiological signals for analysis and display, such that \nthe data may be analyzed by a qualified sleep clinician to aid in the diagnosis of sleep \ndisorders. \nThe Serenity RIP and Body Position Sensors are intended for use on both adults and \nchildren by healthcare professionals within a hospital, laboratory, clinic, or nursing home; \nor outside of a medical facility under the direction of a medical professional. \nThe Serenity RIP and Body Position Sensors are not intended for the life monitoring of \nhigh risk patients, do not include or trigger alarms, and are not intended to be used as a \ncritical component of, \n• an alarm or alarm system;\n• an apnea monitor or apnea monitoring system; or\n• life monitor or life monitoring system.\nK173868 AI Response Page 87 of 133\nPage 4 of 11",
+      "character_count": 1078
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "5.8 PRE\nDI\nCATE COMPARISON \n5.8.1 In\ntended Use Comparison \nK142774 Neurotronics, Inc. Polysmith Sleep System Intende d Use (includes Sphinx \nPMU710) \n“The device is intended to measure, amplify, and record physiological signals acquired \nfrom a patient for archival in a sleep study. The physiological signals are recorded and \nconditioned for analysis and display. The data may be analyzed in real-time or offline on \ndedicated polysomnography software running on a personal computer by a qualified \nsleep clinician to aid in the diagnosis of sleep disorders. \nThe device is intended for use by healthcare professionals within a hospital, laboratory, \nclinic, or nursing home; or outside of a medical facility under direct supervision of a \nmedical professional. \nThe device is intended for use on both adults and children only under the direction of a \nphysician or qualified sleep technician. \nThe device, or any accessory, does not include alarms, and is not intended to be used as a \ncritical component of an alarm system. \nThe device, or any accessory, is not to be used alone as an apnea monitor or as a \ncomponent in an apnea monitoring system. \nThe device, or any accessory, is not to be used alone as a life support device or as a \ncritical component of a life support system.” \nNeurotronics Serenity Body Position and RIP Sensor Intended Use Comparison \nDiscussion \nThe intended use of the Serenity Body Position and Serenity RIP Sensors does not \nconflict with the intended use of the primary predicate, the device type which it is \nintended to be an accessory to. Both are intended to be used for archival of a sleep study, \nfor use with adults and children, do not include alarms or are intended to be used as a \ncritical component of an alarm system, not to be used as an apnea monitor or as a \ncomponent in an apnea monitoring system, and not to be used as a life support device or a \ncritical component of a life support system. \nAlthough the Sphinx is intended to be used within a medical facility, or outside a medical \nfacility under direct supervision of a medical professional, the Serenity sensors are \nintended to be used within or outside a medical facility at the direction of a medical \nprofessional. The limitation of direct supervision by the Polysmith Sleep System is due to \nthe amplifier and not because of the sensors; therefore, the Nomad PMU800 is also \nincluded as a reference device. \nK173868 AI Response Page 88 of 133\nPage 5 of 11",
+      "character_count": 2470
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "K09\n2699 Neurotronics, Inc. Nomad Sleep System Recorder, Model PMU800 \nIntended Use Comparison \n“The Nomad device is a digital amplifier capable of measuring bio-potential signals that \nmay be incorporated into a Polysomnogram. \nThe device is intended to measure, amplify, and record physiological signals acquired \nfrom a patient for archival in a Sleep Study, such as Limb Movement, Respiration Effort, \nand SpO2. \nThe data may be analyzed on dedicated Polysomnography software running on a \npersonal computer by a qualified sleep clinician to aid in the diagnosis of Sleep \nDisorders. \nThis device, or any associated accessories, is not to be used alone as an apnea monitor \nor as a component in an apnea monitoring system. \nThis device, or any associated accessories, is not to be used as a life support device or as \na critical component of a life support system. \nThe device is not sterile.” \nNeurotronics Serenity Body Position and RIP Sensor Intended Use Comparison \nDiscussion \nThe intended use of the Serenity Body Position and Serenity RIP Sensors does not \nconflict with the intended use of the reference device Nomad PMU800, also a device type \nwhich it is intended to be an accessory to. Both are intended to be used for archival of a \nsleep study, not to be used as an apnea monitor or as a component in an apnea monitoring \nsystem, not to be used as a life support device or a critical component of a life support \nsystem, and is not sterile. \nThe Nomad PMU800 is also intended to be used in or outside a medical facility at the \ndirection of a medical professional, this is consistent with the intended use of the Serenity \nBody Position Sensor and Serenity RIP Sensor. Although the Nomad Indications for Use \nstatement does not include body position, or use for children or adults, these are \ndescribed in the 510k summary for K092699. \nK981969 Braebon Medical Corporation Ultima Body Position Sensor Intended Use \n“The Braebon Medical Corporation Ultima Body Position Sensor is intended for use \nduring sleep disorder studies as an indicator of body position. The sensor uses a three-\nvolt lithium battery and plugs directly into either a DC amplifier or multiplexer. \nThe target population of the Ultima Body Position Sensor is all children and adult \npatients who are screened during sleep disorder studies. The majority of the screening \noccur at a sleep laboratory although the sensor can also be used in home studies. \nThe Ultima Body Position Sensor is intended for use only by or on the order of a \nphysician. “ \nK173868 AI Response Page 89 of 133\nPage 6 of 11",
+      "character_count": 2586
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "Neu\nrotronics Serenity Body Position Sensor Intended Use Comparison Discussion \nThe Serenity Body Position Sensor intended use is identical to the Ultima Body Position \nSensor. It is also intended to be used to indicate body position during sleep disorder \nstudies. The target population is also both children and adults. The study environment \nalso includes both sleep laboratories and the home. Both the Ultima Body Position Sensor \nand the Serenity Body Position Sensor are intended for use only by or under the order of \na physician. \nK903300 Ambu RIPmate; Sleepmate Respiratory Effort Sensor Intended Use \n“The Ambu Sleepmate respiratory effort sensor is intended to detect respiratory effort \nfrom chest or abdomen movement during sleep research and clinical studies of sleep. \nThis Belt is intended for use in supervised medical settings.” \nNeurotronics Serenity RIP Sensor Intended Use Comparison Discussion \nThe Serenity RIP Sensor share the same intended use as the Ambu RIPmate. Both are \nintended to detect respiratory effort of the chest or abdomen during sleep in a supervised \nmedical setting. The Serenity RIP Sensor additionally, is intended for use outside of a \nmedical setting under the direction of a medical professional. \nK173868 AI Response Page 90 of 133\nPage 7 of 11",
+      "character_count": 1292
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "5.8\n.2 Technical Comparison \nThe Neur\notronics Serenity Body Position Sensor and Serenity RIP Sensor share similar \ndesign form and characteristics. Of the differences, none are considered to effect intended \nuse or safety and effectiveness. \nBody Position Sensor Comparison \nBody Position Sensor Comparison Braeb on Ultima Body \nPosition Sensor \nNeurotronics Serenity \nBody Position Sensor \nImage \nPhysical \nProperties \nBattery 3V Lithium 3V Lithium \nBattery Life ~2 years > 2 years \nEnvironmental \nSpecifications \nOperating \nTemperature \n41°F – 90°F \n(5°C-32°C) \n50°F - 104°F \n(10°C - 40°C) \nOperating \nRelative \nHumidity \n10% to 95% RH non-\ncondensing \n0 to 93% RH non-\ncondensing \nStorage \nTemperature \n32°F to 140°F \n(0°C to 60°C) \n-4°F to 140°F \n(-20°C to 60°C) \nStorage Relative \nHumidity \n10%-95% RH non-\ncondensing 0 - 93% RH non-condensing \nPressure Not Specified 70.0 kPa to 106 kPa \nOutput \nSpecifications \nOutput Signal 0 V to 1 V (± 0.1 V) 0 V to 0.78 V (± 10%) \nPositions \nDetected \nRight Side \nLeft Side \nSupine \nProne \nUpright (Sitting) \nRight Side \nLeft Side \nSupine \nProne \nSitting (Upright) \nK173868 AI Response Page 91 of 133\nPage 8 of 11",
+      "character_count": 1159
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "RIP S\nensor Comparison \nRIP Sensor Comparison Ambu R IPmate Neurotronics Serenity \nRIP Sensor \nImage \nPhysical Properties \nBelt Length \nAdjustable \n24”to 79” \n(60 cm to 200 cm) \nAdjustable \nSmall 15\" to 27\" \n(38.1 cm to 68.58 cm) \nMedium 21\" to 45\" \n(53.34 cm to 114.3 cm) \nLarge 32\" to 78\" \n(81.28 cm to 198.12 cm) \nBelt Material Elastic Band with \nInsulated wire \nElastic Band with \nInsulated wire \nCable Length 2.05 m 0.6m ± 2 cm or \n2.0m ± 5 cm \nCable Material PVC jacketed; ZIP-style \ncord \nPVC jacketed; ZIP-style \ncord \nModule \nBox: ABS \nCable: PVC jacketed; \nZIP-style cord \nBox: ABS \nCable: PVC jacketed; \nZIP-style cord \nBattery 3V Lithium 3V Lithium \nBattery Life Estimated 3000 hours > 3000 hours \nEnvironmental \nSpecifications \nOperating \nTemperature \n40°F – 120°F \n(5°C-50°C) \n50°F - 104°F \n(10°C - 40°C) \nOperating Relative \nHumidity \n15%-95% \nRH non-condensing \n0 - 93% RH non-\ncondensing \nStorage \nTemperature \n0°F-120°F \n(-20°C-50°C) \n-4°F - 140°F \n(-20°C - 60°C) \nStorage Relative \nHumidity \n10%-95% RH non-\ncondensing \n0 - 93% RH non-\ncondensing \nPressure 50.33 kPa – 199.48 kPa 70.0 kPa - 106 kPa \nOutput \nSpecifications Output Signal Maximum: ±5mV \nMaximum: Not \nSpecified. \nNominal: ~ ±1mv \nK173868 AI Response Page 92 of 133\nPage 9 of 11",
+      "character_count": 1261
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "5.8\n.3 Performance Data \n5.8.4 T\nesting Data \nEach referenced document identifies the methodology, crite ria, and results for assessing \nperformance and safety characteristics of the applicable device in compliance with \nNeurotronics design control processes. See section 11.6 Verification for testing related \ninformation. Neither the Braebon Ultima Body Position Sensor or the Ambu RIPmate are \nfound to publish testing to a standard. The design for both the Neurotronics Serenity \nBody Position Sensor and the Neurotronics Serenity RIP Sensor are tested to 60601-1 \nC1:2009/(R)2012 And A2:2010/(R)2012 Medical Electrical Equipment - Part 1: General \nRequirements for Basic Safety and Essential Performance. \nTest Test Method Summary Results \n60601-1 Medical Electrical \nEquipment - Part 1: \nGeneral Requirements for \nBasic Safety and Essential \nPerformance \nHumidity Preconditioning \nDetermination of Applied Part \nand Accessible Parts \nLegibility of Marking \nDurability of Marking \nPatient Leakage Current \nDielectric Voltage Withstand \nResistance to Heat \nExcessive Temperature \nIngress of Liquids – IEC 60529 \nCleaning, Disinfection and \nSterilization of ME Equipment \nand ME Systems \nEnclosure Mechanical Strength \nPush \nImpact \nDrop Test Hand-Held ME \nEquipment \nMold Stress Relief \nAll samples passed the \nacceptance criteria. \nNeither the Braebon Ultima \nBody Position Sensor or the \nAmbu RIPmate were found to \npublish testing to a basic \nsafety standard. \nIEC 60601-1-2 Medical \nElectrical Equipment - Part \n1-2: General Requirements \nfor Safety - Collateral \nStandard: Electromagnetic \nCompatibility \nRadiated Emissions CISPR11 \ned5.0 (with A1:2010) \nElectro-Static Discharge \nImmunity Test IEC 61000-4-2 \ned2.0 (2008-12) \nConducted, Radio-Frequency, \nElectromagnetic Immunity Test \nIEC 61000-4-6 ed2.0 (with \nA1:2004+A2:2006) \nPower Frequency Magnetic \nField Immunity Test IEC 61000-\n4-8 ed2.0 (2009-09) \nAll samples passed the \nacceptance criteria. \nNeither the Braebon Ultima \nBody Position Sensor or the \nAmbu RIPmate were found to \npublish testing \nelectromagnetic compatibility. \nK173868 AI Response Page 93 of 133\nPage 10 of 11",
+      "character_count": 2147
+    },
+    {
+      "page": 14,
+      "extraction_method": "native",
+      "text": "Bod\ny Position Sensor \nVerific\nation \nPosition test \nDielectric strength \nTransition and Hysteresis \nOutput Impedance \nOperational Battery Life \nCalculation \nDimensional Analysis \nOutput Noise \nConnector Tests \nStrap Fasten/Unfasten Cycle \nWire Construction Test \nOperational Battery Voltage \nRange Test \nAll samples passed the \nacceptance criteria. \nNeither the Braebon Ultima \nBody Position Sensor or the \nAmbu RIPmate were found to \npublish testing details. \nReference Device \nComparison \nBody Position Sensor \nReference Comparison Test \nRIP Sensor Reference Device \nComparison \nComparison testing shows \nequivalent performance of the \nSerenity sensors and the \nreference devices, using the \nsame host system \nconfigurations. \nNeither the Braebon Ultima \nBody Position Sensor or the \nAmbu RIPmate were found to \npublish comparison \ninformation. \nBiocompatibility Not Applicable Neither the Braebon Ultima \nBody Position Sensor or the \nAmbu RIPmate were found to \npublish biocompatability. \nSterility Not applicable Neither the Braebon Ultima \nBody Position Sensor or the \nAmbu RIPmate were found to \npublish sterility information. \n5.9 CO\nNCLUSION \nBased\non the results of the Intended Use Comparison, the Tec hnical Comparison, and \nTesting Data, it is believed that the Serenity Body Position Sensor and Serenity RIP \nSensors present no new questions of safety and effectiveness and, are substantially \nequivalent to the identified predicate. Both sensors have similar physical, electrical, and \nenvironmental designs. Both share the same intended use. \nK173868 AI Response Page 94 of 133\nPage 11 of 11",
+      "character_count": 1607
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K173868-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue Doc ID# 04017.02.11 \nSilver Spring, MD 20993 \nwww.fda.gov \nNeurotronics, Inc.\nDavid Pezet\nQuality Manager\n4500 NW 27th Ave, Suite C2\nGainesville, Florida 32606 \nRe: K173868\nTrade/Device Name: Serenity Body Position Sensor and Serenity RIP Sensors\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class II\nProduct Code: OLV\nDated: June 5, 2018\nReceived: June 8, 2018\nDear David Pezet:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. The general controls provisions of the Act include requirements for annual \nregistration, listing of devices, good manufacturing practice, labeling, and prohibitions against misbranding \nand adulteration. Please note: CDRH does not evaluate information related to contract liability warranties. \nWe remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803); good \nmanufacturing practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820); \nand if applicable, the electronic product radiation control provisions (Sections 531-542 of the Act); 21 CFR \n1000-1050.\n-XO\\\u0003\u0015\u000f\u0003\u0015\u0013\u0014\u001b",
+      "extraction_method": "native",
+      "character_count": 2666
+    },
+    {
+      "block_id": "K173868-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Page 2 - David Pezet K173868\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to http://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm.\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice \n(https://www.fda.gov/MedicalDevices/DeviceRegulationandGuidance/) and CDRH Learn \n(http://www.fda.gov/Training/CDRHLearn). Additionally, you may contact the Division of Industry and \nConsumer Education (DICE) to ask a question about a specific regulatory topic. See the DICE website \n(http://www.fda.gov/DICE) for more information or contact DICE by email (DICE@fda.hhs.gov) or phone \n(1-800-638-2041 or 301-796-7100).\nSincerely,\nCarlos L. Peña, PhD, MS\nDirector\nDivision of Neurological\nand Physical Medicine Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure \n)RU\nJay R. Gupta -S",
+      "extraction_method": "native",
+      "character_count": 1123
+    },
+    {
+      "block_id": "K173868-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "FORM FDA 3881 (7/17) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 06/30/2020\nSee PRA Statement below.\n510(k) Number (if known)\nK173868\nDevice Name\nSerenity Body Position Sensor and Serenity RIP Sensors\nIndications for Use (Describe)\nThe Serenity RIP and Serenity Body Position Sensors are intended to measure and output respiratory effort signals and \nbody position, respectively, from a patient for archival in a polysomnography study. The sensors are accessories to a \npolysomnography system which records and conditions the physiological signals for analysis and display, such that the \ndata may be analyzed by a qualified sleep clinician to aid in the diagnosis of sleep disorders.",
+      "extraction_method": "native",
+      "character_count": 834
+    },
+    {
+      "block_id": "K173868-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The Serenity RIP and Serenity Body Position Sensors are intended for use on both adults and children by healthcare \nprofessionals within a hospital, laboratory, clinic, or nursing home; or outside of a medical facility under the direction of a \nmedical professional.",
+      "extraction_method": "native",
+      "character_count": 266
+    },
+    {
+      "block_id": "K173868-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The Serenity RIP and Serenity Body Position Sensors are not intended for the life monitoring of high risk patients, do not \ninclude or trigger alarms, and are not intended to be used as a critical component of:",
+      "extraction_method": "native",
+      "character_count": 210
+    },
+    {
+      "block_id": "K173868-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "list",
+      "section": "Document",
+      "text": "• an alarm or alarm system; \n• an apnea monitor or apnea monitoring system; or \n• life monitor or life monitoring system.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "native",
+      "character_count": 1191
+    },
+    {
+      "block_id": "K173868-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "5 51\n0(k) Summary \n5.1 SU\nMMARY DATE: \nJune\n5, 2018 \n5.2 510K SUBMITTER: \nNeuro\ntronics, Inc. Phone: 352.372.9955 \n4500 NW\n27TH AVE STE C2 Fax: 815.550.2871 \nGainesville, FL 32606 \n5.2.1 Primary Contact: \nName:\nDavid Pezet Title: Quality Manager \nEmail\n: quality@neurotronics.com Phone: 352.372.9955 \n5.2.2 Establishment Registration Number: \n1063\n925 \n5.3 DEVICE TYPE (COMMON NAME): \nBody\nPosition Sensor \nRespi\nratory Inductance Plethysmography (RIP) Sensor \n5.4 PROPRIETARY NAME OF THE DEVICE: \nSere\nnity Body Position Sensor and Serenity RIP Sensors\nK173868 AI Response Page 84 of 133\nPage 1 of 11",
+      "extraction_method": "native",
+      "character_count": 601
+    },
+    {
+      "block_id": "K173868-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "5.5 CL\nASSIFICATION: \n5.5.1 P\nroduct Code \nIt is recommended the Serenity Body Position Sensor and Se renity RIP Sensor be \nclassified as a Class II device by the Neurology Panel under 21 CFR Part 882.1400 \n“Neurological Diagnostic Devices”, product code OLV “Standard Polysomnograph With \nElectroencephalograph”. \nSerenity Body Position Sensor \nProduc\nt Code Device Regulation Description Regulation \nNumber \nOLV Standard Polysomnograph \nWith Electroencephalograph Electroencephalograph 882.1400 \nSerenity RIP Sensor \nProduct \nCode Device Regulation Description Regulation \nNumber \nOLV Standard Polysomnograph \nWith Electroencephalograph Electroencephalograph 882.1400 \n5.5.2 Predicate Device \nSubmitter/Holder Device Name Regulation Classification(s) 510(K) \nNeurotronics, Inc. Polysmith Sleep System 882.1400 OLV, OLZ, DQA K142774 \nRefe\nrence Devices \nSubmitter/Holder Device Name Regula tion Product \nCodes \n510(K) \nNeurotronics, Inc. Nomad Sleep System \nRecorder, Model PMU800 \n882.1835 GWL, DQA, \nMNR \nK092699 \nBraebon Medical Corp. Ultima Body Position \nSensor \n882.5050 LEL K981969 \nAmbu A/S RIPmate; Sleepmate \nRespiratory Effort Sensor \n868.2375 BZQ K903300 \nK173868 AI Response Page 85 of 133\nPage 2 of 11",
+      "extraction_method": "native",
+      "character_count": 1216
+    },
+    {
+      "block_id": "K173868-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "5.6 DES\nCRIPTION \nSereni\nty sleep sensors are intended to measure and output p hysiologic signals used for \nPolysomnography (PSG) or Sleep Studies. These devices are to be used as an accessory \nto compatible amplifiers. \nTypical sleep studies use sensors and electrodes to collect, digitize, and send \nphysiological signals to a host PC. \nSerenity sleep sensors are worn by the patient and connected directly to compatible \ninputs of an amplifier. The amplifier and related software then processes the signal for \nreview by qualified practitioners to score polysomnograms and diagnose Sleep Disorders \nFigu\nre 1 Basic Sleep Study Block Diagram \nThe Serenity Body Position uses a 3-axis accelerometer to track the \npatien\nt’s body orientation; outputting a voltage which corresponds to \none of 5 positions (sitting/upright, supine, prone, left-side, and right-\nside). \nThe Se\nrenity RIP Sensor uses respiratory \ninduct\nance plethysmography to output a waveform \nwhich corresponds to patient’s respiratory effort. \nThe patient wears an adjustable elastic belt which \nconnects to the RIP driver, the RIP driver then \nconnects to the host device. The Serenity RIP \nsensor is available for both thorax and abdomen. \nThorax and abdomen versions are identical, except \nthat they operate at different frequencies to avoid \ninterference. \n5.7 INT\nENDED USE \nK173868 AI Response Page 86 of 133\nPage 3 of 11",
+      "extraction_method": "native",
+      "character_count": 1396
+    },
+    {
+      "block_id": "K173868-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "The Ser\nenity RIP and Body Position Sensors are intended to measure and output \nrespiratory effort signals and body position, respectively, from a patient for archival in a \npolysomnography study. The sensors are accessories to a polysomnography system \nwhich records and conditions the physiological signals for analysis and display, such that \nthe data may be analyzed by a qualified sleep clinician to aid in the diagnosis of sleep \ndisorders. \nThe Serenity RIP and Body Position Sensors are intended for use on both adults and \nchildren by healthcare professionals within a hospital, laboratory, clinic, or nursing home; \nor outside of a medical facility under the direction of a medical professional. \nThe Serenity RIP and Body Position Sensors are not intended for the life monitoring of \nhigh risk patients, do not include or trigger alarms, and are not intended to be used as a \ncritical component of, \n• an alarm or alarm system;\n• an apnea monitor or apnea monitoring system; or\n• life monitor or life monitoring system.\nK173868 AI Response Page 87 of 133\nPage 4 of 11",
+      "extraction_method": "native",
+      "character_count": 1078
+    },
+    {
+      "block_id": "K173868-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "5.8 PRE\nDI\nCATE COMPARISON \n5.8.1 In\ntended Use Comparison \nK142774 Neurotronics, Inc. Polysmith Sleep System Intende d Use (includes Sphinx \nPMU710) \n“The device is intended to measure, amplify, and record physiological signals acquired \nfrom a patient for archival in a sleep study. The physiological signals are recorded and \nconditioned for analysis and display. The data may be analyzed in real-time or offline on \ndedicated polysomnography software running on a personal computer by a qualified \nsleep clinician to aid in the diagnosis of sleep disorders. \nThe device is intended for use by healthcare professionals within a hospital, laboratory, \nclinic, or nursing home; or outside of a medical facility under direct supervision of a \nmedical professional. \nThe device is intended for use on both adults and children only under the direction of a \nphysician or qualified sleep technician. \nThe device, or any accessory, does not include alarms, and is not intended to be used as a \ncritical component of an alarm system. \nThe device, or any accessory, is not to be used alone as an apnea monitor or as a \ncomponent in an apnea monitoring system. \nThe device, or any accessory, is not to be used alone as a life support device or as a \ncritical component of a life support system.” \nNeurotronics Serenity Body Position and RIP Sensor Intended Use Comparison \nDiscussion \nThe intended use of the Serenity Body Position and Serenity RIP Sensors does not \nconflict with the intended use of the primary predicate, the device type which it is \nintended to be an accessory to. Both are intended to be used for archival of a sleep study, \nfor use with adults and children, do not include alarms or are intended to be used as a \ncritical component of an alarm system, not to be used as an apnea monitor or as a \ncomponent in an apnea monitoring system, and not to be used as a life support device or a \ncritical component of a life support system. \nAlthough the Sphinx is intended to be used within a medical facility, or outside a medical \nfacility under direct supervision of a medical professional, the Serenity sensors are \nintended to be used within or outside a medical facility at the direction of a medical \nprofessional. The limitation of direct supervision by the Polysmith Sleep System is due to \nthe amplifier and not because of the sensors; therefore, the Nomad PMU800 is also \nincluded as a reference device. \nK173868 AI Response Page 88 of 133\nPage 5 of 11",
+      "extraction_method": "native",
+      "character_count": 2470
+    },
+    {
+      "block_id": "K173868-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "K09\n2699 Neurotronics, Inc. Nomad Sleep System Recorder, Model PMU800 \nIntended Use Comparison \n“The Nomad device is a digital amplifier capable of measuring bio-potential signals that \nmay be incorporated into a Polysomnogram. \nThe device is intended to measure, amplify, and record physiological signals acquired \nfrom a patient for archival in a Sleep Study, such as Limb Movement, Respiration Effort, \nand SpO2. \nThe data may be analyzed on dedicated Polysomnography software running on a \npersonal computer by a qualified sleep clinician to aid in the diagnosis of Sleep \nDisorders. \nThis device, or any associated accessories, is not to be used alone as an apnea monitor \nor as a component in an apnea monitoring system. \nThis device, or any associated accessories, is not to be used as a life support device or as \na critical component of a life support system. \nThe device is not sterile.” \nNeurotronics Serenity Body Position and RIP Sensor Intended Use Comparison \nDiscussion \nThe intended use of the Serenity Body Position and Serenity RIP Sensors does not \nconflict with the intended use of the reference device Nomad PMU800, also a device type \nwhich it is intended to be an accessory to. Both are intended to be used for archival of a \nsleep study, not to be used as an apnea monitor or as a component in an apnea monitoring \nsystem, not to be used as a life support device or a critical component of a life support \nsystem, and is not sterile. \nThe Nomad PMU800 is also intended to be used in or outside a medical facility at the \ndirection of a medical professional, this is consistent with the intended use of the Serenity \nBody Position Sensor and Serenity RIP Sensor. Although the Nomad Indications for Use \nstatement does not include body position, or use for children or adults, these are \ndescribed in the 510k summary for K092699. \nK981969 Braebon Medical Corporation Ultima Body Position Sensor Intended Use \n“The Braebon Medical Corporation Ultima Body Position Sensor is intended for use \nduring sleep disorder studies as an indicator of body position. The sensor uses a three-\nvolt lithium battery and plugs directly into either a DC amplifier or multiplexer. \nThe target population of the Ultima Body Position Sensor is all children and adult \npatients who are screened during sleep disorder studies. The majority of the screening \noccur at a sleep laboratory although the sensor can also be used in home studies. \nThe Ultima Body Position Sensor is intended for use only by or on the order of a \nphysician. “ \nK173868 AI Response Page 89 of 133\nPage 6 of 11",
+      "extraction_method": "native",
+      "character_count": 2586
+    },
+    {
+      "block_id": "K173868-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Neu\nrotronics Serenity Body Position Sensor Intended Use Comparison Discussion \nThe Serenity Body Position Sensor intended use is identical to the Ultima Body Position \nSensor. It is also intended to be used to indicate body position during sleep disorder \nstudies. The target population is also both children and adults. The study environment \nalso includes both sleep laboratories and the home. Both the Ultima Body Position Sensor \nand the Serenity Body Position Sensor are intended for use only by or under the order of \na physician. \nK903300 Ambu RIPmate; Sleepmate Respiratory Effort Sensor Intended Use \n“The Ambu Sleepmate respiratory effort sensor is intended to detect respiratory effort \nfrom chest or abdomen movement during sleep research and clinical studies of sleep. \nThis Belt is intended for use in supervised medical settings.” \nNeurotronics Serenity RIP Sensor Intended Use Comparison Discussion \nThe Serenity RIP Sensor share the same intended use as the Ambu RIPmate. Both are \nintended to detect respiratory effort of the chest or abdomen during sleep in a supervised \nmedical setting. The Serenity RIP Sensor additionally, is intended for use outside of a \nmedical setting under the direction of a medical professional. \nK173868 AI Response Page 90 of 133\nPage 7 of 11",
+      "extraction_method": "native",
+      "character_count": 1292
+    },
+    {
+      "block_id": "K173868-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "5.8\n.2 Technical Comparison \nThe Neur\notronics Serenity Body Position Sensor and Serenity RIP Sensor share similar \ndesign form and characteristics. Of the differences, none are considered to effect intended \nuse or safety and effectiveness. \nBody Position Sensor Comparison \nBody Position Sensor Comparison Braeb on Ultima Body \nPosition Sensor \nNeurotronics Serenity \nBody Position Sensor \nImage \nPhysical \nProperties \nBattery 3V Lithium 3V Lithium \nBattery Life ~2 years > 2 years \nEnvironmental \nSpecifications \nOperating \nTemperature \n41°F – 90°F \n(5°C-32°C) \n50°F - 104°F \n(10°C - 40°C) \nOperating \nRelative \nHumidity \n10% to 95% RH non-\ncondensing \n0 to 93% RH non-\ncondensing \nStorage \nTemperature \n32°F to 140°F \n(0°C to 60°C) \n-4°F to 140°F \n(-20°C to 60°C) \nStorage Relative \nHumidity \n10%-95% RH non-\ncondensing 0 - 93% RH non-condensing \nPressure Not Specified 70.0 kPa to 106 kPa \nOutput \nSpecifications \nOutput Signal 0 V to 1 V (± 0.1 V) 0 V to 0.78 V (± 10%) \nPositions \nDetected \nRight Side \nLeft Side \nSupine \nProne \nUpright (Sitting) \nRight Side \nLeft Side \nSupine \nProne \nSitting (Upright) \nK173868 AI Response Page 91 of 133\nPage 8 of 11",
+      "extraction_method": "native",
+      "character_count": 1159
+    },
+    {
+      "block_id": "K173868-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "RIP S\nensor Comparison \nRIP Sensor Comparison Ambu R IPmate Neurotronics Serenity \nRIP Sensor \nImage \nPhysical Properties \nBelt Length \nAdjustable \n24”to 79” \n(60 cm to 200 cm) \nAdjustable \nSmall 15\" to 27\" \n(38.1 cm to 68.58 cm) \nMedium 21\" to 45\" \n(53.34 cm to 114.3 cm) \nLarge 32\" to 78\" \n(81.28 cm to 198.12 cm) \nBelt Material Elastic Band with \nInsulated wire \nElastic Band with \nInsulated wire \nCable Length 2.05 m 0.6m ± 2 cm or \n2.0m ± 5 cm \nCable Material PVC jacketed; ZIP-style \ncord \nPVC jacketed; ZIP-style \ncord \nModule \nBox: ABS \nCable: PVC jacketed; \nZIP-style cord \nBox: ABS \nCable: PVC jacketed; \nZIP-style cord \nBattery 3V Lithium 3V Lithium \nBattery Life Estimated 3000 hours > 3000 hours \nEnvironmental \nSpecifications \nOperating \nTemperature \n40°F – 120°F \n(5°C-50°C) \n50°F - 104°F \n(10°C - 40°C) \nOperating Relative \nHumidity \n15%-95% \nRH non-condensing \n0 - 93% RH non-\ncondensing \nStorage \nTemperature \n0°F-120°F \n(-20°C-50°C) \n-4°F - 140°F \n(-20°C - 60°C) \nStorage Relative \nHumidity \n10%-95% RH non-\ncondensing \n0 - 93% RH non-\ncondensing \nPressure 50.33 kPa – 199.48 kPa 70.0 kPa - 106 kPa \nOutput \nSpecifications Output Signal Maximum: ±5mV \nMaximum: Not \nSpecified. \nNominal: ~ ±1mv \nK173868 AI Response Page 92 of 133\nPage 9 of 11",
+      "extraction_method": "native",
+      "character_count": 1261
+    },
+    {
+      "block_id": "K173868-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "5.8\n.3 Performance Data \n5.8.4 T\nesting Data \nEach referenced document identifies the methodology, crite ria, and results for assessing \nperformance and safety characteristics of the applicable device in compliance with \nNeurotronics design control processes. See section 11.6 Verification for testing related \ninformation. Neither the Braebon Ultima Body Position Sensor or the Ambu RIPmate are \nfound to publish testing to a standard. The design for both the Neurotronics Serenity \nBody Position Sensor and the Neurotronics Serenity RIP Sensor are tested to 60601-1 \nC1:2009/(R)2012 And A2:2010/(R)2012 Medical Electrical Equipment - Part 1: General \nRequirements for Basic Safety and Essential Performance. \nTest Test Method Summary Results \n60601-1 Medical Electrical \nEquipment - Part 1: \nGeneral Requirements for \nBasic Safety and Essential \nPerformance \nHumidity Preconditioning \nDetermination of Applied Part \nand Accessible Parts \nLegibility of Marking \nDurability of Marking \nPatient Leakage Current \nDielectric Voltage Withstand \nResistance to Heat \nExcessive Temperature \nIngress of Liquids – IEC 60529 \nCleaning, Disinfection and \nSterilization of ME Equipment \nand ME Systems \nEnclosure Mechanical Strength \nPush \nImpact \nDrop Test Hand-Held ME \nEquipment \nMold Stress Relief \nAll samples passed the \nacceptance criteria. \nNeither the Braebon Ultima \nBody Position Sensor or the \nAmbu RIPmate were found to \npublish testing to a basic \nsafety standard. \nIEC 60601-1-2 Medical \nElectrical Equipment - Part \n1-2: General Requirements \nfor Safety - Collateral \nStandard: Electromagnetic \nCompatibility \nRadiated Emissions CISPR11 \ned5.0 (with A1:2010) \nElectro-Static Discharge \nImmunity Test IEC 61000-4-2 \ned2.0 (2008-12) \nConducted, Radio-Frequency, \nElectromagnetic Immunity Test \nIEC 61000-4-6 ed2.0 (with \nA1:2004+A2:2006) \nPower Frequency Magnetic \nField Immunity Test IEC 61000-\n4-8 ed2.0 (2009-09) \nAll samples passed the \nacceptance criteria. \nNeither the Braebon Ultima \nBody Position Sensor or the \nAmbu RIPmate were found to \npublish testing \nelectromagnetic compatibility. \nK173868 AI Response Page 93 of 133\nPage 10 of 11",
+      "extraction_method": "native",
+      "character_count": 2147
+    },
+    {
+      "block_id": "K173868-P014-B001",
+      "page": 14,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Bod\ny Position Sensor \nVerific\nation \nPosition test \nDielectric strength \nTransition and Hysteresis \nOutput Impedance \nOperational Battery Life \nCalculation \nDimensional Analysis \nOutput Noise \nConnector Tests \nStrap Fasten/Unfasten Cycle \nWire Construction Test \nOperational Battery Voltage \nRange Test \nAll samples passed the \nacceptance criteria. \nNeither the Braebon Ultima \nBody Position Sensor or the \nAmbu RIPmate were found to \npublish testing details. \nReference Device \nComparison \nBody Position Sensor \nReference Comparison Test \nRIP Sensor Reference Device \nComparison \nComparison testing shows \nequivalent performance of the \nSerenity sensors and the \nreference devices, using the \nsame host system \nconfigurations. \nNeither the Braebon Ultima \nBody Position Sensor or the \nAmbu RIPmate were found to \npublish comparison \ninformation. \nBiocompatibility Not Applicable Neither the Braebon Ultima \nBody Position Sensor or the \nAmbu RIPmate were found to \npublish biocompatability. \nSterility Not applicable Neither the Braebon Ultima \nBody Position Sensor or the \nAmbu RIPmate were found to \npublish sterility information. \n5.9 CO\nNCLUSION \nBased\non the results of the Intended Use Comparison, the Tec hnical Comparison, and \nTesting Data, it is believed that the Serenity Body Position Sensor and Serenity RIP \nSensors present no new questions of safety and effectiveness and, are substantially \nequivalent to the identified predicate. Both sensors have similar physical, electrical, and \nenvironmental designs. Both share the same intended use. \nK173868 AI Response Page 94 of 133\nPage 11 of 11",
+      "extraction_method": "native",
+      "character_count": 1607
+    }
+  ],
+  "claims": []
+}

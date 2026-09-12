@@ -1,0 +1,67 @@
+{
+  "document": {
+    "k_number": "K172799",
+    "corpus": "MNR",
+    "product_code": "MNR",
+    "device_name": "Positional Sleep Assessment System (PoSAS) software",
+    "applicant": "Advanced Brain Monitoring",
+    "decision_date": "2018-03-09",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf17/K172799.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K172799",
+    "sha256": "667f1c3ee7dc179979bea865bad73ab27ce7a0e09c70a98932ed6eb9d3c960de",
+    "page_count": 1,
+    "native_pages": 1,
+    "ocr_pages": 0,
+    "family_id": "DF-0060",
+    "family_name": "Positional Sleep Assessment System (PoSAS) software",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "For the best experience, open this PDF portfolio in\n\nAcrobat X or Adobe Reader X, or later.\n\nGet Adobe Reader Now!",
+      "character_count": 114
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K172799-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "For the best experience, open this PDF portfolio in",
+      "extraction_method": "native",
+      "character_count": 51
+    },
+    {
+      "block_id": "K172799-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Acrobat X or Adobe Reader X, or later.",
+      "extraction_method": "native",
+      "character_count": 38
+    },
+    {
+      "block_id": "K172799-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Get Adobe Reader Now!",
+      "extraction_method": "native",
+      "character_count": 21
+    }
+  ],
+  "claims": []
+}

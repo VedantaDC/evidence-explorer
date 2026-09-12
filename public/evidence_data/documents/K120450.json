@@ -1,0 +1,159 @@
+{
+  "document": {
+    "k_number": "K120450",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "SLEEP PROFILER",
+    "applicant": "Advanced Brain Monitoring, Inc.",
+    "decision_date": "2012-09-19",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf12/K120450.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K120450",
+    "sha256": "7a605d9e30b6cacdfe8711218daaf2e6bffec3304e7d81186dfee9756622e624",
+    "page_count": 8,
+    "native_pages": 8,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler\n5 10(k) Summary K 264L50\nIn accordance with 21 CFR 807.92 the following summary of information is provided: Sep 7\nDATE: September 6,2012 1c9Q?\nSUBMITTER:\nAdvanced Brain Monitoring\n2237 Faraday Avenue, Suite 100\nCarlsbad, CA 92008\nT 760.720.0099\nF 760.720.3337\nPRIMARY CONTACT PERSON:\nAdrienne Lenz, RAC\nFounder\nPathway Regulatory Consulting, LLC\nT 262-290-0023\nSECONDARY CONTACT PERSON:\nDan Levendowski\nPresident and Ca-founder\nAdvanced Brain Monitoring, Inc.\nDEVICE:\nTRADE NAME: Sleep Profiler\nCOM MON/USUAL NAME: automatic event detection software for polysomnograph with\nelect roencepha log raph\nCLASSIFICATION NAM ES: 882.1400 Electroencephalograph\nPRODUCT CODE: OLZ\nPREDICATE DEVICE(S):\nK112514 Apnea Risk Evaluation System (ARES), Model 610\nK112102 MICHELE Sleep Scoring System",
+      "character_count": 830
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler\nDEVICE DESCRIPTION:\nThe Sleep Profiler is a software application that analyzes previously recorded physiological signals\nobtained during sleep. The Sleep Profiler software can analyze any EDF files meeting defined\nspecifications, including signals acquired with the Advanced Brain Monitoring X4 System which is the\nsubject of a separate 510(k).\nAutomated algorithms are applied to the raw signals in order to derive additional signals and interpret\nthe raw and derived signal information. The software automates recognition of: a) sleep stage, b)\nsnoring frequency and severity, c) pulse rate, d) cortical (EEG), sympathetic (pulse) and behavioral\n(actigraphy and snoring) arousals. A single channel of electrocardiography, electrooculargraphy,\nelectromyography, or electroencephalography can be optionally presented for visual inspection and\ninterpretation. The software identifies and rejects periods with poor electroencephalography signal\nquality. The full disclosure recording of derived signals and automated analyses can be visually\ninspected and edited prior to the results being integrated into a sleep study report.\nMedicaland history information can be input from a questionnaire. Responses are analyzed to provide\na pre-test probability of Obstructive Sleep Apnea (OSA) (a condition that cannot be diagnosed with Sleep\nProfiler) so an appropriate referral to a sleep physician is made. The automated analyses of\nphysiological data are integrated with the questionnaire data, medical and history information to\nprovide a comprehensive report. Several report formats are available depending on whether the user\nhas acquired more than one night of data, wishes to obtain a narrative summary report or provide\npatient reports.\nINTENDED USE:\nSleep Profiler is intended for the diagnostic evaluation by a physician to assess sleep quality in adults\nonly. The Sleep Profiler is a software-only device to be used under the supervision of a clinician to\nanalyze physiological signals and automatically score sleep study results, including the staging of sleep,\ndetection of arousals and snoring.",
+      "character_count": 2145
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler\nTECHNOLOGY:\nThe Sleep Profiler software is similar to software in the ARES Model 610 and MICHELE Sleep Scoring\nSystem. The following table highlights similarities and differences in technology.\nSpecification Sleep Profiler ARES Model 610 MICHELE Sleep Discussion Differences\n(K112514) Scoring System\n(1<112102)\nIndications Sleep Profiler is The Apnea Risk The MICHELE Sleep Equivalent.-The Sleep Profiler\nfor Use intendled for the - Evaluation System (ARES) Scoring System is a is a software application\ndiagnostic evaluation by is indicated for use in the computer program applied to previously acquired\na physician to assess diagnostic evaluation by (software) intended data which is similar to\nsleep quality in adults a physician of adult for use as an aid for MICHELE. The ARES includes\nonly. The Sleep Profiler patients with possible the diagnosis of both data acquisition and\nis a software-only sleep apnea. The ARES sleep and analyses, and'is cleared to\ndevice to be used under can record and score respiratory related detect sleep vs. wake and REM\nthe supervision of a respiratory events during sleep disorders. vs. Non-REM.\nclinician to analyze sleep (e.g., apneas,\nphysiological signals and hypopneas, mixed The MICHELE Sleep Sleep Profiler, MICHELE and\nautomatically score apneas and flow limiting Scoring System is ARES have the same intended\nsleep study results, events). The device is intended to be used diagnostic effect in staging\nincluding the staging of designed for prescription for analysis sleep. The Sleep Profiler's\nsleep, detection of use in home diagnosis of (automatic Scoring indication is a subset of the\narousals and snoring, adults with possible and manual ARIES and MICHELE as it does\nsleep-related breathing restoring), display, not analyze respiratory data.\ndisorders, redisplay (retrieve),\nSummarizing,\nreports generation\nand networking of\ndigital data\ncollected by\nmonitoring devices\ntypically used to\nevaluate sleep and\nrespiratory related\nsleep disorders.\nThe device is to be\nused under the\nsupervision of a\nphysician. Use is\nrestricted to files\nobtained from adult\npatients.",
+      "character_count": 2160
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler\nSpecification Sleep Profiler ARES Model 610 MICHELE Sleep Discussion Differences\n(K112514) Scoring System\n(K112102)\nDerived *Sleep stages Rapid - Sleep stages Rapid . Sleep stages Equivalent. Sleep Profiler\nSignals Eye Movement Eye Movement (REM) Rapid Eye processes raw data, applies\n(REM) and nREM and nREM Movement (REM) filters, derives a subset of\n(Ni, N2, N3) * Pulse rate and nREM (Ni, signals, and applies an\n* Pulse rate 9 Snoring loudness N2, N3) and wake analysis to those signals\n\" Snringlouness 9 Seep/akelike ARES. Display of\n* Snrin lodnes *Slep/wke Arousais ECG/EOG/EMG is similar to\n\" Sleep/wake . Head movement display of the other\n* Head movement and position * Periodic Leg waveforms; no analysis of\nand position * Snoring, Movements these waveforms are\n* Snoring, sympathetic, - pesad performed. Unlike ARES,\nsympathetic, behavioral arousals kypApneas ad Sleep Profiler does not\nbehavioral and * SP02 yona measure 5p02, airflow or\ncortical arousals * Airflow respiratory effort, or detect\n* ECG,EOG, EMG e Respiratory Effort Apneas/Hypopneas.\nwaveform (Optional)\neApneas and\nHypopneas\nieports * Single night graphic * Single night graphic, Not specified Equivalent. Both ARES and\nand patient Hx narrative and patient Sleep Profiler reports\n* Two night Hx provide sleep time, sleep\ncomparison table * Two night comparison efficiency, sleep/wake,\ntable medical history and disease\nmanagement comments.\nThe ARES report identifies\nstatistics and presents\ngraphs relevant to sleep\napnea whereas the Sleep\nProfiler report identifies\nstatistics and presents\ngraphs related to sleep\nstaging.\nDETERMINATION OF SUBSTANTIAL EQUIVALENCE:\nSUMMARY OF NON-CLINICAL TESTS:\nThe following quality assurance measures were applied to the development of the Sleep Profiler\nSoftware:\n* Risk Analysis\n* Software Validation",
+      "character_count": 1867
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler\nSUMMARY OF CLINICAL TESTS:\nThe Sleep Profiler software has been the subject of clinical testing which validates the sleep staging\nalgorithms by comparison to sleep staging made by manual observation by three raters who were either\nsleep technicians or physicians. There were 44 subjects. The results are presented in the table below:\nEpochs assigned by Sleep Profiler %_agreement\nOverall Wake N1. N2 N3 REM Total Positive Negative\nEpochs Wake 6730 921 557 27 296 8531 0.79 0.95\nassigned Ni 807 1962 1652 40 493 4954 0.40 0.91\nby N2 348 1426 11848 958 218 14798 0.80 0.83\nExpert N3B 36 24 1194 3928 8 5190 0.76 0.97\nScoring REM 178 530 681 35 3641 5065 0.72 0.97\nNo-\nConsensus 124 91 324 67 47 653 ____ ____\nTotal 8223 4954 16256 5055 4703 39191\nThe positive and negative percent agreement obtained during clinical validation of the Sleep Profiler are\nsimilar to that obtained by the predicate device, MICHELE (K112102), which was validated using a\ndifferent data set. The published results from their study are reported below.\nMICHELE\nSCORING FUNCTION Total APPA ANPA Overall % kappa\nby Techs. Agreement (%)\nSLEEP STAGING 24967 82-6 765\nAwalke 6663 89.9 96.4\nNi 2411 50.4 94.7\nN2 9846 82.9 89.6\nN32862 829 97.5\nRem 3285 89.8 98-5\nNo Consensus 283\nCONCLUSION:\nAdvanced Brain Monitoring considers the Sleep Profiler software to be as safe, as effective, and\nsubstantially equivalent to the predicate device.",
+      "character_count": 1452
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HE ALTH &, HUMAN SERVI CES Public Health Service\nFood and Drug Administration\n10903 Newv Hampshire Avenue\nDocument Control Room -W066-G609\nSilver Spring, MD 20993-0002\nAdvanced Brain Monitoring\nd/o Mr. Daniel .J. Levendowski\nPresident and Co-Founder\n2237 Faraday Avenue, Suite 100\nCarlsbad, CA 92008\nRe: K120450\nTrade/Device Name: Sleep Profiler\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class HI\nProduct Code: OLZ\nDated: September 6, 2012\nReceived: September 10, 2012\nDear Mr. Levendowski:\nWe have reviewed your Section 5 10(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class 11 (Special Controls) or class III (PMA), it\nmay be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish fuirther announcements concerning your device in the Federal Register.",
+      "character_count": 1958
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Page 2 - Mr. Daniel J. Levendowski\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act's requirements, including, but not limited to: registration ahd listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 53 1-542 of the Act); 21 CFR 1000-1050.\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutFDA/CentersOffices/CDRHCDPHOffices/ucm 15809.htm for\nthe Center for Devices and Radiological Health's (CDRH's) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification\" (2 1 CFR Part\n807.97). For questions regarding the reporting of adverse events tinder the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safet/LReportaProblem/default.htm for the CDRH's Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 63 8-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda. 2ov/MedicalDevices/ResourcesforYou/Industry/default.htm.\nSincerely yours,\nMalvina B. Bydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure",
+      "character_count": 1956
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler\n510(k) Number (if known): K 96 L5\nDevice Name: Sleep Profiler\nIndications for Use:\nSleep Profiler is intended for the diagnostic evaluation by a physician to assess sleep quality in adults\nonly. The Sleep Profiler is a software-only device to be used under the supervision of a clinician to\nanalyze physiological signals and automatically score sleep study results, including the staging of sleep,\ndetection of arousals and snoring.\nPrescription Use X AND/OR Over-The-Counter Use-\n(Part 21 CFR 801 Subpart D) (Part 21 CFR 801 Subpart C)\n(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n(Division Sign-Off)\nDivision of Ophthalmic. Neurological and Ear,\nNose and Thiroat Devices\n5l10(k) Number\n57",
+      "character_count": 822
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K120450-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler\n5 10(k) Summary K 264L50\nIn accordance with 21 CFR 807.92 the following summary of information is provided: Sep 7\nDATE: September 6,2012 1c9Q?\nSUBMITTER:\nAdvanced Brain Monitoring\n2237 Faraday Avenue, Suite 100\nCarlsbad, CA 92008\nT 760.720.0099\nF 760.720.3337\nPRIMARY CONTACT PERSON:\nAdrienne Lenz, RAC\nFounder\nPathway Regulatory Consulting, LLC\nT 262-290-0023\nSECONDARY CONTACT PERSON:\nDan Levendowski\nPresident and Ca-founder\nAdvanced Brain Monitoring, Inc.\nDEVICE:\nTRADE NAME: Sleep Profiler\nCOM MON/USUAL NAME: automatic event detection software for polysomnograph with\nelect roencepha log raph\nCLASSIFICATION NAM ES: 882.1400 Electroencephalograph\nPRODUCT CODE: OLZ\nPREDICATE DEVICE(S):\nK112514 Apnea Risk Evaluation System (ARES), Model 610\nK112102 MICHELE Sleep Scoring System",
+      "extraction_method": "native",
+      "character_count": 830
+    },
+    {
+      "block_id": "K120450-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler\nDEVICE DESCRIPTION:\nThe Sleep Profiler is a software application that analyzes previously recorded physiological signals\nobtained during sleep. The Sleep Profiler software can analyze any EDF files meeting defined\nspecifications, including signals acquired with the Advanced Brain Monitoring X4 System which is the\nsubject of a separate 510(k).\nAutomated algorithms are applied to the raw signals in order to derive additional signals and interpret\nthe raw and derived signal information. The software automates recognition of: a) sleep stage, b)\nsnoring frequency and severity, c) pulse rate, d) cortical (EEG), sympathetic (pulse) and behavioral\n(actigraphy and snoring) arousals. A single channel of electrocardiography, electrooculargraphy,\nelectromyography, or electroencephalography can be optionally presented for visual inspection and\ninterpretation. The software identifies and rejects periods with poor electroencephalography signal\nquality. The full disclosure recording of derived signals and automated analyses can be visually\ninspected and edited prior to the results being integrated into a sleep study report.\nMedicaland history information can be input from a questionnaire. Responses are analyzed to provide\na pre-test probability of Obstructive Sleep Apnea (OSA) (a condition that cannot be diagnosed with Sleep\nProfiler) so an appropriate referral to a sleep physician is made. The automated analyses of\nphysiological data are integrated with the questionnaire data, medical and history information to\nprovide a comprehensive report. Several report formats are available depending on whether the user\nhas acquired more than one night of data, wishes to obtain a narrative summary report or provide\npatient reports.\nINTENDED USE:\nSleep Profiler is intended for the diagnostic evaluation by a physician to assess sleep quality in adults\nonly. The Sleep Profiler is a software-only device to be used under the supervision of a clinician to\nanalyze physiological signals and automatically score sleep study results, including the staging of sleep,\ndetection of arousals and snoring.",
+      "extraction_method": "native",
+      "character_count": 2145
+    },
+    {
+      "block_id": "K120450-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler\nTECHNOLOGY:\nThe Sleep Profiler software is similar to software in the ARES Model 610 and MICHELE Sleep Scoring\nSystem. The following table highlights similarities and differences in technology.\nSpecification Sleep Profiler ARES Model 610 MICHELE Sleep Discussion Differences\n(K112514) Scoring System\n(1<112102)\nIndications Sleep Profiler is The Apnea Risk The MICHELE Sleep Equivalent.-The Sleep Profiler\nfor Use intendled for the - Evaluation System (ARES) Scoring System is a is a software application\ndiagnostic evaluation by is indicated for use in the computer program applied to previously acquired\na physician to assess diagnostic evaluation by (software) intended data which is similar to\nsleep quality in adults a physician of adult for use as an aid for MICHELE. The ARES includes\nonly. The Sleep Profiler patients with possible the diagnosis of both data acquisition and\nis a software-only sleep apnea. The ARES sleep and analyses, and'is cleared to\ndevice to be used under can record and score respiratory related detect sleep vs. wake and REM\nthe supervision of a respiratory events during sleep disorders. vs. Non-REM.\nclinician to analyze sleep (e.g., apneas,\nphysiological signals and hypopneas, mixed The MICHELE Sleep Sleep Profiler, MICHELE and\nautomatically score apneas and flow limiting Scoring System is ARES have the same intended\nsleep study results, events). The device is intended to be used diagnostic effect in staging\nincluding the staging of designed for prescription for analysis sleep. The Sleep Profiler's\nsleep, detection of use in home diagnosis of (automatic Scoring indication is a subset of the\narousals and snoring, adults with possible and manual ARIES and MICHELE as it does\nsleep-related breathing restoring), display, not analyze respiratory data.\ndisorders, redisplay (retrieve),\nSummarizing,\nreports generation\nand networking of\ndigital data\ncollected by\nmonitoring devices\ntypically used to\nevaluate sleep and\nrespiratory related\nsleep disorders.\nThe device is to be\nused under the\nsupervision of a\nphysician. Use is\nrestricted to files\nobtained from adult\npatients.",
+      "extraction_method": "native",
+      "character_count": 2160
+    },
+    {
+      "block_id": "K120450-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler\nSpecification Sleep Profiler ARES Model 610 MICHELE Sleep Discussion Differences\n(K112514) Scoring System\n(K112102)\nDerived *Sleep stages Rapid - Sleep stages Rapid . Sleep stages Equivalent. Sleep Profiler\nSignals Eye Movement Eye Movement (REM) Rapid Eye processes raw data, applies\n(REM) and nREM and nREM Movement (REM) filters, derives a subset of\n(Ni, N2, N3) * Pulse rate and nREM (Ni, signals, and applies an\n* Pulse rate 9 Snoring loudness N2, N3) and wake analysis to those signals\n\" Snringlouness 9 Seep/akelike ARES. Display of\n* Snrin lodnes *Slep/wke Arousais ECG/EOG/EMG is similar to\n\" Sleep/wake . Head movement display of the other\n* Head movement and position * Periodic Leg waveforms; no analysis of\nand position * Snoring, Movements these waveforms are\n* Snoring, sympathetic, - pesad performed. Unlike ARES,\nsympathetic, behavioral arousals kypApneas ad Sleep Profiler does not\nbehavioral and * SP02 yona measure 5p02, airflow or\ncortical arousals * Airflow respiratory effort, or detect\n* ECG,EOG, EMG e Respiratory Effort Apneas/Hypopneas.\nwaveform (Optional)\neApneas and\nHypopneas\nieports * Single night graphic * Single night graphic, Not specified Equivalent. Both ARES and\nand patient Hx narrative and patient Sleep Profiler reports\n* Two night Hx provide sleep time, sleep\ncomparison table * Two night comparison efficiency, sleep/wake,\ntable medical history and disease\nmanagement comments.\nThe ARES report identifies\nstatistics and presents\ngraphs relevant to sleep\napnea whereas the Sleep\nProfiler report identifies\nstatistics and presents\ngraphs related to sleep\nstaging.\nDETERMINATION OF SUBSTANTIAL EQUIVALENCE:\nSUMMARY OF NON-CLINICAL TESTS:\nThe following quality assurance measures were applied to the development of the Sleep Profiler\nSoftware:\n* Risk Analysis\n* Software Validation",
+      "extraction_method": "native",
+      "character_count": 1867
+    },
+    {
+      "block_id": "K120450-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler\nSUMMARY OF CLINICAL TESTS:\nThe Sleep Profiler software has been the subject of clinical testing which validates the sleep staging\nalgorithms by comparison to sleep staging made by manual observation by three raters who were either\nsleep technicians or physicians. There were 44 subjects. The results are presented in the table below:\nEpochs assigned by Sleep Profiler %_agreement\nOverall Wake N1. N2 N3 REM Total Positive Negative\nEpochs Wake 6730 921 557 27 296 8531 0.79 0.95\nassigned Ni 807 1962 1652 40 493 4954 0.40 0.91\nby N2 348 1426 11848 958 218 14798 0.80 0.83\nExpert N3B 36 24 1194 3928 8 5190 0.76 0.97\nScoring REM 178 530 681 35 3641 5065 0.72 0.97\nNo-\nConsensus 124 91 324 67 47 653 ____ ____\nTotal 8223 4954 16256 5055 4703 39191\nThe positive and negative percent agreement obtained during clinical validation of the Sleep Profiler are\nsimilar to that obtained by the predicate device, MICHELE (K112102), which was validated using a\ndifferent data set. The published results from their study are reported below.\nMICHELE\nSCORING FUNCTION Total APPA ANPA Overall % kappa\nby Techs. Agreement (%)\nSLEEP STAGING 24967 82-6 765\nAwalke 6663 89.9 96.4\nNi 2411 50.4 94.7\nN2 9846 82.9 89.6\nN32862 829 97.5\nRem 3285 89.8 98-5\nNo Consensus 283\nCONCLUSION:\nAdvanced Brain Monitoring considers the Sleep Profiler software to be as safe, as effective, and\nsubstantially equivalent to the predicate device.",
+      "extraction_method": "native",
+      "character_count": 1452
+    },
+    {
+      "block_id": "K120450-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DEPARTMENT OF HE ALTH &, HUMAN SERVI CES Public Health Service\nFood and Drug Administration\n10903 Newv Hampshire Avenue\nDocument Control Room -W066-G609\nSilver Spring, MD 20993-0002\nAdvanced Brain Monitoring\nd/o Mr. Daniel .J. Levendowski\nPresident and Co-Founder\n2237 Faraday Avenue, Suite 100\nCarlsbad, CA 92008\nRe: K120450\nTrade/Device Name: Sleep Profiler\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: Class HI\nProduct Code: OLZ\nDated: September 6, 2012\nReceived: September 10, 2012\nDear Mr. Levendowski:\nWe have reviewed your Section 5 10(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class 11 (Special Controls) or class III (PMA), it\nmay be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish fuirther announcements concerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 1958
+    },
+    {
+      "block_id": "K120450-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Page 2 - Mr. Daniel J. Levendowski\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act's requirements, including, but not limited to: registration ahd listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 53 1-542 of the Act); 21 CFR 1000-1050.\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www.fda.gov/AboutFDA/CentersOffices/CDRHCDPHOffices/ucm 15809.htm for\nthe Center for Devices and Radiological Health's (CDRH's) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification\" (2 1 CFR Part\n807.97). For questions regarding the reporting of adverse events tinder the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safet/LReportaProblem/default.htm for the CDRH's Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n(800) 63 8-2041 or (301) 796-7100 or at its Internet address\nhttp://www.fda. 2ov/MedicalDevices/ResourcesforYou/Industry/default.htm.\nSincerely yours,\nMalvina B. Bydelman, M.D.\nDirector\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure",
+      "extraction_method": "native",
+      "character_count": 1956
+    },
+    {
+      "block_id": "K120450-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Advanced Brain Monitoring, Inc. Sleep Profiler\n510(k) Number (if known): K 96 L5\nDevice Name: Sleep Profiler\nIndications for Use:\nSleep Profiler is intended for the diagnostic evaluation by a physician to assess sleep quality in adults\nonly. The Sleep Profiler is a software-only device to be used under the supervision of a clinician to\nanalyze physiological signals and automatically score sleep study results, including the staging of sleep,\ndetection of arousals and snoring.\nPrescription Use X AND/OR Over-The-Counter Use-\n(Part 21 CFR 801 Subpart D) (Part 21 CFR 801 Subpart C)\n(PLEASE DO NOT WRITE BELOW THIS LINE - CONTINUE ON ANOTHER PAGE IF NEEDED)\nConcurrence of CDRH, Office of Device Evaluation (ODE)\n(Division Sign-Off)\nDivision of Ophthalmic. Neurological and Ear,\nNose and Thiroat Devices\n5l10(k) Number\n57",
+      "extraction_method": "native",
+      "character_count": 822
+    }
+  ],
+  "claims": []
+}

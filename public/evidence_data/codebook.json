@@ -1,0 +1,24 @@
+{
+  "measurement_chain": [
+    "sensor_technology",
+    "sensor_location",
+    "raw_acquired_signal",
+    "physiological_parameter",
+    "direct_vs_derived",
+    "derived_reported_feature",
+    "diagnostic_output"
+  ],
+  "review_decisions": {
+    "pending": "Not yet reviewed",
+    "verified": "Source text explicitly supports the proposed value",
+    "edited and verified": "Reviewer corrected the value and verified the correction",
+    "rejected": "Source text does not support the proposed value",
+    "needs clarification": "Evidence or wording is insufficient"
+  },
+  "missing_values": {
+    "Not stated": "The source does not provide the information",
+    "Not applicable": "The field logically does not apply",
+    "Unreadable": "Source extraction remains unresolved"
+  },
+  "aggregation_rule": "Table 8.3 uses verified and edited-and-verified claims only; clearance and family counts remain separate."
+}

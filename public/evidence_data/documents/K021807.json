@@ -1,0 +1,935 @@
+{
+  "document": {
+    "k_number": "K021807",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLV",
+    "device_name": "GRASS-TELEFACTOR AS40 AMPLIFIER SYSTEM",
+    "applicant": "Grass Instrument Co.",
+    "decision_date": "2002-08-29",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf2/K021807.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K021807",
+    "sha256": "c050e74d9b0517795f61ad5f62b2c53cba37e910e5882c7a38c4a1cd7d1f76c7",
+    "page_count": 9,
+    "native_pages": 0,
+    "ocr_pages": 9,
+    "family_id": "PSG-020",
+    "family_name": "Grass amplifier / Comet-PLUS systems",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "ocr",
+      "text": "AUG 2 9 2002 K 021807\n\nXHIBIT A\n\nGrass-Telefactor Product Group\nAstro-Med, Inc.\nWest Warwick, RI 02893 USA\nTel: (401) 828-4000\nFax: (401) 822-2430\nContact Person: Peter L Fuller\nMay 31, 2002\n\n510(k) Summary of Safety and Effectiveness\n\nGrass-Telefactor AS40 Amplifier System\n\n1, Submitter Information\n\nSubmitter’s Name: Peter L Fuller\n\nAssistant Chief Engineer\n\nCompany: Grass-Telefactor Product Group, Astro-Med, Inc.\n570 Liberty Street\nBraintree, MA 02185\n\nTelephone; (781) 848-2970\n\nFacsimile: (781) 848-2974\n\n2. Identification of the Device\n\nName of Device: Grass-Telefactor AS40 apie: System\nOLY,\nClassification: Electroencephalograph, GWQ, Class II, per 882.1400\n\n3. Equivalent Devices\nThis product is similar in design, function, and intended use to the Bio-logic\n\nSleepScan NETLINK, 510(k) No: K003681 and the Compumedics E-SERIES EEG\nSystem, 510(k) No: K000068.",
+      "character_count": 870
+    },
+    {
+      "page": 2,
+      "extraction_method": "ocr",
+      "text": "Like these equivalent products, the Grass-Telefactor AS40 is designed to provide the\nsignal conditioning interface (physiological signal amplification, filtering, safety\nisolation, and digitization) between the patient and a computer platform. When\nconnected by an Ethemet cable or network to a computer with the appropriate\nsoftware these equivalent systems are designed to monitor physiological signals such\nas EEG and store the signals to the computer’s hard drive. These products have the\nsame intended use and essential performance and safety characteristics.\n\n4. Description of the Device\n\nThe AS40 is a compact 40-channel AC amplifier unit designed for\nelectroencephalography and polysomnography recording applications. The AS40\nprovides for patient safety isolation, signal conditioning (physiological signal\namplification and filtering), and digitization. Communications with a single host\ncomputer are accomplished using TCP/IP protocol over a 10BaseT Ethemet network\nor dedicated cable. A host computer, using the appropriate software, sets the sample\nrate, starts and stops the data transmission, monitors the digital data, and stores it to\nhard disk.\n\nThe AS40 is enclosed in a plastic housing approximately 7” x 6” x 2” (17.78 x 15.24\nx 5.08 cm) in size and it can be attached to a cart arm, mounted on a wall next toa\npatient bed, or sit flat on a tabletop. It can be configured for up to 40 AC and 8 DC\nchannels. An integrated pulse oximeter connection is built into the unit that supports\nan optional tethered OEM pulse oximeter manufactured by Nonin. The patient\nconnection module or electrode input box is referred to as a personality module in the\nAS40 system. The personality module connection is located on the top surface of the\nunit (two 32-pin connectors). The housing for this is a small plastic enclosure that can\nhave up to 40 AC channels with ‘SafeLead’ (protected) electrode connections, along\nwith a reference and ground ‘SafeLead’ electrode connection. A customized overlay\ncan be made for customer specific labeling schemes, The personality module can be\nattached either directly to the AS40 or tethered for easier positioning next to a patient\nbed. An LCD display with menu controls is located on the top surface of the unit\nalong with the personality module connection. Menu selections can be made for\nconfiguring the unit, communicating with the host computer, and implementing the\nelectrode impedance test. The LCD also displays status information such as electrode\n\ninopedance test values.\n\nPower is supplied to the AS40 through a rear side connector that attaches to a\nmedical-grade regulated power supply (+12 volts DC). A 36-pin connector is also\nlocated on the rear side and it allows for the connection of a small plastic tethered\nauxiliary DC input box (DCM8) with 8 available connections for 3.5 mm jacks.\nAuxiliary DC inputs can come from devices such as an oximeter, a CPAP unit, or a\ncapnometer. Also available through this 36-pin connector is a patient/event push",
+      "character_count": 3012
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "button. All other connections (Ethemet, oximeter, photic stinulation control, etc.) are\nalso located on the rear side of the AS40.\n\n5. Indications for Use\n\nThe AS40 amplifier system is designed for use in the recording of routine EEG,\novernight sleep/EEG (PSG, Polysomnography), and other neurophysiological\nmonitoring applications (EMG and Evoked Potentials). This device is intended to be\nused only by physicians, technicians, or other medical professionals that are trained in\nejther electroencephalography or polysomnography.\n\n6. Comparison of Technological Characteristics\n\nThe design and technological features of the AS40 and the predicate devices are\nsimilar. All of the systems provide connections to the patient via a standardized plug-\nin interface for commonly used EEG electrodes and are intended to record from the\nsame anatomical sites. All of the systems perform amplification and filtering of the\nbio-potential signals acquired from these electrodes. Each system has an integrated\n(built-in) oximeter. Each has a means for digitizing the channels and transmitting the\nsampled EEG and physiological data to a computer over an Ethernet cable or network.\nEach system has a calibration mode, the means of testing electrode impedances, and\nmeans of controlling a flash unit. The performance specifications are also similar for\neach system, which are well agreed upon by the EEG community (amplifier filter\nsettings, gain, and resolution). ,\n\nThe essential safety characteristics of the devices are identical. Each is powered from\na low-voltage DC power supply via a medical-grade power supply as the primary AC\nsafety isolation. Each relies additionally on a second level of safety isolation using\neither optical, capacitor, or transformer isolation means to isolate the patient leads\nfrom ground. Finally, each device is designed to operate with recording and review\nsoftware separately approved and provided by or recommended by the device\nmanufacturer.\n\nThe major difference between these devices is only in the physical packaging, input\nconnection capabilities, and total channel count. The Bio-Logic device is slightly\nlarger with the patient connection box contained in the main unit with an optional\ntethered version available and it has support for 40 channels. The Compumedics\ndevice is smaller than both the Grass-Telecfactor AS40 and the Biologic device but\nconsists of two modules one being the main unit and the other the patient connection\nbox and it has support for up to 57 channels. The Grass-Telefactor AS40 can be a\none-piece unit with the patient connection box directly connected to the base unit or\n\nseparated with the patient connection box tethered and it has support for up to 50\nchannels.",
+      "character_count": 2726
+    },
+    {
+      "page": 4,
+      "extraction_method": "ocr",
+      "text": "The following table is provided to demonstrate the AS40’s technical characteristics\npresent no significant differences when compared to those of the predicate devices.\n\nComparison Table\nTechnical Grass-Telefactor Bio-logic Compumedics\nCharacteristic | AS-40 SleepScan NetLink E-series EEG\nDevice Class, I Same Same\nCategory Blectroencephalogra\nphy\nPower Supply | Medical-grade Same Same\npower supply\nPatient Safety Patient connections | Same Same\nare isolated from\nground\nSafety and IEC601-1 Not available TEC601-1\nElectrical UL2601-1 IEC601-2-26\nStandards Met |} JEC601.2.26 IEC601-1-2\nCSA 22.2No.601.1\nIEC601-1-2\nRecording 48-channel capacity | 40-channel capacity 57-channel capacity\nCapacity including 8 non- including 8 AUX DC | including 8 non-\nisolated AUX DC channels isolated AUX DC\nchannels channels\nDirect support | Yes, manufacturer Yes, manufacturer Yes, manufacturer\nfor an integrated | Nonin Nonin not specified\nOximeter\nCalibration/Use | Yes Yes Yes\nModes\nBuilt-in Yes, results Yes, results displayed | Yes, results\n(integrated) displayed on host using an array of displayed on host\nelectrode controlled LCD LEDs on the device controlled LEDs on\nimpedance test | display on the device the device\nPhotic (flash Yes Yes Yes\nunit)\nStimulation\nControl\nintegrated\nHost Computer | Industry standard Same Same\nto Device Ethernet interface\nConnection\nData Output Digital Same Same\nAnatomical Same — Same Same\nSites",
+      "character_count": 1422
+    },
+    {
+      "page": 5,
+      "extraction_method": "ocr",
+      "text": "Comparison Table (Continued)\n\nTechnical Grass-Telefactor Bio-logic Compumedics\n\nCharacteristic | AS-40 SleepScau NetLink | E-series EEG\n\nA/D Resolution | 16-bit, simultaneous 22-bit, sioultaneous | 8, 12, or 16-bit\n\nsampling sampling simultaneous\nZ sampling\n\nSampling Rate | Up to 800 Hz 128 — 2048 Hz Up te 512 Hz\n\nNoise <2nVpp <2puVpp 0.54.Vrms\n\nCMRR >80dB > 100dB >115dB differential\nmode, >105dB\n_single ended\n\nInput 10 MOhms Not available > 100MOhms\n\nImpedance .\n\nLow-Frequency | 0.16 Hz 0.1 Hz 0.16 Hz\n\nCutoff\n\nHigh-Frequency | 100 Hz Not available 107 Hz\n\nCutoff",
+      "character_count": 569
+    },
+    {
+      "page": 6,
+      "extraction_method": "ocr",
+      "text": "7. Testing\n\nThe Grass-Telefactor AS40 system is in the process of being extensively tested to the\napplicable safety, EMI and EMC standards for medicat electrical devices, and\nspecifically EEG equipment. Third party testing and certification to IEC601-1,\nTEC601-1-2, IEC60)-2-26, UL2601-1, CSA22.2No.601-1 is also in process and will\nbe completed before we commence shipment of this device.\n\nAdditional performance testing and bench testing has been completed to verify\noperation of all functional equipment and performance specifications.\n\nIn conclusion, the Grass-Telefactor AS40 amplifier system is as safe and effective as\nthe predicate devices currently marketed by Bio-Logic Corporation and Compumedics\nand raises no new safety or effectiveness concems.",
+      "character_count": 758
+    },
+    {
+      "page": 7,
+      "extraction_method": "ocr",
+      "text": "poeeices |\nSy\n\n€ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\n\nWhAlty,\n+\nee %,\n\nv,\n’n,\n2630\n\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room -W066-G609\nSilver Spring, MD 20993-0002\n\nGrass-Telefactor Product Group, Astro-Med, Inc.\n\nPeter L. Fuller\n\nAssistant Chief Engineer APR -9 20\n570 Liberty Street\n\nBraintree, Massachusetts 02185\n\nRe: K021807\nTrade/Device Name: Grass-Telefactor AS40 Amplifier System\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ\nDated (Date on orig SE ltr): May 31, 2002\nReceived (Date on orig SE ltr): June 3, 2002\n\nDear Mr. Fuller:\nThis letter corrects our substantially equivalent letter of August 29, 2002.\n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 2153
+    },
+    {
+      "page": 8,
+      "extraction_method": "ocr",
+      "text": "Page 2 - Mr. Peter L. Fuller\n\nPlease be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\n\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www. fda.gov/AboutF DA/CentersOffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.\n\nYou may obtain other general information on your responsibilities under the Act from the\n\nDivision of Small Manufacturers, International and Consumer Assistance at its toll-free number\n\n(800) 638-2041 or (301) 796-7100 or at its Internet address\n-//www.fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.\n\nSincerely yours,\n\nKe sic oand”\n\nMalvina B. Eydelman, M.D.\n\nDirector\n\nDivision of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices\n\nOffice of Device Evaluation\n\nCenter for Devices and\nRadiological Health\n\nEnclosure",
+      "character_count": 1970
+    },
+    {
+      "page": 9,
+      "extraction_method": "ocr",
+      "text": "http://www.fda.gov/cdrh/ode/indicate:huml\n\n: cn Page 1 of 1.\n510(s) Number (if known): K021807\nDevice Name: Grass-Telefactor AS40 Amplifier System\nIndications for Use:\nThe ASA40 amplifier system is designed for use in the recording of routine BEG,\novernight sleep/EEG (PSG, Polysomnography), and other neurophysiological monitoring\napplications (EMG and Evoked Potentials). This device is intended to be used only by\n\nphysicians, technicians, or other medical professionals that are trained in. either\nelectroencephalography or polysomnography.\n\n(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE\nOF NEEDED)\n\nConcurence of CDRH, Office of Device Evaulation (ODE)\n\nNM as\nVreeet Mim Use 7\n\nFormat 3-10-98)\n(Posted July I, 1998)\n\ni e\nDivision of General, Restorative\nand Neurological Devices\n\n510(k) Number_LO2IPO7",
+      "character_count": 822
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K021807-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "AUG 2 9 2002 K 021807",
+      "text": "AUG 2 9 2002 K 021807",
+      "extraction_method": "ocr",
+      "character_count": 21
+    },
+    {
+      "block_id": "K021807-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "XHIBIT A",
+      "text": "XHIBIT A",
+      "extraction_method": "ocr",
+      "character_count": 8
+    },
+    {
+      "block_id": "K021807-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "XHIBIT A",
+      "text": "Grass-Telefactor Product Group\nAstro-Med, Inc.\nWest Warwick, RI 02893 USA\nTel: (401) 828-4000\nFax: (401) 822-2430\nContact Person: Peter L Fuller\nMay 31, 2002",
+      "extraction_method": "ocr",
+      "character_count": 157
+    },
+    {
+      "block_id": "K021807-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "510(k) Summary of Safety and Effectiveness",
+      "text": "510(k) Summary of Safety and Effectiveness",
+      "extraction_method": "ocr",
+      "character_count": 42
+    },
+    {
+      "block_id": "K021807-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "510(k) Summary of Safety and Effectiveness",
+      "text": "Grass-Telefactor AS40 Amplifier System",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K021807-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "510(k) Summary of Safety and Effectiveness",
+      "text": "1, Submitter Information",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K021807-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "510(k) Summary of Safety and Effectiveness",
+      "text": "Submitter’s Name: Peter L Fuller",
+      "extraction_method": "ocr",
+      "character_count": 32
+    },
+    {
+      "block_id": "K021807-P001-B008",
+      "page": 1,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "510(k) Summary of Safety and Effectiveness",
+      "text": "Assistant Chief Engineer",
+      "extraction_method": "ocr",
+      "character_count": 24
+    },
+    {
+      "block_id": "K021807-P001-B009",
+      "page": 1,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "510(k) Summary of Safety and Effectiveness",
+      "text": "Company: Grass-Telefactor Product Group, Astro-Med, Inc.\n570 Liberty Street\nBraintree, MA 02185",
+      "extraction_method": "ocr",
+      "character_count": 95
+    },
+    {
+      "block_id": "K021807-P001-B010",
+      "page": 1,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "510(k) Summary of Safety and Effectiveness",
+      "text": "Telephone; (781) 848-2970",
+      "extraction_method": "ocr",
+      "character_count": 25
+    },
+    {
+      "block_id": "K021807-P001-B011",
+      "page": 1,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "510(k) Summary of Safety and Effectiveness",
+      "text": "Facsimile: (781) 848-2974",
+      "extraction_method": "ocr",
+      "character_count": 25
+    },
+    {
+      "block_id": "K021807-P001-B012",
+      "page": 1,
+      "ordinal": 12,
+      "type": "heading",
+      "section": "2. Identification of the Device",
+      "text": "2. Identification of the Device",
+      "extraction_method": "ocr",
+      "character_count": 31
+    },
+    {
+      "block_id": "K021807-P001-B013",
+      "page": 1,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "2. Identification of the Device",
+      "text": "Name of Device: Grass-Telefactor AS40 apie: System\nOLY,\nClassification: Electroencephalograph, GWQ, Class II, per 882.1400",
+      "extraction_method": "ocr",
+      "character_count": 122
+    },
+    {
+      "block_id": "K021807-P001-B014",
+      "page": 1,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "2. Identification of the Device",
+      "text": "3. Equivalent Devices\nThis product is similar in design, function, and intended use to the Bio-logic",
+      "extraction_method": "ocr",
+      "character_count": 100
+    },
+    {
+      "block_id": "K021807-P001-B015",
+      "page": 1,
+      "ordinal": 15,
+      "type": "paragraph",
+      "section": "2. Identification of the Device",
+      "text": "SleepScan NETLINK, 510(k) No: K003681 and the Compumedics E-SERIES EEG\nSystem, 510(k) No: K000068.",
+      "extraction_method": "ocr",
+      "character_count": 98
+    },
+    {
+      "block_id": "K021807-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "2. Identification of the Device",
+      "text": "Like these equivalent products, the Grass-Telefactor AS40 is designed to provide the\nsignal conditioning interface (physiological signal amplification, filtering, safety\nisolation, and digitization) between the patient and a computer platform. When\nconnected by an Ethemet cable or network to a computer with the appropriate\nsoftware these equivalent systems are designed to monitor physiological signals such\nas EEG and store the signals to the computer’s hard drive. These products have the\nsame intended use and essential performance and safety characteristics.",
+      "extraction_method": "ocr",
+      "character_count": 564
+    },
+    {
+      "block_id": "K021807-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "4. Description of the Device",
+      "text": "4. Description of the Device",
+      "extraction_method": "ocr",
+      "character_count": 28
+    },
+    {
+      "block_id": "K021807-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "4. Description of the Device",
+      "text": "The AS40 is a compact 40-channel AC amplifier unit designed for\nelectroencephalography and polysomnography recording applications. The AS40\nprovides for patient safety isolation, signal conditioning (physiological signal\namplification and filtering), and digitization. Communications with a single host\ncomputer are accomplished using TCP/IP protocol over a 10BaseT Ethemet network\nor dedicated cable. A host computer, using the appropriate software, sets the sample\nrate, starts and stops the data transmission, monitors the digital data, and stores it to\nhard disk.",
+      "extraction_method": "ocr",
+      "character_count": 567
+    },
+    {
+      "block_id": "K021807-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "4. Description of the Device",
+      "text": "The AS40 is enclosed in a plastic housing approximately 7” x 6” x 2” (17.78 x 15.24\nx 5.08 cm) in size and it can be attached to a cart arm, mounted on a wall next toa\npatient bed, or sit flat on a tabletop. It can be configured for up to 40 AC and 8 DC\nchannels. An integrated pulse oximeter connection is built into the unit that supports\nan optional tethered OEM pulse oximeter manufactured by Nonin. The patient\nconnection module or electrode input box is referred to as a personality module in the\nAS40 system. The personality module connection is located on the top surface of the\nunit (two 32-pin connectors). The housing for this is a small plastic enclosure that can\nhave up to 40 AC channels with ‘SafeLead’ (protected) electrode connections, along\nwith a reference and ground ‘SafeLead’ electrode connection. A customized overlay\ncan be made for customer specific labeling schemes, The personality module can be\nattached either directly to the AS40 or tethered for easier positioning next to a patient\nbed. An LCD display with menu controls is located on the top surface of the unit\nalong with the personality module connection. Menu selections can be made for\nconfiguring the unit, communicating with the host computer, and implementing the\nelectrode impedance test. The LCD also displays status information such as electrode",
+      "extraction_method": "ocr",
+      "character_count": 1337
+    },
+    {
+      "block_id": "K021807-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "4. Description of the Device",
+      "text": "inopedance test values.",
+      "extraction_method": "ocr",
+      "character_count": 23
+    },
+    {
+      "block_id": "K021807-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "4. Description of the Device",
+      "text": "Power is supplied to the AS40 through a rear side connector that attaches to a\nmedical-grade regulated power supply (+12 volts DC). A 36-pin connector is also\nlocated on the rear side and it allows for the connection of a small plastic tethered\nauxiliary DC input box (DCM8) with 8 available connections for 3.5 mm jacks.\nAuxiliary DC inputs can come from devices such as an oximeter, a CPAP unit, or a\ncapnometer. Also available through this 36-pin connector is a patient/event push",
+      "extraction_method": "ocr",
+      "character_count": 483
+    },
+    {
+      "block_id": "K021807-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "4. Description of the Device",
+      "text": "button. All other connections (Ethemet, oximeter, photic stinulation control, etc.) are\nalso located on the rear side of the AS40.",
+      "extraction_method": "ocr",
+      "character_count": 130
+    },
+    {
+      "block_id": "K021807-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "5. Indications for Use",
+      "text": "5. Indications for Use",
+      "extraction_method": "ocr",
+      "character_count": 22
+    },
+    {
+      "block_id": "K021807-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "5. Indications for Use",
+      "text": "The AS40 amplifier system is designed for use in the recording of routine EEG,\novernight sleep/EEG (PSG, Polysomnography), and other neurophysiological\nmonitoring applications (EMG and Evoked Potentials). This device is intended to be\nused only by physicians, technicians, or other medical professionals that are trained in\nejther electroencephalography or polysomnography.",
+      "extraction_method": "ocr",
+      "character_count": 373
+    },
+    {
+      "block_id": "K021807-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "6. Comparison of Technological Characteristics",
+      "extraction_method": "ocr",
+      "character_count": 46
+    },
+    {
+      "block_id": "K021807-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "The design and technological features of the AS40 and the predicate devices are\nsimilar. All of the systems provide connections to the patient via a standardized plug-\nin interface for commonly used EEG electrodes and are intended to record from the\nsame anatomical sites. All of the systems perform amplification and filtering of the\nbio-potential signals acquired from these electrodes. Each system has an integrated\n(built-in) oximeter. Each has a means for digitizing the channels and transmitting the\nsampled EEG and physiological data to a computer over an Ethernet cable or network.\nEach system has a calibration mode, the means of testing electrode impedances, and\nmeans of controlling a flash unit. The performance specifications are also similar for\neach system, which are well agreed upon by the EEG community (amplifier filter\nsettings, gain, and resolution). ,",
+      "extraction_method": "ocr",
+      "character_count": 873
+    },
+    {
+      "block_id": "K021807-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "The essential safety characteristics of the devices are identical. Each is powered from\na low-voltage DC power supply via a medical-grade power supply as the primary AC\nsafety isolation. Each relies additionally on a second level of safety isolation using\neither optical, capacitor, or transformer isolation means to isolate the patient leads\nfrom ground. Finally, each device is designed to operate with recording and review\nsoftware separately approved and provided by or recommended by the device\nmanufacturer.",
+      "extraction_method": "ocr",
+      "character_count": 513
+    },
+    {
+      "block_id": "K021807-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "The major difference between these devices is only in the physical packaging, input\nconnection capabilities, and total channel count. The Bio-Logic device is slightly\nlarger with the patient connection box contained in the main unit with an optional\ntethered version available and it has support for 40 channels. The Compumedics\ndevice is smaller than both the Grass-Telecfactor AS40 and the Biologic device but\nconsists of two modules one being the main unit and the other the patient connection\nbox and it has support for up to 57 channels. The Grass-Telefactor AS40 can be a\none-piece unit with the patient connection box directly connected to the base unit or",
+      "extraction_method": "ocr",
+      "character_count": 663
+    },
+    {
+      "block_id": "K021807-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "separated with the patient connection box tethered and it has support for up to 50\nchannels.",
+      "extraction_method": "ocr",
+      "character_count": 92
+    },
+    {
+      "block_id": "K021807-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "The following table is provided to demonstrate the AS40’s technical characteristics\npresent no significant differences when compared to those of the predicate devices.",
+      "extraction_method": "ocr",
+      "character_count": 167
+    },
+    {
+      "block_id": "K021807-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "Comparison Table\nTechnical Grass-Telefactor Bio-logic Compumedics\nCharacteristic | AS-40 SleepScan NetLink E-series EEG\nDevice Class, I Same Same\nCategory Blectroencephalogra\nphy\nPower Supply | Medical-grade Same Same\npower supply\nPatient Safety Patient connections | Same Same\nare isolated from\nground\nSafety and IEC601-1 Not available TEC601-1\nElectrical UL2601-1 IEC601-2-26\nStandards Met |} JEC601.2.26 IEC601-1-2\nCSA 22.2No.601.1\nIEC601-1-2\nRecording 48-channel capacity | 40-channel capacity 57-channel capacity\nCapacity including 8 non- including 8 AUX DC | including 8 non-\nisolated AUX DC channels isolated AUX DC\nchannels channels\nDirect support | Yes, manufacturer Yes, manufacturer Yes, manufacturer\nfor an integrated | Nonin Nonin not specified\nOximeter\nCalibration/Use | Yes Yes Yes\nModes\nBuilt-in Yes, results Yes, results displayed | Yes, results\n(integrated) displayed on host using an array of displayed on host\nelectrode controlled LCD LEDs on the device controlled LEDs on\nimpedance test | display on the device the device\nPhotic (flash Yes Yes Yes\nunit)\nStimulation\nControl\nintegrated\nHost Computer | Industry standard Same Same\nto Device Ethernet interface\nConnection\nData Output Digital Same Same\nAnatomical Same — Same Same\nSites",
+      "extraction_method": "ocr",
+      "character_count": 1253
+    },
+    {
+      "block_id": "K021807-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "Comparison Table (Continued)",
+      "extraction_method": "ocr",
+      "character_count": 28
+    },
+    {
+      "block_id": "K021807-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "Technical Grass-Telefactor Bio-logic Compumedics",
+      "extraction_method": "ocr",
+      "character_count": 48
+    },
+    {
+      "block_id": "K021807-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "Characteristic | AS-40 SleepScau NetLink | E-series EEG",
+      "extraction_method": "ocr",
+      "character_count": 55
+    },
+    {
+      "block_id": "K021807-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "A/D Resolution | 16-bit, simultaneous 22-bit, sioultaneous | 8, 12, or 16-bit",
+      "extraction_method": "ocr",
+      "character_count": 77
+    },
+    {
+      "block_id": "K021807-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "sampling sampling simultaneous\nZ sampling",
+      "extraction_method": "ocr",
+      "character_count": 41
+    },
+    {
+      "block_id": "K021807-P005-B006",
+      "page": 5,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "Sampling Rate | Up to 800 Hz 128 — 2048 Hz Up te 512 Hz",
+      "extraction_method": "ocr",
+      "character_count": 55
+    },
+    {
+      "block_id": "K021807-P005-B007",
+      "page": 5,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "Noise <2nVpp <2puVpp 0.54.Vrms",
+      "extraction_method": "ocr",
+      "character_count": 30
+    },
+    {
+      "block_id": "K021807-P005-B008",
+      "page": 5,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "CMRR >80dB > 100dB >115dB differential\nmode, >105dB\n_single ended",
+      "extraction_method": "ocr",
+      "character_count": 65
+    },
+    {
+      "block_id": "K021807-P005-B009",
+      "page": 5,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "Input 10 MOhms Not available > 100MOhms",
+      "extraction_method": "ocr",
+      "character_count": 39
+    },
+    {
+      "block_id": "K021807-P005-B010",
+      "page": 5,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "Impedance .",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K021807-P005-B011",
+      "page": 5,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "Low-Frequency | 0.16 Hz 0.1 Hz 0.16 Hz",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K021807-P005-B012",
+      "page": 5,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "Cutoff",
+      "extraction_method": "ocr",
+      "character_count": 6
+    },
+    {
+      "block_id": "K021807-P005-B013",
+      "page": 5,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "High-Frequency | 100 Hz Not available 107 Hz",
+      "extraction_method": "ocr",
+      "character_count": 44
+    },
+    {
+      "block_id": "K021807-P005-B014",
+      "page": 5,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "6. Comparison of Technological Characteristics",
+      "text": "Cutoff",
+      "extraction_method": "ocr",
+      "character_count": 6
+    },
+    {
+      "block_id": "K021807-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "7. Testing",
+      "text": "7. Testing",
+      "extraction_method": "ocr",
+      "character_count": 10
+    },
+    {
+      "block_id": "K021807-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "The Grass-Telefactor AS40 system is in the process of being extensively tested to the\napplicable safety, EMI and EMC standards for medicat electrical devices, and\nspecifically EEG equipment. Third party testing and certification to IEC601-1,\nTEC601-1-2, IEC60)-2-26, UL2601-1, CSA22.2No.601-1 is also in process and will\nbe completed before we commence shipment of this device.",
+      "extraction_method": "ocr",
+      "character_count": 377
+    },
+    {
+      "block_id": "K021807-P006-B003",
+      "page": 6,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Additional performance testing and bench testing has been completed to verify\noperation of all functional equipment and performance specifications.",
+      "extraction_method": "ocr",
+      "character_count": 147
+    },
+    {
+      "block_id": "K021807-P006-B004",
+      "page": 6,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "In conclusion, the Grass-Telefactor AS40 amplifier system is as safe and effective as\nthe predicate devices currently marketed by Bio-Logic Corporation and Compumedics\nand raises no new safety or effectiveness concems.",
+      "extraction_method": "ocr",
+      "character_count": 218
+    },
+    {
+      "block_id": "K021807-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "poeeices |\nSy",
+      "extraction_method": "ocr",
+      "character_count": 13
+    },
+    {
+      "block_id": "K021807-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "€ DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service",
+      "extraction_method": "ocr",
+      "character_count": 61
+    },
+    {
+      "block_id": "K021807-P007-B003",
+      "page": 7,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "WhAlty,\n+\nee %,",
+      "extraction_method": "ocr",
+      "character_count": 15
+    },
+    {
+      "block_id": "K021807-P007-B004",
+      "page": 7,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "v,\n’n,\n2630",
+      "extraction_method": "ocr",
+      "character_count": 11
+    },
+    {
+      "block_id": "K021807-P007-B005",
+      "page": 7,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Food and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Room -W066-G609\nSilver Spring, MD 20993-0002",
+      "extraction_method": "ocr",
+      "character_count": 117
+    },
+    {
+      "block_id": "K021807-P007-B006",
+      "page": 7,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Grass-Telefactor Product Group, Astro-Med, Inc.",
+      "extraction_method": "ocr",
+      "character_count": 47
+    },
+    {
+      "block_id": "K021807-P007-B007",
+      "page": 7,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Peter L. Fuller",
+      "extraction_method": "ocr",
+      "character_count": 15
+    },
+    {
+      "block_id": "K021807-P007-B008",
+      "page": 7,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Assistant Chief Engineer APR -9 20\n570 Liberty Street",
+      "extraction_method": "ocr",
+      "character_count": 53
+    },
+    {
+      "block_id": "K021807-P007-B009",
+      "page": 7,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Braintree, Massachusetts 02185",
+      "extraction_method": "ocr",
+      "character_count": 30
+    },
+    {
+      "block_id": "K021807-P007-B010",
+      "page": 7,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Re: K021807\nTrade/Device Name: Grass-Telefactor AS40 Amplifier System\nRegulation Number: 21 CFR 882.1400\nRegulation Name: Electroencephalograph\nRegulatory Class: II\nProduct Code: OLV, GWQ\nDated (Date on orig SE ltr): May 31, 2002\nReceived (Date on orig SE ltr): June 3, 2002",
+      "extraction_method": "ocr",
+      "character_count": 274
+    },
+    {
+      "block_id": "K021807-P007-B011",
+      "page": 7,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Dear Mr. Fuller:\nThis letter corrects our substantially equivalent letter of August 29, 2002.",
+      "extraction_method": "ocr",
+      "character_count": 93
+    },
+    {
+      "block_id": "K021807-P007-B012",
+      "page": 7,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device\nreferenced above and have determined the device is substantially equivalent (for the indications\nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate\ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to\ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug,\nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA).\nYou may, therefore, market the device, subject to the general controls provisions of the Act. The\ngeneral controls provisions of the Act include requirements for annual registration, listing of\ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and\nadulteration. Please note: CDRH does not evaluate information related to contract liability\nwarranties. We remind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "ocr",
+      "character_count": 1033
+    },
+    {
+      "block_id": "K021807-P007-B013",
+      "page": 7,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA),\nit may be subject to additional controls. Existing major regulations affecting your device can be\nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may\npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "ocr",
+      "character_count": 367
+    },
+    {
+      "block_id": "K021807-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Page 2 - Mr. Peter L. Fuller",
+      "extraction_method": "ocr",
+      "character_count": 28
+    },
+    {
+      "block_id": "K021807-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Please be advised that FDA’s issuance of a substantial equivalence determination does not mean\nthat FDA has made a determination that your device complies with other requirements of the Act\nor any Federal statutes and regulations administered by other Federal agencies. You must\ncomply with all the Act’s requirements, including, but not limited to: registration and listing (21\nCFR Part 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical\ndevice-related adverse events) (21 CFR 803); good manufacturing practice requirements as set\nforth in the quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic\nproduct radiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "ocr",
+      "character_count": 745
+    },
+    {
+      "block_id": "K021807-P008-B003",
+      "page": 8,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "If you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please\ngo to http://www. fda.gov/AboutF DA/CentersOffices/CDRH/CDRHOffices/ucm115809.htm for\nthe Center for Devices and Radiological Health’s (CDRH’s) Office of Compliance. Also, please\nnote the regulation entitled, \"Misbranding by reference to premarket notification” (21CFR Part\n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21\nCFR Part 803), please go to\nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH’s Office\nof Surveillance and Biometrics/Division of Postmarket Surveillance.",
+      "extraction_method": "ocr",
+      "character_count": 652
+    },
+    {
+      "block_id": "K021807-P008-B004",
+      "page": 8,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "You may obtain other general information on your responsibilities under the Act from the",
+      "extraction_method": "ocr",
+      "character_count": 88
+    },
+    {
+      "block_id": "K021807-P008-B005",
+      "page": 8,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Division of Small Manufacturers, International and Consumer Assistance at its toll-free number",
+      "extraction_method": "ocr",
+      "character_count": 94
+    },
+    {
+      "block_id": "K021807-P008-B006",
+      "page": 8,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "(800) 638-2041 or (301) 796-7100 or at its Internet address\n-//www.fda.gov/MedicalDevices/ResourcesforY ou/Industry/default.htm.",
+      "extraction_method": "ocr",
+      "character_count": 128
+    },
+    {
+      "block_id": "K021807-P008-B007",
+      "page": 8,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Sincerely yours,",
+      "extraction_method": "ocr",
+      "character_count": 16
+    },
+    {
+      "block_id": "K021807-P008-B008",
+      "page": 8,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Ke sic oand”",
+      "extraction_method": "ocr",
+      "character_count": 12
+    },
+    {
+      "block_id": "K021807-P008-B009",
+      "page": 8,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Malvina B. Eydelman, M.D.",
+      "extraction_method": "ocr",
+      "character_count": 25
+    },
+    {
+      "block_id": "K021807-P008-B010",
+      "page": 8,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Director",
+      "extraction_method": "ocr",
+      "character_count": 8
+    },
+    {
+      "block_id": "K021807-P008-B011",
+      "page": 8,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Division of Ophthalmic, Neurological,\nand Ear, Nose and Throat Devices",
+      "extraction_method": "ocr",
+      "character_count": 70
+    },
+    {
+      "block_id": "K021807-P008-B012",
+      "page": 8,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Office of Device Evaluation",
+      "extraction_method": "ocr",
+      "character_count": 27
+    },
+    {
+      "block_id": "K021807-P008-B013",
+      "page": 8,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Center for Devices and\nRadiological Health",
+      "extraction_method": "ocr",
+      "character_count": 42
+    },
+    {
+      "block_id": "K021807-P008-B014",
+      "page": 8,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Enclosure",
+      "extraction_method": "ocr",
+      "character_count": 9
+    },
+    {
+      "block_id": "K021807-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "http://www.fda.gov/cdrh/ode/indicate:huml",
+      "extraction_method": "ocr",
+      "character_count": 41
+    },
+    {
+      "block_id": "K021807-P009-B002",
+      "page": 9,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": ": cn Page 1 of 1.\n510(s) Number (if known): K021807\nDevice Name: Grass-Telefactor AS40 Amplifier System\nIndications for Use:\nThe ASA40 amplifier system is designed for use in the recording of routine BEG,\novernight sleep/EEG (PSG, Polysomnography), and other neurophysiological monitoring\napplications (EMG and Evoked Potentials). This device is intended to be used only by",
+      "extraction_method": "ocr",
+      "character_count": 373
+    },
+    {
+      "block_id": "K021807-P009-B003",
+      "page": 9,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "physicians, technicians, or other medical professionals that are trained in. either\nelectroencephalography or polysomnography.",
+      "extraction_method": "ocr",
+      "character_count": 126
+    },
+    {
+      "block_id": "K021807-P009-B004",
+      "page": 9,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "(PLEASE DO NOT WRITE BELOW THIS LINE-CONTINUE ON ANOTHER PAGE\nOF NEEDED)",
+      "extraction_method": "ocr",
+      "character_count": 72
+    },
+    {
+      "block_id": "K021807-P009-B005",
+      "page": 9,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Concurence of CDRH, Office of Device Evaulation (ODE)",
+      "extraction_method": "ocr",
+      "character_count": 53
+    },
+    {
+      "block_id": "K021807-P009-B006",
+      "page": 9,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "NM as\nVreeet Mim Use 7",
+      "extraction_method": "ocr",
+      "character_count": 22
+    },
+    {
+      "block_id": "K021807-P009-B007",
+      "page": 9,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "Format 3-10-98)\n(Posted July I, 1998)",
+      "extraction_method": "ocr",
+      "character_count": 37
+    },
+    {
+      "block_id": "K021807-P009-B008",
+      "page": 9,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "i e\nDivision of General, Restorative\nand Neurological Devices",
+      "extraction_method": "ocr",
+      "character_count": 61
+    },
+    {
+      "block_id": "K021807-P009-B009",
+      "page": 9,
+      "ordinal": 9,
+      "type": "paragraph",
+      "section": "7. Testing",
+      "text": "510(k) Number_LO2IPO7",
+      "extraction_method": "ocr",
+      "character_count": 21
+    }
+  ],
+  "claims": []
+}

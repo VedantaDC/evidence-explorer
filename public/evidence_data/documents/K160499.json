@@ -1,0 +1,1270 @@
+{
+  "document": {
+    "k_number": "K160499",
+    "corpus": "MNR",
+    "product_code": "MNR",
+    "device_name": "Apnea Risk Evaluation System (ARES), Model 620",
+    "applicant": "Watermark Medical",
+    "decision_date": "2017-04-24",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf16/K160499.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K160499",
+    "sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439",
+    "page_count": 13,
+    "native_pages": 13,
+    "ocr_pages": 0,
+    "family_id": "DF-0008",
+    "family_name": "ARES",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 40,
+    "pending_claim_count": 40,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Center - WO66-G609\nSilver Spring, MD 20993-0002\nApril 24, 2017\nWatermark Medical\nƏ\u00030LFKDHO\u0003/HLJK\nConsultant\nMichael Leigh\n19019 W. Coffee Road\nNew Berlin, Wisconsin 53146 \nRe: K160499\nTrade/Device Name: Apnea Risk Evaluation System (ARES), Model 620\nRegulation Number: 21 CFR 868.2375\nRegulation Name: Breathing Frequency Monitor\nRegulatory Class: Class II\nProduct Code: MNR\nDated: March 20, 2017\nReceived: March 24, 2017\nDear Michael Leigh:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device \nreferenced above and have determined the device is substantially equivalent (for the indications \nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate \ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to \ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug, \nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). \nYou may, therefore, market the device, subject to the general controls provisions of the Act. The \ngeneral controls provisions of the Act include requirements for annual registration, listing of \ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability \nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), \nit may be subject to additional controls. Existing major regulations affecting your device can be \nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may \npublish further announcements concerning your device in the Federal Register.",
+      "character_count": 1989
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "- Michael LeighPage 2\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean \nthat FDA has made a determination that your device complies with other requirements of the Act \nor any Federal statutes and regulations administered by other Federal agencies. You must comply \nwith all the Act's requirements, including, but not limited to: registration and listing (21 CFR \nPart 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-\nrelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in \nthe quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product \nradiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please \ncontact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041\nor (301) 796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note \nthe regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 \nCFR Part 803), please go to \nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office \nof Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the \nDivision of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) \n796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.\nSincerely yours,\nTina Kiang, Ph.D.\nActing Director\nDivision of Anesthesiology,\nGeneral Hospital, Respiratory,\nInfection Control, and Dental Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure\nTina \nKiang -S",
+      "character_count": 2017
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK160499\nDevice Name\nApnea Risk Evaluation System (ARES), Model 620\nIndications for Use (Describe)\nThe Apnea Risk Evaluation System (ARES), Model 620 is indicated for use in the diagnostic evaluation by a physician of \nadult patients with possible sleep apnea. The ARES can record and score respiratory events during sleep (e.g., apneas, \nhypopneas, mixed apneas and flow limiting events). The device is designed for prescription use in the patient’s home to \naid a physician in diagnosing adults with possible sleep-related breathing disorders.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "character_count": 1896
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "510(k) Summary for Watermark Apnea Risk Evaluation System \n\nSubmitter: Watermark Medical \nAddress: 1641 Worthington Road, Suite 320 \nWest Palm Beach, FL 33409 \n\nCorporate Contact: Frank Katarow, VP Product Development \nWatermark Medical \n\nTelephone: 877-710-6999 \nEstablishment Registration #: 3008208119 \nSubmission Contact: Michael Leigh \nconsultant \n\nTrade Name: Apnea Risk Evaluation System (ARES TM), Model 620 \nCommon/Usual name: ARES \nClassification Names: 868.2375 Ventilatory Effort Recorder. Class II \nProduct Code: MNR \nPredicate Device: K111194 Apnea Risk Evaluation System (ARES), Model 610 \nDevice Description: \nThe Apnea Risk Evaluation System (ARESTM) includes a battery powered patient worn device called a \nUnicorder (Model 620). The Unicorder is worn by a patient for one to three nights, each night recording \nup to 7 hours of data. Data recorded includes oxygen saturation, snoring level, head movement, head \nposition, and airflow. Additionally, the Unicorder 620 allows collection of data from ARES compatible \nperipheral devices. The device monitors signal quality during acquisition and notifies the user via voice \nmessages when adjustments are required. \nA standard USB cable connects the Unicorder to a USB port on a host computer when patient data is to \nbe uploaded or downloaded. The USB cable provides power to the Unicorder during recharging from the \nhost computer or from a USB wall charger. The Unicorder cannot record nor can it be worn by the \npatient when connected to the host computer or the wall charger. \nSoftware, residing on a local PC or a physical or virtual server controls the uploading and downloading of \ndata to the Unicorder, processes the sleep study data and generates a sleep study report. The ARESTM",
+      "character_count": 1756
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders \n\nTechnology: \nThe ARESTM Model 620 being submitted is an update to the predicate ARESTM Model 610 (K111194) and \nincludes the following changes: \n• Enhanced physical design \n Reduced size \n Physical enhancements (rubber sensor block as opposed to exposed silicone \nforehead sensor) \n Integrated sensor technology \n• Integrated SPO2 technology (currently derived via Insight) \n Dual SPO2 integrated sensors \n• Integrated video display \n• Integrated Bluetooth",
+      "character_count": 2092
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "COMPARISON TO PREDICATE DEVICES \nThe modified ARESTM Model 620 has the same intended use and fundamental scientific technology as \nthe cleared ARESTM Model 610. Technological characteristics are described in the table below. \n\nSpecification \nPredicate Device ARES \nModel 610, K111194 as \ncleared on 07/07/2011 \nProposed ARES Model 620 Discussion of \nDifferences \nClassification \nMNR, Ventilatory Effort \nRecorder \n\nMNR, Ventilatory Effort \nRecorder \n\nIdentical \nIndications for Use \nThe Apnea Risk Evaluation \nSystem (ARES) is indicated for \nuse in the diagnostic \nevaluation by a physician of \nadult patients with possible \nsleep apnea. The ARES can \nrecord and score respiratory \nevents during sleep (e.g., \napneas, hypopneas, mixed \napneas and flow limiting \nevents). The device is \ndesigned for prescription use \nin home diagnosis of adults \nwith possible sleep-related \nbreathing disorders. \nThe Apnea Risk Evaluation \nSystem (ARES), is indicated for \nuse in the diagnostic \nevaluation by a physician of \nadult patients with possible \nsleep apnea. The ARES can \nrecord and score respiratory \nevents during sleep (e.g., \napneas, hypopneas, mixed \napneas and flow limiting \nevents). The device is \ndesigned for prescription use \nin home diagnosis of adults \nwith possible sleep-related \nbreathing disorders. \nIdentical \nPatient Population \n\nAdults Adults Identical \nAnatomical Sites Forehead Forehead Identical \nEnvironment of \nUse \nHome (data acquisition)  \nPhysician office (data analysis \nand reporting) \nHome (data acquisition)  \nPhysician office (data analysis \nand reporting) \nIdentical \nUnicorder User \nInterface \nUser Control Single button Control \n On/Off \nMulti-button control \n On/Off \n Volume Up/Down \nMenu navigation \nEquivalent - Same \nOn/Off, with addition \nof \n Volume \ncontrols \n Clinical menu \nwith special \nkey sequence \nVisual Indicator Green LED Visual Display \nEquivalent – added \ndevice specific updates \nand visual queues \nAudio Indicator \nSpeaker – voice message alert \nuser to problems during \nrecording \nSpeaker – voice message alert \nuser to problems during \nrecording \nIdentical \nSpecifications of",
+      "character_count": 2134
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equivalent – no impact \non use \nWeight 4 oz with batteries 3.4 oz with batteries Equivalent – no impact \non use \nData Acquisition \nUnit Materials \nCase ABS blend ABS blend Identical \nEnclosure Strap \n Single piece strap. \n Non-latex elastic, \n polyethylene, \n metal rivets, \nplastic sizing strap \n Single piece strap. \n Non-latex elastic, \n polypropylene shield, \nVelcro Velstretch brand tape \n(sizing) \nEquivalent – Eliminated \nunnecessary pieces \nStabilizing straps Santoprene Not used in this model Equivalent – Eliminated \nin design \nForehead sensor \npad \nSilicone – combined with \nenclosure pad Not used in this model Equivalent – Eliminated \nin design \nCannula Salter SO-1314 Salter SO-1314 Identical \nCleaning \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nIdentical \nCable \nDimensions Standard USB “A” to mini “B” Standard USB “A” to mini “B” Identical \nRecharging \nIndicator \nLED – Green, pattern – \nblinking Graphic display Similar \nCommunication \nData Transfer Native USB Native USB Identical \nData Transfer Rate >256 MB per minute >240 MB per Minute Equivalent – no impact \non use \nPerformance",
+      "character_count": 1954
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Software Code base Assembler code C \nEquivalent - new code \nbase for improved \nmaintenance and \nprocessing efficiency \nEstimated file Size \nper Minute ~ 67 KB/min ~52 KB/min Equivalent – no impact \non use \nSaturation \nAccuracy \nSp02 Range Error (± 1 SD) \nSaturation Accuracy 70-100% \n70 to 100% SpO2 \n± 2% Equivalent \nAirflow Via Nasal Pressure Range ± \n0.55 cm H20 Accuracy ± 2% \nVia Nasal Pressure Range ± \n0.55 cm H20 Accuracy ± 2% \nIdentical \nHead Position Via accelerometers  \nPosition accuracy 3° @ 30°C \nVia accelerometers  \nPosition accuracy 3° @ 30°C Identical \nSnoring Level From microphone 40 dB (min)\n 70 dB (max) \nFrom microphone 20 dB (min)\n 70 dB (max) \nEquivalent - Additional \nlow frequency range \navailable \nSleep/awake Signal Optional EEG Sensor: ±1000 \nμV @ 256 samples/sec \nOptional EEG Sensor: ±1000 \nμV @ 240 samples/sec \nEquivalent – No impact \non use \nEnhanced physical \ndesign \nReduced size 4.5” long x 2” wide x 1” deep 4” long x 2” wide x 0.8” deep Similar \nForehead sensor Silicone – combined with \nenclosure pad rubber sensor block Similar \nEnhancements \naddressing ease of \nuse \nIncorporate user feedback Equivalent - Improved \ndesign for user comfort \nhardware \nmemory capacity 2 GB 8 GB Equivalent - additional \nmemory capacity \nprocessor Three secondary processors \nfor interfacing to external PC \nand SD card \nSingle secondary processor for \ninterfacing to external PC and \nSD card \nEquivalent - Improved \ntechnology eliminating \nneed for additional \nsecondary processors \nbattery \nBattery type two 250 mAh lithium ion \nconnected in parallel \nsingle 1500 mAh lithium ion Equivalent – \n Improved battery \nefficiency \n eliminates potential \nperformance or \nsafety issues from \nrunning batteries in \nparallel \nbattery protection internal overcharge/discharge \nprotective circuit \ninternal overcharge/discharge \nprotective circuit, with \nadditional overcurrent/short \ncircuit protection \nEquivalent - Additional \nprotective circuits",
+      "character_count": 1965
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "battery charge \nindicator \nNone battery charge gauge - visible \nto user \nSimilar \ncharge control controller including pre-\ncharge and fast-charge safety \ntimers \n controller including pre-\ncharge and fast-charge \nsafety timers \n battery temperature \nsensing \n over-temperature safety \ncutoff \n storage disconnect \nSimilar \noximeter \ncontrol timing, optical hardware, and \ndata collection on main \nprocessor \ntiming, optical hardware, and \ndata collection on separate \nprocessor \nEquivalent \noptical \ncomponents \nsingle LED/Photo diode two LED/Photo diodes Equivalent - redundant \nsensors \nsensor \nconstruction \noptical components \nencapsulated in silicone gel \nthat is attached to rubber pad \noptical components mounted \ndirectly to rubber pad and \nsealed with silicone gel \nEquivalent – new \ndesign for ease of \ncleaning and \nserviceability \nEEG \ndesign no lead drive, no current \nlimiters \ncross couple pair of amplifiers \ncurrent limiting resistors \nEquivalent - \nsimultaneous use of \nperipheral respiratory \nbelt(s) and EEG \nprocessing processor with internal 12 bit \nA/D converter \nprocessor with internal 12 bit \nA/D converter \nIdentical \nsignal chain data captured by ADC and \ntransferred directly to SD card \nwith no filtering or \ntransformation \ndata captured by ADC and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nIdentical \nairflow \npressure \ntransducer \nminiature pressure \nsensor package with \nIntegrated temperature \ncompensation and calibration \nminiature pressure \nsensor package with \nIntegrated temperature \ncompensation and calibration \nEquivalent \noffset handling no DC rejection circuit, so \noffset must be calibrated \nduring manufacturing \nhigh pass filter to eliminate all \ntransducer offsets and \nmaximize usable range of A/D \nconverter \nEquivalent",
+      "character_count": 1804
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "signal chain signal is captured by 12-bit \nADC in main processor and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nsignal is captured by 12-bit \nADC in main processor and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nIdentical \nmicrophone \ncircuitry smaller, equivalent first stage \namplifier, modified reference \ncircuit \nEquivalent \nmicrophone 6mm omnidirectional back \nelectret condensor \nmicrophones \n6mm omnidirectional back \nelectret condensor \nmicrophones \nEquivalent \ngain -44 dB +/-3DB -42dB +/-3dB Equivalent - Gain \ncompensates for \ndifference in acoustics \ndue to mounting \nsignal chain signal is captured by 12-bit \nADC in main processor and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nsignal is captured by 12-bit \nADC in main processor and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nIdentical \nposition sensor \naccelerometer solid state accelerometer solid state accelerometer Similar \ntype +/-2B 12 bit digital \naccelerometer with 1mg \nresolution \n+/-2B 12 bit digital \naccelerometer with 1mg \nresolution \nIdentical \nsignal chain signal is captured by SPI port \nof main processor and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nsignal is captured by I2C port \nof main processor and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nEquivalent - design \nenhancement \nuser interface \ninput type single button, single LED, and \na speaker for voice prompts \nand alerts to fault conditions \nthree buttons, small graphics \ndisplay, and a speaker for \nvoice prompts and alerts to \nfault conditions \nSimilar \nUI circuit button directly connected to \nprocessor \nthree buttons directly \nconnected to processor \nIdentical \nBluetooth",
+      "character_count": 1796
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "circuitry none Self-contained module \nconnected to serial port of \nMSP430 main processor \nEquivalent – Additional \nconnectivity options \nuse n/a Watermark Respiration \nAdapter \nEquivalent – Additional \nconnectivity options \nlimit n/a Bluetooth modules supports \none device at a time \nEquivalent – Additional \nconnectivity options \nBluetooth interface none open source Bluetooth stack, \nBTStack \nEquivalent – Additional \nconnectivity options \nrespiration \ndata collection uses EEG amplifier to measure \nbelt resistance \nuses Bluetooth module to \ncollect data from chest belt \nImproved - allows use \nof both EEG and \nrespiration \nmeasurements, if \ndesired \nfirmware \nfunction collect data from EEG, SpO2, \nPosition, Microphone, Nasal \nCannula and pressure \ntransducer, accelerometers, \nEEG sensor, Respiratory Effort \nBelt and store to SD card \ncollect data from EEG, SpO2, \nPosition, Microphone, Nasal \nCannula and pressure \ntransducer, accelerometers, \nEEG sensor, Respiratory Effort \nBelt and store to SD card \nIdentical \nlanguage assembly structured C Equivalent - 620 \nfirmware partitioned \ninto logical tasks for \nmaintenance \noperating system no formal system; single super \nloop with interrupts for \ncollecting data \nreal time FreeRTOS Equivalent - 620 code \norganized into \nseparate logical tasks \nfor maintenance \nfile system DOS compatible FAT16 - single \nfile for all nights \nFatFS - starts new study file at \nthe beginning of each \nrecording, able to store \nseparate log and service files. \nEquivalent - time \nperiods more explicit \nduring data analysis \n\n\nSupport for the substantial equivalence of the ARESTM 620 was provided as a result of risk management \nand testing which included electrical and biological safety, performance and software tests. This testing \nincludes conformity to FDA recognized consensus standards and voluntary standards as follows:",
+      "character_count": 1871
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "Non-Clinical Testing: \nAdditional verification and validation testing confirmed: \n• The ARESTM 620 hardware and firmware met the system requirements. \n• All features of the Model 620 were compliance with the system level requirements. \nComparative testing between the Predicate Device ARES Model 610, K111194 as cleared on 07/07/2011 \nand the proposed ARES Model 610 demonstrates substantial equivalence. . \nSpecification Discussion of \nDifferences \nSpO2 Identical \nEEG Identical \nAirflow Identical \nSound Identical \nPosition Identical \nRespiration Identical \n\n\nName Version \nES60601-1:2005/(R)2012 and A1:2012, C1:2009/(R)2012 and \nA2:2010/(R)2012 (Consolidated Text) Medical electrical equipment - \nPart 1: General requirements for basic safety and essential \nperformance (IEC 60601-1:2005, MOD) \n3rd edition \n60601-1-2:2007/(R)2012, Medical electrical equipment - Part 1-2: \nGeneral requirements for basic safety and essential performance - \nCollateral standard: Electromagnetic compatibility - Requirements and \ntests (Edition 3) \n3rd edition \n60601-1-6 Edition 3.0 2010-01, Medical electrical equipment -- Part 1-\n6: General requirements for basic safety and essential performance -- \nCollaterial Standard: Usability \n3rd edition \nISO 10993-1:2009, Biological evaluation of medical devices -- Part 1: \nEvaluation and testing within a risk management process. \n Cytotoxicity \n Sensitization \n Irritation \n2009",
+      "character_count": 1416
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "CONCLUSION: \nThe conclusions drawn from the nonclinical and clinical tests demonstrate equivalent performance of \nthe Apnea Risk Evaluation System (ARESTM), Model 620 and the legally marketed device, Apnea Risk \nEvaluation System (ARESTM), Model 610. The Apnea Risk Evaluation System (ARESTM), Model 620 is \nsubstantially equivalent to the predicate device.",
+      "character_count": 357
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K160499-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service\nFood and Drug Administration\n10903 New Hampshire Avenue\nDocument Control Center - WO66-G609\nSilver Spring, MD 20993-0002\nApril 24, 2017\nWatermark Medical\nƏ\u00030LFKDHO\u0003/HLJK\nConsultant\nMichael Leigh\n19019 W. Coffee Road\nNew Berlin, Wisconsin 53146 \nRe: K160499\nTrade/Device Name: Apnea Risk Evaluation System (ARES), Model 620\nRegulation Number: 21 CFR 868.2375\nRegulation Name: Breathing Frequency Monitor\nRegulatory Class: Class II\nProduct Code: MNR\nDated: March 20, 2017\nReceived: March 24, 2017\nDear Michael Leigh:\nWe have reviewed your Section 510(k) premarket notification of intent to market the device \nreferenced above and have determined the device is substantially equivalent (for the indications \nfor use stated in the enclosure) to legally marketed predicate devices marketed in interstate \ncommerce prior to May 28, 1976, the enactment date of the Medical Device Amendments, or to \ndevices that have been reclassified in accordance with the provisions of the Federal Food, Drug, \nand Cosmetic Act (Act) that do not require approval of a premarket approval application (PMA). \nYou may, therefore, market the device, subject to the general controls provisions of the Act. The \ngeneral controls provisions of the Act include requirements for annual registration, listing of \ndevices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability \nwarranties. We remind you, however, that device labeling must be truthful and not misleading.\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), \nit may be subject to additional controls. Existing major regulations affecting your device can be \nfound in the Code of Federal Regulations, Title 21, Parts 800 to 898. In addition, FDA may \npublish further announcements concerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 1989
+    },
+    {
+      "block_id": "K160499-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "- Michael LeighPage 2\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean \nthat FDA has made a determination that your device complies with other requirements of the Act \nor any Federal statutes and regulations administered by other Federal agencies. You must comply \nwith all the Act's requirements, including, but not limited to: registration and listing (21 CFR \nPart 807); labeling (21 CFR Part 801); medical device reporting (reporting of medical device-\nrelated adverse events) (21 CFR 803); good manufacturing practice requirements as set forth in \nthe quality systems (QS) regulation (21 CFR Part 820); and if applicable, the electronic product \nradiation control provisions (Sections 531-542 of the Act); 21 CFR 1000-1050.\nIf you desire specific advice for your device on our labeling regulation (21 CFR Part 801), please \ncontact the Division of Industry and Consumer Education at its toll-free number (800) 638-2041\nor (301) 796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm. Also, please note \nthe regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 \nCFR Part 803), please go to \nhttp://www.fda.gov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH's Office \nof Surveillance and Biometrics/Division of Postmarket Surveillance.\nYou may obtain other general information on your responsibilities under the Act from the \nDivision of Industry and Consumer Education at its toll-free number (800) 638-2041 or (301) \n796-7100 or at its Internet address \nhttp://www.fda.gov/MedicalDevices/ResourcesforYou/Industry/default.htm.\nSincerely yours,\nTina Kiang, Ph.D.\nActing Director\nDivision of Anesthesiology,\nGeneral Hospital, Respiratory,\nInfection Control, and Dental Devices\nOffice of Device Evaluation\nCenter for Devices and Radiological Health\nEnclosure\nTina \nKiang -S",
+      "extraction_method": "native",
+      "character_count": 2017
+    },
+    {
+      "block_id": "K160499-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK160499\nDevice Name\nApnea Risk Evaluation System (ARES), Model 620\nIndications for Use (Describe)\nThe Apnea Risk Evaluation System (ARES), Model 620 is indicated for use in the diagnostic evaluation by a physician of \nadult patients with possible sleep apnea. The ARES can record and score respiratory events during sleep (e.g., apneas, \nhypopneas, mixed apneas and flow limiting events). The device is designed for prescription use in the patient’s home to \naid a physician in diagnosing adults with possible sleep-related breathing disorders.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "native",
+      "character_count": 1896
+    },
+    {
+      "block_id": "K160499-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "extraction_method": "native",
+      "character_count": 57
+    },
+    {
+      "block_id": "K160499-P004-B002",
+      "page": 4,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Submitter: Watermark Medical \nAddress: 1641 Worthington Road, Suite 320 \nWest Palm Beach, FL 33409",
+      "extraction_method": "native",
+      "character_count": 98
+    },
+    {
+      "block_id": "K160499-P004-B003",
+      "page": 4,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Corporate Contact: Frank Katarow, VP Product Development \nWatermark Medical",
+      "extraction_method": "native",
+      "character_count": 75
+    },
+    {
+      "block_id": "K160499-P004-B004",
+      "page": 4,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Telephone: 877-710-6999 \nEstablishment Registration #: 3008208119 \nSubmission Contact: Michael Leigh \nconsultant",
+      "extraction_method": "native",
+      "character_count": 112
+    },
+    {
+      "block_id": "K160499-P004-B005",
+      "page": 4,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Trade Name: Apnea Risk Evaluation System (ARES TM), Model 620 \nCommon/Usual name: ARES \nClassification Names: 868.2375 Ventilatory Effort Recorder. Class II \nProduct Code: MNR \nPredicate Device: K111194 Apnea Risk Evaluation System (ARES), Model 610 \nDevice Description: \nThe Apnea Risk Evaluation System (ARESTM) includes a battery powered patient worn device called a \nUnicorder (Model 620). The Unicorder is worn by a patient for one to three nights, each night recording \nup to 7 hours of data. Data recorded includes oxygen saturation, snoring level, head movement, head \nposition, and airflow. Additionally, the Unicorder 620 allows collection of data from ARES compatible \nperipheral devices. The device monitors signal quality during acquisition and notifies the user via voice \nmessages when adjustments are required. \nA standard USB cable connects the Unicorder to a USB port on a host computer when patient data is to \nbe uploaded or downloaded. The USB cable provides power to the Unicorder during recharging from the \nhost computer or from a USB wall charger. The Unicorder cannot record nor can it be worn by the \npatient when connected to the host computer or the wall charger. \nSoftware, residing on a local PC or a physical or virtual server controls the uploading and downloading of \ndata to the Unicorder, processes the sleep study data and generates a sleep study report. The ARESTM",
+      "extraction_method": "native",
+      "character_count": 1402
+    },
+    {
+      "block_id": "K160499-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "extraction_method": "native",
+      "character_count": 1629
+    },
+    {
+      "block_id": "K160499-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Technology: \nThe ARESTM Model 620 being submitted is an update to the predicate ARESTM Model 610 (K111194) and \nincludes the following changes: \n• Enhanced physical design \n Reduced size \n Physical enhancements (rubber sensor block as opposed to exposed silicone \nforehead sensor) \n Integrated sensor technology \n• Integrated SPO2 technology (currently derived via Insight) \n Dual SPO2 integrated sensors \n• Integrated video display \n• Integrated Bluetooth",
+      "extraction_method": "native",
+      "character_count": 460
+    },
+    {
+      "block_id": "K160499-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "COMPARISON TO PREDICATE DEVICES \nThe modified ARESTM Model 620 has the same intended use and fundamental scientific technology as \nthe cleared ARESTM Model 610. Technological characteristics are described in the table below.",
+      "extraction_method": "native",
+      "character_count": 224
+    },
+    {
+      "block_id": "K160499-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Specification \nPredicate Device ARES \nModel 610, K111194 as \ncleared on 07/07/2011 \nProposed ARES Model 620 Discussion of \nDifferences \nClassification \nMNR, Ventilatory Effort \nRecorder",
+      "extraction_method": "native",
+      "character_count": 185
+    },
+    {
+      "block_id": "K160499-P006-B003",
+      "page": 6,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "MNR, Ventilatory Effort \nRecorder",
+      "extraction_method": "native",
+      "character_count": 33
+    },
+    {
+      "block_id": "K160499-P006-B004",
+      "page": 6,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Identical \nIndications for Use \nThe Apnea Risk Evaluation \nSystem (ARES) is indicated for \nuse in the diagnostic \nevaluation by a physician of \nadult patients with possible \nsleep apnea. The ARES can \nrecord and score respiratory \nevents during sleep (e.g., \napneas, hypopneas, mixed \napneas and flow limiting \nevents). The device is \ndesigned for prescription use \nin home diagnosis of adults \nwith possible sleep-related \nbreathing disorders. \nThe Apnea Risk Evaluation \nSystem (ARES), is indicated for \nuse in the diagnostic \nevaluation by a physician of \nadult patients with possible \nsleep apnea. The ARES can \nrecord and score respiratory \nevents during sleep (e.g., \napneas, hypopneas, mixed \napneas and flow limiting \nevents). The device is \ndesigned for prescription use \nin home diagnosis of adults \nwith possible sleep-related \nbreathing disorders. \nIdentical \nPatient Population",
+      "extraction_method": "native",
+      "character_count": 890
+    },
+    {
+      "block_id": "K160499-P006-B005",
+      "page": 6,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Adults Adults Identical \nAnatomical Sites Forehead Forehead Identical \nEnvironment of \nUse \nHome (data acquisition)  \nPhysician office (data analysis \nand reporting) \nHome (data acquisition)  \nPhysician office (data analysis \nand reporting) \nIdentical \nUnicorder User \nInterface \nUser Control Single button Control \n On/Off \nMulti-button control \n On/Off \n Volume Up/Down \nMenu navigation \nEquivalent - Same \nOn/Off, with addition \nof \n Volume \ncontrols \n Clinical menu \nwith special \nkey sequence \nVisual Indicator Green LED Visual Display \nEquivalent – added \ndevice specific updates \nand visual queues \nAudio Indicator \nSpeaker – voice message alert \nuser to problems during \nrecording \nSpeaker – voice message alert \nuser to problems during \nrecording \nIdentical \nSpecifications of",
+      "extraction_method": "native",
+      "character_count": 790
+    },
+    {
+      "block_id": "K160499-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equivalent – no impact \non use \nWeight 4 oz with batteries 3.4 oz with batteries Equivalent – no impact \non use \nData Acquisition \nUnit Materials \nCase ABS blend ABS blend Identical \nEnclosure Strap \n Single piece strap. \n Non-latex elastic, \n polyethylene, \n metal rivets, \nplastic sizing strap \n Single piece strap. \n Non-latex elastic, \n polypropylene shield, \nVelcro Velstretch brand tape \n(sizing) \nEquivalent – Eliminated \nunnecessary pieces \nStabilizing straps Santoprene Not used in this model Equivalent – Eliminated \nin design \nForehead sensor \npad \nSilicone – combined with \nenclosure pad Not used in this model Equivalent – Eliminated \nin design \nCannula Salter SO-1314 Salter SO-1314 Identical \nCleaning \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nIdentical \nCable \nDimensions Standard USB “A” to mini “B” Standard USB “A” to mini “B” Identical \nRecharging \nIndicator \nLED – Green, pattern – \nblinking Graphic display Similar \nCommunication \nData Transfer Native USB Native USB Identical \nData Transfer Rate >256 MB per minute >240 MB per Minute Equivalent – no impact \non use \nPerformance",
+      "extraction_method": "native",
+      "character_count": 1954
+    },
+    {
+      "block_id": "K160499-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Software Code base Assembler code C \nEquivalent - new code \nbase for improved \nmaintenance and \nprocessing efficiency \nEstimated file Size \nper Minute ~ 67 KB/min ~52 KB/min Equivalent – no impact \non use \nSaturation \nAccuracy \nSp02 Range Error (± 1 SD) \nSaturation Accuracy 70-100% \n70 to 100% SpO2 \n± 2% Equivalent \nAirflow Via Nasal Pressure Range ± \n0.55 cm H20 Accuracy ± 2% \nVia Nasal Pressure Range ± \n0.55 cm H20 Accuracy ± 2% \nIdentical \nHead Position Via accelerometers  \nPosition accuracy 3° @ 30°C \nVia accelerometers  \nPosition accuracy 3° @ 30°C Identical \nSnoring Level From microphone 40 dB (min)\n 70 dB (max) \nFrom microphone 20 dB (min)\n 70 dB (max) \nEquivalent - Additional \nlow frequency range \navailable \nSleep/awake Signal Optional EEG Sensor: ±1000 \nμV @ 256 samples/sec \nOptional EEG Sensor: ±1000 \nμV @ 240 samples/sec \nEquivalent – No impact \non use \nEnhanced physical \ndesign \nReduced size 4.5” long x 2” wide x 1” deep 4” long x 2” wide x 0.8” deep Similar \nForehead sensor Silicone – combined with \nenclosure pad rubber sensor block Similar \nEnhancements \naddressing ease of \nuse \nIncorporate user feedback Equivalent - Improved \ndesign for user comfort \nhardware \nmemory capacity 2 GB 8 GB Equivalent - additional \nmemory capacity \nprocessor Three secondary processors \nfor interfacing to external PC \nand SD card \nSingle secondary processor for \ninterfacing to external PC and \nSD card \nEquivalent - Improved \ntechnology eliminating \nneed for additional \nsecondary processors \nbattery \nBattery type two 250 mAh lithium ion \nconnected in parallel \nsingle 1500 mAh lithium ion Equivalent – \n Improved battery \nefficiency \n eliminates potential \nperformance or \nsafety issues from \nrunning batteries in \nparallel \nbattery protection internal overcharge/discharge \nprotective circuit \ninternal overcharge/discharge \nprotective circuit, with \nadditional overcurrent/short \ncircuit protection \nEquivalent - Additional \nprotective circuits",
+      "extraction_method": "native",
+      "character_count": 1965
+    },
+    {
+      "block_id": "K160499-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "battery charge \nindicator \nNone battery charge gauge - visible \nto user \nSimilar \ncharge control controller including pre-\ncharge and fast-charge safety \ntimers \n controller including pre-\ncharge and fast-charge \nsafety timers \n battery temperature \nsensing \n over-temperature safety \ncutoff \n storage disconnect \nSimilar \noximeter \ncontrol timing, optical hardware, and \ndata collection on main \nprocessor \ntiming, optical hardware, and \ndata collection on separate \nprocessor \nEquivalent \noptical \ncomponents \nsingle LED/Photo diode two LED/Photo diodes Equivalent - redundant \nsensors \nsensor \nconstruction \noptical components \nencapsulated in silicone gel \nthat is attached to rubber pad \noptical components mounted \ndirectly to rubber pad and \nsealed with silicone gel \nEquivalent – new \ndesign for ease of \ncleaning and \nserviceability \nEEG \ndesign no lead drive, no current \nlimiters \ncross couple pair of amplifiers \ncurrent limiting resistors \nEquivalent - \nsimultaneous use of \nperipheral respiratory \nbelt(s) and EEG \nprocessing processor with internal 12 bit \nA/D converter \nprocessor with internal 12 bit \nA/D converter \nIdentical \nsignal chain data captured by ADC and \ntransferred directly to SD card \nwith no filtering or \ntransformation \ndata captured by ADC and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nIdentical \nairflow \npressure \ntransducer \nminiature pressure \nsensor package with \nIntegrated temperature \ncompensation and calibration \nminiature pressure \nsensor package with \nIntegrated temperature \ncompensation and calibration \nEquivalent \noffset handling no DC rejection circuit, so \noffset must be calibrated \nduring manufacturing \nhigh pass filter to eliminate all \ntransducer offsets and \nmaximize usable range of A/D \nconverter \nEquivalent",
+      "extraction_method": "native",
+      "character_count": 1804
+    },
+    {
+      "block_id": "K160499-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "signal chain signal is captured by 12-bit \nADC in main processor and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nsignal is captured by 12-bit \nADC in main processor and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nIdentical \nmicrophone \ncircuitry smaller, equivalent first stage \namplifier, modified reference \ncircuit \nEquivalent \nmicrophone 6mm omnidirectional back \nelectret condensor \nmicrophones \n6mm omnidirectional back \nelectret condensor \nmicrophones \nEquivalent \ngain -44 dB +/-3DB -42dB +/-3dB Equivalent - Gain \ncompensates for \ndifference in acoustics \ndue to mounting \nsignal chain signal is captured by 12-bit \nADC in main processor and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nsignal is captured by 12-bit \nADC in main processor and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nIdentical \nposition sensor \naccelerometer solid state accelerometer solid state accelerometer Similar \ntype +/-2B 12 bit digital \naccelerometer with 1mg \nresolution \n+/-2B 12 bit digital \naccelerometer with 1mg \nresolution \nIdentical \nsignal chain signal is captured by SPI port \nof main processor and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nsignal is captured by I2C port \nof main processor and \ntransferred directly to SD card \nwith no filtering or \ntransformation \nEquivalent - design \nenhancement \nuser interface \ninput type single button, single LED, and \na speaker for voice prompts \nand alerts to fault conditions \nthree buttons, small graphics \ndisplay, and a speaker for \nvoice prompts and alerts to \nfault conditions \nSimilar \nUI circuit button directly connected to \nprocessor \nthree buttons directly \nconnected to processor \nIdentical \nBluetooth",
+      "extraction_method": "native",
+      "character_count": 1796
+    },
+    {
+      "block_id": "K160499-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "circuitry none Self-contained module \nconnected to serial port of \nMSP430 main processor \nEquivalent – Additional \nconnectivity options \nuse n/a Watermark Respiration \nAdapter \nEquivalent – Additional \nconnectivity options \nlimit n/a Bluetooth modules supports \none device at a time \nEquivalent – Additional \nconnectivity options \nBluetooth interface none open source Bluetooth stack, \nBTStack \nEquivalent – Additional \nconnectivity options \nrespiration \ndata collection uses EEG amplifier to measure \nbelt resistance \nuses Bluetooth module to \ncollect data from chest belt \nImproved - allows use \nof both EEG and \nrespiration \nmeasurements, if \ndesired \nfirmware \nfunction collect data from EEG, SpO2, \nPosition, Microphone, Nasal \nCannula and pressure \ntransducer, accelerometers, \nEEG sensor, Respiratory Effort \nBelt and store to SD card \ncollect data from EEG, SpO2, \nPosition, Microphone, Nasal \nCannula and pressure \ntransducer, accelerometers, \nEEG sensor, Respiratory Effort \nBelt and store to SD card \nIdentical \nlanguage assembly structured C Equivalent - 620 \nfirmware partitioned \ninto logical tasks for \nmaintenance \noperating system no formal system; single super \nloop with interrupts for \ncollecting data \nreal time FreeRTOS Equivalent - 620 code \norganized into \nseparate logical tasks \nfor maintenance \nfile system DOS compatible FAT16 - single \nfile for all nights \nFatFS - starts new study file at \nthe beginning of each \nrecording, able to store \nseparate log and service files. \nEquivalent - time \nperiods more explicit \nduring data analysis",
+      "extraction_method": "native",
+      "character_count": 1564
+    },
+    {
+      "block_id": "K160499-P011-B002",
+      "page": 11,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Support for the substantial equivalence of the ARESTM 620 was provided as a result of risk management \nand testing which included electrical and biological safety, performance and software tests. This testing \nincludes conformity to FDA recognized consensus standards and voluntary standards as follows:",
+      "extraction_method": "native",
+      "character_count": 303
+    },
+    {
+      "block_id": "K160499-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Non-Clinical Testing: \nAdditional verification and validation testing confirmed: \n• The ARESTM 620 hardware and firmware met the system requirements. \n• All features of the Model 620 were compliance with the system level requirements. \nComparative testing between the Predicate Device ARES Model 610, K111194 as cleared on 07/07/2011 \nand the proposed ARES Model 610 demonstrates substantial equivalence. . \nSpecification Discussion of \nDifferences \nSpO2 Identical \nEEG Identical \nAirflow Identical \nSound Identical \nPosition Identical \nRespiration Identical",
+      "extraction_method": "native",
+      "character_count": 558
+    },
+    {
+      "block_id": "K160499-P012-B002",
+      "page": 12,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "Name Version \nES60601-1:2005/(R)2012 and A1:2012, C1:2009/(R)2012 and \nA2:2010/(R)2012 (Consolidated Text) Medical electrical equipment - \nPart 1: General requirements for basic safety and essential \nperformance (IEC 60601-1:2005, MOD) \n3rd edition \n60601-1-2:2007/(R)2012, Medical electrical equipment - Part 1-2: \nGeneral requirements for basic safety and essential performance - \nCollateral standard: Electromagnetic compatibility - Requirements and \ntests (Edition 3) \n3rd edition \n60601-1-6 Edition 3.0 2010-01, Medical electrical equipment -- Part 1-\n6: General requirements for basic safety and essential performance -- \nCollaterial Standard: Usability \n3rd edition \nISO 10993-1:2009, Biological evaluation of medical devices -- Part 1: \nEvaluation and testing within a risk management process. \n Cytotoxicity \n Sensitization \n Irritation \n2009",
+      "extraction_method": "native",
+      "character_count": 854
+    },
+    {
+      "block_id": "K160499-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "text": "CONCLUSION: \nThe conclusions drawn from the nonclinical and clinical tests demonstrate equivalent performance of \nthe Apnea Risk Evaluation System (ARESTM), Model 620 and the legally marketed device, Apnea Risk \nEvaluation System (ARESTM), Model 610. The Apnea Risk Evaluation System (ARESTM), Model 620 is \nsubstantially equivalent to the predicate device.",
+      "extraction_method": "native",
+      "character_count": 357
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "CLM-37a1ad18a25b",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "indications_for_use",
+      "source_value": "The Apnea Risk Evaluation System (ARES), Model 620 is indicated for use in the diagnostic evaluation by a physician of adult patients with possible sleep apnea. The ARES can record and score respiratory events during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is designed for prescription use in the patient’s home to aid a physician in diagnosing adults with possible sleep-related breathing disorders.",
+      "normalized_value": "The Apnea Risk Evaluation System (ARES), Model 620 is indicated for use in the diagnostic evaluation by a physician of adult patients with possible sleep apnea. The ARES can record and score respiratory events during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is designed for prescription use in the patient’s home to aid a physician in diagnosing adults with possible sleep-related breathing disorders.",
+      "page": 3,
+      "section": "Document",
+      "block_id": "K160499-P003-B001",
+      "supporting_excerpt": "The Apnea Risk Evaluation System (ARES), Model 620 is indicated for use in the diagnostic evaluation by a physician of \nadult patients with possible sleep apnea. The ARES can record and score respiratory events during sleep (e.g., apneas, \nhypopneas, mixed apneas and flow limiting events). The device is designed for prescription use in the patient’s home to \naid a physician in diagnosing adults with possible sleep-related breathing disorders.",
+      "surrounding_context": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK160499\nDevice Name\nApnea Risk Evaluation System (ARES), Model 620\nIndications for Use (Describe)\nThe Apnea Risk Evaluation System (ARES), Model 620 is indicated for use in the diagnostic evaluation by a physician of \nadult patients with possible sleep apnea. The ARES can record and score respiratory events during sleep (e.g., apneas, \nhypopneas, mixed apneas and flow limiting events). The device is designed for prescription use in the patient’s home to \naid a physician in diagnosing adults with possible sleep-related breathing disorders.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-cf0522bee274",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "intended_use_role",
+      "source_value": "diagnostic evaluation by a physician ... aid a physician in diagnosing",
+      "normalized_value": "diagnostic evaluation",
+      "page": 3,
+      "section": "Document",
+      "block_id": "K160499-P003-B001",
+      "supporting_excerpt": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK160499\nDevice Name\nApnea Risk Evaluation System (ARES), Model 620\nIndications for Use (Describe)\nThe Apnea Risk Evaluation System (ARES), Model 620 is indicated for use in the diagnostic evaluation by a physician of \nadult patients with possible sleep apnea. The ARES can record and score respiratory events during sleep (e.g., apneas, \nhypopneas, mixed apneas and flow limiting events). The device is designed for pr",
+      "surrounding_context": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK160499\nDevice Name\nApnea Risk Evaluation System (ARES), Model 620\nIndications for Use (Describe)\nThe Apnea Risk Evaluation System (ARES), Model 620 is indicated for use in the diagnostic evaluation by a physician of \nadult patients with possible sleep apnea. The ARES can record and score respiratory events during sleep (e.g., apneas, \nhypopneas, mixed apneas and flow limiting events). The device is designed for prescription use in the patient’s home to \naid a physician in diagnosing adults with possible sleep-related breathing disorders.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "evidence_text_match": "partial",
+      "interpretation_status": "normalized explicit wording",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-ed40f2a39453",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "intended_use_role",
+      "source_value": "diagnostic evaluation by a physician ... aid a physician in diagnosing",
+      "normalized_value": "aid to diagnosis",
+      "page": 3,
+      "section": "Document",
+      "block_id": "K160499-P003-B001",
+      "supporting_excerpt": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK160499\nDevice Name\nApnea Risk Evaluation System (ARES), Model 620\nIndications for Use (Describe)\nThe Apnea Risk Evaluation System (ARES), Model 620 is indicated for use in the diagnostic evaluation by a physician of \nadult patients with possible sleep apnea. The ARES can record and score respiratory events during sleep (e.g., apneas, \nhypopneas, mixed apneas and flow limiting events). The device is designed for pr",
+      "surrounding_context": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK160499\nDevice Name\nApnea Risk Evaluation System (ARES), Model 620\nIndications for Use (Describe)\nThe Apnea Risk Evaluation System (ARES), Model 620 is indicated for use in the diagnostic evaluation by a physician of \nadult patients with possible sleep apnea. The ARES can record and score respiratory events during sleep (e.g., apneas, \nhypopneas, mixed apneas and flow limiting events). The device is designed for prescription use in the patient’s home to \naid a physician in diagnosing adults with possible sleep-related breathing disorders.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "evidence_text_match": "partial",
+      "interpretation_status": "normalized explicit wording",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-08be33947abc",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "sensor_technology",
+      "source_value": "Red/IR LEDs and photodetector",
+      "normalized_value": "Red/IR LEDs and photodetector",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "The red and IR \nsignals are used to calculate the SpO2.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-e03c965432d9",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "sensor_location",
+      "source_value": "Forehead",
+      "normalized_value": "Forehead",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "The red and IR \nsignals are used to calculate the SpO2.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-0da0523a098c",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "raw_acquired_signal",
+      "source_value": "Red and IR signals",
+      "normalized_value": "Red and IR signals",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "The red and IR \nsignals are used to calculate the SpO2.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-504e5fc2ba00",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "physiological_parameter",
+      "source_value": "Oxygen saturation (SpO2)",
+      "normalized_value": "Oxygen saturation (SpO2)",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "The red and IR \nsignals are used to calculate the SpO2.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-f1b7d7f9a933",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "sensor_technology",
+      "source_value": "Microphone",
+      "normalized_value": "Microphone",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "snoring sounds",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-4bb3e201ef8e",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "sensor_location",
+      "source_value": "Forehead",
+      "normalized_value": "Forehead",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "snoring sounds",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-6daf6132ac7a",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "raw_acquired_signal",
+      "source_value": "Sound",
+      "normalized_value": "Sound",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "snoring sounds",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-56fd52eb6fd8",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "physiological_parameter",
+      "source_value": "Snoring sounds",
+      "normalized_value": "Snoring sounds",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "snoring sounds",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-23e2639737bd",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "sensor_technology",
+      "source_value": "Nasal cannula and nasal pressure transducer",
+      "normalized_value": "Nasal cannula and nasal pressure transducer",
+      "page": 7,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P007-B001",
+      "supporting_excerpt": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equi",
+      "surrounding_context": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equivalent – no impact \non use \nWeight 4 oz with batteries 3.4 oz with batteries Equivalent – no impact \non use \nData Acquisition \nUnit Materials \nCase ABS blend ABS blend Identical \nEnclosure Strap \n Single piece strap. \n Non-latex elastic, \n polyethylene, \n metal rivets, \nplastic sizing strap \n Single piece strap. \n Non-latex elastic, \n polypropylene shield, \nVelcro Velstretch brand tape \n(sizing) \nEquivalent – Eliminated \nunnecessary pieces \nStabilizing straps Santoprene Not used in this model Equivalent – Eliminated \nin design \nForehead sensor \npad \nSilicone – combined with \nenclosure pad Not used in this model Equivalent – Eliminated \nin design \nCannula Salter SO-1314 Salter SO-1314 Identical \nCleaning \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nIdentical \nCable \nDimensions Standard USB “A” to mini “B” Standard USB “A” to mini “B” Identical \nRecharging \nIndicator \nLED – Green, pattern – \nblinking Graphic display Similar \nCommunication \nData Transfer Native USB Native USB Identical \nData Transfer Rate >256 MB per minute >240 MB per Minute Equivalent – no impact \non use \nPerformance",
+      "evidence_text_match": "partial",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-bb2f896812fe",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "sensor_location",
+      "source_value": "Nasal",
+      "normalized_value": "Nasal",
+      "page": 7,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P007-B001",
+      "supporting_excerpt": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equi",
+      "surrounding_context": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equivalent – no impact \non use \nWeight 4 oz with batteries 3.4 oz with batteries Equivalent – no impact \non use \nData Acquisition \nUnit Materials \nCase ABS blend ABS blend Identical \nEnclosure Strap \n Single piece strap. \n Non-latex elastic, \n polyethylene, \n metal rivets, \nplastic sizing strap \n Single piece strap. \n Non-latex elastic, \n polypropylene shield, \nVelcro Velstretch brand tape \n(sizing) \nEquivalent – Eliminated \nunnecessary pieces \nStabilizing straps Santoprene Not used in this model Equivalent – Eliminated \nin design \nForehead sensor \npad \nSilicone – combined with \nenclosure pad Not used in this model Equivalent – Eliminated \nin design \nCannula Salter SO-1314 Salter SO-1314 Identical \nCleaning \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nIdentical \nCable \nDimensions Standard USB “A” to mini “B” Standard USB “A” to mini “B” Identical \nRecharging \nIndicator \nLED – Green, pattern – \nblinking Graphic display Similar \nCommunication \nData Transfer Native USB Native USB Identical \nData Transfer Rate >256 MB per minute >240 MB per Minute Equivalent – no impact \non use \nPerformance",
+      "evidence_text_match": "partial",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-0ca658351b29",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "raw_acquired_signal",
+      "source_value": "Nasal pressure",
+      "normalized_value": "Nasal pressure",
+      "page": 7,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P007-B001",
+      "supporting_excerpt": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equi",
+      "surrounding_context": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equivalent – no impact \non use \nWeight 4 oz with batteries 3.4 oz with batteries Equivalent – no impact \non use \nData Acquisition \nUnit Materials \nCase ABS blend ABS blend Identical \nEnclosure Strap \n Single piece strap. \n Non-latex elastic, \n polyethylene, \n metal rivets, \nplastic sizing strap \n Single piece strap. \n Non-latex elastic, \n polypropylene shield, \nVelcro Velstretch brand tape \n(sizing) \nEquivalent – Eliminated \nunnecessary pieces \nStabilizing straps Santoprene Not used in this model Equivalent – Eliminated \nin design \nForehead sensor \npad \nSilicone – combined with \nenclosure pad Not used in this model Equivalent – Eliminated \nin design \nCannula Salter SO-1314 Salter SO-1314 Identical \nCleaning \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nIdentical \nCable \nDimensions Standard USB “A” to mini “B” Standard USB “A” to mini “B” Identical \nRecharging \nIndicator \nLED – Green, pattern – \nblinking Graphic display Similar \nCommunication \nData Transfer Native USB Native USB Identical \nData Transfer Rate >256 MB per minute >240 MB per Minute Equivalent – no impact \non use \nPerformance",
+      "evidence_text_match": "partial",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-ad92d8bff22e",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "physiological_parameter",
+      "source_value": "Airflow",
+      "normalized_value": "Airflow",
+      "page": 7,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P007-B001",
+      "supporting_excerpt": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equi",
+      "surrounding_context": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equivalent – no impact \non use \nWeight 4 oz with batteries 3.4 oz with batteries Equivalent – no impact \non use \nData Acquisition \nUnit Materials \nCase ABS blend ABS blend Identical \nEnclosure Strap \n Single piece strap. \n Non-latex elastic, \n polyethylene, \n metal rivets, \nplastic sizing strap \n Single piece strap. \n Non-latex elastic, \n polypropylene shield, \nVelcro Velstretch brand tape \n(sizing) \nEquivalent – Eliminated \nunnecessary pieces \nStabilizing straps Santoprene Not used in this model Equivalent – Eliminated \nin design \nForehead sensor \npad \nSilicone – combined with \nenclosure pad Not used in this model Equivalent – Eliminated \nin design \nCannula Salter SO-1314 Salter SO-1314 Identical \nCleaning \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nIdentical \nCable \nDimensions Standard USB “A” to mini “B” Standard USB “A” to mini “B” Identical \nRecharging \nIndicator \nLED – Green, pattern – \nblinking Graphic display Similar \nCommunication \nData Transfer Native USB Native USB Identical \nData Transfer Rate >256 MB per minute >240 MB per Minute Equivalent – no impact \non use \nPerformance",
+      "evidence_text_match": "partial",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-e410d9aa5b41",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "sensor_technology",
+      "source_value": "3D accelerometers",
+      "normalized_value": "3D accelerometers",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "The actigraphy signals are transformed to obtain head movement \nand head position.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-b7c6eb55f8b1",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "sensor_location",
+      "source_value": "Forehead",
+      "normalized_value": "Forehead",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "The actigraphy signals are transformed to obtain head movement \nand head position.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-c916ba4d5e74",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "raw_acquired_signal",
+      "source_value": "Actigraphy signals",
+      "normalized_value": "Actigraphy signals",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "The actigraphy signals are transformed to obtain head movement \nand head position.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-1bad6c9f8078",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "physiological_parameter",
+      "source_value": "Head movement and head position",
+      "normalized_value": "Head movement and head position",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "The actigraphy signals are transformed to obtain head movement \nand head position.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-3f0e86845cc7",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "sensor_technology",
+      "source_value": "EEG sensor",
+      "normalized_value": "EEG sensor",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "It can detect sleep/wake and REM and non-REM.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-e303019cadf2",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "sensor_location",
+      "source_value": "Forehead",
+      "normalized_value": "Forehead",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "It can detect sleep/wake and REM and non-REM.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-4cdce494daa7",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "raw_acquired_signal",
+      "source_value": "EEG",
+      "normalized_value": "EEG",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "It can detect sleep/wake and REM and non-REM.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-c06b5599fe86",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "physiological_parameter",
+      "source_value": "Sleep/wake and REM/non-REM",
+      "normalized_value": "Sleep/wake and REM/non-REM",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "It can detect sleep/wake and REM and non-REM.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-05fb9839c54c",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "sensor_technology",
+      "source_value": "Respiratory Effort Belt",
+      "normalized_value": "Respiratory Effort Belt",
+      "page": 7,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P007-B001",
+      "supporting_excerpt": "Respiratory Effort \nBelt",
+      "surrounding_context": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equivalent – no impact \non use \nWeight 4 oz with batteries 3.4 oz with batteries Equivalent – no impact \non use \nData Acquisition \nUnit Materials \nCase ABS blend ABS blend Identical \nEnclosure Strap \n Single piece strap. \n Non-latex elastic, \n polyethylene, \n metal rivets, \nplastic sizing strap \n Single piece strap. \n Non-latex elastic, \n polypropylene shield, \nVelcro Velstretch brand tape \n(sizing) \nEquivalent – Eliminated \nunnecessary pieces \nStabilizing straps Santoprene Not used in this model Equivalent – Eliminated \nin design \nForehead sensor \npad \nSilicone – combined with \nenclosure pad Not used in this model Equivalent – Eliminated \nin design \nCannula Salter SO-1314 Salter SO-1314 Identical \nCleaning \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nIdentical \nCable \nDimensions Standard USB “A” to mini “B” Standard USB “A” to mini “B” Identical \nRecharging \nIndicator \nLED – Green, pattern – \nblinking Graphic display Similar \nCommunication \nData Transfer Native USB Native USB Identical \nData Transfer Rate >256 MB per minute >240 MB per Minute Equivalent – no impact \non use \nPerformance",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-8745531d24b6",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "sensor_location",
+      "source_value": "Chest",
+      "normalized_value": "Chest",
+      "page": 7,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P007-B001",
+      "supporting_excerpt": "Respiratory Effort \nBelt",
+      "surrounding_context": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equivalent – no impact \non use \nWeight 4 oz with batteries 3.4 oz with batteries Equivalent – no impact \non use \nData Acquisition \nUnit Materials \nCase ABS blend ABS blend Identical \nEnclosure Strap \n Single piece strap. \n Non-latex elastic, \n polyethylene, \n metal rivets, \nplastic sizing strap \n Single piece strap. \n Non-latex elastic, \n polypropylene shield, \nVelcro Velstretch brand tape \n(sizing) \nEquivalent – Eliminated \nunnecessary pieces \nStabilizing straps Santoprene Not used in this model Equivalent – Eliminated \nin design \nForehead sensor \npad \nSilicone – combined with \nenclosure pad Not used in this model Equivalent – Eliminated \nin design \nCannula Salter SO-1314 Salter SO-1314 Identical \nCleaning \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nIdentical \nCable \nDimensions Standard USB “A” to mini “B” Standard USB “A” to mini “B” Identical \nRecharging \nIndicator \nLED – Green, pattern – \nblinking Graphic display Similar \nCommunication \nData Transfer Native USB Native USB Identical \nData Transfer Rate >256 MB per minute >240 MB per Minute Equivalent – no impact \non use \nPerformance",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-1780a75911e7",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "raw_acquired_signal",
+      "source_value": "Belt resistance",
+      "normalized_value": "Belt resistance",
+      "page": 7,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P007-B001",
+      "supporting_excerpt": "Respiratory Effort \nBelt",
+      "surrounding_context": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equivalent – no impact \non use \nWeight 4 oz with batteries 3.4 oz with batteries Equivalent – no impact \non use \nData Acquisition \nUnit Materials \nCase ABS blend ABS blend Identical \nEnclosure Strap \n Single piece strap. \n Non-latex elastic, \n polyethylene, \n metal rivets, \nplastic sizing strap \n Single piece strap. \n Non-latex elastic, \n polypropylene shield, \nVelcro Velstretch brand tape \n(sizing) \nEquivalent – Eliminated \nunnecessary pieces \nStabilizing straps Santoprene Not used in this model Equivalent – Eliminated \nin design \nForehead sensor \npad \nSilicone – combined with \nenclosure pad Not used in this model Equivalent – Eliminated \nin design \nCannula Salter SO-1314 Salter SO-1314 Identical \nCleaning \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nIdentical \nCable \nDimensions Standard USB “A” to mini “B” Standard USB “A” to mini “B” Identical \nRecharging \nIndicator \nLED – Green, pattern – \nblinking Graphic display Similar \nCommunication \nData Transfer Native USB Native USB Identical \nData Transfer Rate >256 MB per minute >240 MB per Minute Equivalent – no impact \non use \nPerformance",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-f7f2ac6875c2",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "physiological_parameter",
+      "source_value": "Respiratory effort",
+      "normalized_value": "Respiratory effort",
+      "page": 7,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P007-B001",
+      "supporting_excerpt": "Respiratory Effort \nBelt",
+      "surrounding_context": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equivalent – no impact \non use \nWeight 4 oz with batteries 3.4 oz with batteries Equivalent – no impact \non use \nData Acquisition \nUnit Materials \nCase ABS blend ABS blend Identical \nEnclosure Strap \n Single piece strap. \n Non-latex elastic, \n polyethylene, \n metal rivets, \nplastic sizing strap \n Single piece strap. \n Non-latex elastic, \n polypropylene shield, \nVelcro Velstretch brand tape \n(sizing) \nEquivalent – Eliminated \nunnecessary pieces \nStabilizing straps Santoprene Not used in this model Equivalent – Eliminated \nin design \nForehead sensor \npad \nSilicone – combined with \nenclosure pad Not used in this model Equivalent – Eliminated \nin design \nCannula Salter SO-1314 Salter SO-1314 Identical \nCleaning \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nIdentical \nCable \nDimensions Standard USB “A” to mini “B” Standard USB “A” to mini “B” Identical \nRecharging \nIndicator \nLED – Green, pattern – \nblinking Graphic display Similar \nCommunication \nData Transfer Native USB Native USB Identical \nData Transfer Rate >256 MB per minute >240 MB per Minute Equivalent – no impact \non use \nPerformance",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-066b499d640a",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "direct_vs_derived",
+      "source_value": "measured",
+      "normalized_value": "measured",
+      "page": 7,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P007-B001",
+      "supporting_excerpt": "Respiratory Effort \nBelt",
+      "surrounding_context": "Data Acquisition \nUnit \nData acquisition \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nVia forehead sensor: \n• Red/IR LEDs   \n• Photodetector \nMicrophone   \n• Nasal Cannula   \n• Nasal pressure \ntransducer   \n• 3D accelerometers   \n• EEG sensor   \n• Respiratory Effort \nBelt \n• Chain of Custody \nIdentical \nSpO2 \nmeasurement Derived via Insight Integrated on-board algorithm Equivalent \nFile size per 7 hr. \nrecording 31.2 MB 25 MB Equivalent – no impact \non use \nDimensions 4.5” long x 2” wide x 1” deep 4” long x 2” wide x .8” deep Equivalent – no impact \non use \nWeight 4 oz with batteries 3.4 oz with batteries Equivalent – no impact \non use \nData Acquisition \nUnit Materials \nCase ABS blend ABS blend Identical \nEnclosure Strap \n Single piece strap. \n Non-latex elastic, \n polyethylene, \n metal rivets, \nplastic sizing strap \n Single piece strap. \n Non-latex elastic, \n polypropylene shield, \nVelcro Velstretch brand tape \n(sizing) \nEquivalent – Eliminated \nunnecessary pieces \nStabilizing straps Santoprene Not used in this model Equivalent – Eliminated \nin design \nForehead sensor \npad \nSilicone – combined with \nenclosure pad Not used in this model Equivalent – Eliminated \nin design \nCannula Salter SO-1314 Salter SO-1314 Identical \nCleaning \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nCleaned and disinfected by \nrubbing with alcohol-based \nhand sanitizer and isopropyl \nalcohol. \nIdentical \nCable \nDimensions Standard USB “A” to mini “B” Standard USB “A” to mini “B” Identical \nRecharging \nIndicator \nLED – Green, pattern – \nblinking Graphic display Similar \nCommunication \nData Transfer Native USB Native USB Identical \nData Transfer Rate >256 MB per minute >240 MB per Minute Equivalent – no impact \non use \nPerformance",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-430d1e89378d",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "derived_reported_feature",
+      "source_value": "respiratory events",
+      "normalized_value": "respiratory events",
+      "page": 3,
+      "section": "Document",
+      "block_id": "K160499-P003-B001",
+      "supporting_excerpt": "The ARES can record and score respiratory events during sleep (e.g., apneas, \nhypopneas, mixed apneas and flow limiting events).",
+      "surrounding_context": "FORM FDA 3881 (8/14) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES \nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: January 31, 2017\nSee PRA Statement below.\n510(k) Number (if known)\nK160499\nDevice Name\nApnea Risk Evaluation System (ARES), Model 620\nIndications for Use (Describe)\nThe Apnea Risk Evaluation System (ARES), Model 620 is indicated for use in the diagnostic evaluation by a physician of \nadult patients with possible sleep apnea. The ARES can record and score respiratory events during sleep (e.g., apneas, \nhypopneas, mixed apneas and flow limiting events). The device is designed for prescription use in the patient’s home to \naid a physician in diagnosing adults with possible sleep-related breathing disorders.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the \ntime to review instructions, search existing data sources, gather and maintain the data needed and complete \nand review the collection of information. Send comments regarding this burden estimate or any other aspect \nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of \ninformation unless it displays a currently valid OMB number.”",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-d1d0aaefd047",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "derived_reported_feature",
+      "source_value": "sleep/wake",
+      "normalized_value": "sleep/wake",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "It can detect sleep/wake and REM and non-REM.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "medium",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-cd3d0277d266",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "derived_reported_feature",
+      "source_value": "REM and non-REM",
+      "normalized_value": "REM and non-REM",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "It can detect sleep/wake and REM and non-REM.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "medium",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-94489cf7e08a",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "derived_reported_feature",
+      "source_value": "SpO2",
+      "normalized_value": "SpO2",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "The red and IR \nsignals are used to calculate the SpO2.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "high",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-69459604a944",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "derived_reported_feature",
+      "source_value": "head movement",
+      "normalized_value": "head movement",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "The actigraphy signals are transformed to obtain head movement \nand head position.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "medium",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-24ba21b8fec5",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "derived_reported_feature",
+      "source_value": "head position",
+      "normalized_value": "head position",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "The actigraphy signals are transformed to obtain head movement \nand head position.",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "medium",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-c21f0ee765b8",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "derived_reported_feature",
+      "source_value": "snoring sounds",
+      "normalized_value": "snoring sounds",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "snoring sounds",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "medium",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-e830a39627fd",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "derived_reported_feature",
+      "source_value": "airflow",
+      "normalized_value": "airflow",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "airflow",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "medium",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-d119f83ec854",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "derived_reported_feature",
+      "source_value": "EEG",
+      "normalized_value": "EEG",
+      "page": 8,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P008-B001",
+      "supporting_excerpt": "Optional EEG Sensor: ±1000 \nμV @ 256 samples/sec",
+      "surrounding_context": "Software Code base Assembler code C \nEquivalent - new code \nbase for improved \nmaintenance and \nprocessing efficiency \nEstimated file Size \nper Minute ~ 67 KB/min ~52 KB/min Equivalent – no impact \non use \nSaturation \nAccuracy \nSp02 Range Error (± 1 SD) \nSaturation Accuracy 70-100% \n70 to 100% SpO2 \n± 2% Equivalent \nAirflow Via Nasal Pressure Range ± \n0.55 cm H20 Accuracy ± 2% \nVia Nasal Pressure Range ± \n0.55 cm H20 Accuracy ± 2% \nIdentical \nHead Position Via accelerometers  \nPosition accuracy 3° @ 30°C \nVia accelerometers  \nPosition accuracy 3° @ 30°C Identical \nSnoring Level From microphone 40 dB (min)\n 70 dB (max) \nFrom microphone 20 dB (min)\n 70 dB (max) \nEquivalent - Additional \nlow frequency range \navailable \nSleep/awake Signal Optional EEG Sensor: ±1000 \nμV @ 256 samples/sec \nOptional EEG Sensor: ±1000 \nμV @ 240 samples/sec \nEquivalent – No impact \non use \nEnhanced physical \ndesign \nReduced size 4.5” long x 2” wide x 1” deep 4” long x 2” wide x 0.8” deep Similar \nForehead sensor Silicone – combined with \nenclosure pad rubber sensor block Similar \nEnhancements \naddressing ease of \nuse \nIncorporate user feedback Equivalent - Improved \ndesign for user comfort \nhardware \nmemory capacity 2 GB 8 GB Equivalent - additional \nmemory capacity \nprocessor Three secondary processors \nfor interfacing to external PC \nand SD card \nSingle secondary processor for \ninterfacing to external PC and \nSD card \nEquivalent - Improved \ntechnology eliminating \nneed for additional \nsecondary processors \nbattery \nBattery type two 250 mAh lithium ion \nconnected in parallel \nsingle 1500 mAh lithium ion Equivalent – \n Improved battery \nefficiency \n eliminates potential \nperformance or \nsafety issues from \nrunning batteries in \nparallel \nbattery protection internal overcharge/discharge \nprotective circuit \ninternal overcharge/discharge \nprotective circuit, with \nadditional overcurrent/short \ncircuit protection \nEquivalent - Additional \nprotective circuits",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "medium",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-6144ebfc4a2d",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "derived_reported_feature",
+      "source_value": "respiratory effort",
+      "normalized_value": "respiratory effort",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "EEG or respiratory effort",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "medium",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-ce89c9f18a95",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "diagnostic_output",
+      "source_value": "pre-test probability of OSA",
+      "normalized_value": "pre-test probability of OSA",
+      "page": 5,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P005-B001",
+      "supporting_excerpt": "ARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA).",
+      "surrounding_context": "can auto-detect positional and non-positional obstructive and mixed apneas and hypopneas similarly to \npolysomnography. It can detect sleep/wake and REM and non-REM. \nAfter the sleep study has been completed, data is transferred off the Unicorder and the Unicorder is \nprepared for the next study. The downloaded sleep study record is then processed with the ARESTM \nInsight software to transform the raw signals and derive and assess changes in oxygen saturation (SpO2), \nhead movement, head position, snoring sounds, airflow, and EEG or respiratory effort. The red and IR \nsignals are used to calculate the SpO2. The actigraphy signals are transformed to obtain head movement \nand head position. A clinician can convert an auto-detected obstructive apnea to a central apnea based \non visual inspection of the waveforms. \nARESTM Screener can predict pre-test probability of obstructive sleep apnea (OSA). The ARESTM data can \nalso assist the physician to identify patients who will likely have a successful OSA treatment outcome, \nincluding CPAP and oral appliance therapies. ARESTM can help identify patients who would benefit from a \nlaboratory PAP titration. \nIntended Use: \nThe Apnea Risk Evaluation System (ARESTM), Model 620 is indicated for use in the diagnostic evaluation \nby a physician of adult patients with possible sleep apnea. The ARESTM can record and score respiratory \nevents during sleep (e.g., apneas, hypopneas, mixed apneas and flow limiting events). The device is \ndesigned for prescription use in the patient’s home to aid a physician in diagnosing adults with possible \nsleep-related breathing disorders",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "medium",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    },
+    {
+      "claim_id": "CLM-6fa899fb70db",
+      "k_number": "K160499",
+      "family_id": "DF-0008",
+      "family_name": "ARES",
+      "field": "diagnostic_output",
+      "source_value": "sleep study report",
+      "normalized_value": "sleep study report",
+      "page": 4,
+      "section": "510(k) Summary for Watermark Apnea Risk Evaluation System",
+      "block_id": "K160499-P004-B005",
+      "supporting_excerpt": "processes the sleep study data and generates a sleep study report.",
+      "surrounding_context": "Trade Name: Apnea Risk Evaluation System (ARES TM), Model 620 \nCommon/Usual name: ARES \nClassification Names: 868.2375 Ventilatory Effort Recorder. Class II \nProduct Code: MNR \nPredicate Device: K111194 Apnea Risk Evaluation System (ARES), Model 610 \nDevice Description: \nThe Apnea Risk Evaluation System (ARESTM) includes a battery powered patient worn device called a \nUnicorder (Model 620). The Unicorder is worn by a patient for one to three nights, each night recording \nup to 7 hours of data. Data recorded includes oxygen saturation, snoring level, head movement, head \nposition, and airflow. Additionally, the Unicorder 620 allows collection of data from ARES compatible \nperipheral devices. The device monitors signal quality during acquisition and notifies the user via voice \nmessages when adjustments are required. \nA standard USB cable connects the Unicorder to a USB port on a host computer when patient data is to \nbe uploaded or downloaded. The USB cable provides power to the Unicorder during recharging from the \nhost computer or from a USB wall charger. The Unicorder cannot record nor can it be worn by the \npatient when connected to the host computer or the wall charger. \nSoftware, residing on a local PC or a physical or virtual server controls the uploading and downloading of \ndata to the Unicorder, processes the sleep study data and generates a sleep study report. The ARESTM",
+      "evidence_text_match": "pass",
+      "interpretation_status": "explicit",
+      "model_confidence": "medium",
+      "source_layer": "FDA 510(k)",
+      "review_decision": "pending",
+      "reviewed_value": "",
+      "reviewer_date": "",
+      "reviewer_notes": "",
+      "source_sha256": "40ce8ba61af5b1bbf6194d9d1c1918e64cc3d4e5fb93a9a3f7423c1a33c05439"
+    }
+  ]
+}

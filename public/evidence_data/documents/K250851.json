@@ -1,0 +1,649 @@
+{
+  "document": {
+    "k_number": "K250851",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "Hypnos (369054-200)",
+    "applicant": "Cadwell Industries, Inc.",
+    "decision_date": "2025-12-14",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K250851.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K250851",
+    "sha256": "6aa815e8f8cafe28bf15f5ebdc2e83bf44f4c314b2d64b04958d90699ae4e689",
+    "page_count": 13,
+    "native_pages": 13,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "December 14, 2025 \n\nCadwell Industries, Inc \nJames Blevins \nProduct Manager, Sleep Diagnostics \n909 N Kellogg St \nKennewick, Washington 99336 \n\n\nRe: K250851 \nTrade/Device Name: Hypnos (369054-200) \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ, OLV \nDated: November 14, 2025 \nReceived: November 14, 2025 \n\nDear James Blevins: \n\nWe have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "character_count": 2128
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K250851 - James Blevins Page \n\n2 \n\n\nAdditional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\" \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download). \n\nYour device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part \n820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming \nproduct; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a \nchange requires premarket review, the QS regulation requires device manufacturers to review and approve \nchanges to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and \napprovals in the device master record (21 CFR 820.181). \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart \nA) for combination products; and, if applicable, the electronic product radiation control provisions (Sections \n531-542 of the Act); 21 CFR Parts 1000-1050. \n\nAll medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system. \n\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \n\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See",
+      "character_count": 3865
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "K250851 - James Blevins Page \n\n3 \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). \n\nSincerely, \n\n\n\n\n\nfor \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health \n\nEnclosure \n\n\nPatrick Antkowiak -S",
+      "character_count": 628
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "DEPARTMENT OF HEALTH AND HUMAN SERVICES\nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 07/31/2026\nSee PRA Statement below.\nSubmission Number (if known)\nK250851 I\nDevice Name\nHypnos (369054-200)\nIndications for Use (Describe)\nCadwell Hypnos is a software application used for Polysomnography (PSG) and other clinical sleep\nstudies. It is intended for use by research and clinical sleep professionals. It measures, records,\ndisplays, organizes, analyzes, summarizes, and retrieves physiological signals during sleep and\nwake used to assist in the assessment of sleep and the diagnosis of various sleep disorders\nincluding sleep related breathing disorders. The software can be used for analysis (computer-\nassisted as well as manual scoring of events), display, retrieval, summarization, reporting and\nnetworking of data received from devices used to monitor sleep related parameters.\nHypnos is indicated for use in all sleep disorders patient populations from neonate to adult, including\ninfants, pediatrics and geriatric populations. Computer-assisted analysis features of the application\nare only intended for use on adults.\nHypnos is only indicated for use by trained medical professionals for the purpose of assessing sleep\ndisorders.\nIntended environments include hospitals, institutions, sleep centers, sleep clinics, and other sleep\ndisorders testing environments.\nHypnos is NOT intended to be used to perform automatic diagnosis.\nType of Use (Select one or both, as applicable)\n[ Prescription Use (Part 21 CFR 801 Subpart D) [Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\"",
+      "character_count": 2555
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "Hypnos 510(k) Summary \n\n\n\n\n. \nSubmitter Information \nSubmitter Name: Cadwell Industries, Inc. \n909 N. Kellogg Street \nKennewick, Washington 99336 \nSubmitter Phone: 509-735-6481 \nContact Person: James Blevins \nProduct Manager, Sleep Diagnostics \nDate Summary \nPrepared: February 28, 2025 \nSubject Device \nTrade Name: Hypnos \nCommon Name: Standard Polysomnograph with Electroencephalograph \nClassification Name: 21 CFR 882.1400, Electroencephalograph Class II \nProduct Code: OLZ, OLV \nPredicate Device \n510(k) Number: K142988 \nTrade Name: Sleepware G3 \nSubmitter Name: Respironics \nClassification Name: 21 CFR 882.1400, Electroencephalograph \nProduct Code: \n\nOLZ, MNR, OLV \nReference Predicate \nDevice \n510(k) Number: \nTrade Name: \nSubmitter Name: \nClassification Name: \nProduct Code: \n\n\nK210034 \nEnsoSleep \nEnsoData, Inc. \n21 CFR 882.1400, Electroencephalograph \nOLZ \n\nDevice Description \nHypnos software is used to acquire, record, transmit, analyze, store, manage, report, and \ndisplay physiological and environmental data collected by PSG and/or HSAT hardware. \nHypnos software allows users to analyze signals both manually and using detectors to \nfacilitate interpretation of a sleep study by a qualified user.",
+      "character_count": 1213
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "Hypnos 510(k) Summary \n\n\n\n\nIndications for Use \nCadwell Hypnos is a software application used for Polysomnography (PSG) and other clinical sleep studies. \nIt is intended for use by research and clinical sleep professionals. It measures, records, displays, organizes, \nanalyzes, summarizes, and retrieves physiological signals during sleep and wake used to assist in the \nassessment of sleep and the diagnosis of various sleep disorders including sleep related breathing disorders. \nThe software can be used for analysis (computer-assisted as well as manual scoring of events), display, \nretrieval, summarization, reporting and networking of data received from devices used to monitor sleep \nrelated parameters. \nHypnos is indicated for use in all sleep disorders patient populations from neonate to adult, including infants, \npediatrics and geriatric populations. Computer-assisted analysis features of the application are only intended \nfor use on adults. \nHypnos is only indicated for use by trained medical professionals for the purpose of assessing sleep \ndisorders. \nIntended environments include hospitals, institutions, sleep centers, sleep clinics, and other sleep disorders \ntesting environments. \nHypnos is NOT intended to be used to perform automatic diagnosis.",
+      "character_count": 1272
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "Hypnos 510(k) Summary \n\n\n\n\nSummary of Technological Characteristics and Comparison to the predicate device \nHypnos has equivalent technological characteristics to the predicate device. The following table provides a side-\nby-side comparison of the Indications for Use and technological characteristics of the subject and predicate \ndevices. \n\nCharacteristics Subject Device Hypnos Primary Predicate Device \nSleepware G3 (K142988) \nReference Predicate \nEnsoSleep (K210034) \nDiscussion of Major \nDifferences \nDevice Class Class II Class II Class II No differences \nClass Name Electroencephalograph Electroencephalograph Electroencephalograph No differences \nProduct Code \nOLZ (Primary) = \nAutomatic Event Detection \nSoftware for \nPolysomnograph with \nElectroencephalograph \nOLV = Standard \npolysomnograph with \nelectroencephalograph \nOLZ (Primary) = \nAutomatic Event Detection \nSoftware for \nPolysomnograph with \nElectroencephalograph \nMNR = Ventilatory Effort \nRecorder \nOLV = Standard \npolysomnograph with \nelectroencephalograph \nOLZ (Primary) = \nAutomatic Event Detection \nSoftware for \nPolysomnograph with \nElectroencephalograph \nNo differences. MNR does \nnot apply to the subject \ndevice since it is software \nonly. \nEnvironment of Use Sleep center (independent \nor hospital) \nSleep center (independent \nor hospital) \nSleep center (independent \nor hospital) No differences \nIntended User Medical Professional Medical Professional Medical Professional No differences \nTarget Patient Population \nNeonate to adult, including \ninfants, pediatrics and \ngeriatric populations for \nmanual review functions. \nAdult only for automatic \nevent detection. \nInfant or adult patients. Pediatric and adult patients No differences \nType of Use Prescription use only Prescription use only Prescription use only No differences",
+      "character_count": 1811
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Hypnos 510(k) Summary \n\n\n\n\nCharacteristics Subject Device Hypnos Primary Predicate Device \nSleepware G3 (K142988) \nReference Predicate \nEnsoSleep (K210034) \nDiscussion of Major \nDifferences \nIndications for Use \nCadwell Hypnos is a \nsoftware application used \nfor Polysomnography \n(PSG) and other clinical \nsleep studies. It is intended \nfor use by research and \nclinical sleep \nprofessionals. It measures, \nrecords, displays, \norganizes, analyzes, \nsummarizes, and retrieves \nphysiological signals \nduring sleep and wake \nused to assist in the \nassessment of sleep and \nthe diagnosis of various \nsleep disorders including \nsleep related breathing \ndisorders. The software \ncan be used for analysis \n(computer-assisted as well \nas manual scoring of \nevents), display, retrieval, \nsummarization, reporting \nand networking of data \nreceived from devices used \nto monitor sleep related \nparameters. \nHypnos is indicated for use \nin all sleep disorders \npatient populations from \nneonate to adult, including \ninfants, pediatrics and \ngeriatric populations. \nComputer-assisted analysis \nfeatures of the application \nare only intended for use \nSleepware G3 is a software \napplication used for \nanalysis (automatic and \nmanual scoring), display, \nretrieval, summarization, \nreport generation and \nnetworking of data \nreceived from monitoring \ndevices used to categorize \nsleep related events that \nhelp aid in the diagnosis of \nsleep related disorders. It is \nindicated for use with \ninfant or adult patients in a \nclinical environment by or \non the order of a physician. \nThe optional Somnolyzer \nInside scoring package has \nthe same intended use as \nSleepware G3, but is \nindicated for use with adult \npatients only. \nEnsoSleep is intended for \nuse in the diagnostic \nevaluation by a physician \nto assess sleep quality and \nas an aid for physicians in \nthe diagnosis of sleep \ndisorders and respiratory \nrelated sleep disorders in \npediatric and adult patients \nas follows: \n•Pediatric patients 13 years \nand older with \npolysomnography (PSG) \ntests obtained in a Hospital \nor Sleep Clinic \n•Adult patients with PSGs \nobtained in a Hospital or \nSleep Clinic \n•Adult patients with Home \nSleep Tests \n\nEnsoSleep is a software-\nonly medical device to be \nused under the supervision \nof a clinician to analyze \nphysiological signals and \nautomatically score sleep \nstudy results, including the \nstaging of sleep, detection \nof arousals, leg \nmovements, and sleep \ndisordered breathing \nevents including \nobstructive apneas (OSA), \ncentral sleep apneas \n(CSA), and hypopneas. \n\nNo difference to the \nprimary predicate. \nHypnos was specifically \ndesigned to enable clinical \nusers to record, review and \nmanually annotate PSG \nstudies on neonate, infant, \npediatric and adult patient \npopulations. \nThe software includes \ncontrols that are defaulted \nto industry standards for \nall age populations and are \nadjustable based on the \ndiscretion of the clinician. \nThe computer-assisted \nmarking feature in Hypnos \nis only indicated for use in \nAdult patients.",
+      "character_count": 3046
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "Hypnos 510(k) Summary \n\n\n\n\nCharacteristics Subject Device Hypnos Primary Predicate Device \nSleepware G3 (K142988) \nReference Predicate \nEnsoSleep (K210034) \nDiscussion of Major \nDifferences \non adults. \nHypnos is only indicated \nfor use by trained medical \nprofessionals for the \npurpose of assessing sleep \ndisorders. \nIntended environments \ninclude hospitals, \ninstitutions, sleep centers, \nsleep clinics, and other \nsleep disorders testing \nenvironments. \nHypnos is NOT intended \nto be used to perform \nautomatic diagnosis. \nAll automatically scored \nevents and physiological \nsignals which are \nretrieved, analyzed, \ndisplayed, and summarized \nare subject to verification \nby a qualified clinician. \nCentral sleep apneas \n(CSA) should be manually \nreviewed and modified as \nappropriate by a clinician. \n\nAll events can be manually \nmarked or edited within \nrecords during review. \n\nPhotoplethysmography \n(PPG) total sleep time is \nnot intended for use when \nelectroencephalograph \n(EEG) data is recorded. \nPPG total sleep time is not \nintended to be used as the \nsole or primary basis for \ndiagnosing any sleep \nrelated breathing disorder, \nprescribing treatment, or \ndetermining whether \nadditional diagnostic \nassessment is warranted. \nUser input Mouse/keyboard Mouse/keyboard Mouse/keyboard No differences \nAcquire, display, store, \nand archive PSG data Yes Yes Yes No differences \nData Collection By separate acquisition \nhardware \nBy separate acquisition \nhardware \nBy separate acquisition \nhardware No differences \nFFT Analysis Yes Yes Yes No differences",
+      "character_count": 1564
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "Hypnos 510(k) Summary \n\n\n\n\nCharacteristics Subject Device Hypnos Primary Predicate Device \nSleepware G3 (K142988) \nReference Predicate \nEnsoSleep (K210034) \nDiscussion of Major \nDifferences \nSoftware Detectors \nRespiratory event marking Yes Yes Yes No differences \nSleep staging/ scoring Yes Yes Yes No differences \nArousal event marking Yes Yes Yes No differences \nLimb Movements event \nmarking Yes Yes Yes No differences \nSnore event marking Yes Yes Yes No differences \nOxygen Desaturation event \nmarking Yes Yes Yes No differences \nHeart Rate data trend & \nsummary (including Heart \nRate Variability) \nYes Yes Yes No differences \nCO2 data trend & \nsummary Yes Yes Yes No differences \nAssociate related events Yes Yes Yes No differences \nDerived respiratory traces Yes Yes Yes No differences \nSynchronized patient video Yes Yes Yes No differences \nOximetry data display and \nreporting Yes Yes Yes No differences \nAudio/ Visual Alerts On \nCalibrated Channels Yes Yes Yes No differences \nSignals recorded (output) \nRespiratory Effort \n(abdomen and chest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \nEOG \nDC \nRespiratory Effort \n(abdomen and chest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \nEOG \nDC \nRespiratory Effort \n(abdomen and chest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \nEOG \nDC \nNo differences",
+      "character_count": 1413
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "Hypnos 510(k) Summary \n\n\n\n\nCharacteristics Subject Device Hypnos Primary Predicate Device \nSleepware G3 (K142988) \nReference Predicate \nEnsoSleep (K210034) \nDiscussion of Major \nDifferences \nLeg Movement \nOther signals for sleep \nstudies \nLeg Movement \nOther signals for sleep \nstudies \nLeg Movement \nOther signals for sleep \nstudies \nActigraphy \nPPG \nEsophogeal Manometry \nReport generation \nincluding counts indexes, \nmax/min/average/duration, \nrange based data \nsummaries. Numeric & \ngraphical representations \nYes, customizable \ntemplates \nYes, customizable \ntemplates \nYes, customizable \ntemplates No differences \nStandard of Scoring \nThe American Academy of \nSleep Medicine (AASM) \nManual for the Scoring of \nSleep and Associated \nEvents \nThe American Academy of \nSleep Medicine (AASM) \nManual for the Scoring of \nSleep and Associated \nEvents \nThe American Academy of \nSleep Medicine (AASM) \nManual for the Scoring of \nSleep and Associated \nEvents \nNo differences",
+      "character_count": 969
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "Hypnos 510(k) Summary \n\n\n\n\nSummary of Non-clinical Testing \nFDA-recognized standards were applied throughout the design process of Hypnos. All verification, \nvalidation, and usability testing has been performed per the design requirements. Passing results \nsupport the intended use of Hypnos and ensures adequate safety, effectiveness and reliability. \nSoftware testing was conducted in accordance with IEC 62304:2015-06. \nRisk Management activities were conducted per ISO 14971:2019. \nUsability testing is in accordance with IEC 62366-1:2020-06 \nInformation to be provided to the User is in accordance with ISO 20417:2021-04 Corrected version \n2021-12 \nThe features of Hypnos have been compared with the predicate in order to demonstrate substantial \nequivalence. Specifically, both software applications have equivalent primary functions, including \nthe following: opening and selecting existing sleep studies; displaying and navigating sleep study \ndata/signals; manually scoring/annotating sleep study data by adding events/markers; facilitating the \nuse of AASM standards; creating trend/summary overviews and interpretation reports; interfacing \nto analysis tools, and saving/storing scored recordings. Both applications visualize signals and \nevents in equivalent ways, allow equivalent edits of scored events, and provide equivalent basic \nscoring and physician information via overviews and indexes. \n\nSummary of Clinical Testing \nMethodology \nOur data included analysis of 42,972 recorded epochs, of which 36,088 were scored. These studies \nwere chosen at random from existing sleep studies of acceptable signal quality from accredited labs \nwhere analysis had been performed by EnsoSleep (K210034) and had not been edited by human \nscorers. Studies were chosen at random from sleep labs independent of Cadwell. \n\nThe studies were copied with annotations from the EnsoSleep analysis extracted. Annotations were \nthen stripped from the studies and Hypnos analyzers were run using default settings based on \nrecommendations from the AASM and then events were compared between the two analysis sets. \n\nResults \nThe results of the performance testing indicate that the computer-assisted scoring in the Hypnos \nsubject device performs equivalently to the reference predicate device, with general event \nannotation above 80% across all valid clinical event types. There were no complications or \ncontraindications found during the study. Individual performance metrics for each detector can be \nfound in the tables below along with the Confidence Interval at 95% (95% CI): \n\nRespiratory Events Median Overall Over Detection 95% CI \nApnea 98.1% 96.7% 3.0% ±1.06 [95.64%, 97.76%] \nObstructive Apnea 98.1% 96.0% 4.3% ±1.52 [94.78%, 97.52%] \nCentral Apnea 99.4% 98.1% 0.6% ±1.16 [96.94%, 99.26%] \nHypopnea 89.1% 89.3% 10.1% ±1.82 [94.48%, 97.52%] \nRespiratory Events 88.6% 88.6% 10.8% ±1.76 [86.84%, 90.36%]",
+      "character_count": 2907
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "Hypnos 510(k) Summary \n\n\nDesaturation Median Overall Over Detection 95% CI \nDesaturation 97.9% 97.3% 2.7% ±0.61 [96.69%,97.91%] \n\nHeart Rate Median Overall Over Detection 95% CI \nHeart Rate 100.0% 99.8% 0.1% ±0.15 [99.65%,99.95%] \n\nLimb Movements Median Overall Over Detection 95% CI \nLM 88.4% 87.4% 4.2% ±2.83 [84.57%,90.23%] \nPLM 93.4% 91.3% 1.8% ±2.61 [88.69%,93.91%] \nPLMS Series 99.1% 98.9% 0.5% ±0.33 [98.57%,99.23%] \n\n\nConclusion \nThe Intended Use Comparison, the Technical Comparison, and Performance Testing Data results \nindicate that Hypnos presents no new questions of safety and effectiveness and is substantially \nequivalent to the legally marketed predicate devices.",
+      "character_count": 681
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K250851-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "December 14, 2025",
+      "extraction_method": "native",
+      "character_count": 17
+    },
+    {
+      "block_id": "K250851-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Cadwell Industries, Inc \nJames Blevins \nProduct Manager, Sleep Diagnostics \n909 N Kellogg St \nKennewick, Washington 99336",
+      "extraction_method": "native",
+      "character_count": 121
+    },
+    {
+      "block_id": "K250851-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K250851 \nTrade/Device Name: Hypnos (369054-200) \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ, OLV \nDated: November 14, 2025 \nReceived: November 14, 2025",
+      "extraction_method": "native",
+      "character_count": 234
+    },
+    {
+      "block_id": "K250851-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "Dear James Blevins:",
+      "text": "Dear James Blevins:",
+      "extraction_method": "native",
+      "character_count": 19
+    },
+    {
+      "block_id": "K250851-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "We have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "native",
+      "character_count": 1351
+    },
+    {
+      "block_id": "K250851-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K250851-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "K250851 - James Blevins Page",
+      "extraction_method": "native",
+      "character_count": 28
+    },
+    {
+      "block_id": "K250851-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "2",
+      "extraction_method": "native",
+      "character_count": 1
+    },
+    {
+      "block_id": "K250851-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "Additional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\" \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download).",
+      "extraction_method": "native",
+      "character_count": 377
+    },
+    {
+      "block_id": "K250851-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part \n820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming \nproduct; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a \nchange requires premarket review, the QS regulation requires device manufacturers to review and approve \nchanges to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and \napprovals in the device master record (21 CFR 820.181).",
+      "extraction_method": "native",
+      "character_count": 579
+    },
+    {
+      "block_id": "K250851-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart \nA) for combination products; and, if applicable, the electronic product radiation control provisions (Sections \n531-542 of the Act); 21 CFR Parts 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 1100
+    },
+    {
+      "block_id": "K250851-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "All medical devices, including Class I and unclassified devices and combination product device constituent \nparts are required to be in compliance with the final Unique Device Identification System rule (\"UDI Rule\"). \nThe UDI Rule requires, among other things, that a device bear a unique device identifier (UDI) on its label \nand package (21 CFR 801.20(a)) unless an exception or alternative applies (21 CFR 801.20(b)) and that the \ndates on the device label be formatted in accordance with 21 CFR 801.18. The UDI Rule (21 CFR \n830.300(a) and 830.320(b)) also requires that certain information be submitted to the Global Unique Device \nIdentification Database (GUDID) (21 CFR Part 830 Subpart E). For additional information on these \nrequirements, please see the UDI System webpage at https://www.fda.gov/medical-devices/device-advice-\ncomprehensive-regulatory-assistance/unique-device-identification-system-udi-system.",
+      "extraction_method": "native",
+      "character_count": 920
+    },
+    {
+      "block_id": "K250851-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems.",
+      "extraction_method": "native",
+      "character_count": 351
+    },
+    {
+      "block_id": "K250851-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "For comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See",
+      "extraction_method": "native",
+      "character_count": 487
+    },
+    {
+      "block_id": "K250851-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "K250851 - James Blevins Page",
+      "extraction_method": "native",
+      "character_count": 28
+    },
+    {
+      "block_id": "K250851-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "3 \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "extraction_method": "native",
+      "character_count": 274
+    },
+    {
+      "block_id": "K250851-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "Sincerely,",
+      "extraction_method": "native",
+      "character_count": 10
+    },
+    {
+      "block_id": "K250851-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "for \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional, and \nNeurodiagnostic Devices \nOHT5: Office of Neurological and \nPhysical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health",
+      "extraction_method": "native",
+      "character_count": 267
+    },
+    {
+      "block_id": "K250851-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "Enclosure",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K250851-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "Patrick Antkowiak -S",
+      "extraction_method": "native",
+      "character_count": 20
+    },
+    {
+      "block_id": "K250851-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear James Blevins:",
+      "text": "DEPARTMENT OF HEALTH AND HUMAN SERVICES\nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 07/31/2026\nSee PRA Statement below.\nSubmission Number (if known)\nK250851 I\nDevice Name\nHypnos (369054-200)\nIndications for Use (Describe)\nCadwell Hypnos is a software application used for Polysomnography (PSG) and other clinical sleep\nstudies. It is intended for use by research and clinical sleep professionals. It measures, records,\ndisplays, organizes, analyzes, summarizes, and retrieves physiological signals during sleep and\nwake used to assist in the assessment of sleep and the diagnosis of various sleep disorders\nincluding sleep related breathing disorders. The software can be used for analysis (computer-\nassisted as well as manual scoring of events), display, retrieval, summarization, reporting and\nnetworking of data received from devices used to monitor sleep related parameters.\nHypnos is indicated for use in all sleep disorders patient populations from neonate to adult, including\ninfants, pediatrics and geriatric populations. Computer-assisted analysis features of the application\nare only intended for use on adults.\nHypnos is only indicated for use by trained medical professionals for the purpose of assessing sleep\ndisorders.\nIntended environments include hospitals, institutions, sleep centers, sleep clinics, and other sleep\ndisorders testing environments.\nHypnos is NOT intended to be used to perform automatic diagnosis.\nType of Use (Select one or both, as applicable)\n[ Prescription Use (Part 21 CFR 801 Subpart D) [Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\"An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.\"",
+      "extraction_method": "native",
+      "character_count": 2555
+    },
+    {
+      "block_id": "K250851-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Hypnos 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K250851-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": ". \nSubmitter Information \nSubmitter Name: Cadwell Industries, Inc. \n909 N. Kellogg Street \nKennewick, Washington 99336 \nSubmitter Phone: 509-735-6481 \nContact Person: James Blevins \nProduct Manager, Sleep Diagnostics \nDate Summary \nPrepared: February 28, 2025 \nSubject Device \nTrade Name: Hypnos \nCommon Name: Standard Polysomnograph with Electroencephalograph \nClassification Name: 21 CFR 882.1400, Electroencephalograph Class II \nProduct Code: OLZ, OLV \nPredicate Device \n510(k) Number: K142988 \nTrade Name: Sleepware G3 \nSubmitter Name: Respironics \nClassification Name: 21 CFR 882.1400, Electroencephalograph \nProduct Code:",
+      "extraction_method": "native",
+      "character_count": 627
+    },
+    {
+      "block_id": "K250851-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "OLZ, MNR, OLV \nReference Predicate \nDevice \n510(k) Number: \nTrade Name: \nSubmitter Name: \nClassification Name: \nProduct Code:",
+      "extraction_method": "native",
+      "character_count": 125
+    },
+    {
+      "block_id": "K250851-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "K210034 \nEnsoSleep \nEnsoData, Inc. \n21 CFR 882.1400, Electroencephalograph \nOLZ",
+      "extraction_method": "native",
+      "character_count": 79
+    },
+    {
+      "block_id": "K250851-P005-B005",
+      "page": 5,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Device Description \nHypnos software is used to acquire, record, transmit, analyze, store, manage, report, and \ndisplay physiological and environmental data collected by PSG and/or HSAT hardware. \nHypnos software allows users to analyze signals both manually and using detectors to \nfacilitate interpretation of a sleep study by a qualified user.",
+      "extraction_method": "native",
+      "character_count": 345
+    },
+    {
+      "block_id": "K250851-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Hypnos 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K250851-P006-B002",
+      "page": 6,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Indications for Use \nCadwell Hypnos is a software application used for Polysomnography (PSG) and other clinical sleep studies. \nIt is intended for use by research and clinical sleep professionals. It measures, records, displays, organizes, \nanalyzes, summarizes, and retrieves physiological signals during sleep and wake used to assist in the \nassessment of sleep and the diagnosis of various sleep disorders including sleep related breathing disorders. \nThe software can be used for analysis (computer-assisted as well as manual scoring of events), display, \nretrieval, summarization, reporting and networking of data received from devices used to monitor sleep \nrelated parameters. \nHypnos is indicated for use in all sleep disorders patient populations from neonate to adult, including infants, \npediatrics and geriatric populations. Computer-assisted analysis features of the application are only intended \nfor use on adults. \nHypnos is only indicated for use by trained medical professionals for the purpose of assessing sleep \ndisorders. \nIntended environments include hospitals, institutions, sleep centers, sleep clinics, and other sleep disorders \ntesting environments. \nHypnos is NOT intended to be used to perform automatic diagnosis.",
+      "extraction_method": "native",
+      "character_count": 1245
+    },
+    {
+      "block_id": "K250851-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Hypnos 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K250851-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Summary of Technological Characteristics and Comparison to the predicate device \nHypnos has equivalent technological characteristics to the predicate device. The following table provides a side-\nby-side comparison of the Indications for Use and technological characteristics of the subject and predicate \ndevices.",
+      "extraction_method": "native",
+      "character_count": 313
+    },
+    {
+      "block_id": "K250851-P007-B003",
+      "page": 7,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Characteristics Subject Device Hypnos Primary Predicate Device \nSleepware G3 (K142988) \nReference Predicate \nEnsoSleep (K210034) \nDiscussion of Major \nDifferences \nDevice Class Class II Class II Class II No differences \nClass Name Electroencephalograph Electroencephalograph Electroencephalograph No differences \nProduct Code \nOLZ (Primary) = \nAutomatic Event Detection \nSoftware for \nPolysomnograph with \nElectroencephalograph \nOLV = Standard \npolysomnograph with \nelectroencephalograph \nOLZ (Primary) = \nAutomatic Event Detection \nSoftware for \nPolysomnograph with \nElectroencephalograph \nMNR = Ventilatory Effort \nRecorder \nOLV = Standard \npolysomnograph with \nelectroencephalograph \nOLZ (Primary) = \nAutomatic Event Detection \nSoftware for \nPolysomnograph with \nElectroencephalograph \nNo differences. MNR does \nnot apply to the subject \ndevice since it is software \nonly. \nEnvironment of Use Sleep center (independent \nor hospital) \nSleep center (independent \nor hospital) \nSleep center (independent \nor hospital) No differences \nIntended User Medical Professional Medical Professional Medical Professional No differences \nTarget Patient Population \nNeonate to adult, including \ninfants, pediatrics and \ngeriatric populations for \nmanual review functions. \nAdult only for automatic \nevent detection. \nInfant or adult patients. Pediatric and adult patients No differences \nType of Use Prescription use only Prescription use only Prescription use only No differences",
+      "extraction_method": "native",
+      "character_count": 1468
+    },
+    {
+      "block_id": "K250851-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Hypnos 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K250851-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Characteristics Subject Device Hypnos Primary Predicate Device \nSleepware G3 (K142988) \nReference Predicate \nEnsoSleep (K210034) \nDiscussion of Major \nDifferences \nIndications for Use \nCadwell Hypnos is a \nsoftware application used \nfor Polysomnography \n(PSG) and other clinical \nsleep studies. It is intended \nfor use by research and \nclinical sleep \nprofessionals. It measures, \nrecords, displays, \norganizes, analyzes, \nsummarizes, and retrieves \nphysiological signals \nduring sleep and wake \nused to assist in the \nassessment of sleep and \nthe diagnosis of various \nsleep disorders including \nsleep related breathing \ndisorders. The software \ncan be used for analysis \n(computer-assisted as well \nas manual scoring of \nevents), display, retrieval, \nsummarization, reporting \nand networking of data \nreceived from devices used \nto monitor sleep related \nparameters. \nHypnos is indicated for use \nin all sleep disorders \npatient populations from \nneonate to adult, including \ninfants, pediatrics and \ngeriatric populations. \nComputer-assisted analysis \nfeatures of the application \nare only intended for use \nSleepware G3 is a software \napplication used for \nanalysis (automatic and \nmanual scoring), display, \nretrieval, summarization, \nreport generation and \nnetworking of data \nreceived from monitoring \ndevices used to categorize \nsleep related events that \nhelp aid in the diagnosis of \nsleep related disorders. It is \nindicated for use with \ninfant or adult patients in a \nclinical environment by or \non the order of a physician. \nThe optional Somnolyzer \nInside scoring package has \nthe same intended use as \nSleepware G3, but is \nindicated for use with adult \npatients only. \nEnsoSleep is intended for \nuse in the diagnostic \nevaluation by a physician \nto assess sleep quality and \nas an aid for physicians in \nthe diagnosis of sleep \ndisorders and respiratory \nrelated sleep disorders in \npediatric and adult patients \nas follows: \n•Pediatric patients 13 years \nand older with \npolysomnography (PSG) \ntests obtained in a Hospital \nor Sleep Clinic \n•Adult patients with PSGs \nobtained in a Hospital or \nSleep Clinic \n•Adult patients with Home \nSleep Tests",
+      "extraction_method": "native",
+      "character_count": 2165
+    },
+    {
+      "block_id": "K250851-P008-B003",
+      "page": 8,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "EnsoSleep is a software-\nonly medical device to be \nused under the supervision \nof a clinician to analyze \nphysiological signals and \nautomatically score sleep \nstudy results, including the \nstaging of sleep, detection \nof arousals, leg \nmovements, and sleep \ndisordered breathing \nevents including \nobstructive apneas (OSA), \ncentral sleep apneas \n(CSA), and hypopneas.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K250851-P008-B004",
+      "page": 8,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "No difference to the \nprimary predicate. \nHypnos was specifically \ndesigned to enable clinical \nusers to record, review and \nmanually annotate PSG \nstudies on neonate, infant, \npediatric and adult patient \npopulations. \nThe software includes \ncontrols that are defaulted \nto industry standards for \nall age populations and are \nadjustable based on the \ndiscretion of the clinician. \nThe computer-assisted \nmarking feature in Hypnos \nis only indicated for use in \nAdult patients.",
+      "extraction_method": "native",
+      "character_count": 478
+    },
+    {
+      "block_id": "K250851-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Hypnos 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K250851-P009-B002",
+      "page": 9,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Characteristics Subject Device Hypnos Primary Predicate Device \nSleepware G3 (K142988) \nReference Predicate \nEnsoSleep (K210034) \nDiscussion of Major \nDifferences \non adults. \nHypnos is only indicated \nfor use by trained medical \nprofessionals for the \npurpose of assessing sleep \ndisorders. \nIntended environments \ninclude hospitals, \ninstitutions, sleep centers, \nsleep clinics, and other \nsleep disorders testing \nenvironments. \nHypnos is NOT intended \nto be used to perform \nautomatic diagnosis. \nAll automatically scored \nevents and physiological \nsignals which are \nretrieved, analyzed, \ndisplayed, and summarized \nare subject to verification \nby a qualified clinician. \nCentral sleep apneas \n(CSA) should be manually \nreviewed and modified as \nappropriate by a clinician.",
+      "extraction_method": "native",
+      "character_count": 778
+    },
+    {
+      "block_id": "K250851-P009-B003",
+      "page": 9,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "All events can be manually \nmarked or edited within \nrecords during review.",
+      "extraction_method": "native",
+      "character_count": 75
+    },
+    {
+      "block_id": "K250851-P009-B004",
+      "page": 9,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Photoplethysmography \n(PPG) total sleep time is \nnot intended for use when \nelectroencephalograph \n(EEG) data is recorded. \nPPG total sleep time is not \nintended to be used as the \nsole or primary basis for \ndiagnosing any sleep \nrelated breathing disorder, \nprescribing treatment, or \ndetermining whether \nadditional diagnostic \nassessment is warranted. \nUser input Mouse/keyboard Mouse/keyboard Mouse/keyboard No differences \nAcquire, display, store, \nand archive PSG data Yes Yes Yes No differences \nData Collection By separate acquisition \nhardware \nBy separate acquisition \nhardware \nBy separate acquisition \nhardware No differences \nFFT Analysis Yes Yes Yes No differences",
+      "extraction_method": "native",
+      "character_count": 678
+    },
+    {
+      "block_id": "K250851-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Hypnos 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K250851-P010-B002",
+      "page": 10,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Characteristics Subject Device Hypnos Primary Predicate Device \nSleepware G3 (K142988) \nReference Predicate \nEnsoSleep (K210034) \nDiscussion of Major \nDifferences \nSoftware Detectors \nRespiratory event marking Yes Yes Yes No differences \nSleep staging/ scoring Yes Yes Yes No differences \nArousal event marking Yes Yes Yes No differences \nLimb Movements event \nmarking Yes Yes Yes No differences \nSnore event marking Yes Yes Yes No differences \nOxygen Desaturation event \nmarking Yes Yes Yes No differences \nHeart Rate data trend & \nsummary (including Heart \nRate Variability) \nYes Yes Yes No differences \nCO2 data trend & \nsummary Yes Yes Yes No differences \nAssociate related events Yes Yes Yes No differences \nDerived respiratory traces Yes Yes Yes No differences \nSynchronized patient video Yes Yes Yes No differences \nOximetry data display and \nreporting Yes Yes Yes No differences \nAudio/ Visual Alerts On \nCalibrated Channels Yes Yes Yes No differences \nSignals recorded (output) \nRespiratory Effort \n(abdomen and chest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \nEOG \nDC \nRespiratory Effort \n(abdomen and chest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \nEOG \nDC \nRespiratory Effort \n(abdomen and chest) \nAirflow \nPressure \nSnore \nBody Position \nPulse Rate \nOximeter \nECG \nEEG \nEMG \nEOG \nDC \nNo differences",
+      "extraction_method": "native",
+      "character_count": 1386
+    },
+    {
+      "block_id": "K250851-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Hypnos 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K250851-P011-B002",
+      "page": 11,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Characteristics Subject Device Hypnos Primary Predicate Device \nSleepware G3 (K142988) \nReference Predicate \nEnsoSleep (K210034) \nDiscussion of Major \nDifferences \nLeg Movement \nOther signals for sleep \nstudies \nLeg Movement \nOther signals for sleep \nstudies \nLeg Movement \nOther signals for sleep \nstudies \nActigraphy \nPPG \nEsophogeal Manometry \nReport generation \nincluding counts indexes, \nmax/min/average/duration, \nrange based data \nsummaries. Numeric & \ngraphical representations \nYes, customizable \ntemplates \nYes, customizable \ntemplates \nYes, customizable \ntemplates No differences \nStandard of Scoring \nThe American Academy of \nSleep Medicine (AASM) \nManual for the Scoring of \nSleep and Associated \nEvents \nThe American Academy of \nSleep Medicine (AASM) \nManual for the Scoring of \nSleep and Associated \nEvents \nThe American Academy of \nSleep Medicine (AASM) \nManual for the Scoring of \nSleep and Associated \nEvents \nNo differences",
+      "extraction_method": "native",
+      "character_count": 942
+    },
+    {
+      "block_id": "K250851-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Hypnos 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K250851-P012-B002",
+      "page": 12,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Summary of Non-clinical Testing \nFDA-recognized standards were applied throughout the design process of Hypnos. All verification, \nvalidation, and usability testing has been performed per the design requirements. Passing results \nsupport the intended use of Hypnos and ensures adequate safety, effectiveness and reliability. \nSoftware testing was conducted in accordance with IEC 62304:2015-06. \nRisk Management activities were conducted per ISO 14971:2019. \nUsability testing is in accordance with IEC 62366-1:2020-06 \nInformation to be provided to the User is in accordance with ISO 20417:2021-04 Corrected version \n2021-12 \nThe features of Hypnos have been compared with the predicate in order to demonstrate substantial \nequivalence. Specifically, both software applications have equivalent primary functions, including \nthe following: opening and selecting existing sleep studies; displaying and navigating sleep study \ndata/signals; manually scoring/annotating sleep study data by adding events/markers; facilitating the \nuse of AASM standards; creating trend/summary overviews and interpretation reports; interfacing \nto analysis tools, and saving/storing scored recordings. Both applications visualize signals and \nevents in equivalent ways, allow equivalent edits of scored events, and provide equivalent basic \nscoring and physician information via overviews and indexes.",
+      "extraction_method": "native",
+      "character_count": 1381
+    },
+    {
+      "block_id": "K250851-P012-B003",
+      "page": 12,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Summary of Clinical Testing \nMethodology \nOur data included analysis of 42,972 recorded epochs, of which 36,088 were scored. These studies \nwere chosen at random from existing sleep studies of acceptable signal quality from accredited labs \nwhere analysis had been performed by EnsoSleep (K210034) and had not been edited by human \nscorers. Studies were chosen at random from sleep labs independent of Cadwell.",
+      "extraction_method": "native",
+      "character_count": 410
+    },
+    {
+      "block_id": "K250851-P012-B004",
+      "page": 12,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "The studies were copied with annotations from the EnsoSleep analysis extracted. Annotations were \nthen stripped from the studies and Hypnos analyzers were run using default settings based on \nrecommendations from the AASM and then events were compared between the two analysis sets.",
+      "extraction_method": "native",
+      "character_count": 282
+    },
+    {
+      "block_id": "K250851-P012-B005",
+      "page": 12,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Results \nThe results of the performance testing indicate that the computer-assisted scoring in the Hypnos \nsubject device performs equivalently to the reference predicate device, with general event \nannotation above 80% across all valid clinical event types. There were no complications or \ncontraindications found during the study. Individual performance metrics for each detector can be \nfound in the tables below along with the Confidence Interval at 95% (95% CI):",
+      "extraction_method": "native",
+      "character_count": 467
+    },
+    {
+      "block_id": "K250851-P012-B006",
+      "page": 12,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Respiratory Events Median Overall Over Detection 95% CI \nApnea 98.1% 96.7% 3.0% ±1.06 [95.64%, 97.76%] \nObstructive Apnea 98.1% 96.0% 4.3% ±1.52 [94.78%, 97.52%] \nCentral Apnea 99.4% 98.1% 0.6% ±1.16 [96.94%, 99.26%] \nHypopnea 89.1% 89.3% 10.1% ±1.82 [94.48%, 97.52%] \nRespiratory Events 88.6% 88.6% 10.8% ±1.76 [86.84%, 90.36%]",
+      "extraction_method": "native",
+      "character_count": 328
+    },
+    {
+      "block_id": "K250851-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Hypnos 510(k) Summary",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K250851-P013-B002",
+      "page": 13,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Desaturation Median Overall Over Detection 95% CI \nDesaturation 97.9% 97.3% 2.7% ±0.61 [96.69%,97.91%]",
+      "extraction_method": "native",
+      "character_count": 102
+    },
+    {
+      "block_id": "K250851-P013-B003",
+      "page": 13,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Heart Rate Median Overall Over Detection 95% CI \nHeart Rate 100.0% 99.8% 0.1% ±0.15 [99.65%,99.95%]",
+      "extraction_method": "native",
+      "character_count": 99
+    },
+    {
+      "block_id": "K250851-P013-B004",
+      "page": 13,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Limb Movements Median Overall Over Detection 95% CI \nLM 88.4% 87.4% 4.2% ±2.83 [84.57%,90.23%] \nPLM 93.4% 91.3% 1.8% ±2.61 [88.69%,93.91%] \nPLMS Series 99.1% 98.9% 0.5% ±0.33 [98.57%,99.23%]",
+      "extraction_method": "native",
+      "character_count": 190
+    },
+    {
+      "block_id": "K250851-P013-B005",
+      "page": 13,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Hypnos 510(k) Summary",
+      "text": "Conclusion \nThe Intended Use Comparison, the Technical Comparison, and Performance Testing Data results \nindicate that Hypnos presents no new questions of safety and effectiveness and is substantially \nequivalent to the legally marketed predicate devices.",
+      "extraction_method": "native",
+      "character_count": 255
+    }
+  ],
+  "claims": []
+}

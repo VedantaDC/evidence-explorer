@@ -1,0 +1,745 @@
+{
+  "document": {
+    "k_number": "K210034",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "EnsoSleep",
+    "applicant": "Ensodata, Inc.",
+    "decision_date": "2021-06-16",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K210034.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K210034",
+    "sha256": "9a95d5da116b615787a54ff8780aa86b3b3373acbe8be19bacd38075d80d2aaa",
+    "page_count": 24,
+    "native_pages": 23,
+    "ocr_pages": 1,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 0 4 . 2 6 \nSilver Spring, MD 20993 \nwww.fda.gov \n\n\n\n\n\n\nEnsoData, Inc. \nSigrid Schoepel \nDirector of Regulatory Affairs \n111 S. Hamilton St. Suite 30 \nMadison, Wisconsin 53703 \n\n\nRe: K210034 \nTrade/Device Name: EnsoSleep \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: May 11, 2021 \nReceived: May 12, 2021 \n\nDear Sigrid Schoepel: \n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. Although this letter refers to your product as a device, please be aware that \nsome cleared products may instead be combination products. The 510(k) Premarket Notification Database \nlocated at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register. \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for",
+      "character_count": 2739
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K210034 - Sigrid Schoepel Page \n\n2 \ndevices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for \ncombination products; and, if applicable, the electronic product radiation control provisions (Sections 531-\n542 of the Act); 21 CFR 1000-1050. \n\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \n\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). \n\nSincerely, \n\n\n\n\nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional \nand Neurodiagnostic Devices \nOHT5: Office of Neurological \nand Physical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health \n\nEnclosure",
+      "character_count": 2007
+    },
+    {
+      "page": 3,
+      "extraction_method": "ocr",
+      "text": "DEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120\nFood and Drug Administration Expiration Date: 06/30/2023\n\nIndications for Use See PRA Statement below.\n\n510(k) Number (if known)\nK210034\n\nDevice Name\nEnsoSleep\n\nIndications for Use (Describe)\n\nEnsoSleep is intended for use in the diagnostic evaluation by a physician to assess sleep quality and as an aid for\nphysicians in the diagnosis of sleep disorders and respiratory related sleep disorders in pediatric and adult patients as\nfollows:\n\n* Pediatric patients 13 years and older with polysomnography (PSG) tests obtained in a Hospital or Sleep Clinic\n\n* Adult patients with PSGs obtained in a Hospital or Sleep Clinic\n\n* Adult patients with Home Sleep Tests\n\nEnsoSleep is a software-only medical device to be used under the supervision of a clinician to analyze physiological\nsignals and automatically score sleep study results, including the staging of sleep, detection of arousals, leg movements,\nand sleep disordered breathing events including obstructive apneas (OSA), central sleep apneas (CSA), and hypopneas.\n\nAll automatically scored events and physiological signals which are retrieved, analyzed, displayed, and summarized are\nsubject to verification by a qualified clinician. Central sleep apneas (CSA) should be manually reviewed and modified as\nappropriate by a clinician.\n\nAll events can be manually marked or edited within records during review.\nPhotoplethysmography (PPG) total sleep time is not intended for use when electroencephalograph (EEG) data is recorded.\n\nPPG total sleep time is not intended to be used as the sole or primary basis for diagnosing any sleep related breathing\ndisorder, prescribing treatment, or determining whether additional diagnostic assessment is warranted.\n\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) [_] Over-The-Counter Use (21 CFR 801 Subpart C)\n\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\n\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\n\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\n\nDepartment of Health and Human Services\nFood and Drug Administration\n\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”\n\nFORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF",
+      "character_count": 2928
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "K210034 EnsoSleep \nTraditional 510(k) Summary \nPrepared in accordance with the content and format outlined in 21 CFR 807.92 \nI. S\nUBMITTER INFORMATION\nName: EnsoData, Inc. \nAddress: 111 S. Hamilton Street, Suite 30 \nMadison, WI 53703 USA \nPhone: (608)509-4704\nContact Person: Sigrid Schoepel \nEmail: sigrid@ensodata.com \nD\nate: June 8, 2021 \nII. SUBJECT DEVICE INFORMATION\nTrade Name: EnsoSleep \nCommon Name: Automatic Event Detection Software for Polysomnography with \nElectroencephalograph (EEG) \nClassification Name: Electroencephalograph 21 CFR 882.1400 \nRegulatory Class: II \nProduct Code: OLZ \nIntended Use: \nEnsoSleep is intended for use for the diagnostic evaluation by a physician to assess sleep quality \nand as an aid for the diagnosis of sleep disorders and respiratory related sleep disorders in \npediatric patients ages 13 years and older. EnsoSleep is a software-only medical device to be \nused under the supervision of a clinician to analyze physiological signals and automatically score \nsleep study results, including the staging of sleep, detection of arousals, leg movements, and \nsleep disordered breathing events including obstructive apneas, central apneas, and hypopneas. \nAll automatically scored events and physiologica l signals analyzed are retrieved, displayed, and \nsummarized, and are subject to verification by a qualified clinician. All events can be manually \nmarked or edited within records during review. \nTa\nrget \nPatient Population: Adult and Pediatric \nIII. PREDICATE DEVICE\nK162627\nTrade Name: EnsoSleep\nTarget Patient Population: Adults only\nPage 1 of 21",
+      "character_count": 1595
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "IV. SUBJECT DEVICE DESCRIPTION\nEnsoSleep is a software -only medical device that analyzes previously recorded physiological\nsignals obtained during sleep. U sers of EnsoSleep are consistent with the roles required to run a\nsleep clinic: sleep physicians, sleep technicians, clinic operations managers, and IT\nadministrators. EnsoSleep can analyze at-home and in-lab sleep studies for both adult and\npediatric patients who are at least 13 years old. Automated algorithms are applied to the raw\nsignals in order to derive additional signals and interpret the raw and derived signal information.\nThe software automates recognition of the following: respiratory events, sleep staging events,\narousal events, movement events, cardiac events, derived signals, and calculated indices.\nEnsoSleep does not interpret the results, nor does it suggest a diagnosis. The device only marks\nevents of interest for review by a physician who is responsible for diagnose s. The device does\nnot analyze data that are different from those analyzed by human scorers.\nT\nhe signals and automated analyses can be visually inspected and edited prior to the results \nbeing integrated into a sleep study report. \nThe software consists of 4 major components: \n• The Application Platform runs on local clinic workstations and manages the detection,\nupload, and download of study records and scoring to and from the Storage Platform\n• The Processing Platform accepts raw physiological signals as inputs in order to recognize \nevents, derive signals, and calculate indices\n• The Storage Platform facilitates file and database storage in the EnsoSleep cloud through\nan API\n• The Dashboard is a web -based user interface to support configuration, clinic\nmanagement, and sleep study scoring\nInput signals used to derive outputs include : \n• Electroencephalogram ( EEG)\n• Electrocardiogram (ECG)\n• Electro-oculogram (EOG)\n• Electromyogram (EMG)\n• Actigraphy\n• Airflow\n• Oximetry\n• Saturation of Peripheral Oxygen (SpO2)\n• Respiratory Inductance Plethysmogram (RIP)\n• Polyvinylidene Flouride (PVDF)\n• Photoplethysmogram ( PPG)\n• Pulse Rate\n• Snoring Microphone\n• Esophogeal Manometry\nOutputs that are displayed to users include : \n• Respiratory Eve nts\no Obstructive Sleep Apneas (OSA)\nPage 2 of 21",
+      "character_count": 2261
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "o Central Sleep Apneas (CSA)\no Mixed Sleep Apneas (MSA)\no Hypopneas\no Cheyne -Stokes Respiration\no Periodic Breathing\n• Sleep Staging Events\no Stage Wake\no Stage N1\no Stage N2\no Stage N3\no Stage REM (rapid eye movement)\n• Arousal Events\no Arousals\n• Movement Events\no Leg Movements (LM)\no Periodic Leg Movement Series (PLMS)\n• Cardiac Events*\no Bradycardia\no Tachycardia\n• Respiratory Rate Events\no Respiratory Rate\n• Sleep-Wake Events\no Wake\no Sleep\n• Apnea-Hypopnea Index (AHI)\n• Sleep Architecture\n• Sleep Efficiency (SE)\n• Arousal Index (ArI)\n• Sleep Latency (SL)\n• REM Latency (RL)\n• Total Sleep Time (TST)\n• Periodic Leg Movements (PLMS) Index\nC\napnogram data are not displayed to users. \nThe primary differences between the predicate device and subject device include: \n-Target patient population: pediatric patients are included\n-Automated scoring of Cheyne -Stokes and Periodic Breathing respiration events and Total Sleep\nTime\n-Browser-based scoring interface to view and edit sleep studies\n-Home-sleep studies are suppor ted\n* T\nhe tachycardia and bradycardia outputs are not for use for cardiovascular monitoring or\ndiagnosis, nor does the device detect arrhythmias.\nPage 3 of 21",
+      "character_count": 1191
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "V. CO\nMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE\nPREDICATE DEVICE\nThe table below compares the predicate device EnsoSleep with the subject device EnsoSleep. \nElement Predicate Device \nEnsoData, Inc. \nK162627 \nEnsoSleep \nSubmitted Device \nEnsoData, Inc. \nK210034 \nEnsoSleep \nDiscussion \nIndications for \nuse \nEnsoSleep is intended for use \nfor the diagnostic evaluation \nby a physician to ass ess sleep \nquality and as an aid for the \ndiagnosis of sleep and \nrespiratory related sleep \ndisorders in adults only. \nEnsoSleep is a soft wa re-only \nmedical device to be used \nunder the supervision of a \nclinicia n to a nalyze \nphysiological signa ls a nd \nautomatically score sleep \nstudy results, including the \nstaging of sleep, detection of \narousals, leg movements, and \nsleep disordered breathing \nevents including obstructive \na pneas. All a utomatically \nscored events are subject to \nverifica tion by a qualified \nclinicia n. Central a pneas, \nmixed a pneas, a nd hypopneas \nmust be manually marked \nwithin records. \nEnsoSleep is intended for \nuse in the diagnostic \nevaluation by a physician \nto assess sleep quality and \nas an aid for physicians in \nthe diagnosis of sleep \ndisorders a nd respiratory \nrelated sleep disorders in \npedia tric and a dult patients \na s follows: \n• Pedia tric patients ages 13\nyears and older with\npolysomnography (PSG) \ntests obtained in a Hospital \nor Sleep Clinic\n• Adult pa tients with PSGs \nobtained in a Hospital or \nSleep Clinic\n• Adult pa tients with\nHome Sleep Tests\nE\nnsoSleep is a softw are-\nonly medical device to be \nused under the supervision \nof a clinicia n to a nalyze \nphysiological signa ls a nd \nautomatically score sleep \nstudy results, including the \nstaging of sleep, detection \nof arous als, leg \nmovements, and sleep \ndisordered breathing \nevents including \nobstructive apneas (OSA), \ncentral sleep apneas \n(CSA), and hypopneas. \nCentral sleep apneas \n(CSA) should be manually \nreviewed a nd modified a s \na ppropriate by a clinicia n. \n\nDifferent The subject \ndevice includes expansion \nof the indications for use to \nthe pediatric population. \nC\nlinica l testing using the \nscoring methodology for \nthe predicate device were \napplied and validation to \ndemonstrate scoring for \nexpanded uses to pediatric \npopulation and new \nautomated outputs. \nPage 4 of 21",
+      "character_count": 2328
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "Element Predicate Device \nEnsoData, Inc. \nK162627 \nEnsoSleep \nSubmitted Device \nEnsoData, Inc. \nK210034 \nEnsoSleep \nDiscussion \nAll events can be \nma nually marked or edited \nwithin records during \nreview. \nPhotoplethysmography \n(PPG) tota l sleep time is \nnot intended for use when \nelectroencephalograph \n(EEG) da ta is recorded. \nPPG tota l sleep time is not \nintended to be used as the \nsole or primary basis for \ndiagnosing any sleep \nrelated breathing disorder, \nprescribing trea tment, or \ndetermining whether \na dditional diagnostic \nassessment is warranted. \nIntended Use Analyze pre-recorded \nphysiological data a cquired \nduring sleep. \nSame as predicate. Same \nPatient \npopulation \nAdults only. Adults and pediatric \npa tients 13 years old and \nabove. \nDifferent \nEnvironment of \nuse \nPhysician office (data analys i s \na nd reporting). No limita tion \non where data are acquired. \nSame as predicate. Different; the subject \ndevice includes analysis of \nhome sleep testing (HST) \nof adult patients. \nSigna ls a nalyzed EEG, ECG, EOG, EMG \nwaveforms; SpO2; respirator y \neffort; a irflow; heart/pulse \nrate; snoring loudness; head \nmovement and pos ition. \nEEG, ECG, EOG, EMG \nwaveforms; SpO2; \nrespira tory effort; airflow; \nhea rt/pulse ra te; snoring \nloudness; head movement \nand position. \nSimila r \nSleep measures Sleep, REM and N3 onset; \ntota l sleep a nd recording \ntimes; sleep efficiency % time \nby sleep stage; awakenings \nper hour; wake after sleep \nonset. \nSame as predicate. Same \nAutomatically \nscore sleep stages \nYes; automatically detects \nsta ge Wa ke (W), REM (R), \nSame as predicate. Same \nPage 5 of 21",
+      "character_count": 1635
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "Element Predicate Device \nEnsoData, Inc. \nK162627 \nEnsoSleep \nSubmitted Device \nEnsoData, Inc. \nK210034 \nEnsoSleep \nDiscussion \nNREM 1 (N1), NREM 2 (N2) \nand slow wave sleep (N3). \nAutomatically \nscore sleep \ndisordered \nbrea thing events \nNo; OSA, CSA a nd mixed \nhypopneas mus t be manually \nscored \nYes; automatic detection \nof the following events: \n• Obstructive apneas \n(OSA), Central\napneas (CSA),\n• Hypopneas,\n• C heyne -Stokes\nrespira tion (CSR), and \n• Pe riodic breathing \n(PBE).\n• Additional apnea and \nsleep disordered\nbrea thing event types \nmay be manually\nmarked within the \nrecords. CSA events \nshould also be \nmanually scored\nSimila r \nSleep disordered breathing \nevents are detected, and the \nadditional events are \nidentified using the existing \na irflow inputs as in the \npredicate device. \nAutomatically \nscore arousal \nevents \nYes; automatically detects \narousal events. \nYes; automatically detects \narousal events; \nrespira tory-effort rela ted \na rousals, limb movement \nrela ted a rousals, a nd \nspontaneous cortical \narousal. \nDifferent \nThe general arousal events \ndetected by the subject \ndevice a re now identified \nmore specifically a s to the \ntype of arousal events \n(same events a s detected by \nthe predicate). \nAutomatically \nscore movement \nevents \nYes; a utomatically detects leg \nmovement events. \nSame as predicate. Same \nAutomatically \nscore cardiac \nevents \nNo. Yes; brachycardia and \ntachycardia. \nDifferent \nThe ECG signa ls used to \ndetermine these events \nwere used in the predicate \ndevice to determine \nbreathing, a rousal, a nd \nmovement events are also \nused to detect cardiac \nevents . The tachycardi a and \nbradycardia feature is not \nintended for use for \nca rdiovascular monitoring \nor diagnos is, nor does the \nPage 6 of 21",
+      "character_count": 1778
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "Element Predicate Device \nEnsoData, Inc. \nK162627 \nEnsoSleep \nSubmitted Device \nEnsoData, Inc. \nK210034 \nEnsoSleep \nDiscussion \nsubject device detect \na rrhythmias. \nAutomatically \ndetermine \nderived values \nNo. Yes; effort belt respiratory \nr ate and PPG respira tory \nra te. \nDifferent \nThe RIP and PVDF signa ls \nused to determine these \nvalues a re used in the \npredicate device to \ndetermine breathing, \na rousal, a nd movement \nevents. \nAutomated study \nuploa d a nd \ndownload \nYes. Same as predicate. Same \nAutomatically \ninitia tes study \nscoring \nYes. Same as predicate. Same \nHea rt ra te \naccuracy \nNo. Same as predicate. Same \nHead position No. Same as predicate. Same \nSnoring level No. Same as predicate. Same \nAllows editing in \nsleep study \nviewers \nYes. Sleep studies can be \nopened and edited in sleep \nstudy scoring devices that \nsupport EDF formatted files. \nYes, and within EnsoSl eep \nusing EDF formatted files. \nDifferent \nThe subject device allows \nthat signals be edited wit hin \nthe existing patient view of \nthe web dashboard. \nSleep study \nreporting \nYes. Same as predicate. Same \nTwo-night \nreports \nNo. Same as predicate. Same \nDisease \nma nagement \ncomments \nNo. Same as predicate. Same \nD ata fo r mat EDF Same as predicate. Same \nCompatibility Opera tes on a ny PC with \nWindows 7 and 8 operating \nsystem platforms. \nOpera tes on a ny PC with \nWindows 7+, Windows \nServer 2012+ operating \nsystem platforms. \nUpdated; Tested on newer \nversions of Windows as \nthey are released, using the \nPage 7 of 21",
+      "character_count": 1533
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "Element Predicate Device \nEnsoData, Inc. \nK162627 \nEnsoSleep \nSubmitted Device \nEnsoData, Inc. \nK210034 \nEnsoSleep \nDiscussion \nsame verification \nmethodology. \nCybersecurity Authentication controls, \na uthorization controls, \ncryptographic controls, access \ncontrols, checksum controls, \nsoftware distribution controls, \nintrusion detection sys tem \ncontrols, network and systems \ncontrols, and database \ncontrols. \nSame as predicate. Same \nNetwork \nrequirements \nHigh-speed internet \nconnection, above 200 kb/s \nrecommended. \nSame as predicate. Same \nPage 8 of 21",
+      "character_count": 565
+    },
+    {
+      "page": 12,
+      "extraction_method": "native",
+      "text": "VI. PERFORMANCE DATA\nThe following performance data were provided in support of the substantial equivalence \ndetermination. Since this is a software -only medical device that does not control other devices\nthe performance data do not include biocompatibility, electrical safety, elec tromagnetic\ncompatibility, mechanical, acoustic, or animal testing.\nT\nhe intended use population, study population, conditions of interest, designated comparative \nreference, designated comparative benchmarks, and experimental endpoints were \ndefined. Following the application of clinical laboratory selection controls, five (5) clinical \ntesting laboratories were evaluated, and two (2) AASM Accredited Sleep Testing Facilities were \nselected each with two (2) regional sleep testing centers that met all laborator y quality, external \nvalidity, and subject spectrum controls. Following a cross -sectional study design, an archived \ncollection of retrospective diagnostic clinical PSG subject data was collected and verified to \nmeet the specified disease spectrum, medical condition, medication, and demographic \nrequirements. To construct the final study sample from the archived collection population, a \nrandomized sampling with proportionate allocation across each sleep apnea disease severity \nquantile (normative, mild, moderat e, and severe sleep apnea) was used to construct a valid Adult \nSample of N=100 adult subjects (AHI mean: 22.4 [95% CI: 18.6%, 26.1%], std: 18.8, median: \n17.2, min: 0, max: 109.2, rule: 1.a.) and Pediatric Sample of N=47 pediatric subjects (AHI mean: \n11.4 [95% CI: 7.6%, 15.6%], std: 13.6, median: 7.0, min: 0, max: 60.3, rule: 1.a.) from the first \nlaboratory N=1984 archived collection of retrospective diagnostic clinical PSG data, and a valid \nRespiratory Rate Sample of N=100 adult subjects (AHI mean: 13.2 [95% CI: 9.7%, 16.5%], std: \n17.1, median: 6.6, min: 0, max: 82.9, rule: 1.b.) from the second laboratory N=1079 archived \ncollection of retrospective diagnostic clinical PSG data. \nT\nhe N=100 Adult, N=47 Pediatric, and N=100 Respiratory Rate Study Samples were observed \nand verified to have no statistically significant differences in the sleep apnea disease state \ndistributional characteristics relative to the laboratory archived collection populations, \nconfirming preservation of disease spectrum breadth and representativeness with respect to the \nintended use population. The N=100 study samples were verified to contain subjects from all \n(4/4) sleep apnea disease state severity quantiles, including normative, mild, moderate, and \nsevere sleep apnea, subjects from all (7/7) of the predetermined relevant and/or confounding \nmedical condition groups of interest, including sleep disorders, psychiatric disorders, neurologic \ndisorders, neuro-developmental disorders, cardiac disorders, pulmonary disorders, metabolic and \nother disorders, subjects from all (5/5) predetermined relevant and/or confounding medication \ngroups of interest, including benzodiazepines, antidepressants, stimulants, opiates, and sleep \naids, subjects from each of (7/7) identified demographic group of interest, including all sexes, \nadult age groups, pediatric age groups, BMI groups, weight groups, height groups, and sleepiness \ngroups. Based on these verification and control procedures, the study sample was determined to \nbe a representative sample of the defined intended use and user population. \nFollowing the finalization of each N=100 subject Adult, N=47 Pediatric, and N=100 Respiratory \nRate study sample respectively, six (6) clinical testing laboratories were evaluated for \nindependent manual scoring, three (3) laboratories were selected, and the clinical test setting was \nestablished for constructing a valid 2/3 Majority Scoring consensus reference, using N=9 total \nregistered scoring technologists (RPSGTs) with 5 to 20+ years clinical experience by verification \nPage 9 of 21",
+      "character_count": 3922
+    },
+    {
+      "page": 13,
+      "extraction_method": "native",
+      "text": "of meeting all defined study scoring -acquisition, scoring-blind, and rater-quality certification \ncontrols. Manual scoring for sleep stage, hypopnea events, obstructive sleep apnea (OSA) events, \ncentral sleep apnea (CSA ) events, arousal events, limb movement events, respiratory effort \nrelated arousal (RERA) events, cheyne-stokes (CS) respiration events, and periodic breathing \n(PB) events were prospectively collected from three (3) independent, registered sleep \ntechnologists (RPSGT) for the N=100 Adult and N=47 Pediatric subjects, and manual scoring \nfor sleep stage and respiratory rate events for the N=100 Respiratory Rate subjects, selected as \nthe study population sample, by randomized, double -blinded assignment of each subject to three \n(3) additional, prospective scorers from the panel of N=9 total independent registered sleep\ntechnologists. The designated comparative reference was constructed using 2/3 Majority Scoring\nto evaluate the subject EnsoSleep device performance versus the predicate EnsoSleep device\n(K162627) performance for all event types and experimental endpoints evaluated, and the\nreference device Michele Sleep Scoring device (K112102) performance for hypopnea and central\nsleep apnea event types specifically. Objective performance benchmarks and acceptance criteria\nin terms of positive agreement (PA), negative agreement (NA), overall agreement (OA), mean\nabsolute error (MAE), Deming Regression analysis slope and intercept coefficients, Bland -\nAltman mean diffe rence and 95% upper and lower limits of agreement, each with 95% two-sided\nbootstrap confidence intervals (R=2000), were predefined competitively based on analysis of\nreported performance in the predicate device 510(k) event detection and diagnostic agreem ents\nreported. In particular, the acceptance criteria were selected based on PA, NA, OA, MAE,\nDeming Regression coefficient, Bland -Altman mean difference and limits of agreement\nperformance criteria that validate performance substantially equivalent to, or greater than, but not\nlesser than by more than 10% or similarly defined criteria in any category of the predicate 510(k)\nreported device performance across all endpoints respectively.\nClinical validation testing performance analysis was collected with the final EnsoSleep software\nrelease version, final revision level, final design specification, final instructions for use, and\nindications for use, in the intended use environment, on the intended use population, and by the\nintended users, in order to valida te the substantial equivalence, and the safety and effectiveness\nof the subject EnsoSleep device for its intended use. EnsoSleep device performance was\nevaluated using the defined cross -sectional experimental design, statistical methodology, and set\nof comprehensive experimental controls, across the following four (4) experimental endpoints:\n1. EnsoSleep is intended to assist clinicians with the assessment of sleep quality, therefore\nperformance of device sleep scoring must be validated.\n2. EnsoSleep is intended to assist clinicians with the scoring sleep disordered breathing\nevents used in diagnostic evaluation, therefore device performance for diagnosing sleep\napnea must be validated.\n3. EnsoSleep is intended to analyze physiological signals and automatically score sleep\nstudy results, including detection of SDB events, Hypopnea events, Apnea events,\nincluding OSA events, CSA events, Arousal events, Limb Movement events, RERA\nevents, CS events, and PB events, therefore device performance for detecting each event\ntype must be validated.\n4. EnsoSleep is intended to analyze physiological signals and automatically score sleep \nstudy results, including detection of Respiratory Rate events, Sleep-Wake events, and\nTotal Sleep Time, therefore device performance for detecting each event type must be\nvalidated.\nPage 10 of 21",
+      "character_count": 3878
+    },
+    {
+      "page": 14,
+      "extraction_method": "native",
+      "text": "The final experimental results and statistical analysis were reported for each endpoint. In total \nPA, NA, OA, Kappa and two -sided 95% bootstrap median confidence intervals (R=2000) were \ncalculated by pooled -epochs versus 2/3 Majority Scoring in 20 event detection experiments \nevaluating 6 sleep staging events (Wake, N1, N2, N3, REM, Total) in 3 samples (adult, pediatric, \nand RR), 11 scoring events (SDB, HYP 1.a. (3%), HYP 1.b. (4%), Apnea, OSA, CSA, Arousal, \nLimb Movement, RERA, CSE, PBE) in 2 samples (adult and pediatric), and 3 physiologic \nanalysis events (RR, Sleep -Wake, TST) with PA, NA, OA, Kappa, Deming Regression β1 slope \nand β0 intercept regression coefficients, and Bland -Altman analysis, including mean differences \n(MD), upper limits of agreement (ULOA), and lower limits of agreement (ULOA) with two -\nsided 95% bootstrap confidence intervals for Sleep-Wake, TST in 3 samples (adult, pediatric, \nand RR) as well as mean absolute error (MAE) and percent epochs ±2 breaths per mi nute for \nrespiratory rate (RR) scoring in the RR adult sample, and 6 sleep apnea diagnostic severity \ncategories (AHI ≥ 5, AHI ≥ 15, REM-AHI ≥ 15, REM-AHI ≥ 15, subgroup AHI ≥ 1, subgroup \nAHI ≥ 10) in 2 samples (adult and pediatric) with PA, NA, OA, Kappa, two-sided 95% bootstrap \nmedian confidence intervals (R=2000), and positive and negative likelihood ratio pairs, across all \n4 experimental endpoints respectively. \nThe subject EnsoSleep device event detection and diagnostic agreement performance were \nobserve d to meet or exceed the PA, NA, and OA performance acceptance in the 26 total \nexperiments (26/26) across all 4 experimental endpoints evaluated, including all 20 event \ndetection experiments (20/20) and all 6 diagnostic agreement experiments (6/6), and with all 4 \nexperimental endpoints (4/4) statistically analyzed and evaluated in two or more samples (≥2) \nper each endpoint respectively (2/2 Adults and Pediatrics in Endpoints 2 and 3, and 3/3 Adults, \nPediatrics, and RR in Endpoints 1 and 4): \n• For sleep staging events Endpoint 1, all 3 EnsoSleep PA, NA, and OA point -estimates vs\n2/3 Majority Scoring were observed to be greater than the predicate device PA, NA, and\nOA point-estimates vs 2/3 Majority Scoring in some events in the Adult Sample (Wake,\nN2, REM, Total), Pediatric Sample (Wake, N1, N2, N3, REM, Total,), and RR Sample\n(Wake, N2, N3, REM, Total). Additionally, some of those event detection differences\nthat were in all 3 performance categories (PA/NA/OA) represented a statistically\nsignificant result in terms of higher agreement with 2/3 Majority Scoring, based on\nlow/upper -bound comparison of two-sided 95% bootstrap percentile method confidence \nintervals to the predicate performance, in each sample: Adult Sample (REM), Pediatric\nSample (Wake, N3, Total), and RR Sample (Wake, N2, REM, Total). None of the 6\nevents evaluated were observed with PA, NA, or OA point-estimates vs 2/3 Majority\nScoring that were 10% or lower in any of the sleep staging event types evaluated.\n• For sleep apnea diagnostic agreement Endp oint 2, all 3 EnsoSleep PA, NA, and OA\npoint-estimates vs 2/3 Majority Scoring were observed to be greater than the predicate\ndevice PA, NA, and OA point-estimates vs 2/3 Majority Scoring in some OSA severity\ncategories in the Adult Sample (AHI ≥ 5) and Pediatric Sample (AHI ≥ 1). There were no\nsamples or OSA severities for which there were statistically significant differences\nobserved in all 3 performance measures (PA/NA/OA), based on low/upper -bound\ncomparison of two-sided 95% bootstrap percentile method confidence intervals. With the\nexception of Pediatric Sample AHI ≥ 10 PA with an observed comparison of 12.6%, none\nof the 6 OSA severity categories evaluated were observed with PA, NA, or OA point-\nPage 11 of 21",
+      "character_count": 3804
+    },
+    {
+      "page": 15,
+      "extraction_method": "native",
+      "text": "estimates vs 2/3 Majority Scoring that were 10% or lower in any of the 3 diagnostic \nagreement performance criteria evaluated (PA/NA/OA) respectively. \n• For scoring events Endpoint 3, all 3 EnsoSleep PA, NA, and OA point -estimates vs 2/3\nMajority Scoring were observed to be greater than the designated predicate device PA,\nNA, and OA point-estimates vs 2/3 Majority Scoring in some events in the Adult Sample\n(SDB, HYP, OSA, CSA, Arousal) and the Pediatric Sample (SDB, HYP, CSA, Arousal,\nRERA). Additionally, some of those event detection differences that were in all 3\nperformance categories (PA/NA/OA) represented a statistically significant result, based \non low/upper -bound comparison of two-sided 95% bootstrap percentile method\nconfidence intervals, in each sample respectively; Adult Sample (SDB, OSA, and\nArousal), and Pediatric Sample (SDB, HYP, Arousal, RERA). None of the 12 events\nevaluated were observed with PA, NA, or OA point-estimates vs 2/3 Majority Scoring \nthat were 10% or lower in any of the scoring event types evaluated.\n• For physiologic analysis events Endpoint 4, for SW and RR events, all three EnsoSleep\nsubject device PA, NA, OA, percent epochs ≤ 2 brpm, and/or MAE point -estimates vs\n2/3 Majority Scoring were observed to be statistically similar to the predicate device PA,\nNA, and OA point-estimates vs 2/3 Majority Scoring in all SW and RR event types\nevaluated. None of the PPG -SW events evaluated were observed with PA, NA, OA point-\nestimates vs 2/3 Majority Scoring that were 10% or lower in any of the EEG-SW sleep\nstaging event types evaluated in the adult, pediatric, or in the RR Samples respectively,\nand a global minima PPG-SW performance statistic of 89% PA in the RR Sample (4%\nabs diff vs 93% EEG -SW). No statistically significant differences were observed between\nPPG-RR and EB-RR respiratory rate events vs 2/3 Majority Scoring; by ≥90% percent\nepochs with RR-value within ≤ 2 brpm of 2/3 Majority Scoring RR-value, and by MAE\nof RR value within ≤ 2 brpm of 2/3 Majority Scoring RR-value, when both were\nevaluated and compared in the RR Sample respectively. For TST the Deming Regression\ncoefficient parameters Slope β1 was near unity with 0.90≤ β1 ≤ 1.10, Intercept β0 was\nnear zero with β0 ≤15 minutes, the Bland-Altman absolute mean difference was near zero\nwith MD within ≤15 mins, and Bland-Altman 95% absolute upper and lower limits of\nagreement were within <90 mins. No clinically significant deviations observed in PPG-\nTST or EEG-TST index values vs 2/3 Majority Scoring based the Deming regression\ncoefficients, the average differences, the Bland -Altman 95% limits of agreement, or the\ntwo-sided 95% bootstrap confidence intervals, when compared to 2/3 Majority Scoring\nTST in each of the adult, pediatric, and RR samples respectively when comparing TST\nindex performance.\n• In supplemental clinical data and analyses provi ded with Endpoint 2, both the pediatric\nand adult samples showed a strong sleep apnea diagnostic agreement. The results showed\nno statistically significant difference in performance between the pediatric sample and \nboth the predicate device and the adult sample performance which further demonstrated\nsubstantial equivalence in performance for the pediatric subgroup. The additional\npediatric subgroups analyzed showed consistent results with prior pediatric study results\nreported in endpoints 1-4. For suppleme ntal clinical data and analyses provided with\nEndpoint 4 the RR, adult, and pediatric sample groups met all criteria specified for both\nthe Deming regression analysis and Bland-Altman analysis, with evaluated results that\ndemonstrated strong clinical perfo rmance based on a Deming regression coefficient slope \nPage 12 of 21",
+      "character_count": 3731
+    },
+    {
+      "page": 16,
+      "extraction_method": "native",
+      "text": "β1 that was near unity and intercept β0 near zero, and all Bland -Altman limits of \nagreement were within 90 minutes and a mean difference within 15 minutes. \nPage 13 of 21",
+      "character_count": 172
+    },
+    {
+      "page": 17,
+      "extraction_method": "native",
+      "text": "STUDY RESULTS \nSleep Staging Event Detection \nThe subject device EnsoSleep and predicate device EnsoSleep (K162627) clinical performance \nresults compared for Endpoint 1, sleep staging. For all sleep staging event types evaluated in \nEndpoint 1, the point -estimates of the subject device PA, NA and OA event detection \nperformance exceeded, were equivalent to, or were within 5% of the predicate device PA, NA \nand OA performance. The subject device PA, NA, and OA performance was observed to be \nstatistically significantly greater in nearly all comparisons relative to the predicate device, \nshowing a significant increase in Total Staging PA by 9% and resulting Total PA of 87% in \nAdult and 89% In Pediatric samples. The results confirm EnsoSleep achieves clinical \nperformance for sleep staging positive, negative, and overall agreement that is substantially \nequivalent to the predicate device positive, negative, and overall agreement across all sleep \nstages. \nAdult Sample Pooled -Epochs EnsoSleep vs 2/3 \nMajority Sleep Staging Performance (K210034) \nAdult Sample Pooled-Epochs Predicate vs 2/3 \nMajority Sleep Staging Performance (K162627) \n(N=100, \n84,408 \nPSG \nepochs) \nPercent Agreement (%) \nwith two-sided 95% bootstrap median \npercentile method confidence intervals \n(R=2000) \n(N=72, \n59,719 \nPSG \nepochs) \nPercent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile method confidence \nintervals (R=1000) \nOverall Total Positive Negative Overall Total Positive Negative Overall \nWake 23,596 \n93.5% \n(93.1%, \n93.8%) \n97.2% \n(97.1%, \n97.4%) \n96.1% \n(96.0%, \n96.3%) \n17,459 \n86% \n(82%, \n88%) \n97% \n(95%, \n98%) \n94% \n(92%, \n95%) \nN1 4,406 \n37.0% \n(35.6%, \n38.5%) \n98.3% \n(98.2%, \n98.4%) \n95.0% \n(94.8%, \n95.1%) \n3,293 \n41% \n(33%, \n48%) \n94% \n(93%, \n96%) \n91% \n(90%, \n93%) \nN2 37,890 \n88.3% \n(87.9%, \n88.6%) \n89.3% \n(89.0%, \n89.6%) \n88.8% \n(88.6%, \n89.0%) \n26,839 \n77% \n(73%, \n81%) \n87% \n(85%, \n90%) \n83% \n(80%, \n85%) \nN3 6,513 \n80.0% \n(79.0%, \n81.0%) \n96.3% \n(96.2%, \n96.5%) \n95.0% \n(94.9%, \n95.2%) \n5,587 \n81% \n(74%, \n88%) \n93% \n(91%, \n95%) \n92% \n(90%, \n94%) \nREM 9,400 \n90.9% \n(90.4%, \n91.5%) \n99.3% \n(99.2%, \n99.3%) \n98.3% \n(98.2%, \n98.4%) \n6,541 \n79% \n(72%, \n84%) \n99% \n(98%, \n99%) \n96% \n(96%, \n97%) \nTotal 81,805 86.6% \n(86.4%, 86.9%) 59,719 78% \n(77%, 80%) \nNone 2,603 - 1,432 - \nOverall -Epochs assigned by 2/3 Majority Scoring \nPage 14 of 21",
+      "character_count": 2373
+    },
+    {
+      "page": 18,
+      "extraction_method": "native",
+      "text": "Pediatric Sample Pooled -Epochs EnsoSleep vs 2/3 \nMajority Sleep Staging Performance (K210034) \nAdult Sample Pooled -Epochs Predicate vs \n2/3 Majority Sleep Staging Performance \n(K162627) \n(N=47, \n38,568 PSG \nepochs) \nPercent Agreement (%) \nwith two-sided 95% bootstrap median \npercentile method confidence intervals \n(R=2000) \n(N=72, \n59,719 \nPSG \nepochs) \nPercent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile method \nconfidence intervals (R=1000) \nOverall Total Positive Negative Overall Total Positive Negative Overall \nWake 7,867 \n93.1% \n(92.5 %, \n93.6%) \n99.2% \n(99. 1%, \n99.3%) \n97.9% \n(97. 8%, \n98.1%) \n17,459 \n86% \n(82%, \n88%) \n97% \n(95%, \n98%) \n94% \n(92%, \n95%) \nN1 1,263 \n43.2 % \n(40.4%, \n45.9%) \n98.8% \n(98.7%, \n99.0%) \n97.0% \n(96.8%, \n97.1%) \n3,293 \n41% \n(33%, \n48%) \n94% \n(93%, \n96%) \n91% \n(90%, \n93%) \nN2 17,542 \n92.6% \n(92.3%, \n93.0%) \n89.4% \n(89.0%, \n89.8%) \n90.9% \n(90.6 %, \n91.2%) \n26,839 \n77% \n(73%, \n81%) \n87% \n(85%, \n90%) \n83% \n(80%, \n85%) \nN3 6,852 \n92.3 % \n(91.6%, \n92.9 %) \n97.5% \n(97.3%, \n97.7%) \n96.6% \n(96.4%, \n96.7%) \n5,587 \n81% \n(74%, \n88%) \n93% \n(91%, \n95%) \n92% \n(90%, \n94%) \nREM 4,278 \n80.9% \n(79.6%, \n82.0%) \n99.1% \n(99.0%, \n99.2%) \n97.0% \n(96.8%, \n97.2%) \n6,541 \n79% \n(72%, \n84%) \n99% \n(98%, \n99%) \n96% \n(96%, \n97%) \nTotal 37,802 89.7% \n(89.4%, 90.0%) 59,719 78% \n(77%, 80%) \nNone 766 - 1,432 - \nOverall -Epochs assigned by 2/3 Majority Scoring \nPage 15 of 21",
+      "character_count": 1411
+    },
+    {
+      "page": 19,
+      "extraction_method": "native",
+      "text": "Adult OSA Severity Subgroup Index \nThe subject device EnsoSleep and predicate device EnsoSleep (K162627) clinical performance \nresults compared for Endpoint 2, sleep apnea diagnostic agreement. For all diagnostic agreement \nexperiments evaluated in Endpoint 2, mild-AHI and moderate-AHI subject device PA, NA, and \nOA performance exceeded, were equivalent to, or were within 10% of the predicate device PA, \nNA, and OA performance, with statistically significant differences (greater performance) \nobserved for NA and OA in mild-AHI. On the basis that the subject device met or exceeded \nobjective PA, NA, and OA performance goals for sleep apnea diagnostic in all comparisons, \nEnsoSleep is considered substantially equivalent to the predicate device agreement for the \nanalyzed OSA diagnostic severity groups. \nAdult Sample Per -Patient EnsoSleep and Predicate Sleep Apn ea Diagnostic Agreement \nEnsoSleep vs 2/3 Majority Scoring Adult \nSample (K210034) \nPredicate vs 2/3 Majority Scoring \nAdult Sample (K162627) \nEnsoSleep EnsoSleep REM Predicate Predicate REM \nAHI ≥ 5 AHI ≥ 15 AHI ≥ 5 AHI ≥ 15 AHI ≥ \n5 \nAHI ≥ \n15 \nAHI ≥ \n5 \nAHI ≥ \n15 \nSample size (n) 100 100 100 100 72 72 72 72 \nPositive Percent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile CI's (R=2000) \n94.4% \n(89.0%, \n98.7%) \n94.0% \n(85.7%, \n100.0%) \n86.7% \n(77.6%, \n95.0%) \n81.5% \n(65.0%, \n95.5.%) \n91% \n(82%, \n98%) \n95% \n(83%, \n100%) \n83% \n(72%, \n94%) \n79% \n(56%, \n94%) \nNegative Percent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile CI's (R=2000) \n89.7% \n(75.8%, \n100.0%) \n96.3% \n(90.9%, \n100.0%) \n83.0% \n(71.1%, \n93.6%) \n93.3% \n(86.8%, \n98.6%) \n76% \n(61%, \n90%) \n98% \n(94%, \n100%) \n89% \n(75%, \n97%) \n96% \n(87%, \n100%) \nOverall Percent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile CI's (R=2000) \n93.0% \n(88.0%, \n97.0%) \n95.0% \n(90.0%, \n100.0%) \n85.0% \n(78.0%, \n92.0%) \n90.0% \n(84.0%, \n95.0%) \n85% \n(77%, \n92%) \n97% \n(93%, \n100%) \n86% \n(76%, \n93%) \n92% \n(85%, \n97%) \nLikelihood ratio (+) 9.146 \n(3.879, ∞) \n25.458 \n(10.154, \n∞) \n5.069 \n(2.962, \n13.597) \n12.052 \n(5.977, \n55.250) \n3.76 52.25 7.71 22.00 \nLiklihood ratio ( -) \n0.062 \n(0.014, \n0.127) \n0.062 \n(0.000, \n0.151) \n0.162 \n(0.060, \n0.278) \n0.198 \n(0.049, \n0.384) \n0.12 0.05 0.19 0.22 \nPage 16 of 21",
+      "character_count": 2271
+    },
+    {
+      "page": 20,
+      "extraction_method": "native",
+      "text": "Pediatric OSA Severity Subgroup \nThe subject device EnsoSleep and predicate device EnsoSleep ( K162627) clinical performance \nresults compared for supplemental study results of Endpoint 2, pediatric and predicate adult sleep \napnea diagnostic agreement. The supplemental pediatric subgroup statistical analysis results \nshowed strong sleep apnea diagnostic agreement performance across a range of clinically \nrelevant subgroup thresholds appropriate for pediatric patients. Based on review of each of the \nagreement performance measures and the two -sided 95% bootstrap CIs, observations confirmed \nno statistically significant differences in pediatric patient PA, NA, or OA performance, neither \nby relative nor absolute comparisons, to the predicate device adult patient PA, NA, or OA \nperformance observed. On the basis that EnsoSleep met or exceeded objective perfor mance goals \nfor the additional pediatric validation data provides further support that the device is \nsubstantially equivalent in pediatric subjects when compared to the performance of adult subjects \nin the predicate device. \nE\nnsoSleep vs 2/3 Majority Scoring Pediatric Sample Predicate vs 2/3 Majority \nScoring Adult Sample \nEnsoSleep (K210034) Predicate (K162627) \nAHI ≥ 1 AHI ≥ 5 AHI ≥ 10 AHI ≥ 15 AHI ≥ 5 AHI ≥ 15 \nSample size (n) 47 47 47 47 72 72 \nPositive Percent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile CI's (R=2000) \n94.4% \n(85.3%, \n100 .0%) \n90.5% \n(75.0%, \n100.0%) \n78.6% \n(45.5 %, \n100 .0%) \n85.7% \n(44.4 %, \n100.0%) \n91% \n(82%, 98%) \n95% \n(83%, 100%) \nNegative Percent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile CI's (R=2000) \n77.8 % \n(50.0%, \n100.0%) \n100 .0% \n(100.0%, \n100.0%) \n94.9% \n(86.5%, \n100 .0%) \n100.0% \n(100.0%, \n100.0%) \n76% \n(61%, 90%) \n98% \n(94%, 100%) \nOverall Percent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile CI's (R=2000) \n89.4% \n(80.9 %, \n97.9%) \n95.7% \n(89. 4%, \n100 .0%) \n91.5% \n(83.0%, \n97.9%) \n97.9% \n(93. 6%, \n100.0%) \n85% \n(77%, 92%) \n97% \n(93%, 100%) \nLikelihood ratio (+) 4.190 \n(1.892 , ∞) \n∞ \n(∞, ∞) \n15.692 \n(5.067 , ∞) \n∞ \n(∞,∞) 3.76 52.25 \nLiklihood ratio ( -) \n0.070 \n(0.0 00, \n0.205 ) \n0.09 5 \n(0.000, \n0.250) \n0.222 \n(0.0 00, \n0.578 ) \n0.143 \n(0.000, \n0.556 ) \n0.12 0.05 \nPage 17 of 21",
+      "character_count": 2272
+    },
+    {
+      "page": 21,
+      "extraction_method": "native",
+      "text": "Sleep Scoring Event Detection\nThe subject device EnsoSleep, predicate device EnsoSleep (K162627), and reference device \nM\nICHELE Sleep Scoring (K112102) clinical performance results compared for Endpoint 3, \nevent detection agreement. For hypop neas and central apneas, the MICHELE Sleep Scoring \nperformance testing did not calculate OA for individual event types and as such only PA and NA \ncomparisons were established. For all event detection experiments including SDB, OSA, HYP, \nCSA, Arousal, and Leg Movement event types, the point -estimates of the subject device PA, NA \nand OA event detection performance exceeded, were equivalent to, or were within 5% of the \nreference device PA, NA and OA performance, with statistically significant differences (greater \nperformance) observed in a majority of cases. On the basis that EnsoSleep met or exceeded \nobjective PA, NA, and OA performance goals for these event types in all comparisons the device \nis considered substantially equivalent to the predicate device SDB, OSA, HYP, CSA, Arousal, \nand Leg Movement event detection performanc e. \nEvent Detection \nClinical \nPerformance \nComparisons \nAdult Sample Pooled -Epochs EnsoSleep \n(K210034) vs 2/3 Majority Event Detection \nPerformance \nAdult Sample Overall -Pooled Predicate \n(K162627) and Reference Predicate (K112102) \nvs 2/3 Majority Event Detection Performance \n(N=100, \n84,408 \nPSG \nepochs) \nBootstrapped point -estimate of \nmedian Percent Agreement \n(%) with 95% percentile bootstrap \nconfidence interval (R=2000 \nresamples) \n(N=72 \nsubjects, \n59719 \nepochs) \nBootstrapped point -estimate of \nmedian Percent Agreement \n(%) with 95% percentile bootstrap \nconfidence interval (R=1000 \nresamples) \nTotal \nEpochs \nPositive \nAgree-\nment (PA) \nNegative \nAgree-\nment (NA) \nOverall \nAgree-\nment (OA) \nTotal \nEpochs \nPositive \nAgree-\nment (PA) \nNegative \nAgree-\nment \n(NA) \nOverall \nAgree-\nment \n(OA) \nSleep \nDisordered \nBreathing \nEvents \n8108 \n75.4% \n(74.5%, \n76.3%) \n97.0% \n(96.9%, \n97.2%) \n94.9% \n(94.8%, \n95.1%) \n4705 \n67% \n(58%, \n75%) \n93% \n(92%, \n94%) \n91% \n(90%, \n92%) \nHypopnea \nEvents 4420 \n66.3% \n(64.9%, \n67.6%) \n97.1% \n(97.0%, \n97.2%) \n95.5% \n(95.4%, \n95.6%) \n1822 60.3% 97.6% n/r \nObstructive \nApnea \nEvents \n1659 \n74.1% \n(72.1%, \n76.1%) \n99.3% \n(99.2%, \n99.3%) \n98.8% \n(98.7%, \n98.8%) \n1066 \n53% \n(35%, \n71%) \n97% \n(96%, \n97%) \n96% \n(95%, \n97%) \nCentral \nApnea \nEvents \n1505 \n65.3% \n(63.1%, \n67.6%) \n99.5% \n(99.5%, \n99.6%) \n98.9% \n(98.8%, \n99.0%) \n177 63.8% 99.6% n/r \nArousal \nEvents 9047 \n73.6% \n(72.7%, \n74.5%) \n95.6% \n(95.5%, \n95.7%) \n93.2% \n(93.1%, \n93.4%) \n7686 \n66% \n(61%, \n71%) \n90% \n(88%, \n91%) \n87% \n(85%, \n88%) \nLeg \nMovement \nEvents \n6018 \n82.0% \n(81.0%, \n83.0%) \n92.4% \n(92.2%, \n92.6%) \n91.7% \n(91.5%, \n91.8%) \n5796 \n71% \n(60%, \n80%) \n90% \n(89%, \n92%) \n89% \n(87%, \n90%) \nOverall -Epochs assigned by 2/3 Majority Scoring \nPage 18 of 21",
+      "character_count": 2867
+    },
+    {
+      "page": 22,
+      "extraction_method": "native",
+      "text": "Event Detection \nClinical \nPerformance \nComparisons \nPediatric Sample Pooled -Epochs EnsoSleep \n(K210034) vs 2/3 Majority Event Detection \nPerformance \nAdult Sample Overall -Pooled Predicate \n(K162627) and Reference Predicate (K112102) \nvs 2/3 Majority Event Detection Performance \n(N=47, \n38,568 \nPSG \nepochs) \nBootstrapped point -estimate of \nmedian Percent Agreement \n(%) with 95% percentile bootstrap \nconfidence interval (R=2000 \nresamples) \n(N=72 \nsubjects, \n59719 \nepochs) \nBootstrapped point -estimate of \nmedian Percent Agreement \n(%) with 95% percentile bootstrap \nconfidence interval (R=1000 \nresamples) \nTotal \nEpochs \nPositive \nAgree-\nment (PA) \nNegative \nAgree-\nment (NA) \nOverall \nAgree-\nment (OA) \nTotal \nEpochs \nPositive \nAgree-\nment (PA) \nNegative \nAgree-\nment \n(NA) \nOverall \nAgree-\nment \n(OA) \nSleep \nDisordered \nBreathing \nEvents \n1480 \n72.7% \n(70.4%, \n74.9 %) \n98.6% \n(98.4%, \n98.7 %) \n97.6% \n(97.4%, \n97.7 %) \n4705 \n67% \n(58%, \n75%) \n93% \n(92%, \n94%) \n91% \n(90%, \n92%) \nHypopnea \nEvents 1046 \n68.8% \n(66.0%, \n71.6%) \n98.9% \n(98. 8%, \n99.0%) \n98.0% \n(97.9%, \n98.2%) \n1822 60.3% 97.6% n/r \nObstructive \nApnea \nEvents \n105 \n45.5% \n(36.0%, \n54.8%) \n99.7% \n(99.6%, \n99.7%) \n99.5% \n(99.5%, \n99.6%) \n1066 \n53% \n(35%, \n71%) \n97% \n(96%, \n97%) \n96% \n(95%, \n97%) \nCentral \nApnea \nEvents \n277 \n68.9% \n(63.5%, \n74.1%) \n99.7% \n(99. 7%, \n99.8%) \n99.5% \n(99. 4%, \n99.6%) \n177 63.8% 99.6% n/r \nArousal \nEvents 3018 \n78.6% \n(77.1 %, \n80.0%) \n97.0% \n(96. 8%, \n97.2%) \n95.5% \n(95. 3%, \n95.7%) \n7686 \n66% \n(61%, \n71%) \n90% \n(88%, \n91%) \n87% \n(85%, \n88%) \nLeg \nMovement \nEvents \n1247 \n66.0% \n(63.4%, \n68.6%) \n95.5% \n(95.3%, \n95.7%) \n94.5% \n(94. 3%, \n94.8%) \n5796 \n71% \n(60%, \n80%) \n90% \n(89%, \n92%) \n89% \n(87%, \n90%) \nOverall -Epochs assigned by 2/3 Majority Scoring \nPage 19 of 21",
+      "character_count": 1782
+    },
+    {
+      "page": 23,
+      "extraction_method": "native",
+      "text": "Total Sleep Time \nThe subject device EnsoSleep clinical performance results compared for supplemental study \nresults of Endpoint 4, Total Sleep Time (TST) comparison. The reported results and observations \nshowed that the Deming regression analysis and Bland-Altman mean difference analysis met or \nexceed ed all acceptance criteria for each experiment type relative to the predicate device TST \nindex agreement performance. The subject device PPG-TST and EEG-TST demonstrated \nstatistically similar performance in all of the RR, adult, and pediatric samples respe ctively, \ndemonstrated no clinically significant deviations in performance based on the Bootstrap two-\nsided 95% confidence intervals for the observed mean differences, upper and lower limits of \nagreement, or regression coefficient parameters, and met or exceeded all objective performance \nevaluation criteria specified by the clinical study protocol and the supplemental clinical study \nanalyses. Thus, EnsoSleep TST index agreement performance is determined to be substantially \nequivalent to the predicate based on acceptance criteria, and safe and effective for use. \nPer-Patient EnsoSleep Adult, Pediatric, \nand RR Sample Total Sleep Time Index \nPerformance (K210034) \nEnsoSleep PPG-\nTST vs 2/3 \nMajority Scoring \nTST Respiratory \nRate Sample \nEnsoSleep EEG-\nTST vs 2/3 \nMajority Scoring \nTST Respiratory \nRate Sample \nEnsoSleep EEG-\nTST vs 2/3 \nMajority Scoring \nTST Adult \nSample \nEnsoSleep EEG-\nTST vs 2/3 \nMajority Scoring \nTST Pediatric \nSample \nDeming Regression plot Slope β1 (DRpS -\nβ1) with two -sided 95% bootstrap median \npercentile CI's (R=2000) \n0.964 \n(0.860, 1.067) \n0.984 \n(0.925, 1.023) \n1.037 \n(0.974, 1.201) \n1.006 \n(0.98 8, 1.018) \nDeming Regression plot Intercept β0 \n(DRpI-β0) [hours] with two -sided 95% \nbootstrap median percentile CI's \n(R=2000) \n0.089 \n(-0.484, 0.663) \n0.156 \n(-0.071, 0.504) \n-0.181\n(-1.101, 0.182) \n0.021 \n(-0.034, 0.134) \nBland-Altman difference plot mean \ndifference (BADp-MD) [minutes] with \n95% Limits of Agreement (LOAs) for 1.96 \nstandard deviations (1.96SD) of the \naverage difference including two -sided \n95% bootstrap -t CI's (R=2000) with the \nMD, upper (BADp- ULOA) [minutes], and \nlower (BADp-LLOA) [minutes] limits of \nagreement \nMD: 5.380 \n(2.372, 8.475) \nMD: -4.785 \n(-6.131, -2.237) \nMD: 0.515 \n(-4.173, 2.331) \nMD: -3.255 \n(-4. 411, -1.472) \nULOA: 73.463 \n(68.332, 78.743) \nULOA: 32.922 \n(30.625, 37.269) \nULOA: 57.750 \n(49.751, 60.849) \nULOA: 10.654 \n(9.310 , 12.728 ) \nLLOA: -62.703 \n(-67.835, -57.423) \nLLOA: -42.492 \n(-44.789, -38.145) \nLLOA: -56.720 \n(-64.718, -53.621) \nLLOA: -17.164 \n(-18.508, -15.091) \nC\nlinical Performance Conclusion\nNon- clinical and clinical verification, validation, and performance testing were conducted in \naccordance with FDA’s relevant recommendations to confirm the device design met all \nspecifications, user needs for qualified clinical and non-clinical users. \nEns\noSleep has passed all of the verification and validation tests and provided clinical \nperformance testing results that demonstrate safety, effectiveness for the intended use of the \ndevice and that the performance data demonstrate that the new technological characteristics \nproposed in this 510(k) submission are substantially equivalent to the predicate device. \nN\newly introduced sleep staging, scoring, and physiologic al signal-based analysis to provide \nevent detection and sleep apnea diagnostic severity agreement performance were tested with \nPage 20 of 21",
+      "character_count": 3504
+    },
+    {
+      "page": 24,
+      "extraction_method": "native",
+      "text": "acceptable methods and provided data to support a determination of substantially equivalent as \ncompared to the predicate device based on the indications for use and pre-specified acceptance \ncriteria. \nTh\ne EnsoSleep subject device performance is statistically similar to the predicate device \nperformance, by comparison to a double -blind, prospective 2/3 Majority Scoring panel \nconsensus reference of independent, qualified sleep technologist scorers, providing a dditional \nobjective evidence that EnsoSleep is safe and effective within the indications for use. Based on \nthe submitted clinical performance validation testing protocols, controls, methodology, evidence, \nand results, EnsoSleep and its sleep staging event, scoring event, physiological analysis for event \ndetection and sleep apnea severity diagnostic agreement demonstrate substantial equivalence to \nthe predicate device. \nC\nONCLUSIONS \nThe subject device EnsoSleep and the predicate have the same intended use and are similar in \nbasic technological characteristics to the predicate device EnsoSleep K162627. The new device \ncharacteristics do not raise different questions of safety and effectiveness. The subject device \nEnsoSleep includes a new target patient population (pediatrics ages 13 and up for in-clinic and \nhospital PSG) and use of home sleep testing with adult patients to produce automated event \ndetection of previously recorded PSGs. \nA\nclinical study was performed on retrospective data of adults (18 ye ars and older) and pediatrics \n(13-17 years old) and submitted in support of the new claims for the subject device. The study \nexamined sleep scoring accuracy including hypopnea, apnea, arousal, respiratory, and movement \nevents. One hundred adult and 47 pedi atric retrospective sleep studies were scored by three \nclinicians and compared to the subject device automated scoring and compared to predicate and \nreference predicate devices. The results of the study show that the subject device automated \nscoring performs equal to or better than the predicate and reference devices. The clinical study \nconfirmed the safety and effectiveness of the subject device and there were no complications or \ncontraindications found during the study. \nE\nnsoSleep has passed the aforemen tioned verification and validation tests and provided clinical \nperformance testing results with a clinical dataset in order to demonstrate safety and \neffectiveness as compared to the predicate device. It is therefore concluded that the subject \nEnsoSleep device is substantially equivalent to the predicate EnsoSleep device. \nPage 21 of 21",
+      "character_count": 2615
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K210034-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 0 4 . 2 6 \nSilver Spring, MD 20993 \nwww.fda.gov",
+      "extraction_method": "native",
+      "character_count": 131
+    },
+    {
+      "block_id": "K210034-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "EnsoData, Inc. \nSigrid Schoepel \nDirector of Regulatory Affairs \n111 S. Hamilton St. Suite 30 \nMadison, Wisconsin 53703",
+      "extraction_method": "native",
+      "character_count": 119
+    },
+    {
+      "block_id": "K210034-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K210034 \nTrade/Device Name: EnsoSleep \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: May 11, 2021 \nReceived: May 12, 2021",
+      "extraction_method": "native",
+      "character_count": 209
+    },
+    {
+      "block_id": "K210034-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "Dear Sigrid Schoepel:",
+      "text": "Dear Sigrid Schoepel:",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K210034-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Sigrid Schoepel:",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. Although this letter refers to your product as a device, please be aware that \nsome cleared products may instead be combination products. The 510(k) Premarket Notification Database \nlocated at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "native",
+      "character_count": 1345
+    },
+    {
+      "block_id": "K210034-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Sigrid Schoepel:",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K210034-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Sigrid Schoepel:",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for",
+      "extraction_method": "native",
+      "character_count": 520
+    },
+    {
+      "block_id": "K210034-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Sigrid Schoepel:",
+      "text": "K210034 - Sigrid Schoepel Page",
+      "extraction_method": "native",
+      "character_count": 30
+    },
+    {
+      "block_id": "K210034-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Sigrid Schoepel:",
+      "text": "2 \ndevices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for \ncombination products; and, if applicable, the electronic product radiation control provisions (Sections 531-\n542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 560
+    },
+    {
+      "block_id": "K210034-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Sigrid Schoepel:",
+      "text": "Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems.",
+      "extraction_method": "native",
+      "character_count": 356
+    },
+    {
+      "block_id": "K210034-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Sigrid Schoepel:",
+      "text": "For comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "extraction_method": "native",
+      "character_count": 760
+    },
+    {
+      "block_id": "K210034-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Sigrid Schoepel:",
+      "text": "Sincerely,",
+      "extraction_method": "native",
+      "character_count": 10
+    },
+    {
+      "block_id": "K210034-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Sigrid Schoepel:",
+      "text": "Jay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional \nand Neurodiagnostic Devices \nOHT5: Office of Neurological \nand Physical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health",
+      "extraction_method": "native",
+      "character_count": 261
+    },
+    {
+      "block_id": "K210034-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Sigrid Schoepel:",
+      "text": "Enclosure",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K210034-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Sigrid Schoepel:",
+      "text": "DEPARTMENT OF HEALTH AND HUMAN SERVICES Form Approved: OMB No. 0910-0120\nFood and Drug Administration Expiration Date: 06/30/2023",
+      "extraction_method": "ocr",
+      "character_count": 129
+    },
+    {
+      "block_id": "K210034-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "heading",
+      "section": "Indications for Use See PRA Statement below.",
+      "text": "Indications for Use See PRA Statement below.",
+      "extraction_method": "ocr",
+      "character_count": 44
+    },
+    {
+      "block_id": "K210034-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Indications for Use See PRA Statement below.",
+      "text": "510(k) Number (if known)\nK210034",
+      "extraction_method": "ocr",
+      "character_count": 32
+    },
+    {
+      "block_id": "K210034-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Indications for Use See PRA Statement below.",
+      "text": "Device Name\nEnsoSleep",
+      "extraction_method": "ocr",
+      "character_count": 21
+    },
+    {
+      "block_id": "K210034-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "heading",
+      "section": "Indications for Use (Describe)",
+      "text": "Indications for Use (Describe)",
+      "extraction_method": "ocr",
+      "character_count": 30
+    },
+    {
+      "block_id": "K210034-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "EnsoSleep is intended for use in the diagnostic evaluation by a physician to assess sleep quality and as an aid for\nphysicians in the diagnosis of sleep disorders and respiratory related sleep disorders in pediatric and adult patients as\nfollows:",
+      "extraction_method": "ocr",
+      "character_count": 246
+    },
+    {
+      "block_id": "K210034-P003-B007",
+      "page": 3,
+      "ordinal": 7,
+      "type": "list",
+      "section": "Indications for Use (Describe)",
+      "text": "* Pediatric patients 13 years and older with polysomnography (PSG) tests obtained in a Hospital or Sleep Clinic",
+      "extraction_method": "ocr",
+      "character_count": 111
+    },
+    {
+      "block_id": "K210034-P003-B008",
+      "page": 3,
+      "ordinal": 8,
+      "type": "list",
+      "section": "Indications for Use (Describe)",
+      "text": "* Adult patients with PSGs obtained in a Hospital or Sleep Clinic",
+      "extraction_method": "ocr",
+      "character_count": 65
+    },
+    {
+      "block_id": "K210034-P003-B009",
+      "page": 3,
+      "ordinal": 9,
+      "type": "list",
+      "section": "Indications for Use (Describe)",
+      "text": "* Adult patients with Home Sleep Tests",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K210034-P003-B010",
+      "page": 3,
+      "ordinal": 10,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "EnsoSleep is a software-only medical device to be used under the supervision of a clinician to analyze physiological\nsignals and automatically score sleep study results, including the staging of sleep, detection of arousals, leg movements,\nand sleep disordered breathing events including obstructive apneas (OSA), central sleep apneas (CSA), and hypopneas.",
+      "extraction_method": "ocr",
+      "character_count": 356
+    },
+    {
+      "block_id": "K210034-P003-B011",
+      "page": 3,
+      "ordinal": 11,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "All automatically scored events and physiological signals which are retrieved, analyzed, displayed, and summarized are\nsubject to verification by a qualified clinician. Central sleep apneas (CSA) should be manually reviewed and modified as\nappropriate by a clinician.",
+      "extraction_method": "ocr",
+      "character_count": 267
+    },
+    {
+      "block_id": "K210034-P003-B012",
+      "page": 3,
+      "ordinal": 12,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "All events can be manually marked or edited within records during review.\nPhotoplethysmography (PPG) total sleep time is not intended for use when electroencephalograph (EEG) data is recorded.",
+      "extraction_method": "ocr",
+      "character_count": 192
+    },
+    {
+      "block_id": "K210034-P003-B013",
+      "page": 3,
+      "ordinal": 13,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "PPG total sleep time is not intended to be used as the sole or primary basis for diagnosing any sleep related breathing\ndisorder, prescribing treatment, or determining whether additional diagnostic assessment is warranted.",
+      "extraction_method": "ocr",
+      "character_count": 222
+    },
+    {
+      "block_id": "K210034-P003-B014",
+      "page": 3,
+      "ordinal": 14,
+      "type": "paragraph",
+      "section": "Indications for Use (Describe)",
+      "text": "Type of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) [_] Over-The-Counter Use (21 CFR 801 Subpart C)",
+      "extraction_method": "ocr",
+      "character_count": 140
+    },
+    {
+      "block_id": "K210034-P003-B015",
+      "page": 3,
+      "ordinal": 15,
+      "type": "heading",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "extraction_method": "ocr",
+      "character_count": 38
+    },
+    {
+      "block_id": "K210034-P003-B016",
+      "page": 3,
+      "ordinal": 16,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "This section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*",
+      "extraction_method": "ocr",
+      "character_count": 153
+    },
+    {
+      "block_id": "K210034-P003-B017",
+      "page": 3,
+      "ordinal": 17,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "The burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:",
+      "extraction_method": "ocr",
+      "character_count": 410
+    },
+    {
+      "block_id": "K210034-P003-B018",
+      "page": 3,
+      "ordinal": 18,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Department of Health and Human Services\nFood and Drug Administration",
+      "extraction_method": "ocr",
+      "character_count": 68
+    },
+    {
+      "block_id": "K210034-P003-B019",
+      "page": 3,
+      "ordinal": 19,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Office of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov",
+      "extraction_method": "ocr",
+      "character_count": 92
+    },
+    {
+      "block_id": "K210034-P003-B020",
+      "page": 3,
+      "ordinal": 20,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "ocr",
+      "character_count": 160
+    },
+    {
+      "block_id": "K210034-P003-B021",
+      "page": 3,
+      "ordinal": 21,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF",
+      "extraction_method": "ocr",
+      "character_count": 74
+    },
+    {
+      "block_id": "K210034-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "K210034 EnsoSleep \nTraditional 510(k) Summary \nPrepared in accordance with the content and format outlined in 21 CFR 807.92 \nI. S\nUBMITTER INFORMATION\nName: EnsoData, Inc. \nAddress: 111 S. Hamilton Street, Suite 30 \nMadison, WI 53703 USA \nPhone: (608)509-4704\nContact Person: Sigrid Schoepel \nEmail: sigrid@ensodata.com \nD\nate: June 8, 2021 \nII. SUBJECT DEVICE INFORMATION\nTrade Name: EnsoSleep \nCommon Name: Automatic Event Detection Software for Polysomnography with \nElectroencephalograph (EEG) \nClassification Name: Electroencephalograph 21 CFR 882.1400 \nRegulatory Class: II \nProduct Code: OLZ \nIntended Use: \nEnsoSleep is intended for use for the diagnostic evaluation by a physician to assess sleep quality \nand as an aid for the diagnosis of sleep disorders and respiratory related sleep disorders in \npediatric patients ages 13 years and older. EnsoSleep is a software-only medical device to be \nused under the supervision of a clinician to analyze physiological signals and automatically score \nsleep study results, including the staging of sleep, detection of arousals, leg movements, and \nsleep disordered breathing events including obstructive apneas, central apneas, and hypopneas. \nAll automatically scored events and physiologica l signals analyzed are retrieved, displayed, and \nsummarized, and are subject to verification by a qualified clinician. All events can be manually \nmarked or edited within records during review. \nTa\nrget \nPatient Population: Adult and Pediatric \nIII. PREDICATE DEVICE\nK162627\nTrade Name: EnsoSleep\nTarget Patient Population: Adults only\nPage 1 of 21",
+      "extraction_method": "native",
+      "character_count": 1595
+    },
+    {
+      "block_id": "K210034-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "IV. SUBJECT DEVICE DESCRIPTION\nEnsoSleep is a software -only medical device that analyzes previously recorded physiological\nsignals obtained during sleep. U sers of EnsoSleep are consistent with the roles required to run a\nsleep clinic: sleep physicians, sleep technicians, clinic operations managers, and IT\nadministrators. EnsoSleep can analyze at-home and in-lab sleep studies for both adult and\npediatric patients who are at least 13 years old. Automated algorithms are applied to the raw\nsignals in order to derive additional signals and interpret the raw and derived signal information.\nThe software automates recognition of the following: respiratory events, sleep staging events,\narousal events, movement events, cardiac events, derived signals, and calculated indices.\nEnsoSleep does not interpret the results, nor does it suggest a diagnosis. The device only marks\nevents of interest for review by a physician who is responsible for diagnose s. The device does\nnot analyze data that are different from those analyzed by human scorers.\nT\nhe signals and automated analyses can be visually inspected and edited prior to the results \nbeing integrated into a sleep study report. \nThe software consists of 4 major components: \n• The Application Platform runs on local clinic workstations and manages the detection,\nupload, and download of study records and scoring to and from the Storage Platform\n• The Processing Platform accepts raw physiological signals as inputs in order to recognize \nevents, derive signals, and calculate indices\n• The Storage Platform facilitates file and database storage in the EnsoSleep cloud through\nan API\n• The Dashboard is a web -based user interface to support configuration, clinic\nmanagement, and sleep study scoring\nInput signals used to derive outputs include : \n• Electroencephalogram ( EEG)\n• Electrocardiogram (ECG)\n• Electro-oculogram (EOG)\n• Electromyogram (EMG)\n• Actigraphy\n• Airflow\n• Oximetry\n• Saturation of Peripheral Oxygen (SpO2)\n• Respiratory Inductance Plethysmogram (RIP)\n• Polyvinylidene Flouride (PVDF)\n• Photoplethysmogram ( PPG)\n• Pulse Rate\n• Snoring Microphone\n• Esophogeal Manometry\nOutputs that are displayed to users include : \n• Respiratory Eve nts\no Obstructive Sleep Apneas (OSA)\nPage 2 of 21",
+      "extraction_method": "native",
+      "character_count": 2261
+    },
+    {
+      "block_id": "K210034-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "o Central Sleep Apneas (CSA)\no Mixed Sleep Apneas (MSA)\no Hypopneas\no Cheyne -Stokes Respiration\no Periodic Breathing\n• Sleep Staging Events\no Stage Wake\no Stage N1\no Stage N2\no Stage N3\no Stage REM (rapid eye movement)\n• Arousal Events\no Arousals\n• Movement Events\no Leg Movements (LM)\no Periodic Leg Movement Series (PLMS)\n• Cardiac Events*\no Bradycardia\no Tachycardia\n• Respiratory Rate Events\no Respiratory Rate\n• Sleep-Wake Events\no Wake\no Sleep\n• Apnea-Hypopnea Index (AHI)\n• Sleep Architecture\n• Sleep Efficiency (SE)\n• Arousal Index (ArI)\n• Sleep Latency (SL)\n• REM Latency (RL)\n• Total Sleep Time (TST)\n• Periodic Leg Movements (PLMS) Index\nC\napnogram data are not displayed to users. \nThe primary differences between the predicate device and subject device include: \n-Target patient population: pediatric patients are included\n-Automated scoring of Cheyne -Stokes and Periodic Breathing respiration events and Total Sleep\nTime\n-Browser-based scoring interface to view and edit sleep studies\n-Home-sleep studies are suppor ted\n* T\nhe tachycardia and bradycardia outputs are not for use for cardiovascular monitoring or\ndiagnosis, nor does the device detect arrhythmias.\nPage 3 of 21",
+      "extraction_method": "native",
+      "character_count": 1191
+    },
+    {
+      "block_id": "K210034-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "V. CO\nMPARISON OF TECHNOLOGICAL CHARACTERISTICS WITH THE\nPREDICATE DEVICE\nThe table below compares the predicate device EnsoSleep with the subject device EnsoSleep. \nElement Predicate Device \nEnsoData, Inc. \nK162627 \nEnsoSleep \nSubmitted Device \nEnsoData, Inc. \nK210034 \nEnsoSleep \nDiscussion \nIndications for \nuse \nEnsoSleep is intended for use \nfor the diagnostic evaluation \nby a physician to ass ess sleep \nquality and as an aid for the \ndiagnosis of sleep and \nrespiratory related sleep \ndisorders in adults only. \nEnsoSleep is a soft wa re-only \nmedical device to be used \nunder the supervision of a \nclinicia n to a nalyze \nphysiological signa ls a nd \nautomatically score sleep \nstudy results, including the \nstaging of sleep, detection of \narousals, leg movements, and \nsleep disordered breathing \nevents including obstructive \na pneas. All a utomatically \nscored events are subject to \nverifica tion by a qualified \nclinicia n. Central a pneas, \nmixed a pneas, a nd hypopneas \nmust be manually marked \nwithin records. \nEnsoSleep is intended for \nuse in the diagnostic \nevaluation by a physician \nto assess sleep quality and \nas an aid for physicians in \nthe diagnosis of sleep \ndisorders a nd respiratory \nrelated sleep disorders in \npedia tric and a dult patients \na s follows: \n• Pedia tric patients ages 13\nyears and older with\npolysomnography (PSG) \ntests obtained in a Hospital \nor Sleep Clinic\n• Adult pa tients with PSGs \nobtained in a Hospital or \nSleep Clinic\n• Adult pa tients with\nHome Sleep Tests\nE\nnsoSleep is a softw are-\nonly medical device to be \nused under the supervision \nof a clinicia n to a nalyze \nphysiological signa ls a nd \nautomatically score sleep \nstudy results, including the \nstaging of sleep, detection \nof arous als, leg \nmovements, and sleep \ndisordered breathing \nevents including \nobstructive apneas (OSA), \ncentral sleep apneas \n(CSA), and hypopneas. \nCentral sleep apneas \n(CSA) should be manually \nreviewed a nd modified a s \na ppropriate by a clinicia n.",
+      "extraction_method": "native",
+      "character_count": 2003
+    },
+    {
+      "block_id": "K210034-P007-B002",
+      "page": 7,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Different The subject \ndevice includes expansion \nof the indications for use to \nthe pediatric population. \nC\nlinica l testing using the \nscoring methodology for \nthe predicate device were \napplied and validation to \ndemonstrate scoring for \nexpanded uses to pediatric \npopulation and new \nautomated outputs. \nPage 4 of 21",
+      "extraction_method": "native",
+      "character_count": 322
+    },
+    {
+      "block_id": "K210034-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Element Predicate Device \nEnsoData, Inc. \nK162627 \nEnsoSleep \nSubmitted Device \nEnsoData, Inc. \nK210034 \nEnsoSleep \nDiscussion \nAll events can be \nma nually marked or edited \nwithin records during \nreview. \nPhotoplethysmography \n(PPG) tota l sleep time is \nnot intended for use when \nelectroencephalograph \n(EEG) da ta is recorded. \nPPG tota l sleep time is not \nintended to be used as the \nsole or primary basis for \ndiagnosing any sleep \nrelated breathing disorder, \nprescribing trea tment, or \ndetermining whether \na dditional diagnostic \nassessment is warranted. \nIntended Use Analyze pre-recorded \nphysiological data a cquired \nduring sleep. \nSame as predicate. Same \nPatient \npopulation \nAdults only. Adults and pediatric \npa tients 13 years old and \nabove. \nDifferent \nEnvironment of \nuse \nPhysician office (data analys i s \na nd reporting). No limita tion \non where data are acquired. \nSame as predicate. Different; the subject \ndevice includes analysis of \nhome sleep testing (HST) \nof adult patients. \nSigna ls a nalyzed EEG, ECG, EOG, EMG \nwaveforms; SpO2; respirator y \neffort; a irflow; heart/pulse \nrate; snoring loudness; head \nmovement and pos ition. \nEEG, ECG, EOG, EMG \nwaveforms; SpO2; \nrespira tory effort; airflow; \nhea rt/pulse ra te; snoring \nloudness; head movement \nand position. \nSimila r \nSleep measures Sleep, REM and N3 onset; \ntota l sleep a nd recording \ntimes; sleep efficiency % time \nby sleep stage; awakenings \nper hour; wake after sleep \nonset. \nSame as predicate. Same \nAutomatically \nscore sleep stages \nYes; automatically detects \nsta ge Wa ke (W), REM (R), \nSame as predicate. Same \nPage 5 of 21",
+      "extraction_method": "native",
+      "character_count": 1635
+    },
+    {
+      "block_id": "K210034-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Element Predicate Device \nEnsoData, Inc. \nK162627 \nEnsoSleep \nSubmitted Device \nEnsoData, Inc. \nK210034 \nEnsoSleep \nDiscussion \nNREM 1 (N1), NREM 2 (N2) \nand slow wave sleep (N3). \nAutomatically \nscore sleep \ndisordered \nbrea thing events \nNo; OSA, CSA a nd mixed \nhypopneas mus t be manually \nscored \nYes; automatic detection \nof the following events: \n• Obstructive apneas \n(OSA), Central\napneas (CSA),\n• Hypopneas,\n• C heyne -Stokes\nrespira tion (CSR), and \n• Pe riodic breathing \n(PBE).\n• Additional apnea and \nsleep disordered\nbrea thing event types \nmay be manually\nmarked within the \nrecords. CSA events \nshould also be \nmanually scored\nSimila r \nSleep disordered breathing \nevents are detected, and the \nadditional events are \nidentified using the existing \na irflow inputs as in the \npredicate device. \nAutomatically \nscore arousal \nevents \nYes; automatically detects \narousal events. \nYes; automatically detects \narousal events; \nrespira tory-effort rela ted \na rousals, limb movement \nrela ted a rousals, a nd \nspontaneous cortical \narousal. \nDifferent \nThe general arousal events \ndetected by the subject \ndevice a re now identified \nmore specifically a s to the \ntype of arousal events \n(same events a s detected by \nthe predicate). \nAutomatically \nscore movement \nevents \nYes; a utomatically detects leg \nmovement events. \nSame as predicate. Same \nAutomatically \nscore cardiac \nevents \nNo. Yes; brachycardia and \ntachycardia. \nDifferent \nThe ECG signa ls used to \ndetermine these events \nwere used in the predicate \ndevice to determine \nbreathing, a rousal, a nd \nmovement events are also \nused to detect cardiac \nevents . The tachycardi a and \nbradycardia feature is not \nintended for use for \nca rdiovascular monitoring \nor diagnos is, nor does the \nPage 6 of 21",
+      "extraction_method": "native",
+      "character_count": 1778
+    },
+    {
+      "block_id": "K210034-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Element Predicate Device \nEnsoData, Inc. \nK162627 \nEnsoSleep \nSubmitted Device \nEnsoData, Inc. \nK210034 \nEnsoSleep \nDiscussion \nsubject device detect \na rrhythmias. \nAutomatically \ndetermine \nderived values \nNo. Yes; effort belt respiratory \nr ate and PPG respira tory \nra te. \nDifferent \nThe RIP and PVDF signa ls \nused to determine these \nvalues a re used in the \npredicate device to \ndetermine breathing, \na rousal, a nd movement \nevents. \nAutomated study \nuploa d a nd \ndownload \nYes. Same as predicate. Same \nAutomatically \ninitia tes study \nscoring \nYes. Same as predicate. Same \nHea rt ra te \naccuracy \nNo. Same as predicate. Same \nHead position No. Same as predicate. Same \nSnoring level No. Same as predicate. Same \nAllows editing in \nsleep study \nviewers \nYes. Sleep studies can be \nopened and edited in sleep \nstudy scoring devices that \nsupport EDF formatted files. \nYes, and within EnsoSl eep \nusing EDF formatted files. \nDifferent \nThe subject device allows \nthat signals be edited wit hin \nthe existing patient view of \nthe web dashboard. \nSleep study \nreporting \nYes. Same as predicate. Same \nTwo-night \nreports \nNo. Same as predicate. Same \nDisease \nma nagement \ncomments \nNo. Same as predicate. Same \nD ata fo r mat EDF Same as predicate. Same \nCompatibility Opera tes on a ny PC with \nWindows 7 and 8 operating \nsystem platforms. \nOpera tes on a ny PC with \nWindows 7+, Windows \nServer 2012+ operating \nsystem platforms. \nUpdated; Tested on newer \nversions of Windows as \nthey are released, using the \nPage 7 of 21",
+      "extraction_method": "native",
+      "character_count": 1533
+    },
+    {
+      "block_id": "K210034-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Element Predicate Device \nEnsoData, Inc. \nK162627 \nEnsoSleep \nSubmitted Device \nEnsoData, Inc. \nK210034 \nEnsoSleep \nDiscussion \nsame verification \nmethodology. \nCybersecurity Authentication controls, \na uthorization controls, \ncryptographic controls, access \ncontrols, checksum controls, \nsoftware distribution controls, \nintrusion detection sys tem \ncontrols, network and systems \ncontrols, and database \ncontrols. \nSame as predicate. Same \nNetwork \nrequirements \nHigh-speed internet \nconnection, above 200 kb/s \nrecommended. \nSame as predicate. Same \nPage 8 of 21",
+      "extraction_method": "native",
+      "character_count": 565
+    },
+    {
+      "block_id": "K210034-P012-B001",
+      "page": 12,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "VI. PERFORMANCE DATA\nThe following performance data were provided in support of the substantial equivalence \ndetermination. Since this is a software -only medical device that does not control other devices\nthe performance data do not include biocompatibility, electrical safety, elec tromagnetic\ncompatibility, mechanical, acoustic, or animal testing.\nT\nhe intended use population, study population, conditions of interest, designated comparative \nreference, designated comparative benchmarks, and experimental endpoints were \ndefined. Following the application of clinical laboratory selection controls, five (5) clinical \ntesting laboratories were evaluated, and two (2) AASM Accredited Sleep Testing Facilities were \nselected each with two (2) regional sleep testing centers that met all laborator y quality, external \nvalidity, and subject spectrum controls. Following a cross -sectional study design, an archived \ncollection of retrospective diagnostic clinical PSG subject data was collected and verified to \nmeet the specified disease spectrum, medical condition, medication, and demographic \nrequirements. To construct the final study sample from the archived collection population, a \nrandomized sampling with proportionate allocation across each sleep apnea disease severity \nquantile (normative, mild, moderat e, and severe sleep apnea) was used to construct a valid Adult \nSample of N=100 adult subjects (AHI mean: 22.4 [95% CI: 18.6%, 26.1%], std: 18.8, median: \n17.2, min: 0, max: 109.2, rule: 1.a.) and Pediatric Sample of N=47 pediatric subjects (AHI mean: \n11.4 [95% CI: 7.6%, 15.6%], std: 13.6, median: 7.0, min: 0, max: 60.3, rule: 1.a.) from the first \nlaboratory N=1984 archived collection of retrospective diagnostic clinical PSG data, and a valid \nRespiratory Rate Sample of N=100 adult subjects (AHI mean: 13.2 [95% CI: 9.7%, 16.5%], std: \n17.1, median: 6.6, min: 0, max: 82.9, rule: 1.b.) from the second laboratory N=1079 archived \ncollection of retrospective diagnostic clinical PSG data. \nT\nhe N=100 Adult, N=47 Pediatric, and N=100 Respiratory Rate Study Samples were observed \nand verified to have no statistically significant differences in the sleep apnea disease state \ndistributional characteristics relative to the laboratory archived collection populations, \nconfirming preservation of disease spectrum breadth and representativeness with respect to the \nintended use population. The N=100 study samples were verified to contain subjects from all \n(4/4) sleep apnea disease state severity quantiles, including normative, mild, moderate, and \nsevere sleep apnea, subjects from all (7/7) of the predetermined relevant and/or confounding \nmedical condition groups of interest, including sleep disorders, psychiatric disorders, neurologic \ndisorders, neuro-developmental disorders, cardiac disorders, pulmonary disorders, metabolic and \nother disorders, subjects from all (5/5) predetermined relevant and/or confounding medication \ngroups of interest, including benzodiazepines, antidepressants, stimulants, opiates, and sleep \naids, subjects from each of (7/7) identified demographic group of interest, including all sexes, \nadult age groups, pediatric age groups, BMI groups, weight groups, height groups, and sleepiness \ngroups. Based on these verification and control procedures, the study sample was determined to \nbe a representative sample of the defined intended use and user population. \nFollowing the finalization of each N=100 subject Adult, N=47 Pediatric, and N=100 Respiratory \nRate study sample respectively, six (6) clinical testing laboratories were evaluated for \nindependent manual scoring, three (3) laboratories were selected, and the clinical test setting was \nestablished for constructing a valid 2/3 Majority Scoring consensus reference, using N=9 total \nregistered scoring technologists (RPSGTs) with 5 to 20+ years clinical experience by verification \nPage 9 of 21",
+      "extraction_method": "native",
+      "character_count": 3922
+    },
+    {
+      "block_id": "K210034-P013-B001",
+      "page": 13,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "of meeting all defined study scoring -acquisition, scoring-blind, and rater-quality certification \ncontrols. Manual scoring for sleep stage, hypopnea events, obstructive sleep apnea (OSA) events, \ncentral sleep apnea (CSA ) events, arousal events, limb movement events, respiratory effort \nrelated arousal (RERA) events, cheyne-stokes (CS) respiration events, and periodic breathing \n(PB) events were prospectively collected from three (3) independent, registered sleep \ntechnologists (RPSGT) for the N=100 Adult and N=47 Pediatric subjects, and manual scoring \nfor sleep stage and respiratory rate events for the N=100 Respiratory Rate subjects, selected as \nthe study population sample, by randomized, double -blinded assignment of each subject to three \n(3) additional, prospective scorers from the panel of N=9 total independent registered sleep\ntechnologists. The designated comparative reference was constructed using 2/3 Majority Scoring\nto evaluate the subject EnsoSleep device performance versus the predicate EnsoSleep device\n(K162627) performance for all event types and experimental endpoints evaluated, and the\nreference device Michele Sleep Scoring device (K112102) performance for hypopnea and central\nsleep apnea event types specifically. Objective performance benchmarks and acceptance criteria\nin terms of positive agreement (PA), negative agreement (NA), overall agreement (OA), mean\nabsolute error (MAE), Deming Regression analysis slope and intercept coefficients, Bland -\nAltman mean diffe rence and 95% upper and lower limits of agreement, each with 95% two-sided\nbootstrap confidence intervals (R=2000), were predefined competitively based on analysis of\nreported performance in the predicate device 510(k) event detection and diagnostic agreem ents\nreported. In particular, the acceptance criteria were selected based on PA, NA, OA, MAE,\nDeming Regression coefficient, Bland -Altman mean difference and limits of agreement\nperformance criteria that validate performance substantially equivalent to, or greater than, but not\nlesser than by more than 10% or similarly defined criteria in any category of the predicate 510(k)\nreported device performance across all endpoints respectively.\nClinical validation testing performance analysis was collected with the final EnsoSleep software\nrelease version, final revision level, final design specification, final instructions for use, and\nindications for use, in the intended use environment, on the intended use population, and by the\nintended users, in order to valida te the substantial equivalence, and the safety and effectiveness\nof the subject EnsoSleep device for its intended use. EnsoSleep device performance was\nevaluated using the defined cross -sectional experimental design, statistical methodology, and set\nof comprehensive experimental controls, across the following four (4) experimental endpoints:\n1. EnsoSleep is intended to assist clinicians with the assessment of sleep quality, therefore\nperformance of device sleep scoring must be validated.\n2. EnsoSleep is intended to assist clinicians with the scoring sleep disordered breathing\nevents used in diagnostic evaluation, therefore device performance for diagnosing sleep\napnea must be validated.\n3. EnsoSleep is intended to analyze physiological signals and automatically score sleep\nstudy results, including detection of SDB events, Hypopnea events, Apnea events,\nincluding OSA events, CSA events, Arousal events, Limb Movement events, RERA\nevents, CS events, and PB events, therefore device performance for detecting each event\ntype must be validated.\n4. EnsoSleep is intended to analyze physiological signals and automatically score sleep \nstudy results, including detection of Respiratory Rate events, Sleep-Wake events, and\nTotal Sleep Time, therefore device performance for detecting each event type must be\nvalidated.\nPage 10 of 21",
+      "extraction_method": "native",
+      "character_count": 3878
+    },
+    {
+      "block_id": "K210034-P014-B001",
+      "page": 14,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "The final experimental results and statistical analysis were reported for each endpoint. In total \nPA, NA, OA, Kappa and two -sided 95% bootstrap median confidence intervals (R=2000) were \ncalculated by pooled -epochs versus 2/3 Majority Scoring in 20 event detection experiments \nevaluating 6 sleep staging events (Wake, N1, N2, N3, REM, Total) in 3 samples (adult, pediatric, \nand RR), 11 scoring events (SDB, HYP 1.a. (3%), HYP 1.b. (4%), Apnea, OSA, CSA, Arousal, \nLimb Movement, RERA, CSE, PBE) in 2 samples (adult and pediatric), and 3 physiologic \nanalysis events (RR, Sleep -Wake, TST) with PA, NA, OA, Kappa, Deming Regression β1 slope \nand β0 intercept regression coefficients, and Bland -Altman analysis, including mean differences \n(MD), upper limits of agreement (ULOA), and lower limits of agreement (ULOA) with two -\nsided 95% bootstrap confidence intervals for Sleep-Wake, TST in 3 samples (adult, pediatric, \nand RR) as well as mean absolute error (MAE) and percent epochs ±2 breaths per mi nute for \nrespiratory rate (RR) scoring in the RR adult sample, and 6 sleep apnea diagnostic severity \ncategories (AHI ≥ 5, AHI ≥ 15, REM-AHI ≥ 15, REM-AHI ≥ 15, subgroup AHI ≥ 1, subgroup \nAHI ≥ 10) in 2 samples (adult and pediatric) with PA, NA, OA, Kappa, two-sided 95% bootstrap \nmedian confidence intervals (R=2000), and positive and negative likelihood ratio pairs, across all \n4 experimental endpoints respectively. \nThe subject EnsoSleep device event detection and diagnostic agreement performance were \nobserve d to meet or exceed the PA, NA, and OA performance acceptance in the 26 total \nexperiments (26/26) across all 4 experimental endpoints evaluated, including all 20 event \ndetection experiments (20/20) and all 6 diagnostic agreement experiments (6/6), and with all 4 \nexperimental endpoints (4/4) statistically analyzed and evaluated in two or more samples (≥2) \nper each endpoint respectively (2/2 Adults and Pediatrics in Endpoints 2 and 3, and 3/3 Adults, \nPediatrics, and RR in Endpoints 1 and 4): \n• For sleep staging events Endpoint 1, all 3 EnsoSleep PA, NA, and OA point -estimates vs\n2/3 Majority Scoring were observed to be greater than the predicate device PA, NA, and\nOA point-estimates vs 2/3 Majority Scoring in some events in the Adult Sample (Wake,\nN2, REM, Total), Pediatric Sample (Wake, N1, N2, N3, REM, Total,), and RR Sample\n(Wake, N2, N3, REM, Total). Additionally, some of those event detection differences\nthat were in all 3 performance categories (PA/NA/OA) represented a statistically\nsignificant result in terms of higher agreement with 2/3 Majority Scoring, based on\nlow/upper -bound comparison of two-sided 95% bootstrap percentile method confidence \nintervals to the predicate performance, in each sample: Adult Sample (REM), Pediatric\nSample (Wake, N3, Total), and RR Sample (Wake, N2, REM, Total). None of the 6\nevents evaluated were observed with PA, NA, or OA point-estimates vs 2/3 Majority\nScoring that were 10% or lower in any of the sleep staging event types evaluated.\n• For sleep apnea diagnostic agreement Endp oint 2, all 3 EnsoSleep PA, NA, and OA\npoint-estimates vs 2/3 Majority Scoring were observed to be greater than the predicate\ndevice PA, NA, and OA point-estimates vs 2/3 Majority Scoring in some OSA severity\ncategories in the Adult Sample (AHI ≥ 5) and Pediatric Sample (AHI ≥ 1). There were no\nsamples or OSA severities for which there were statistically significant differences\nobserved in all 3 performance measures (PA/NA/OA), based on low/upper -bound\ncomparison of two-sided 95% bootstrap percentile method confidence intervals. With the\nexception of Pediatric Sample AHI ≥ 10 PA with an observed comparison of 12.6%, none\nof the 6 OSA severity categories evaluated were observed with PA, NA, or OA point-\nPage 11 of 21",
+      "extraction_method": "native",
+      "character_count": 3804
+    },
+    {
+      "block_id": "K210034-P015-B001",
+      "page": 15,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "estimates vs 2/3 Majority Scoring that were 10% or lower in any of the 3 diagnostic \nagreement performance criteria evaluated (PA/NA/OA) respectively. \n• For scoring events Endpoint 3, all 3 EnsoSleep PA, NA, and OA point -estimates vs 2/3\nMajority Scoring were observed to be greater than the designated predicate device PA,\nNA, and OA point-estimates vs 2/3 Majority Scoring in some events in the Adult Sample\n(SDB, HYP, OSA, CSA, Arousal) and the Pediatric Sample (SDB, HYP, CSA, Arousal,\nRERA). Additionally, some of those event detection differences that were in all 3\nperformance categories (PA/NA/OA) represented a statistically significant result, based \non low/upper -bound comparison of two-sided 95% bootstrap percentile method\nconfidence intervals, in each sample respectively; Adult Sample (SDB, OSA, and\nArousal), and Pediatric Sample (SDB, HYP, Arousal, RERA). None of the 12 events\nevaluated were observed with PA, NA, or OA point-estimates vs 2/3 Majority Scoring \nthat were 10% or lower in any of the scoring event types evaluated.\n• For physiologic analysis events Endpoint 4, for SW and RR events, all three EnsoSleep\nsubject device PA, NA, OA, percent epochs ≤ 2 brpm, and/or MAE point -estimates vs\n2/3 Majority Scoring were observed to be statistically similar to the predicate device PA,\nNA, and OA point-estimates vs 2/3 Majority Scoring in all SW and RR event types\nevaluated. None of the PPG -SW events evaluated were observed with PA, NA, OA point-\nestimates vs 2/3 Majority Scoring that were 10% or lower in any of the EEG-SW sleep\nstaging event types evaluated in the adult, pediatric, or in the RR Samples respectively,\nand a global minima PPG-SW performance statistic of 89% PA in the RR Sample (4%\nabs diff vs 93% EEG -SW). No statistically significant differences were observed between\nPPG-RR and EB-RR respiratory rate events vs 2/3 Majority Scoring; by ≥90% percent\nepochs with RR-value within ≤ 2 brpm of 2/3 Majority Scoring RR-value, and by MAE\nof RR value within ≤ 2 brpm of 2/3 Majority Scoring RR-value, when both were\nevaluated and compared in the RR Sample respectively. For TST the Deming Regression\ncoefficient parameters Slope β1 was near unity with 0.90≤ β1 ≤ 1.10, Intercept β0 was\nnear zero with β0 ≤15 minutes, the Bland-Altman absolute mean difference was near zero\nwith MD within ≤15 mins, and Bland-Altman 95% absolute upper and lower limits of\nagreement were within <90 mins. No clinically significant deviations observed in PPG-\nTST or EEG-TST index values vs 2/3 Majority Scoring based the Deming regression\ncoefficients, the average differences, the Bland -Altman 95% limits of agreement, or the\ntwo-sided 95% bootstrap confidence intervals, when compared to 2/3 Majority Scoring\nTST in each of the adult, pediatric, and RR samples respectively when comparing TST\nindex performance.\n• In supplemental clinical data and analyses provi ded with Endpoint 2, both the pediatric\nand adult samples showed a strong sleep apnea diagnostic agreement. The results showed\nno statistically significant difference in performance between the pediatric sample and \nboth the predicate device and the adult sample performance which further demonstrated\nsubstantial equivalence in performance for the pediatric subgroup. The additional\npediatric subgroups analyzed showed consistent results with prior pediatric study results\nreported in endpoints 1-4. For suppleme ntal clinical data and analyses provided with\nEndpoint 4 the RR, adult, and pediatric sample groups met all criteria specified for both\nthe Deming regression analysis and Bland-Altman analysis, with evaluated results that\ndemonstrated strong clinical perfo rmance based on a Deming regression coefficient slope \nPage 12 of 21",
+      "extraction_method": "native",
+      "character_count": 3731
+    },
+    {
+      "block_id": "K210034-P016-B001",
+      "page": 16,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "β1 that was near unity and intercept β0 near zero, and all Bland -Altman limits of \nagreement were within 90 minutes and a mean difference within 15 minutes. \nPage 13 of 21",
+      "extraction_method": "native",
+      "character_count": 172
+    },
+    {
+      "block_id": "K210034-P017-B001",
+      "page": 17,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "STUDY RESULTS \nSleep Staging Event Detection \nThe subject device EnsoSleep and predicate device EnsoSleep (K162627) clinical performance \nresults compared for Endpoint 1, sleep staging. For all sleep staging event types evaluated in \nEndpoint 1, the point -estimates of the subject device PA, NA and OA event detection \nperformance exceeded, were equivalent to, or were within 5% of the predicate device PA, NA \nand OA performance. The subject device PA, NA, and OA performance was observed to be \nstatistically significantly greater in nearly all comparisons relative to the predicate device, \nshowing a significant increase in Total Staging PA by 9% and resulting Total PA of 87% in \nAdult and 89% In Pediatric samples. The results confirm EnsoSleep achieves clinical \nperformance for sleep staging positive, negative, and overall agreement that is substantially \nequivalent to the predicate device positive, negative, and overall agreement across all sleep \nstages. \nAdult Sample Pooled -Epochs EnsoSleep vs 2/3 \nMajority Sleep Staging Performance (K210034) \nAdult Sample Pooled-Epochs Predicate vs 2/3 \nMajority Sleep Staging Performance (K162627) \n(N=100, \n84,408 \nPSG \nepochs) \nPercent Agreement (%) \nwith two-sided 95% bootstrap median \npercentile method confidence intervals \n(R=2000) \n(N=72, \n59,719 \nPSG \nepochs) \nPercent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile method confidence \nintervals (R=1000) \nOverall Total Positive Negative Overall Total Positive Negative Overall \nWake 23,596 \n93.5% \n(93.1%, \n93.8%) \n97.2% \n(97.1%, \n97.4%) \n96.1% \n(96.0%, \n96.3%) \n17,459 \n86% \n(82%, \n88%) \n97% \n(95%, \n98%) \n94% \n(92%, \n95%) \nN1 4,406 \n37.0% \n(35.6%, \n38.5%) \n98.3% \n(98.2%, \n98.4%) \n95.0% \n(94.8%, \n95.1%) \n3,293 \n41% \n(33%, \n48%) \n94% \n(93%, \n96%) \n91% \n(90%, \n93%) \nN2 37,890 \n88.3% \n(87.9%, \n88.6%) \n89.3% \n(89.0%, \n89.6%) \n88.8% \n(88.6%, \n89.0%) \n26,839 \n77% \n(73%, \n81%) \n87% \n(85%, \n90%) \n83% \n(80%, \n85%) \nN3 6,513 \n80.0% \n(79.0%, \n81.0%) \n96.3% \n(96.2%, \n96.5%) \n95.0% \n(94.9%, \n95.2%) \n5,587 \n81% \n(74%, \n88%) \n93% \n(91%, \n95%) \n92% \n(90%, \n94%) \nREM 9,400 \n90.9% \n(90.4%, \n91.5%) \n99.3% \n(99.2%, \n99.3%) \n98.3% \n(98.2%, \n98.4%) \n6,541 \n79% \n(72%, \n84%) \n99% \n(98%, \n99%) \n96% \n(96%, \n97%) \nTotal 81,805 86.6% \n(86.4%, 86.9%) 59,719 78% \n(77%, 80%) \nNone 2,603 - 1,432 - \nOverall -Epochs assigned by 2/3 Majority Scoring \nPage 14 of 21",
+      "extraction_method": "native",
+      "character_count": 2373
+    },
+    {
+      "block_id": "K210034-P018-B001",
+      "page": 18,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Pediatric Sample Pooled -Epochs EnsoSleep vs 2/3 \nMajority Sleep Staging Performance (K210034) \nAdult Sample Pooled -Epochs Predicate vs \n2/3 Majority Sleep Staging Performance \n(K162627) \n(N=47, \n38,568 PSG \nepochs) \nPercent Agreement (%) \nwith two-sided 95% bootstrap median \npercentile method confidence intervals \n(R=2000) \n(N=72, \n59,719 \nPSG \nepochs) \nPercent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile method \nconfidence intervals (R=1000) \nOverall Total Positive Negative Overall Total Positive Negative Overall \nWake 7,867 \n93.1% \n(92.5 %, \n93.6%) \n99.2% \n(99. 1%, \n99.3%) \n97.9% \n(97. 8%, \n98.1%) \n17,459 \n86% \n(82%, \n88%) \n97% \n(95%, \n98%) \n94% \n(92%, \n95%) \nN1 1,263 \n43.2 % \n(40.4%, \n45.9%) \n98.8% \n(98.7%, \n99.0%) \n97.0% \n(96.8%, \n97.1%) \n3,293 \n41% \n(33%, \n48%) \n94% \n(93%, \n96%) \n91% \n(90%, \n93%) \nN2 17,542 \n92.6% \n(92.3%, \n93.0%) \n89.4% \n(89.0%, \n89.8%) \n90.9% \n(90.6 %, \n91.2%) \n26,839 \n77% \n(73%, \n81%) \n87% \n(85%, \n90%) \n83% \n(80%, \n85%) \nN3 6,852 \n92.3 % \n(91.6%, \n92.9 %) \n97.5% \n(97.3%, \n97.7%) \n96.6% \n(96.4%, \n96.7%) \n5,587 \n81% \n(74%, \n88%) \n93% \n(91%, \n95%) \n92% \n(90%, \n94%) \nREM 4,278 \n80.9% \n(79.6%, \n82.0%) \n99.1% \n(99.0%, \n99.2%) \n97.0% \n(96.8%, \n97.2%) \n6,541 \n79% \n(72%, \n84%) \n99% \n(98%, \n99%) \n96% \n(96%, \n97%) \nTotal 37,802 89.7% \n(89.4%, 90.0%) 59,719 78% \n(77%, 80%) \nNone 766 - 1,432 - \nOverall -Epochs assigned by 2/3 Majority Scoring \nPage 15 of 21",
+      "extraction_method": "native",
+      "character_count": 1411
+    },
+    {
+      "block_id": "K210034-P019-B001",
+      "page": 19,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Adult OSA Severity Subgroup Index \nThe subject device EnsoSleep and predicate device EnsoSleep (K162627) clinical performance \nresults compared for Endpoint 2, sleep apnea diagnostic agreement. For all diagnostic agreement \nexperiments evaluated in Endpoint 2, mild-AHI and moderate-AHI subject device PA, NA, and \nOA performance exceeded, were equivalent to, or were within 10% of the predicate device PA, \nNA, and OA performance, with statistically significant differences (greater performance) \nobserved for NA and OA in mild-AHI. On the basis that the subject device met or exceeded \nobjective PA, NA, and OA performance goals for sleep apnea diagnostic in all comparisons, \nEnsoSleep is considered substantially equivalent to the predicate device agreement for the \nanalyzed OSA diagnostic severity groups. \nAdult Sample Per -Patient EnsoSleep and Predicate Sleep Apn ea Diagnostic Agreement \nEnsoSleep vs 2/3 Majority Scoring Adult \nSample (K210034) \nPredicate vs 2/3 Majority Scoring \nAdult Sample (K162627) \nEnsoSleep EnsoSleep REM Predicate Predicate REM \nAHI ≥ 5 AHI ≥ 15 AHI ≥ 5 AHI ≥ 15 AHI ≥ \n5 \nAHI ≥ \n15 \nAHI ≥ \n5 \nAHI ≥ \n15 \nSample size (n) 100 100 100 100 72 72 72 72 \nPositive Percent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile CI's (R=2000) \n94.4% \n(89.0%, \n98.7%) \n94.0% \n(85.7%, \n100.0%) \n86.7% \n(77.6%, \n95.0%) \n81.5% \n(65.0%, \n95.5.%) \n91% \n(82%, \n98%) \n95% \n(83%, \n100%) \n83% \n(72%, \n94%) \n79% \n(56%, \n94%) \nNegative Percent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile CI's (R=2000) \n89.7% \n(75.8%, \n100.0%) \n96.3% \n(90.9%, \n100.0%) \n83.0% \n(71.1%, \n93.6%) \n93.3% \n(86.8%, \n98.6%) \n76% \n(61%, \n90%) \n98% \n(94%, \n100%) \n89% \n(75%, \n97%) \n96% \n(87%, \n100%) \nOverall Percent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile CI's (R=2000) \n93.0% \n(88.0%, \n97.0%) \n95.0% \n(90.0%, \n100.0%) \n85.0% \n(78.0%, \n92.0%) \n90.0% \n(84.0%, \n95.0%) \n85% \n(77%, \n92%) \n97% \n(93%, \n100%) \n86% \n(76%, \n93%) \n92% \n(85%, \n97%) \nLikelihood ratio (+) 9.146 \n(3.879, ∞) \n25.458 \n(10.154, \n∞) \n5.069 \n(2.962, \n13.597) \n12.052 \n(5.977, \n55.250) \n3.76 52.25 7.71 22.00 \nLiklihood ratio ( -) \n0.062 \n(0.014, \n0.127) \n0.062 \n(0.000, \n0.151) \n0.162 \n(0.060, \n0.278) \n0.198 \n(0.049, \n0.384) \n0.12 0.05 0.19 0.22 \nPage 16 of 21",
+      "extraction_method": "native",
+      "character_count": 2271
+    },
+    {
+      "block_id": "K210034-P020-B001",
+      "page": 20,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Pediatric OSA Severity Subgroup \nThe subject device EnsoSleep and predicate device EnsoSleep ( K162627) clinical performance \nresults compared for supplemental study results of Endpoint 2, pediatric and predicate adult sleep \napnea diagnostic agreement. The supplemental pediatric subgroup statistical analysis results \nshowed strong sleep apnea diagnostic agreement performance across a range of clinically \nrelevant subgroup thresholds appropriate for pediatric patients. Based on review of each of the \nagreement performance measures and the two -sided 95% bootstrap CIs, observations confirmed \nno statistically significant differences in pediatric patient PA, NA, or OA performance, neither \nby relative nor absolute comparisons, to the predicate device adult patient PA, NA, or OA \nperformance observed. On the basis that EnsoSleep met or exceeded objective perfor mance goals \nfor the additional pediatric validation data provides further support that the device is \nsubstantially equivalent in pediatric subjects when compared to the performance of adult subjects \nin the predicate device. \nE\nnsoSleep vs 2/3 Majority Scoring Pediatric Sample Predicate vs 2/3 Majority \nScoring Adult Sample \nEnsoSleep (K210034) Predicate (K162627) \nAHI ≥ 1 AHI ≥ 5 AHI ≥ 10 AHI ≥ 15 AHI ≥ 5 AHI ≥ 15 \nSample size (n) 47 47 47 47 72 72 \nPositive Percent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile CI's (R=2000) \n94.4% \n(85.3%, \n100 .0%) \n90.5% \n(75.0%, \n100.0%) \n78.6% \n(45.5 %, \n100 .0%) \n85.7% \n(44.4 %, \n100.0%) \n91% \n(82%, 98%) \n95% \n(83%, 100%) \nNegative Percent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile CI's (R=2000) \n77.8 % \n(50.0%, \n100.0%) \n100 .0% \n(100.0%, \n100.0%) \n94.9% \n(86.5%, \n100 .0%) \n100.0% \n(100.0%, \n100.0%) \n76% \n(61%, 90%) \n98% \n(94%, 100%) \nOverall Percent Agreement (%) \nwith two-sided 95% bootstrap \nmedian percentile CI's (R=2000) \n89.4% \n(80.9 %, \n97.9%) \n95.7% \n(89. 4%, \n100 .0%) \n91.5% \n(83.0%, \n97.9%) \n97.9% \n(93. 6%, \n100.0%) \n85% \n(77%, 92%) \n97% \n(93%, 100%) \nLikelihood ratio (+) 4.190 \n(1.892 , ∞) \n∞ \n(∞, ∞) \n15.692 \n(5.067 , ∞) \n∞ \n(∞,∞) 3.76 52.25 \nLiklihood ratio ( -) \n0.070 \n(0.0 00, \n0.205 ) \n0.09 5 \n(0.000, \n0.250) \n0.222 \n(0.0 00, \n0.578 ) \n0.143 \n(0.000, \n0.556 ) \n0.12 0.05 \nPage 17 of 21",
+      "extraction_method": "native",
+      "character_count": 2272
+    },
+    {
+      "block_id": "K210034-P021-B001",
+      "page": 21,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Sleep Scoring Event Detection\nThe subject device EnsoSleep, predicate device EnsoSleep (K162627), and reference device \nM\nICHELE Sleep Scoring (K112102) clinical performance results compared for Endpoint 3, \nevent detection agreement. For hypop neas and central apneas, the MICHELE Sleep Scoring \nperformance testing did not calculate OA for individual event types and as such only PA and NA \ncomparisons were established. For all event detection experiments including SDB, OSA, HYP, \nCSA, Arousal, and Leg Movement event types, the point -estimates of the subject device PA, NA \nand OA event detection performance exceeded, were equivalent to, or were within 5% of the \nreference device PA, NA and OA performance, with statistically significant differences (greater \nperformance) observed in a majority of cases. On the basis that EnsoSleep met or exceeded \nobjective PA, NA, and OA performance goals for these event types in all comparisons the device \nis considered substantially equivalent to the predicate device SDB, OSA, HYP, CSA, Arousal, \nand Leg Movement event detection performanc e. \nEvent Detection \nClinical \nPerformance \nComparisons \nAdult Sample Pooled -Epochs EnsoSleep \n(K210034) vs 2/3 Majority Event Detection \nPerformance \nAdult Sample Overall -Pooled Predicate \n(K162627) and Reference Predicate (K112102) \nvs 2/3 Majority Event Detection Performance \n(N=100, \n84,408 \nPSG \nepochs) \nBootstrapped point -estimate of \nmedian Percent Agreement \n(%) with 95% percentile bootstrap \nconfidence interval (R=2000 \nresamples) \n(N=72 \nsubjects, \n59719 \nepochs) \nBootstrapped point -estimate of \nmedian Percent Agreement \n(%) with 95% percentile bootstrap \nconfidence interval (R=1000 \nresamples) \nTotal \nEpochs \nPositive \nAgree-\nment (PA) \nNegative \nAgree-\nment (NA) \nOverall \nAgree-\nment (OA) \nTotal \nEpochs \nPositive \nAgree-\nment (PA) \nNegative \nAgree-\nment \n(NA) \nOverall \nAgree-\nment \n(OA) \nSleep \nDisordered \nBreathing \nEvents \n8108 \n75.4% \n(74.5%, \n76.3%) \n97.0% \n(96.9%, \n97.2%) \n94.9% \n(94.8%, \n95.1%) \n4705 \n67% \n(58%, \n75%) \n93% \n(92%, \n94%) \n91% \n(90%, \n92%) \nHypopnea \nEvents 4420 \n66.3% \n(64.9%, \n67.6%) \n97.1% \n(97.0%, \n97.2%) \n95.5% \n(95.4%, \n95.6%) \n1822 60.3% 97.6% n/r \nObstructive \nApnea \nEvents \n1659 \n74.1% \n(72.1%, \n76.1%) \n99.3% \n(99.2%, \n99.3%) \n98.8% \n(98.7%, \n98.8%) \n1066 \n53% \n(35%, \n71%) \n97% \n(96%, \n97%) \n96% \n(95%, \n97%) \nCentral \nApnea \nEvents \n1505 \n65.3% \n(63.1%, \n67.6%) \n99.5% \n(99.5%, \n99.6%) \n98.9% \n(98.8%, \n99.0%) \n177 63.8% 99.6% n/r \nArousal \nEvents 9047 \n73.6% \n(72.7%, \n74.5%) \n95.6% \n(95.5%, \n95.7%) \n93.2% \n(93.1%, \n93.4%) \n7686 \n66% \n(61%, \n71%) \n90% \n(88%, \n91%) \n87% \n(85%, \n88%) \nLeg \nMovement \nEvents \n6018 \n82.0% \n(81.0%, \n83.0%) \n92.4% \n(92.2%, \n92.6%) \n91.7% \n(91.5%, \n91.8%) \n5796 \n71% \n(60%, \n80%) \n90% \n(89%, \n92%) \n89% \n(87%, \n90%) \nOverall -Epochs assigned by 2/3 Majority Scoring \nPage 18 of 21",
+      "extraction_method": "native",
+      "character_count": 2867
+    },
+    {
+      "block_id": "K210034-P022-B001",
+      "page": 22,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Event Detection \nClinical \nPerformance \nComparisons \nPediatric Sample Pooled -Epochs EnsoSleep \n(K210034) vs 2/3 Majority Event Detection \nPerformance \nAdult Sample Overall -Pooled Predicate \n(K162627) and Reference Predicate (K112102) \nvs 2/3 Majority Event Detection Performance \n(N=47, \n38,568 \nPSG \nepochs) \nBootstrapped point -estimate of \nmedian Percent Agreement \n(%) with 95% percentile bootstrap \nconfidence interval (R=2000 \nresamples) \n(N=72 \nsubjects, \n59719 \nepochs) \nBootstrapped point -estimate of \nmedian Percent Agreement \n(%) with 95% percentile bootstrap \nconfidence interval (R=1000 \nresamples) \nTotal \nEpochs \nPositive \nAgree-\nment (PA) \nNegative \nAgree-\nment (NA) \nOverall \nAgree-\nment (OA) \nTotal \nEpochs \nPositive \nAgree-\nment (PA) \nNegative \nAgree-\nment \n(NA) \nOverall \nAgree-\nment \n(OA) \nSleep \nDisordered \nBreathing \nEvents \n1480 \n72.7% \n(70.4%, \n74.9 %) \n98.6% \n(98.4%, \n98.7 %) \n97.6% \n(97.4%, \n97.7 %) \n4705 \n67% \n(58%, \n75%) \n93% \n(92%, \n94%) \n91% \n(90%, \n92%) \nHypopnea \nEvents 1046 \n68.8% \n(66.0%, \n71.6%) \n98.9% \n(98. 8%, \n99.0%) \n98.0% \n(97.9%, \n98.2%) \n1822 60.3% 97.6% n/r \nObstructive \nApnea \nEvents \n105 \n45.5% \n(36.0%, \n54.8%) \n99.7% \n(99.6%, \n99.7%) \n99.5% \n(99.5%, \n99.6%) \n1066 \n53% \n(35%, \n71%) \n97% \n(96%, \n97%) \n96% \n(95%, \n97%) \nCentral \nApnea \nEvents \n277 \n68.9% \n(63.5%, \n74.1%) \n99.7% \n(99. 7%, \n99.8%) \n99.5% \n(99. 4%, \n99.6%) \n177 63.8% 99.6% n/r \nArousal \nEvents 3018 \n78.6% \n(77.1 %, \n80.0%) \n97.0% \n(96. 8%, \n97.2%) \n95.5% \n(95. 3%, \n95.7%) \n7686 \n66% \n(61%, \n71%) \n90% \n(88%, \n91%) \n87% \n(85%, \n88%) \nLeg \nMovement \nEvents \n1247 \n66.0% \n(63.4%, \n68.6%) \n95.5% \n(95.3%, \n95.7%) \n94.5% \n(94. 3%, \n94.8%) \n5796 \n71% \n(60%, \n80%) \n90% \n(89%, \n92%) \n89% \n(87%, \n90%) \nOverall -Epochs assigned by 2/3 Majority Scoring \nPage 19 of 21",
+      "extraction_method": "native",
+      "character_count": 1782
+    },
+    {
+      "block_id": "K210034-P023-B001",
+      "page": 23,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "Total Sleep Time \nThe subject device EnsoSleep clinical performance results compared for supplemental study \nresults of Endpoint 4, Total Sleep Time (TST) comparison. The reported results and observations \nshowed that the Deming regression analysis and Bland-Altman mean difference analysis met or \nexceed ed all acceptance criteria for each experiment type relative to the predicate device TST \nindex agreement performance. The subject device PPG-TST and EEG-TST demonstrated \nstatistically similar performance in all of the RR, adult, and pediatric samples respe ctively, \ndemonstrated no clinically significant deviations in performance based on the Bootstrap two-\nsided 95% confidence intervals for the observed mean differences, upper and lower limits of \nagreement, or regression coefficient parameters, and met or exceeded all objective performance \nevaluation criteria specified by the clinical study protocol and the supplemental clinical study \nanalyses. Thus, EnsoSleep TST index agreement performance is determined to be substantially \nequivalent to the predicate based on acceptance criteria, and safe and effective for use. \nPer-Patient EnsoSleep Adult, Pediatric, \nand RR Sample Total Sleep Time Index \nPerformance (K210034) \nEnsoSleep PPG-\nTST vs 2/3 \nMajority Scoring \nTST Respiratory \nRate Sample \nEnsoSleep EEG-\nTST vs 2/3 \nMajority Scoring \nTST Respiratory \nRate Sample \nEnsoSleep EEG-\nTST vs 2/3 \nMajority Scoring \nTST Adult \nSample \nEnsoSleep EEG-\nTST vs 2/3 \nMajority Scoring \nTST Pediatric \nSample \nDeming Regression plot Slope β1 (DRpS -\nβ1) with two -sided 95% bootstrap median \npercentile CI's (R=2000) \n0.964 \n(0.860, 1.067) \n0.984 \n(0.925, 1.023) \n1.037 \n(0.974, 1.201) \n1.006 \n(0.98 8, 1.018) \nDeming Regression plot Intercept β0 \n(DRpI-β0) [hours] with two -sided 95% \nbootstrap median percentile CI's \n(R=2000) \n0.089 \n(-0.484, 0.663) \n0.156 \n(-0.071, 0.504) \n-0.181\n(-1.101, 0.182) \n0.021 \n(-0.034, 0.134) \nBland-Altman difference plot mean \ndifference (BADp-MD) [minutes] with \n95% Limits of Agreement (LOAs) for 1.96 \nstandard deviations (1.96SD) of the \naverage difference including two -sided \n95% bootstrap -t CI's (R=2000) with the \nMD, upper (BADp- ULOA) [minutes], and \nlower (BADp-LLOA) [minutes] limits of \nagreement \nMD: 5.380 \n(2.372, 8.475) \nMD: -4.785 \n(-6.131, -2.237) \nMD: 0.515 \n(-4.173, 2.331) \nMD: -3.255 \n(-4. 411, -1.472) \nULOA: 73.463 \n(68.332, 78.743) \nULOA: 32.922 \n(30.625, 37.269) \nULOA: 57.750 \n(49.751, 60.849) \nULOA: 10.654 \n(9.310 , 12.728 ) \nLLOA: -62.703 \n(-67.835, -57.423) \nLLOA: -42.492 \n(-44.789, -38.145) \nLLOA: -56.720 \n(-64.718, -53.621) \nLLOA: -17.164 \n(-18.508, -15.091) \nC\nlinical Performance Conclusion\nNon- clinical and clinical verification, validation, and performance testing were conducted in \naccordance with FDA’s relevant recommendations to confirm the device design met all \nspecifications, user needs for qualified clinical and non-clinical users. \nEns\noSleep has passed all of the verification and validation tests and provided clinical \nperformance testing results that demonstrate safety, effectiveness for the intended use of the \ndevice and that the performance data demonstrate that the new technological characteristics \nproposed in this 510(k) submission are substantially equivalent to the predicate device. \nN\newly introduced sleep staging, scoring, and physiologic al signal-based analysis to provide \nevent detection and sleep apnea diagnostic severity agreement performance were tested with \nPage 20 of 21",
+      "extraction_method": "native",
+      "character_count": 3504
+    },
+    {
+      "block_id": "K210034-P024-B001",
+      "page": 24,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "CONTINUE ON A SEPARATE PAGE IF NEEDED.",
+      "text": "acceptable methods and provided data to support a determination of substantially equivalent as \ncompared to the predicate device based on the indications for use and pre-specified acceptance \ncriteria. \nTh\ne EnsoSleep subject device performance is statistically similar to the predicate device \nperformance, by comparison to a double -blind, prospective 2/3 Majority Scoring panel \nconsensus reference of independent, qualified sleep technologist scorers, providing a dditional \nobjective evidence that EnsoSleep is safe and effective within the indications for use. Based on \nthe submitted clinical performance validation testing protocols, controls, methodology, evidence, \nand results, EnsoSleep and its sleep staging event, scoring event, physiological analysis for event \ndetection and sleep apnea severity diagnostic agreement demonstrate substantial equivalence to \nthe predicate device. \nC\nONCLUSIONS \nThe subject device EnsoSleep and the predicate have the same intended use and are similar in \nbasic technological characteristics to the predicate device EnsoSleep K162627. The new device \ncharacteristics do not raise different questions of safety and effectiveness. The subject device \nEnsoSleep includes a new target patient population (pediatrics ages 13 and up for in-clinic and \nhospital PSG) and use of home sleep testing with adult patients to produce automated event \ndetection of previously recorded PSGs. \nA\nclinical study was performed on retrospective data of adults (18 ye ars and older) and pediatrics \n(13-17 years old) and submitted in support of the new claims for the subject device. The study \nexamined sleep scoring accuracy including hypopnea, apnea, arousal, respiratory, and movement \nevents. One hundred adult and 47 pedi atric retrospective sleep studies were scored by three \nclinicians and compared to the subject device automated scoring and compared to predicate and \nreference predicate devices. The results of the study show that the subject device automated \nscoring performs equal to or better than the predicate and reference devices. The clinical study \nconfirmed the safety and effectiveness of the subject device and there were no complications or \ncontraindications found during the study. \nE\nnsoSleep has passed the aforemen tioned verification and validation tests and provided clinical \nperformance testing results with a clinical dataset in order to demonstrate safety and \neffectiveness as compared to the predicate device. It is therefore concluded that the subject \nEnsoSleep device is substantially equivalent to the predicate EnsoSleep device. \nPage 21 of 21",
+      "extraction_method": "native",
+      "character_count": 2615
+    }
+  ],
+  "claims": []
+}

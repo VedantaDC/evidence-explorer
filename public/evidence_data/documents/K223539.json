@@ -1,0 +1,321 @@
+{
+  "document": {
+    "k_number": "K223539",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "Dreem 3S",
+    "applicant": "Beacon Biosignals, Inc.",
+    "decision_date": "2023-08-18",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K223539.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K223539",
+    "sha256": "9b0593744b8314861df2870a73739ce7cead94c8cc69e3bd48d13c7419442f98",
+    "page_count": 10,
+    "native_pages": 10,
+    "ocr_pages": 0,
+    "family_id": "PSG-038",
+    "family_name": "Dreem 3S",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 06 . 0 3 \nSilver Spring, MD 20993 \nwww.fda.gov \n\n\n\n\n\n\nAugust 18, 2023 \nBeacon Biosignals, Inc. \n℅ Delphine Lemoine \nRegulatory Affairs Project Manager \n17-21 rue Saint-Fiacre \nParis, 75002, France \n\nRe: K223539 \nTrade/Device Name: Dreem 3S \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ, OLV \nDated: July 19, 2023 \nReceived: July 20, 2023 \n\nDear Delphine Lemoine: \n\nWe have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. Although this letter refers to your product as a device, please be aware that \nsome cleared products may instead be combination products. The 510(k) Premarket Notification Database \nlocated at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register. \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for",
+      "character_count": 2767
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K223539 - Delphine Lemoine Page \n\n2 \ndevices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for \ncombination products; and, if applicable, the electronic product radiation control provisions (Sections 531-\n542 of the Act); 21 CFR 1000-1050. \n\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \n\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). \n\nSincerely, \n\n\n\n\n\nfor \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional \nand Neurodiagnostic Devices \nOHT5: Office of Neurological \nand Physical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health \n\nEnclosure \n\n\nPatrick Antkowiak -S",
+      "character_count": 2038
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES\nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 06/30/2023\nSee PRA Statement below.\n510(k) Number (if known)\nK223539\nDevice Name\nDreem 3S\nIndications for Use (Describe)\nThe Dreem 3S is intended for prescription use to measure, record, display, transmit and analyze the electrical activity of\nthe brain to assess sleep and awake in the home or healthcare environment.\nThe Dreem 3S can also output a hypnogram of sleep scoring by 30-second epoch and summary of sleep metrics derived\nfrom this hypnogram.\nThe Dreem 3S is used for the assessment of sleep on adult individuals (22 to 65 years old). The Dreem 3S allows for the\ngeneration of user/predefined reports based on the subject’s data.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”",
+      "character_count": 1918
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "510(k) Summary Dreem 3S \n1 \n510(k) Summary \nThis summary of 510(k) safety and effectiveness information is submitted in accordance with the \nrequirements of 21 CFR 807.92. \nGeneral Information \nSubmitter: Beacon Biosignals, Inc. \n22 Boston Wharf Rd., \n7th Floor, unit 41, \nBoston, MA 02210 \nUSA \nContact Person: Delphine Lemoine \nRegulatory Affairs project manager \n17-21 rue Saint-Fiacre\nParis\nFrance\nDate Prepared: 19 July 2023 \nDevice Information \nTrade name: Dreem 3S \nCommon Name: Sleep Assessment System \nRegulation: 21 CFR 882.1400, Electroencephalograph \nProduct code: OLZ, OLV \nDevice Class: 2 \nReview Panel: Neurology \nPredicate Device \nNox Medical, Nox Sleep System - K192469. \nDevice Description \nThe Dreem 3S headband contains microelectronics, within a flexible case made of plastic, foam, and \nfabric. It includes 6 EEG electrodes and a 3D accelerometer sensor.",
+      "character_count": 876
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "510(k) Summary Dreem 3S \n2 \nThe EEG signal is measured by two electrodes in the frontal band (prefrontal position) and two at the \nback of the head (occipital position), along with one reference electrode and one ground electrode. \nThe 3D accelerometer is embedded in the top of the headband to ensure accurate measurements of \nthe wearer’s head movement during the night. The raw EEG and accelerometer data are transferred \nto Dreem's servers for further analysis after the night is over. \nThe device includes a bone -conduction speaker with volume control to provide notifications to the \nwearer, and a power button circled by a multicolor LED light \nThe device generates a sleep report that includes a sleep staging for each 30-second epoch during the \nnight. This output is produced using an algorithm that analyzes data from the headband EEG and \naccelerometer sensors. A raw data file is also available in EDF format. \nThe algorithm uses raw EEG data and accelerometer data to provide automatic sleep staging according \nto the AASM classification. The algorithm is implemented with an artificial neural network. Frequency \nspectrums are computed from raw data and then passed to several neural network layers including \nrecurrent layers and attention layers. The algorithm outputs prediction for several epochs of 30 \nseconds at the same time, every 30 seconds. The various outputs for a single epoch of 30 seconds are \ncombined to provide robust sleep scoring. \nIndication for use \nThe Dreem 3S is intended for prescription use to measure, record, display, transmit and analyze the \nelectrical activity of the brain to assess sleep in the home or healthcare environment. \nThe Dreem 3S can also output a hypnogram of sleep scoring by 30 -second epoch and summary of \nsleep metrics derived from this hypnogram. \nThe Dreem 3S is used for the assessment of sleep on adult individuals (22 to 65 years old). The Dreem \n3S allows for the generation of user/predefined reports based on the subject’s data. \nTechnological Characteristics and Comparison \nThe Dreem 3S is substantially equivalent to the Nox Sleep System (K192469) from Nox Medical based \non the technological and performance characteristics as described in the summary table below. \nThe subject device Dreem 3S and the predicate Nox Sleep System are both for the assessment of sleep \nand are both used to measure, record, display, transmit and analyze physiological parameters during \nsleep and wake in the home and healthcare facility. Both subject and predicate devices are used to \naid diagnosis of adult patients with disturbed sleep . Both devices allow for the generation of \nuser/predefined reports based on the subject’s data. Both the subject and predicate devices may be \nused in home and healthcare facilities. Both devices are for prescription use only. \nIt is thus concluded that the intended use of the Dreem 3S is substantially equivalent to the Nox \nSleep System. \nThe comparison table below is provided as a summary of the most relevant characteristics of the \nDreem 3S relative to the primary predicate Nox Sleep System. \nTechnological Subject Device Predicate Device Comparison to",
+      "character_count": 3162
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "510(k) Summary Dreem 3S \n3 \nCharacteristic Predicate Device \nDevice Name Dreem 3S Nox Sleep System N/A \nManufacturer Beacon Biosignals, Inc. NOX MEDICAL N/A \n510(k) # K223539 K192469 N/A \nRegulation Number 21 CFR 882.1400 21 CFR 882.1400 Same \nClass 2 2 Same \nDevice \nClassification Name \nAutomatic Event Detection \nSoftware for PSG with EEG \nAutomatic Event Detection \nSoftware For PSG With EEG \nSame \nLike the Predicate Device , \nthe Dreem 3S is composed \nof a software for automatic \nanalysis and staging of the \nEEG measurements. \nProduct Codes OLZ, OLV OLZ, KZM Same regulation and \nprimary product code \n882.1400 \nPortable Design Yes Yes same \nPatient Worn Device Yes Yes same \nPhysical dimensions Head perimeter 540mm to \n620mm. \nOne size fits all. Adjustable \nwith XS, S, M, L spacers. \nNox A1 Recorder: 82x63x21 \nmm \nNox C1 Access Point: \n135x149x26 mm \nsame \nWeight 130g Nox A1 Recorder: \n92 g (120 g with battery) \nNox C1 Access Point: 264 g \nNo significant difference \nMaterials ABS Soft polyester fabric Plastic, \nABS/Polycarbonate blend \nSimilar materials of \nconstruction. \nMethod of Connection to \nPatient \n6 dry electrodes for EEG \nassessment on the \nheadband. \n3D-accelerometer for \nmovement/body position \nassessment. \nBone conduction audio \nsystem. \nRespiratory bands/belts for \nrespiratory effort. \nRespiratory bands/belts for \nattaching the device and clip \nstraps to secure the position \nof the device Plastic tubing \nand cannula for pressure \nsensing. \nSnap-on electrode cables \nwith snap -on disposable \nelectrodes for EMG/EOG. \nThermal flow \nsensors/thermocouple for \nmeasuring nasal/oral \nairflow. \nNox A1 EEG 5 Lead Gold \nElectrode Cable and Nox A1 \nThe Dreem 3S only utilizes \nEEG electrodes unlike the \npredicate, which has \nadditional inputs which can \nbe selected by the user if \nneeded. \nThe use of only EEG \nelectrodes does not impact \nthe subject device’s \nperformance for the \nintended use in automatic \nsleep scoring.",
+      "character_count": 1954
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "510(k) Summary Dreem 3S \n4 \nEEG Head Cable for EEG/EOG. Surface electrode leads for EEG/EOG/EMG. Surface Electrodes for measuring of leg movements. Wrist-worn oximeter and probes for oximetry worn on the finger. Data Analysis Automatic scoring and derived sleep metrics are provided to the health care provider through a specific report, in a pdf file. Manual analysis and marking are available on raw data. \nYes, by use of Noxturnal PSG SW (PC). Automatic results may be manipulated (manual review/verification must be performed prior to diagnosis). Manual analysis. Event marking (scoring). Technician Notes. \nBoth devices allow the generation of reports with accurate data analysis and provide access to the patient's raw data. \n#Channels of data recorded 5 EEG channels from 5 electrodes: Frontal - Occipital Frontal - Occipital Frontal - Frontal \nNox A1 recorder: up to 26 Nox C1 Access Point: up to 16 The subject device has fewer EEG channels than the predicate device. \nOperating Time Up to 24 hours Up to 8 hours Subject device has longer battery life. Sensors - EEG dry electrodes x6 - Accelerometer - Nox A1 EEG 5 Lead Gold Electrode Cable - Disposable electrodes for EMG/EOG - Thermal flow sensors / thermocouple - Surface Electrodes for measuring leg movements - Oximeter and probes for oximetry \nThe Subject Device’s sensors are a subset of the Predicate Device’s sensors. Also, we note that, while the predicate device does not use dry EEG electrodes, the. Neuronaute (K170138) is an example of a FDA cleared device that does use dry EEG electrodes. \nRecording Time Same as the operating time. Up to 24 hours. Up to 8 hours Subject device has longer recording time Non-Clinical Performance The Dreem 3S has been evaluated against the following electromagnetic compatibility and electrical safety standards: ● IEC 60601-1:2005+A1:2012 Medical electrical equipment - Part 1: General requirements for basic safety and essential performance ● IEC 60601-1-2:2014 Medical electrical equipment - Part 1-2: General requirements for basic safety and essential performance - Collateral standard: Electromagnetic compatibility - Requirements and tests",
+      "character_count": 2155
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "510(k) Summary Dreem 3S \n5 \n● IEC TR 60601-4-2:2016 Medical electrical equipment – Part 4-2: Guidance and interpretation\n–El ectromagnetic immunity: performance of medical electrical equipment and medical\nelectrical systems\nThe Dreem 3S is intended to be used in the patient’s home and has been evaluated against the \nfollowing electrical safety and performance standard for home healthcare environment: \n● IEC 60601-1-11:2015 Medical electrical equipment - Part 1-11: General requirements for basic\nsafety and essential performance – Collateral Standard: Requirements for medical electrical\nequipment and medical electrical systems used in the home healthcare environment\nThe Dreem 3S has undergone usability testing to comply with standards ”IEC 60601-1-6:2010+A1:2013 \nMedical electrical equipment - Part 1- 6: General requirements for basic safety and essential \nperformance - Collateral standard: Usability” and “IEC 62366-1:2015/Amd1:2020 Medical devices — \nPart 1: Application of usability engineering to medical devices – Amendment 1”. \nAll body contacting components (fabric inside the headband, front and back electrodes, bone \nconduction, pod) have gone through successful biocompatibility testing according to biocompatibility \nstandards: \n● ISO 10993-1 Fifth Edition 2018 Biological evalu ation of medical devices – Part 1: Evaluation\nand testing within a risk management process\n● ISO 10993-5 Third Edition 2009 Biological evaluation of medical devices — Part 5: Tests for in\nvitro cytotoxicity\n● ISO 10993-10 Third Edition 2010 Biological evaluation of medical devices — Part 10: Tests for\nirritation and skin sensitization\nClinical Performance \nThe Dreem 3S performance has been assessed through the following investigations: \nPerformance compared to lab PSG. A clinical investigation was completed that compared \nDreem 3S sleep staging output with a 510(k) -cleared PSG system in a sleep lab setting on \npatients with disturbed sleep. This study included 38 subjects ranging from 23 to 66 years old \nwith a mean ± standard deviation age of 35.8 ± 11.6 years . Subjects were equally split \nbetween male and female, and included individuals self -identified as White, Black African \nAmerican, Asian, Hispanic and some not identified. A total of 36447 epochs, corresponding \nto about 303 hours and 43 minutes of sleep were included the study. \nData from this study is summarized in a confusion matrix below in table 2 comparing the \nperformance of the Dreem device with expert -scored sleep stages from a cleared device. \nTable 3 provides subject-level positive agreement for each stage with bootstrapped \nconfidence interval. \n● IEC 60601-2-26 Medical electrical equipment -- Part 2-26: Particular requirements for the \nbasic safety and essential performance of electroencephalographs",
+      "character_count": 2799
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "510(k) Summary Dreem 3S \n6 \nTable 2: Confusion matrix comparing Dreem 3S and consensus of expert -scored PSG for all sleep \nepochs is summarized as percentages in the table below. \nConsensus from manual staging \nW N1 N2 N3 REM \nDreem 3S \n(Automated analysis) \nW 90.7% 14.1% 0.6% 0.1% 1.4% \nN1 4.4% 55.2% 1.8% 0.0% 1.0% \nN2 0.8% 21.8% 83.7% 2.1% 2.2% \nN3 0.2% 0.2% 11.7% 97.8% 0.0% \nREM 3.8% 8.7% 2.2% 0.0% 90.7% \nUnassigned 0.01% 0.0% 0.0% 0.0% 0.0% \nEpoch \ncount 6719 2582 17534 3922 5690 \nTable 3: Average subject-level positive agreement (PA) per sleep stage of the Dreem 3S compared to \nthe expert-scored PSG with bootstrapped confidence intervals (CI). \nStage \nDreem 3S \nPositive Agreement with \nBootstrapped CI estimates (2.5%, 97.5%) \nWake 88.5% (85.1%, 91.3%) \nN1 58.0% (52.7%, 63.0%) \nN2 83.4% (80.7%, 85.7%) \nN3 98.2% (96.73%, 99.3%) \nREM 91.57% (86.63%, 95.72%) \nEEG data quality. A study was conducted to establish that EEG data quality from Dreem 3S is \nsufficient for manual review and scoring of data. 96.6% epochs per night of recording were \ndetermined to be acceptable for manual scoring and sleep staging by at least two out of three",
+      "character_count": 1152
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "510(k) Summary Dreem 3S \n7 \nreviewers qualified to read EEG and/or PSG data. All data recordings reviewed had ³4 hours \nof data considered to be scoreable by at least two out three reviewers. \nUsability Study. An investigation was completed to assess usability in the home setting and \nshowed that the device could be successfully used and was tolerated by study subjects. \nConclusions \nBased on the comparison to the predicate device and performance studies , the Dreem 3S is \nsubstantially equivalent to the currently U.S. legally marketed device Nox Sleep System (K192469) and \npresents no new concerns about safety or effectiveness.",
+      "character_count": 636
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K223539-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 06 . 0 3 \nSilver Spring, MD 20993 \nwww.fda.gov",
+      "extraction_method": "native",
+      "character_count": 130
+    },
+    {
+      "block_id": "K223539-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "August 18, 2023 \nBeacon Biosignals, Inc. \n℅ Delphine Lemoine \nRegulatory Affairs Project Manager \n17-21 rue Saint-Fiacre \nParis, 75002, France",
+      "extraction_method": "native",
+      "character_count": 142
+    },
+    {
+      "block_id": "K223539-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K223539 \nTrade/Device Name: Dreem 3S \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ, OLV \nDated: July 19, 2023 \nReceived: July 20, 2023",
+      "extraction_method": "native",
+      "character_count": 215
+    },
+    {
+      "block_id": "K223539-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Dear Delphine Lemoine:",
+      "extraction_method": "native",
+      "character_count": 22
+    },
+    {
+      "block_id": "K223539-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "We have reviewed your Section 510(k) premarket notification of intent to market the device referenced \nabove and have determined the device is substantially equivalent (for the indications for use stated in the \nenclosure) to legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the \nenactment date of the Medical Device Amendments, or to devices that have been reclassified in accordance \nwith the provisions of the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a \npremarket approval application (PMA). You may, therefore, market the device, subject to the general \ncontrols provisions of the Act. Although this letter refers to your product as a device, please be aware that \nsome cleared products may instead be combination products. The 510(k) Premarket Notification Database \nlocated at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "native",
+      "character_count": 1345
+    },
+    {
+      "block_id": "K223539-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K223539-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR 803) for",
+      "extraction_method": "native",
+      "character_count": 520
+    },
+    {
+      "block_id": "K223539-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "K223539 - Delphine Lemoine Page",
+      "extraction_method": "native",
+      "character_count": 31
+    },
+    {
+      "block_id": "K223539-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "2 \ndevices or postmarketing safety reporting (21 CFR 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR 4, Subpart A) for \ncombination products; and, if applicable, the electronic product radiation control provisions (Sections 531-\n542 of the Act); 21 CFR 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 560
+    },
+    {
+      "block_id": "K223539-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR Part \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems.",
+      "extraction_method": "native",
+      "character_count": 356
+    },
+    {
+      "block_id": "K223539-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "For comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-\nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "extraction_method": "native",
+      "character_count": 760
+    },
+    {
+      "block_id": "K223539-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Sincerely,",
+      "extraction_method": "native",
+      "character_count": 10
+    },
+    {
+      "block_id": "K223539-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "for \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional \nand Neurodiagnostic Devices \nOHT5: Office of Neurological \nand Physical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health",
+      "extraction_method": "native",
+      "character_count": 266
+    },
+    {
+      "block_id": "K223539-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Enclosure",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K223539-P002-B008",
+      "page": 2,
+      "ordinal": 8,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Patrick Antkowiak -S",
+      "extraction_method": "native",
+      "character_count": 20
+    },
+    {
+      "block_id": "K223539-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "FORM FDA 3881 (6/20) Page 1 of 1 PSC Publishing Services (301) 443-6740 EF\nDEPARTMENT OF HEALTH AND HUMAN SERVICES\nFood and Drug Administration\nIndications for Use\nForm Approved: OMB No. 0910-0120\nExpiration Date: 06/30/2023\nSee PRA Statement below.\n510(k) Number (if known)\nK223539\nDevice Name\nDreem 3S\nIndications for Use (Describe)\nThe Dreem 3S is intended for prescription use to measure, record, display, transmit and analyze the electrical activity of\nthe brain to assess sleep and awake in the home or healthcare environment.\nThe Dreem 3S can also output a hypnogram of sleep scoring by 30-second epoch and summary of sleep metrics derived\nfrom this hypnogram.\nThe Dreem 3S is used for the assessment of sleep on adult individuals (22 to 65 years old). The Dreem 3S allows for the\ngeneration of user/predefined reports based on the subject’s data.\nType of Use (Select one or both, as applicable)\nPrescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C)\nCONTINUE ON A SEPARATE PAGE IF NEEDED.\nThis section applies only to requirements of the Paperwork Reduction Act of 1995.\n*DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.*\nThe burden time for this collection of information is estimated to average 79 hours per response, including the\ntime to review instructions, search existing data sources, gather and maintain the data needed and complete\nand review the collection of information. Send comments regarding this burden estimate or any other aspect\nof this information collection, including suggestions for reducing this burden, to:\nDepartment of Health and Human Services\nFood and Drug Administration\nOffice of Chief Information Officer\nPaperwork Reduction Act (PRA) Staff\nPRAStaff@fda.hhs.gov\n“An agency may not conduct or sponsor, and a person is not required to respond to, a collection of\ninformation unless it displays a currently valid OMB number.”",
+      "extraction_method": "native",
+      "character_count": 1918
+    },
+    {
+      "block_id": "K223539-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "510(k) Summary Dreem 3S \n1 \n510(k) Summary \nThis summary of 510(k) safety and effectiveness information is submitted in accordance with the \nrequirements of 21 CFR 807.92. \nGeneral Information \nSubmitter: Beacon Biosignals, Inc. \n22 Boston Wharf Rd., \n7th Floor, unit 41, \nBoston, MA 02210 \nUSA \nContact Person: Delphine Lemoine \nRegulatory Affairs project manager \n17-21 rue Saint-Fiacre\nParis\nFrance\nDate Prepared: 19 July 2023 \nDevice Information \nTrade name: Dreem 3S \nCommon Name: Sleep Assessment System \nRegulation: 21 CFR 882.1400, Electroencephalograph \nProduct code: OLZ, OLV \nDevice Class: 2 \nReview Panel: Neurology \nPredicate Device \nNox Medical, Nox Sleep System - K192469. \nDevice Description \nThe Dreem 3S headband contains microelectronics, within a flexible case made of plastic, foam, and \nfabric. It includes 6 EEG electrodes and a 3D accelerometer sensor.",
+      "extraction_method": "native",
+      "character_count": 876
+    },
+    {
+      "block_id": "K223539-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "510(k) Summary Dreem 3S \n2 \nThe EEG signal is measured by two electrodes in the frontal band (prefrontal position) and two at the \nback of the head (occipital position), along with one reference electrode and one ground electrode. \nThe 3D accelerometer is embedded in the top of the headband to ensure accurate measurements of \nthe wearer’s head movement during the night. The raw EEG and accelerometer data are transferred \nto Dreem's servers for further analysis after the night is over. \nThe device includes a bone -conduction speaker with volume control to provide notifications to the \nwearer, and a power button circled by a multicolor LED light \nThe device generates a sleep report that includes a sleep staging for each 30-second epoch during the \nnight. This output is produced using an algorithm that analyzes data from the headband EEG and \naccelerometer sensors. A raw data file is also available in EDF format. \nThe algorithm uses raw EEG data and accelerometer data to provide automatic sleep staging according \nto the AASM classification. The algorithm is implemented with an artificial neural network. Frequency \nspectrums are computed from raw data and then passed to several neural network layers including \nrecurrent layers and attention layers. The algorithm outputs prediction for several epochs of 30 \nseconds at the same time, every 30 seconds. The various outputs for a single epoch of 30 seconds are \ncombined to provide robust sleep scoring. \nIndication for use \nThe Dreem 3S is intended for prescription use to measure, record, display, transmit and analyze the \nelectrical activity of the brain to assess sleep in the home or healthcare environment. \nThe Dreem 3S can also output a hypnogram of sleep scoring by 30 -second epoch and summary of \nsleep metrics derived from this hypnogram. \nThe Dreem 3S is used for the assessment of sleep on adult individuals (22 to 65 years old). The Dreem \n3S allows for the generation of user/predefined reports based on the subject’s data. \nTechnological Characteristics and Comparison \nThe Dreem 3S is substantially equivalent to the Nox Sleep System (K192469) from Nox Medical based \non the technological and performance characteristics as described in the summary table below. \nThe subject device Dreem 3S and the predicate Nox Sleep System are both for the assessment of sleep \nand are both used to measure, record, display, transmit and analyze physiological parameters during \nsleep and wake in the home and healthcare facility. Both subject and predicate devices are used to \naid diagnosis of adult patients with disturbed sleep . Both devices allow for the generation of \nuser/predefined reports based on the subject’s data. Both the subject and predicate devices may be \nused in home and healthcare facilities. Both devices are for prescription use only. \nIt is thus concluded that the intended use of the Dreem 3S is substantially equivalent to the Nox \nSleep System. \nThe comparison table below is provided as a summary of the most relevant characteristics of the \nDreem 3S relative to the primary predicate Nox Sleep System. \nTechnological Subject Device Predicate Device Comparison to",
+      "extraction_method": "native",
+      "character_count": 3162
+    },
+    {
+      "block_id": "K223539-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "510(k) Summary Dreem 3S \n3 \nCharacteristic Predicate Device \nDevice Name Dreem 3S Nox Sleep System N/A \nManufacturer Beacon Biosignals, Inc. NOX MEDICAL N/A \n510(k) # K223539 K192469 N/A \nRegulation Number 21 CFR 882.1400 21 CFR 882.1400 Same \nClass 2 2 Same \nDevice \nClassification Name \nAutomatic Event Detection \nSoftware for PSG with EEG \nAutomatic Event Detection \nSoftware For PSG With EEG \nSame \nLike the Predicate Device , \nthe Dreem 3S is composed \nof a software for automatic \nanalysis and staging of the \nEEG measurements. \nProduct Codes OLZ, OLV OLZ, KZM Same regulation and \nprimary product code \n882.1400 \nPortable Design Yes Yes same \nPatient Worn Device Yes Yes same \nPhysical dimensions Head perimeter 540mm to \n620mm. \nOne size fits all. Adjustable \nwith XS, S, M, L spacers. \nNox A1 Recorder: 82x63x21 \nmm \nNox C1 Access Point: \n135x149x26 mm \nsame \nWeight 130g Nox A1 Recorder: \n92 g (120 g with battery) \nNox C1 Access Point: 264 g \nNo significant difference \nMaterials ABS Soft polyester fabric Plastic, \nABS/Polycarbonate blend \nSimilar materials of \nconstruction. \nMethod of Connection to \nPatient \n6 dry electrodes for EEG \nassessment on the \nheadband. \n3D-accelerometer for \nmovement/body position \nassessment. \nBone conduction audio \nsystem. \nRespiratory bands/belts for \nrespiratory effort. \nRespiratory bands/belts for \nattaching the device and clip \nstraps to secure the position \nof the device Plastic tubing \nand cannula for pressure \nsensing. \nSnap-on electrode cables \nwith snap -on disposable \nelectrodes for EMG/EOG. \nThermal flow \nsensors/thermocouple for \nmeasuring nasal/oral \nairflow. \nNox A1 EEG 5 Lead Gold \nElectrode Cable and Nox A1 \nThe Dreem 3S only utilizes \nEEG electrodes unlike the \npredicate, which has \nadditional inputs which can \nbe selected by the user if \nneeded. \nThe use of only EEG \nelectrodes does not impact \nthe subject device’s \nperformance for the \nintended use in automatic \nsleep scoring.",
+      "extraction_method": "native",
+      "character_count": 1954
+    },
+    {
+      "block_id": "K223539-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "510(k) Summary Dreem 3S \n4 \nEEG Head Cable for EEG/EOG. Surface electrode leads for EEG/EOG/EMG. Surface Electrodes for measuring of leg movements. Wrist-worn oximeter and probes for oximetry worn on the finger. Data Analysis Automatic scoring and derived sleep metrics are provided to the health care provider through a specific report, in a pdf file. Manual analysis and marking are available on raw data. \nYes, by use of Noxturnal PSG SW (PC). Automatic results may be manipulated (manual review/verification must be performed prior to diagnosis). Manual analysis. Event marking (scoring). Technician Notes. \nBoth devices allow the generation of reports with accurate data analysis and provide access to the patient's raw data. \n#Channels of data recorded 5 EEG channels from 5 electrodes: Frontal - Occipital Frontal - Occipital Frontal - Frontal \nNox A1 recorder: up to 26 Nox C1 Access Point: up to 16 The subject device has fewer EEG channels than the predicate device. \nOperating Time Up to 24 hours Up to 8 hours Subject device has longer battery life. Sensors - EEG dry electrodes x6 - Accelerometer - Nox A1 EEG 5 Lead Gold Electrode Cable - Disposable electrodes for EMG/EOG - Thermal flow sensors / thermocouple - Surface Electrodes for measuring leg movements - Oximeter and probes for oximetry \nThe Subject Device’s sensors are a subset of the Predicate Device’s sensors. Also, we note that, while the predicate device does not use dry EEG electrodes, the. Neuronaute (K170138) is an example of a FDA cleared device that does use dry EEG electrodes. \nRecording Time Same as the operating time. Up to 24 hours. Up to 8 hours Subject device has longer recording time Non-Clinical Performance The Dreem 3S has been evaluated against the following electromagnetic compatibility and electrical safety standards: ● IEC 60601-1:2005+A1:2012 Medical electrical equipment - Part 1: General requirements for basic safety and essential performance ● IEC 60601-1-2:2014 Medical electrical equipment - Part 1-2: General requirements for basic safety and essential performance - Collateral standard: Electromagnetic compatibility - Requirements and tests",
+      "extraction_method": "native",
+      "character_count": 2155
+    },
+    {
+      "block_id": "K223539-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "510(k) Summary Dreem 3S \n5 \n● IEC TR 60601-4-2:2016 Medical electrical equipment – Part 4-2: Guidance and interpretation\n–El ectromagnetic immunity: performance of medical electrical equipment and medical\nelectrical systems\nThe Dreem 3S is intended to be used in the patient’s home and has been evaluated against the \nfollowing electrical safety and performance standard for home healthcare environment: \n● IEC 60601-1-11:2015 Medical electrical equipment - Part 1-11: General requirements for basic\nsafety and essential performance – Collateral Standard: Requirements for medical electrical\nequipment and medical electrical systems used in the home healthcare environment\nThe Dreem 3S has undergone usability testing to comply with standards ”IEC 60601-1-6:2010+A1:2013 \nMedical electrical equipment - Part 1- 6: General requirements for basic safety and essential \nperformance - Collateral standard: Usability” and “IEC 62366-1:2015/Amd1:2020 Medical devices — \nPart 1: Application of usability engineering to medical devices – Amendment 1”. \nAll body contacting components (fabric inside the headband, front and back electrodes, bone \nconduction, pod) have gone through successful biocompatibility testing according to biocompatibility \nstandards: \n● ISO 10993-1 Fifth Edition 2018 Biological evalu ation of medical devices – Part 1: Evaluation\nand testing within a risk management process\n● ISO 10993-5 Third Edition 2009 Biological evaluation of medical devices — Part 5: Tests for in\nvitro cytotoxicity\n● ISO 10993-10 Third Edition 2010 Biological evaluation of medical devices — Part 10: Tests for\nirritation and skin sensitization\nClinical Performance \nThe Dreem 3S performance has been assessed through the following investigations: \nPerformance compared to lab PSG. A clinical investigation was completed that compared \nDreem 3S sleep staging output with a 510(k) -cleared PSG system in a sleep lab setting on \npatients with disturbed sleep. This study included 38 subjects ranging from 23 to 66 years old \nwith a mean ± standard deviation age of 35.8 ± 11.6 years . Subjects were equally split \nbetween male and female, and included individuals self -identified as White, Black African \nAmerican, Asian, Hispanic and some not identified. A total of 36447 epochs, corresponding \nto about 303 hours and 43 minutes of sleep were included the study. \nData from this study is summarized in a confusion matrix below in table 2 comparing the \nperformance of the Dreem device with expert -scored sleep stages from a cleared device. \nTable 3 provides subject-level positive agreement for each stage with bootstrapped \nconfidence interval. \n● IEC 60601-2-26 Medical electrical equipment -- Part 2-26: Particular requirements for the \nbasic safety and essential performance of electroencephalographs",
+      "extraction_method": "native",
+      "character_count": 2799
+    },
+    {
+      "block_id": "K223539-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "510(k) Summary Dreem 3S \n6 \nTable 2: Confusion matrix comparing Dreem 3S and consensus of expert -scored PSG for all sleep \nepochs is summarized as percentages in the table below. \nConsensus from manual staging \nW N1 N2 N3 REM \nDreem 3S \n(Automated analysis) \nW 90.7% 14.1% 0.6% 0.1% 1.4% \nN1 4.4% 55.2% 1.8% 0.0% 1.0% \nN2 0.8% 21.8% 83.7% 2.1% 2.2% \nN3 0.2% 0.2% 11.7% 97.8% 0.0% \nREM 3.8% 8.7% 2.2% 0.0% 90.7% \nUnassigned 0.01% 0.0% 0.0% 0.0% 0.0% \nEpoch \ncount 6719 2582 17534 3922 5690 \nTable 3: Average subject-level positive agreement (PA) per sleep stage of the Dreem 3S compared to \nthe expert-scored PSG with bootstrapped confidence intervals (CI). \nStage \nDreem 3S \nPositive Agreement with \nBootstrapped CI estimates (2.5%, 97.5%) \nWake 88.5% (85.1%, 91.3%) \nN1 58.0% (52.7%, 63.0%) \nN2 83.4% (80.7%, 85.7%) \nN3 98.2% (96.73%, 99.3%) \nREM 91.57% (86.63%, 95.72%) \nEEG data quality. A study was conducted to establish that EEG data quality from Dreem 3S is \nsufficient for manual review and scoring of data. 96.6% epochs per night of recording were \ndetermined to be acceptable for manual scoring and sleep staging by at least two out of three",
+      "extraction_method": "native",
+      "character_count": 1152
+    },
+    {
+      "block_id": "K223539-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "510(k) Summary Dreem 3S \n7 \nreviewers qualified to read EEG and/or PSG data. All data recordings reviewed had ³4 hours \nof data considered to be scoreable by at least two out three reviewers. \nUsability Study. An investigation was completed to assess usability in the home setting and \nshowed that the device could be successfully used and was tolerated by study subjects. \nConclusions \nBased on the comparison to the predicate device and performance studies , the Dreem 3S is \nsubstantially equivalent to the currently U.S. legally marketed device Nox Sleep System (K192469) and \npresents no new concerns about safety or effectiveness.",
+      "extraction_method": "native",
+      "character_count": 636
+    }
+  ],
+  "claims": []
+}

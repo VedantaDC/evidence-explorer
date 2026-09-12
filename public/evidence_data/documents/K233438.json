@@ -1,0 +1,487 @@
+{
+  "document": {
+    "k_number": "K233438",
+    "corpus": "OLV/OLZ",
+    "product_code": "OLZ",
+    "device_name": "SleepStageML",
+    "applicant": "Beacon Biosignals, Inc.",
+    "decision_date": "2024-03-08",
+    "document_type": "Summary",
+    "source_status": "available",
+    "download_status": "downloaded",
+    "source_url": "https://www.accessdata.fda.gov/cdrh_docs/pdf23/K233438.pdf",
+    "fda_detail_url": "https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm?ID=K233438",
+    "sha256": "ce7682f58cda367e71fc70e55d3c7a236780f16732f4b20418e2653aeb651f76",
+    "page_count": 11,
+    "native_pages": 11,
+    "ocr_pages": 0,
+    "family_id": "",
+    "family_name": "",
+    "retrieval_snapshot": "2026-09-12",
+    "rights_review": "FDA-hosted public record; source link and retrieval date retained",
+    "claim_count": 0,
+    "pending_claim_count": 0,
+    "review_status": "pending"
+  },
+  "pages": [
+    {
+      "page": 1,
+      "extraction_method": "native",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 06 . 0 9 \nSilver Spring, MD 20993 \nwww.fda.gov \n\n\n\n\n\n\nMarch 8, 2024 \nBeacon Biosignals, Inc. \nDelphine Lemoine \nSenior Regulatory Affairs Specialist \n22 Boston Wharf Road \n7th Floor, Unit 41 \nBoston, Massachusetts 02210 \n\n\nRe: K233438 \nTrade/Device Name: SleepStageML \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: February 9, 2024 \nReceived: February 9, 2024 \n\nDear Delphine Lemoine: \n\nWe have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading. \n\nIf your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register. \n\nFDA's substantial equivalence determination also included the review and clearance of your Predetermined \nChange Control Plan (PCCP). Under section 515C(b)(1) of the Act, a new premarket notification is not \nrequired for a change to a device cleared under section 510(k) of the Act, if such change is consistent with an",
+      "character_count": 2601
+    },
+    {
+      "page": 2,
+      "extraction_method": "native",
+      "text": "K233438 - Delphine Lemoine Page \n\n2 \nestablished PCCP granted pursuant to section 515C(b)(2) of the Act. Under 21 CFR 807.81(a)(3), a new \npremarket notification is required if there is a major change or modification in the intended use of a device, \nor if there is a change or modification in a device that could significantly affect the safety or effectiveness of \nthe device, e.g., a significant change or modification in design, material, chemical composition, energy \nsource, or manufacturing process. Accordingly, if deviations from the established PCCP result in a major \nchange or modification in the intended use of the device, or result in a change or modification in the device \nthat could significantly affect the safety or effectiveness of the device, then a new premarket notification \nwould be required consistent with section 515C(b)(1) of the Act and 21 CFR 807.81(a)(3). Failure to submit \nsuch a premarket submission would constitute adulteration and misbranding under sections 501(f)(1)(B) and \n502(o) of the Act, respectively. \n\nAdditional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\" \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download). \n\nYour device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part \n820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming \nproduct; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a \nchange requires premarket review, the QS regulation requires device manufacturers to review and approve \nchanges to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and \napprovals in the device master record (21 CFR 820.181). \n\nPlease be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart \nA) for combination products; and, if applicable, the electronic product radiation control provisions (Sections \n531-542 of the Act); 21 CFR Parts 1000-1050. \n\nAlso, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems. \n\nFor comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-",
+      "character_count": 4051
+    },
+    {
+      "page": 3,
+      "extraction_method": "native",
+      "text": "K233438 - Delphine Lemoine Page \n\n3 \nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100). \n\nSincerely, \n\n\n\n\n\nfor \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional \nand Neurodiagnostic Devices \nOHT5: Office of Neurological \nand Physical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health \n\nEnclosure \n\n\nPatrick \nAntkowiak -S",
+      "character_count": 537
+    },
+    {
+      "page": 4,
+      "extraction_method": "native",
+      "text": "K233438 \nDEPARTMENT OF HEALTH AND HUMAN SERVICES Food and Drug Administration Indications for Use Form Approved: OMB No. 0910-0120 Expiration Date: 06/30/2023 See PRA Statement below. Submission Number (if known) \nDevice Name \nIndications for Use (Describe) \nType of Use (Select one or both, as applicable) Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995. *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.* The burden time for this collection of information is estimated to average 79 hours per response, including the time to review instructions, search existing data sources, gather and maintain the data needed and complete and review the collection of information. Send comments regarding this burden estimate or any other aspect of this information collection, including suggestions for reducing this burden, to: Department of Health and Human Services Food and Drug Administration Office of Chief Information Officer Paperwork Reduction Act (PRA) Staff PRAStaff@fda.hhs.gov “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB number.” \nSleepStageML \nSleepStageML is intended for assisting the diagnostic evaluation by a qualified clinician to assess sleep quality from level 1 polysomnography (PSG) recordings in a clinical environment in patients aged 18 and older. SleepStageML is a software-only medical device to be used to analyze physiological signals and automatically score sleep stages. All outputs are subject to review by a qualified clinician.",
+      "character_count": 1745
+    },
+    {
+      "page": 5,
+      "extraction_method": "native",
+      "text": "510(K) SUMMARY Page 1 of 7 \n\nSubmitter \nName: Beacon Biosignals, Inc. \nContact Person: Delphine Lemoine \nAddress: 22 Boston Wharf Road, 7th floor, Unit 41, Boston MA, 02210 \nTelephone: +33 159068311 \nDate Submitted: October 13, 2023 \nSubject Device \nTrade Name: SleepStageML \nCommon Name: SleepStageML \nProduct Code: OLZ \nRegulatory Class: II (21 C.F.R. 882.1400) \nReview Panel: Neurology \nPredicate Device: Sleep Profiler (K153412, Advanced Brain Monitoring, Inc.) \nReference Device: SomnoMetry (K221179, Neumetry Medical Inc.) \nDevice description \nSleepStageML is an Artificial Intelligence/Machine Learning (AI/ML)-enabled software-only \nmedical device that analyzes polysomnography (PSG) recordings and automatically scores \nsleep stages. It is intended for assisting the diagnostic evaluation by a qualified clinician to \nassess sleep quality in patients aged 18 and older. \nQualified clinicians (also referred to as clinical users) such as sleep physicians, sleep \ntechnicians, or registered PSG technologists (RPSGTs) who are qualified to review PSG \nstudies, provide PSG recordings in European Data Format (EDF) file format through a \nsecure file transfer system to Beacon Biosignals. SleepStageML automatically analyzes the \nprovided PSG recording and return an EDF file containing the original PSG recording with \nsoftware-generated sleep stage annotations (i.e., Wake (W), non-REM 1 (N1), non-REM 2 \n(N2), non-REM 3 (N3), and REM (R)) back to the clinical user. The EDF files containing PSG \nsignals as well as sleep stage annotations are referred to as EDF+. The returned EDF+ files \ncan then be reviewed by the qualified clinicians via the users’ PSG viewing software. The \nrecordings processed by SleepStageML are level-1 PSG recordings obtained in an attended \nsetting in accordance with American Association of Sleep Medicine (AASM) \nrecommendations with respect to minimum sampling rate, electroencephalography (EEG) \nchannels, and EEG locations. SleepStageML only uses the EEG signals in provided PSGs \nand does not consider electromyography (EMG) or electrooculography (EOG) signals \nwhen performing sleep staging. The sleep stage outputs of SleepStageML are intended to \nbe comparable to sleep stages as defined by AASM guidelines. SleepStageML software \noutputs are subject to qualified clinician’s review. \n\nThe intended patients for PSG studies include those who are suspected of having, or have \nbeen diagnosed with, a sleep or sleep-related disorder. This could include sleep disordered \nbreathing, insomnia, periodic limb movement disorder, narcolepsy, hypersomnia, or other \nparasomnias. \n\nSleepStageML uses a deep learning algorithm based on convolutional neural networks, \nwhich was trained on a large and diverse set of PSG recordings with sleep staging labels.",
+      "character_count": 2791
+    },
+    {
+      "page": 6,
+      "extraction_method": "native",
+      "text": "510(K) SUMMARY Page 2 of 7 \nThe recordings used for development were collected from a variety of sources containing a \nwide range of patient demographics and clinical sites for robust performance. \nIndication for Use \nSleepStageML is intended for assisting the diagnostic evaluation by a qualified clinician to \nassess sleep quality from level 1 polysomnography (PSG) recordings in a clinical \nenvironment in patients aged 18 and older. \nSleepStageML is a software-only medical device to be used to analyze physiological signals \nand automatically score sleep stages. All outputs are subject to review by a qualified \nclinician.\nIndication for Use Comparison and Technological \nCharacteristics Comparison \nSleepStageML uses an automated algorithm that performs signal preprocessing and \ncategorizes each epoch as one of the defined sleep stages using a machine learning \nclassifier. It has similar intended use and indications for use as the predicate device Sleep \nProfiler (K153412, Advanced Brain Monitoring, Inc.). The predicate device does not explicitly \nmention the use of AI/ML, therefore, SomnoMetry (K221179, Neumetry Medical Inc.), which \ndoes use a similar AI/ML-based algorithm for staging sleep, was added as the reference \ndevice. Verification and validation methods utilized to evaluate safety and efficacy of \nSleepStageML were consistent with methods used for evaluating the predicate and \nreference devices. Software documentation was provided as recommended in FDA \n“Guidance for the Content of Premarket Submissions for Software Contained in Medical \nDevices” dated June 14th, 2023, and the pivotal clinical validation study confirmed that the \nSleepStageML AI/ML software performance was substantially equivalent to that of the \npredicate device. \nElement \nSubject device \nSleepStageML \nPredicate Device \nSleep Profiler \n(K153412) \nReference Device \nSomnoMetry \n(K221179) \nComparison of \nTechnological \nCharacteristics \nClassification \nClass II, OLZ, \nAutomated Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph\nClass II, OLZ, \nAutomated Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph\nClass II, OLZ, \nAutomated Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph\nSame. \nIndication for use \nSleepStageML is \nintended for assisting \nthe diagnostic \nevaluation by a \nqualified clinician to \nassess sleep quality \nfrom level 1 \npolysomnography \n(PSG) recordings in a \nclinical environment in \npatients aged 18 and \nolder. SleepStageML is \na software-only \nmedical device to be \nused to analyze \nphysiological signals \nand automatically \nscore\nsleep stages. All \noutputs are subject to \nreview by a qualified \nclinician. \nSleep Profiler is \nintended for use for \nthe diagnostic \nevaluation by a \nphysician to assess \nsleep quality and score \nsleep disordered \nbreathing events in \nadults only. The Sleep \nProfiler is a software-\nonly device to be used \nunder the supervision \nof a clinician to analyze \nphysiological signals \nand automatically \nscore sleep study \nresults; including the \nstaging of sleep, \ndetection of arousals, \nsnoring and sleep \ndisordered breathing \nSomnoMetry is \nintended for use for \nthe diagnostic \nevaluation by a \nphysician to assess \nsleep quality and as an \naid for the diagnosis of \nsleep and respiratory-\nrelated sleep disorders \nin adults only. \nSomnoMetry is a \nsoftware-only medical \ndevice to be used to \nanalyze physiological \nsignals and \nautomatically score \nsleep study results, \nincluding the staging \nof sleep, AHI, and \ndetection of sleep-\ndisordered breathing \nSimilar. \nSleepStageML only \nassists a qualified \nclinician in assessing \nsleep staging and does \nnot include outputs \nrelated to sleep \ndisordered breathing.",
+      "character_count": 3753
+    },
+    {
+      "page": 7,
+      "extraction_method": "native",
+      "text": "510(K) SUMMARY Page 3 of 7 \nevents (obstructive \napneas, hypopneas \nand respiratory event \nrelated \narousals). Central and \nmixed apneas can be \nmanually marked \nwithin the records \nevents including \nobstructive apneas. It \nis intended to be used \nunder the supervision \nof a clinician in a \nclinical environment. \nAll automatically \nscored events are \nsubject to verification \nby a qualified clinician. \nPatient \npopulation \nAdults only (≥ 18 years \nold) \nAdults only Adults only Similar. \nSleepStageML is \ncleared for individuals \n18 years and older, \nwhile the predicate and \nreference devices are \ncleared for individuals \nadults 22 years and \nolder. \nSleep staging \nguidelines \nAmerican Academy of \nSleep Medicine scoring \nmanual and guidelines. \nAmerican Academy of \nSleep Medicine scoring \nmanual and guidelines. \nAmerican Academy of \nSleep Medicine scoring \nmanual and guidelines. \nSame. \nEnvironment of \nuse \nProfessional Healthcare \nFacility \nProfessional Healthcare \nFacility \nProfessional Healthcare \nFacility \nSame. \nScore sleep \nstaging \nYes Yes Yes Same. \nAlgorithm \ndescription \nAutomated algorithm \nthat performs signal \npreprocessing and \ncategorizes each \nepoch as one of the \ndefined sleep stages \nusing a machine \nlearning classifier. \nAutomated algorithm \nwhich spectrally \ndecomposes the EEG \nsignal, computes \ndescriptors of sleep \nmacro- and \nmicrostructure, and \ncategorizes each \nepoch as one of the \ndefined sleep stages \nA broad array of signal \nprocessing, data \nindexing, conventional \nmachine learning and \ndeep learning \nalgorithms/approaches \nare applied to the raw \nsignals to derive \nactionable clinical \ninsights. \nSame. \nSleepStageML utilizes \nmachine learning and \ndeep learning in a \nsimilar fashion as \npredicate and \nreference devices. \nPhysical \nCharacteristics \nUser requires a \ncomputer with access \nto the internet to \nprovide original PSG \nrecordings in EDF files \nto and receive returned \nEDF+ files with added \nsoftware-generated \nsleep stage \nannotations from \nBeacon Biosignals via \nthe provided secure \nfile transfer system. \nSleep Profiler will \noperate on any \npersonal computer \nwith Windows XP \noperating system and \nat least 2 GB of RAM. \nThe speed by which a \nstudy will process is \ndependent on the \ncomputer processor \nand the amount of \nRAM \nWeb-based software \noperates in the cloud \nwith Windows, Mac \nOS, or Linux \nThe subject device \nrequires that the user \nhas a computer to \nsend/receive EDFs \nto/from Beacon \nBiosignals. The \npredicate and \nreference devices are \nsoftware that are \ndirectly operated by \nthe user. \nCybersecurity \nSoftware operates \nwithin infrastructure \nthat requires user \nauthentication, \nencryption of data at-\nrest and in-transit, \nchecksum verifications, \nand access controls. \nThe person installing \nthe Java applet must \nhave administrator \nprivileges. \nUser must have rights \nto the account and \ngroup to access data \nvia the portal \nThe firewall is not \nconfigured to prevent \ninput or output \nUser authentication \nwith strong password, \nauthorization, end to \nend SSL encryption, \naccess controls, \nchecksum, network \nand database controls, \nintrusion prevention \nsystem, and \nanonymization. \nSimilar. \nSleepStageML \noperates within \ninfrastructure that \nimplements \ncybersecurity \nmeasures \nsimilar to the \nmeasures implemented \nfor the predicate and \nreference devices.",
+      "character_count": 3368
+    },
+    {
+      "page": 8,
+      "extraction_method": "native",
+      "text": "510(K) SUMMARY Page 4 of 7 \n\ncommunication with \naccess to the server via \nports 22 and 30-29 \nPredetermined \nChange Control \nPlan (PCCP) \nIncludes PCCP that \nallows for update of \nthe signal \npreprocessing, \nmachine learning \nmodel, probability \npost-processing, and \nsignal quality check. \nNo PCCP No PCCP Predicate and \nreference devices do \nnot include a PCCP. \nSummary of Tests \nBeacon Biosignals conducted the necessary non-clinical testing and clinical validation \ntesting of SleepStageML with results supporting the determination of substantial \nequivalence. Activities that were conducted included the following: \n• Software verification testing which included software code reviews, automated \ntesting, acceptance testing, labeling review, cybersecurity and data protection, \nwhich confirmed that all software requirements are developed as expected. \n• Design validation testing which simulated the intended use to confirm that the end-\nto-end functionality of SleepStageML meets the design requirements. \n• Study that utilized clinical data to demonstrate automatic scoring sleep study \nperformance. \n• Design traceability confirming that all requirement tracing is complete from design \ninputs to verification/validation and that all risk controls are implemented and \neffective. \nNon-Clinical Tests \nSupport for the substantial equivalence of SleepStageML was provided by requirements \nverification, risk management and software testing, at the unit, integration, and system \nlevels. Unit and integration tests verify the functionality for individual software parts; and \nsystem-level integration tests cover each specified requirement. System level tests were \ndefined with detailed protocols and objective pass/fail criteria and were clearly \ndocumented with test execution results for review. SleepStageML passed all unit, \nintegration, and system level testing demonstrating that all requirements were verified and \nvalidated. \n\nClinical Validation Test \nThe efficacy of SleepStageML was established through a retrospective pivotal validation \nstudy using previously collected clinical polysomnography (PSG) recordings from a \nrepresentative set of 100 patients. Recordings for inclusion in the validation data set were \nrandomly selected from three level 1 clinical PSG data sources and were required to (1) \nhave all EEG channels recommended by the American Academy of Sleep Medicine \n(AASM), (2) have EEG sampling rates between 128 and 512Hz, (3) have a recording \nduration between 4 and 24 hours, and (4) be from patients of least 18 years of age, The \nincluded patients spanned a variety of ages (between 19 and 83), were balanced across sex \n(46 female and 54 male) and were stratified across clinical apnea categories (25 patients in \neach category, normal (AHI < 5), mild (5 ≤ AHI < 15), moderate (15 ≤ AHI < 30), and severe \n(AHI > 30)). \n\nEach PSG recording was manually and independently sleep staged by three (3) registered \nPSG technologists (RPSGTs) each with at least 5 years of experience in clinical scoring of",
+      "character_count": 3044
+    },
+    {
+      "page": 9,
+      "extraction_method": "native",
+      "text": "510(K) SUMMARY Page 5 of 7 \n\nsleep studies. To ensure that the sleep staging outputs obtained from the experts were of \nsufficient quality, several data-quality and consistency checks were performed. \nSleepStageML software performance was evaluated against the expert consensus sleep \nstages that were constructed using 2/3 majority scoring (i.e., the stage per epoch where at \nleast 2 of the 3 experts agree). \nObjective performance targets and acceptance criteria of positive agreement (PA), \nnegative agreement (NA), and overall agreement (OA) were predefined to demonstrate \nnon-inferiority to the identified predicate device, Sleep Profiler (K153412). These metrics \nwere computed for all 30-second epochs that had an expert consensus sleep stage \n(excluding epochs where all 3 RPSGTs disagreed) after pooling across all recordings in the \nstudy. \nTable 1 shows the SleepStageML clinical performance results as compared to the predicate \nreported results. Comparing the 95% bootstrapped confidence intervals and mean values \nto the reference values indicates that SleepStageML is non-inferior to the predicate device. \nTherefore, the results confirm that the positive, negative, and overall agreement \nperformances of SleepStageML are substantially equivalent to those of Sleep Profiler \n(K153412), respectively. \nTABLE 1: SLEEP STAGE ML CLINICAL PERFORMANCE RESULTS \nSleep Staging \nComparisons \nSleepStageML vs 2/3 Consensus Sleep Staging \nPerformance \nSleep Profiler (K153412) vs 2/3 Consensus \nSleep Staging Performance \nN=100 \nsubjects \nPercent Agreement (%) with 95% \npercentile bootstrap confidence \ninterval (N=5000 resamples) \nN=43 \nsubjects \nPoint-estimate of Percent \nAgreement (%) \nTotal \nEpochs \nOverall \nAgreement \n(OA) \nPositive \nAgreement \n(PA) \nNegative \nAgreement \n(NA) \nTotal \nEpochs \nOverall \nAgreement \n(OA) \nPositive \nAgreement \n(PA) \nNegative \nAgreement \n(NA) \nOverall epochs using 2/3 consensus scoring \nW 21,668 \n96.1% \n(95.4%, \n96.8%) \n88.9% \n(86.5%, \n91.2%) \n98.5% \n(98.2%, \n98.8%) \n7,424 89% 73% 94% \nN1 3,877 \n94.5% \n(93.7%, \n95.2%) \n58.4% \n(54.2%, \n62.4%) \n96.2% \n(95.4%, \n96.9%) \n1,752 89% 25% 93% \nN2 42,587 \n87.1% \n(85.9%, \n88.3%) \n79.8% \n(77.7%, \n81.8%) \n94.2% \n(93.2%, \n95.0%) \n12,582 81% 77% 84% \nN3 6,210 \n92.9% \n(91.8%, \n93.8%) \n93.0% \n(89.8%, \n95.7%) \n92.9% \n(91.7%, \n93.9%) \n4,704 91% 76% 94% \nR 12,641 \n97.3% \n(96.7%, \n97.9%) \n93.1% \n(91.5%, \n94.5%) \n98.0% \n(97.3%, \n98.6%) \n3,749 95% 74% 97% \nTotal 86,983 \nMulti-stage \nAgreement: \n84.02% \n— 31,361 — \nNo \nConsensus 2,289 — 1,150 —",
+      "character_count": 2527
+    },
+    {
+      "page": 10,
+      "extraction_method": "native",
+      "text": "510(K) SUMMARY Page 6 of 7 \n\nConclusion \nNon-Clinical verification, validation, and clinical validation testing were conducted in \naccordance with FDA guidance recommendations to confirm the device design meets all \nspecifications and user needs. SleepStageML has passed all software verification and \nvalidation tests and its clinical validation testing results demonstrated effective \nperformance and non-inferiority to predicate device’s performance. It is therefore \nconcluded that SleepStageML is substantially equivalent to the predicate device. \nPredetermined Change Control Plan \nSleepStageML includes an authorized Predetermined Change Control Plan (PCCP) that \nallows for planned updates of the machine learning software device function (ML-DSF) and \nnon-ML algorithmic components to improve sleep staging performance within the existing \nintended use and indications for use. This PCCP allows for the modification of the \nalgorithmic components of SleepStageML including the signal preprocessing, machine \nlearning model, postprocessing, or signal quality check to achieve increased sleep staging \nperformance. The four modifications are summarized in Table 2 below. \nTABLE 2: SUMMARY OF PCCP MODIFICATIONS \n# Modification Description \n1 Update of Machine \nLearning Model \nSleepStageML’s sleep staging neural network may be modified for the \npurposes of improving sleep staging performance within the intended \nuse population by: \n• Retraining with an updated training/tuning dataset \n• Retraining with updated hyper-parameters, loss function, \noptimizer \n• Retraining with updated model selection criteria \n• Retraining with an updated neural network architecture with \nlimitations on model size and type \n2 Update of Signal \nPreprocessing \nSteps \nSleepStageML’s EEG signal preprocessing may be modified for the \npurposes of improving sleep staging performance within the intended \nuse population by: \n• Updating the parameters of the digital signal processing steps \n(e.g., filtering) applied to the EEG signals before being input to \nthe machine learning model \n3 Update of \nProbability \nPostprocessing \nSleepStageML’s probability postprocessing may be modified for the \npurposes of improving sleep staging performance within the intended \nuse population by: \n• Updating the methods by which sleep stages are generated \nfrom the model output sleep stage probabilities \n4 Update of Signal \nQuality Check \nSleepStageML’s signal quality check component may be modified for \nthe purposes of improving sleep staging performance within the \nintended use population by: \n• Updating the criteria/thresholds used to check that the input \nEEG signals are analyzable \n\nModifications 1 and 2 above would trigger re-training of the machine learning model, while \nmodifications 3 and 4 would not trigger re-training of the machine learning model. \nThe testing of any modification to SleepStageML within the scope of the PCCP will include \ncomprehensive software verification and validation testing, including repeating all unit, \nintegration, and system level tests performed in the development for the original",
+      "character_count": 3111
+    },
+    {
+      "page": 11,
+      "extraction_method": "native",
+      "text": "510(K) SUMMARY Page 7 of 7 \n\nSleepStageML software. All software verification tests linked to requirements and \nspecifications must pass for a modification to be considered valid. In addition, clinical \nperformance validation will also be repeated and will require that the performance of any \nmodification to SleepStageML to be non-inferior in per-stage performance metrics to both \nthe original SleepStageML device and its predicate device. In addition, the performance of \nany modification to SleepStageML must also be non-inferior to the best performance \namong released versions of SleepStageML with respect to the multi-stage agreement. The \nacceptance criteria for the clinical performance validation are summarized in the Table 3 \nbelow, as well as the modifications for which each criterion is required to pass. \nTABLE 3: SUMMARY OF PCCP CLINICAL VALIDATION ACCEPTANCE CRITERIA \nAcceptance Criteria \nModifications that \nrequire passing \nthis criterion \nThe per-stage overall, positive, and negative agreements of the modified \nSleepStageML, as compared to human expert consensus, is non-inferior to \nboth the Original SleepStageML and the predicate device for full overnight \nrecordings. \n1, 2, 3, 4 \nThe percentage of human scorable recordings that are unanalyzable by the \nupdated SleepStageML is less than or equal to a predefined threshold. \n4 \nThe per-stage overall, positive, and negative agreements of the modified \nSleepStageML, as compared to human expert consensus, is non-inferior to \nboth the Original SleepStageML and the predicate device for 2-hour \nrecording segments. \n1, 2, 3, 4 \nThe per-stage overall, positive, and negative agreements of the modified \nSleepStageML, as compared to human expert consensus, is non-inferior to \nboth the Original SleepStageML and the predicate device for recordings with \nthe minimum number of AASM recommended EEG channels. \n1, 2, 3, 4 \nThe overall multi-stage agreement (across all 5 sleep stages) of the modified \nSleepStageML is non-inferior to the highest overall multi-stage agreement \nacross all released versions of SleepStageML. \n1, 2, 3, 4 \n\nUpon a release of an updated version of SleepStageML based on this PCCP, \ncommunication will be sent to all external clinical users of SleepStageML, informing them \nthat a new version of SleepStageML is available, with a description of the release and its \nupdated performance.",
+      "character_count": 2387
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "K233438-P001-B001",
+      "page": 1,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "U.S. Food & Drug Administration \n10903 New Hampshire Avenue D o c I D # 0 4 0 1 7 . 06 . 0 9 \nSilver Spring, MD 20993 \nwww.fda.gov",
+      "extraction_method": "native",
+      "character_count": 130
+    },
+    {
+      "block_id": "K233438-P001-B002",
+      "page": 1,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "March 8, 2024 \nBeacon Biosignals, Inc. \nDelphine Lemoine \nSenior Regulatory Affairs Specialist \n22 Boston Wharf Road \n7th Floor, Unit 41 \nBoston, Massachusetts 02210",
+      "extraction_method": "native",
+      "character_count": 165
+    },
+    {
+      "block_id": "K233438-P001-B003",
+      "page": 1,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Document",
+      "text": "Re: K233438 \nTrade/Device Name: SleepStageML \nRegulation Number: 21 CFR 882.1400 \nRegulation Name: Electroencephalograph \nRegulatory Class: Class II \nProduct Code: OLZ \nDated: February 9, 2024 \nReceived: February 9, 2024",
+      "extraction_method": "native",
+      "character_count": 220
+    },
+    {
+      "block_id": "K233438-P001-B004",
+      "page": 1,
+      "ordinal": 4,
+      "type": "heading",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Dear Delphine Lemoine:",
+      "extraction_method": "native",
+      "character_count": 22
+    },
+    {
+      "block_id": "K233438-P001-B005",
+      "page": 1,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "We have reviewed your section 510(k) premarket notification of intent to market the device referenced above \nand have determined the device is substantially equivalent (for the indications for use stated in the enclosure) \nto legally marketed predicate devices marketed in interstate commerce prior to May 28, 1976, the enactment \ndate of the Medical Device Amendments, or to devices that have been reclassified in accordance with the \nprovisions of the Federal Food, Drug, and Cosmetic Act (the Act) that do not require approval of a premarket \napproval application (PMA). You may, therefore, market the device, subject to the general controls \nprovisions of the Act. Although this letter refers to your product as a device, please be aware that some \ncleared products may instead be combination products. The 510(k) Premarket Notification Database \navailable at https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpmn/pmn.cfm identifies combination \nproduct submissions. The general controls provisions of the Act include requirements for annual registration, \nlisting of devices, good manufacturing practice, labeling, and prohibitions against misbranding and \nadulteration. Please note: CDRH does not evaluate information related to contract liability warranties. We \nremind you, however, that device labeling must be truthful and not misleading.",
+      "extraction_method": "native",
+      "character_count": 1351
+    },
+    {
+      "block_id": "K233438-P001-B006",
+      "page": 1,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "If your device is classified (see above) into either class II (Special Controls) or class III (PMA), it may be \nsubject to additional controls. Existing major regulations affecting your device can be found in the Code of \nFederal Regulations, Title 21, Parts 800 to 898. In addition, FDA may publish further announcements \nconcerning your device in the Federal Register.",
+      "extraction_method": "native",
+      "character_count": 370
+    },
+    {
+      "block_id": "K233438-P001-B007",
+      "page": 1,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "FDA's substantial equivalence determination also included the review and clearance of your Predetermined \nChange Control Plan (PCCP). Under section 515C(b)(1) of the Act, a new premarket notification is not \nrequired for a change to a device cleared under section 510(k) of the Act, if such change is consistent with an",
+      "extraction_method": "native",
+      "character_count": 319
+    },
+    {
+      "block_id": "K233438-P002-B001",
+      "page": 2,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "K233438 - Delphine Lemoine Page",
+      "extraction_method": "native",
+      "character_count": 31
+    },
+    {
+      "block_id": "K233438-P002-B002",
+      "page": 2,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "2 \nestablished PCCP granted pursuant to section 515C(b)(2) of the Act. Under 21 CFR 807.81(a)(3), a new \npremarket notification is required if there is a major change or modification in the intended use of a device, \nor if there is a change or modification in a device that could significantly affect the safety or effectiveness of \nthe device, e.g., a significant change or modification in design, material, chemical composition, energy \nsource, or manufacturing process. Accordingly, if deviations from the established PCCP result in a major \nchange or modification in the intended use of the device, or result in a change or modification in the device \nthat could significantly affect the safety or effectiveness of the device, then a new premarket notification \nwould be required consistent with section 515C(b)(1) of the Act and 21 CFR 807.81(a)(3). Failure to submit \nsuch a premarket submission would constitute adulteration and misbranding under sections 501(f)(1)(B) and \n502(o) of the Act, respectively.",
+      "extraction_method": "native",
+      "character_count": 1013
+    },
+    {
+      "block_id": "K233438-P002-B003",
+      "page": 2,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Additional information about changes that may require a new premarket notification are provided in the FDA \nguidance documents entitled \"Deciding When to Submit a 510(k) for a Change to an Existing Device\" \n(https://www.fda.gov/media/99812/download) and \"Deciding When to Submit a 510(k) for a Software \nChange to an Existing Device\" (https://www.fda.gov/media/99785/download).",
+      "extraction_method": "native",
+      "character_count": 377
+    },
+    {
+      "block_id": "K233438-P002-B004",
+      "page": 2,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Your device is also subject to, among other requirements, the Quality System (QS) regulation (21 CFR Part \n820), which includes, but is not limited to, 21 CFR 820.30, Design controls; 21 CFR 820.90, Nonconforming \nproduct; and 21 CFR 820.100, Corrective and preventive action. Please note that regardless of whether a \nchange requires premarket review, the QS regulation requires device manufacturers to review and approve \nchanges to device design and production (21 CFR 820.30 and 21 CFR 820.70) and document changes and \napprovals in the device master record (21 CFR 820.181).",
+      "extraction_method": "native",
+      "character_count": 579
+    },
+    {
+      "block_id": "K233438-P002-B005",
+      "page": 2,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Please be advised that FDA's issuance of a substantial equivalence determination does not mean that FDA \nhas made a determination that your device complies with other requirements of the Act or any Federal \nstatutes and regulations administered by other Federal agencies. You must comply with all the Act's \nrequirements, including, but not limited to: registration and listing (21 CFR Part 807); labeling (21 CFR Part \n801); medical device reporting (reporting of medical device-related adverse events) (21 CFR Part 803) for \ndevices or postmarketing safety reporting (21 CFR Part 4, Subpart B) for combination products (see \nhttps://www.fda.gov/combination-products/guidance-regulatory-information/postmarketing-safety-reporting-\ncombination-products); good manufacturing practice requirements as set forth in the quality systems (QS) \nregulation (21 CFR Part 820) for devices or current good manufacturing practices (21 CFR Part 4, Subpart \nA) for combination products; and, if applicable, the electronic product radiation control provisions (Sections \n531-542 of the Act); 21 CFR Parts 1000-1050.",
+      "extraction_method": "native",
+      "character_count": 1100
+    },
+    {
+      "block_id": "K233438-P002-B006",
+      "page": 2,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Also, please note the regulation entitled, \"Misbranding by reference to premarket notification\" (21 CFR \n807.97). For questions regarding the reporting of adverse events under the MDR regulation (21 CFR Part \n803), please go to https://www.fda.gov/medical-devices/medical-device-safety/medical-device-reporting-\nmdr-how-report-medical-device-problems.",
+      "extraction_method": "native",
+      "character_count": 351
+    },
+    {
+      "block_id": "K233438-P002-B007",
+      "page": 2,
+      "ordinal": 7,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "For comprehensive regulatory information about medical devices and radiation-emitting products, including \ninformation about labeling regulations, please see Device Advice (https://www.fda.gov/medical-\ndevices/device-advice-comprehensive-regulatory-assistance) and CDRH Learn \n(https://www.fda.gov/training-and-continuing-education/cdrh-learn). Additionally, you may contact the \nDivision of Industry and Consumer Education (DICE) to ask a question about a specific regulatory topic. See \nthe DICE website (https://www.fda.gov/medical-devices/device-advice-comprehensive-regulatory-",
+      "extraction_method": "native",
+      "character_count": 582
+    },
+    {
+      "block_id": "K233438-P003-B001",
+      "page": 3,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "K233438 - Delphine Lemoine Page",
+      "extraction_method": "native",
+      "character_count": 31
+    },
+    {
+      "block_id": "K233438-P003-B002",
+      "page": 3,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "3 \nassistance/contact-us-division-industry-and-consumer-education-dice) for more information or contact DICE \nby email (DICE@fda.hhs.gov) or phone (1-800-638-2041 or 301-796-7100).",
+      "extraction_method": "native",
+      "character_count": 180
+    },
+    {
+      "block_id": "K233438-P003-B003",
+      "page": 3,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Sincerely,",
+      "extraction_method": "native",
+      "character_count": 10
+    },
+    {
+      "block_id": "K233438-P003-B004",
+      "page": 3,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "for \nJay Gupta \nAssistant Director \nDHT5A: Division of Neurosurgical, \nNeurointerventional \nand Neurodiagnostic Devices \nOHT5: Office of Neurological \nand Physical Medicine Devices \nOffice of Product Evaluation and Quality \nCenter for Devices and Radiological Health",
+      "extraction_method": "native",
+      "character_count": 266
+    },
+    {
+      "block_id": "K233438-P003-B005",
+      "page": 3,
+      "ordinal": 5,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Enclosure",
+      "extraction_method": "native",
+      "character_count": 9
+    },
+    {
+      "block_id": "K233438-P003-B006",
+      "page": 3,
+      "ordinal": 6,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "Patrick \nAntkowiak -S",
+      "extraction_method": "native",
+      "character_count": 21
+    },
+    {
+      "block_id": "K233438-P004-B001",
+      "page": 4,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "Dear Delphine Lemoine:",
+      "text": "K233438 \nDEPARTMENT OF HEALTH AND HUMAN SERVICES Food and Drug Administration Indications for Use Form Approved: OMB No. 0910-0120 Expiration Date: 06/30/2023 See PRA Statement below. Submission Number (if known) \nDevice Name \nIndications for Use (Describe) \nType of Use (Select one or both, as applicable) Prescription Use (Part 21 CFR 801 Subpart D) Over-The-Counter Use (21 CFR 801 Subpart C) \nCONTINUE ON A SEPARATE PAGE IF NEEDED. \nThis section applies only to requirements of the Paperwork Reduction Act of 1995. *DO NOT SEND YOUR COMPLETED FORM TO THE PRA STAFF EMAIL ADDRESS BELOW.* The burden time for this collection of information is estimated to average 79 hours per response, including the time to review instructions, search existing data sources, gather and maintain the data needed and complete and review the collection of information. Send comments regarding this burden estimate or any other aspect of this information collection, including suggestions for reducing this burden, to: Department of Health and Human Services Food and Drug Administration Office of Chief Information Officer Paperwork Reduction Act (PRA) Staff PRAStaff@fda.hhs.gov “An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB number.” \nSleepStageML \nSleepStageML is intended for assisting the diagnostic evaluation by a qualified clinician to assess sleep quality from level 1 polysomnography (PSG) recordings in a clinical environment in patients aged 18 and older. SleepStageML is a software-only medical device to be used to analyze physiological signals and automatically score sleep stages. All outputs are subject to review by a qualified clinician.",
+      "extraction_method": "native",
+      "character_count": 1745
+    },
+    {
+      "block_id": "K233438-P005-B001",
+      "page": 5,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "510(K) SUMMARY Page 1 of 7",
+      "text": "510(K) SUMMARY Page 1 of 7",
+      "extraction_method": "native",
+      "character_count": 26
+    },
+    {
+      "block_id": "K233438-P005-B002",
+      "page": 5,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 1 of 7",
+      "text": "Submitter \nName: Beacon Biosignals, Inc. \nContact Person: Delphine Lemoine \nAddress: 22 Boston Wharf Road, 7th floor, Unit 41, Boston MA, 02210 \nTelephone: +33 159068311 \nDate Submitted: October 13, 2023 \nSubject Device \nTrade Name: SleepStageML \nCommon Name: SleepStageML \nProduct Code: OLZ \nRegulatory Class: II (21 C.F.R. 882.1400) \nReview Panel: Neurology \nPredicate Device: Sleep Profiler (K153412, Advanced Brain Monitoring, Inc.) \nReference Device: SomnoMetry (K221179, Neumetry Medical Inc.) \nDevice description \nSleepStageML is an Artificial Intelligence/Machine Learning (AI/ML)-enabled software-only \nmedical device that analyzes polysomnography (PSG) recordings and automatically scores \nsleep stages. It is intended for assisting the diagnostic evaluation by a qualified clinician to \nassess sleep quality in patients aged 18 and older. \nQualified clinicians (also referred to as clinical users) such as sleep physicians, sleep \ntechnicians, or registered PSG technologists (RPSGTs) who are qualified to review PSG \nstudies, provide PSG recordings in European Data Format (EDF) file format through a \nsecure file transfer system to Beacon Biosignals. SleepStageML automatically analyzes the \nprovided PSG recording and return an EDF file containing the original PSG recording with \nsoftware-generated sleep stage annotations (i.e., Wake (W), non-REM 1 (N1), non-REM 2 \n(N2), non-REM 3 (N3), and REM (R)) back to the clinical user. The EDF files containing PSG \nsignals as well as sleep stage annotations are referred to as EDF+. The returned EDF+ files \ncan then be reviewed by the qualified clinicians via the users’ PSG viewing software. The \nrecordings processed by SleepStageML are level-1 PSG recordings obtained in an attended \nsetting in accordance with American Association of Sleep Medicine (AASM) \nrecommendations with respect to minimum sampling rate, electroencephalography (EEG) \nchannels, and EEG locations. SleepStageML only uses the EEG signals in provided PSGs \nand does not consider electromyography (EMG) or electrooculography (EOG) signals \nwhen performing sleep staging. The sleep stage outputs of SleepStageML are intended to \nbe comparable to sleep stages as defined by AASM guidelines. SleepStageML software \noutputs are subject to qualified clinician’s review.",
+      "extraction_method": "native",
+      "character_count": 2298
+    },
+    {
+      "block_id": "K233438-P005-B003",
+      "page": 5,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 1 of 7",
+      "text": "The intended patients for PSG studies include those who are suspected of having, or have \nbeen diagnosed with, a sleep or sleep-related disorder. This could include sleep disordered \nbreathing, insomnia, periodic limb movement disorder, narcolepsy, hypersomnia, or other \nparasomnias.",
+      "extraction_method": "native",
+      "character_count": 284
+    },
+    {
+      "block_id": "K233438-P005-B004",
+      "page": 5,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 1 of 7",
+      "text": "SleepStageML uses a deep learning algorithm based on convolutional neural networks, \nwhich was trained on a large and diverse set of PSG recordings with sleep staging labels.",
+      "extraction_method": "native",
+      "character_count": 174
+    },
+    {
+      "block_id": "K233438-P006-B001",
+      "page": 6,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 1 of 7",
+      "text": "510(K) SUMMARY Page 2 of 7 \nThe recordings used for development were collected from a variety of sources containing a \nwide range of patient demographics and clinical sites for robust performance. \nIndication for Use \nSleepStageML is intended for assisting the diagnostic evaluation by a qualified clinician to \nassess sleep quality from level 1 polysomnography (PSG) recordings in a clinical \nenvironment in patients aged 18 and older. \nSleepStageML is a software-only medical device to be used to analyze physiological signals \nand automatically score sleep stages. All outputs are subject to review by a qualified \nclinician.\nIndication for Use Comparison and Technological \nCharacteristics Comparison \nSleepStageML uses an automated algorithm that performs signal preprocessing and \ncategorizes each epoch as one of the defined sleep stages using a machine learning \nclassifier. It has similar intended use and indications for use as the predicate device Sleep \nProfiler (K153412, Advanced Brain Monitoring, Inc.). The predicate device does not explicitly \nmention the use of AI/ML, therefore, SomnoMetry (K221179, Neumetry Medical Inc.), which \ndoes use a similar AI/ML-based algorithm for staging sleep, was added as the reference \ndevice. Verification and validation methods utilized to evaluate safety and efficacy of \nSleepStageML were consistent with methods used for evaluating the predicate and \nreference devices. Software documentation was provided as recommended in FDA \n“Guidance for the Content of Premarket Submissions for Software Contained in Medical \nDevices” dated June 14th, 2023, and the pivotal clinical validation study confirmed that the \nSleepStageML AI/ML software performance was substantially equivalent to that of the \npredicate device. \nElement \nSubject device \nSleepStageML \nPredicate Device \nSleep Profiler \n(K153412) \nReference Device \nSomnoMetry \n(K221179) \nComparison of \nTechnological \nCharacteristics \nClassification \nClass II, OLZ, \nAutomated Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph\nClass II, OLZ, \nAutomated Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph\nClass II, OLZ, \nAutomated Event \nDetection Software for \nPolysomnograph with \nElectroencephalograph\nSame. \nIndication for use \nSleepStageML is \nintended for assisting \nthe diagnostic \nevaluation by a \nqualified clinician to \nassess sleep quality \nfrom level 1 \npolysomnography \n(PSG) recordings in a \nclinical environment in \npatients aged 18 and \nolder. SleepStageML is \na software-only \nmedical device to be \nused to analyze \nphysiological signals \nand automatically \nscore\nsleep stages. All \noutputs are subject to \nreview by a qualified \nclinician. \nSleep Profiler is \nintended for use for \nthe diagnostic \nevaluation by a \nphysician to assess \nsleep quality and score \nsleep disordered \nbreathing events in \nadults only. The Sleep \nProfiler is a software-\nonly device to be used \nunder the supervision \nof a clinician to analyze \nphysiological signals \nand automatically \nscore sleep study \nresults; including the \nstaging of sleep, \ndetection of arousals, \nsnoring and sleep \ndisordered breathing \nSomnoMetry is \nintended for use for \nthe diagnostic \nevaluation by a \nphysician to assess \nsleep quality and as an \naid for the diagnosis of \nsleep and respiratory-\nrelated sleep disorders \nin adults only. \nSomnoMetry is a \nsoftware-only medical \ndevice to be used to \nanalyze physiological \nsignals and \nautomatically score \nsleep study results, \nincluding the staging \nof sleep, AHI, and \ndetection of sleep-\ndisordered breathing \nSimilar. \nSleepStageML only \nassists a qualified \nclinician in assessing \nsleep staging and does \nnot include outputs \nrelated to sleep \ndisordered breathing.",
+      "extraction_method": "native",
+      "character_count": 3753
+    },
+    {
+      "block_id": "K233438-P007-B001",
+      "page": 7,
+      "ordinal": 1,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 1 of 7",
+      "text": "510(K) SUMMARY Page 3 of 7 \nevents (obstructive \napneas, hypopneas \nand respiratory event \nrelated \narousals). Central and \nmixed apneas can be \nmanually marked \nwithin the records \nevents including \nobstructive apneas. It \nis intended to be used \nunder the supervision \nof a clinician in a \nclinical environment. \nAll automatically \nscored events are \nsubject to verification \nby a qualified clinician. \nPatient \npopulation \nAdults only (≥ 18 years \nold) \nAdults only Adults only Similar. \nSleepStageML is \ncleared for individuals \n18 years and older, \nwhile the predicate and \nreference devices are \ncleared for individuals \nadults 22 years and \nolder. \nSleep staging \nguidelines \nAmerican Academy of \nSleep Medicine scoring \nmanual and guidelines. \nAmerican Academy of \nSleep Medicine scoring \nmanual and guidelines. \nAmerican Academy of \nSleep Medicine scoring \nmanual and guidelines. \nSame. \nEnvironment of \nuse \nProfessional Healthcare \nFacility \nProfessional Healthcare \nFacility \nProfessional Healthcare \nFacility \nSame. \nScore sleep \nstaging \nYes Yes Yes Same. \nAlgorithm \ndescription \nAutomated algorithm \nthat performs signal \npreprocessing and \ncategorizes each \nepoch as one of the \ndefined sleep stages \nusing a machine \nlearning classifier. \nAutomated algorithm \nwhich spectrally \ndecomposes the EEG \nsignal, computes \ndescriptors of sleep \nmacro- and \nmicrostructure, and \ncategorizes each \nepoch as one of the \ndefined sleep stages \nA broad array of signal \nprocessing, data \nindexing, conventional \nmachine learning and \ndeep learning \nalgorithms/approaches \nare applied to the raw \nsignals to derive \nactionable clinical \ninsights. \nSame. \nSleepStageML utilizes \nmachine learning and \ndeep learning in a \nsimilar fashion as \npredicate and \nreference devices. \nPhysical \nCharacteristics \nUser requires a \ncomputer with access \nto the internet to \nprovide original PSG \nrecordings in EDF files \nto and receive returned \nEDF+ files with added \nsoftware-generated \nsleep stage \nannotations from \nBeacon Biosignals via \nthe provided secure \nfile transfer system. \nSleep Profiler will \noperate on any \npersonal computer \nwith Windows XP \noperating system and \nat least 2 GB of RAM. \nThe speed by which a \nstudy will process is \ndependent on the \ncomputer processor \nand the amount of \nRAM \nWeb-based software \noperates in the cloud \nwith Windows, Mac \nOS, or Linux \nThe subject device \nrequires that the user \nhas a computer to \nsend/receive EDFs \nto/from Beacon \nBiosignals. The \npredicate and \nreference devices are \nsoftware that are \ndirectly operated by \nthe user. \nCybersecurity \nSoftware operates \nwithin infrastructure \nthat requires user \nauthentication, \nencryption of data at-\nrest and in-transit, \nchecksum verifications, \nand access controls. \nThe person installing \nthe Java applet must \nhave administrator \nprivileges. \nUser must have rights \nto the account and \ngroup to access data \nvia the portal \nThe firewall is not \nconfigured to prevent \ninput or output \nUser authentication \nwith strong password, \nauthorization, end to \nend SSL encryption, \naccess controls, \nchecksum, network \nand database controls, \nintrusion prevention \nsystem, and \nanonymization. \nSimilar. \nSleepStageML \noperates within \ninfrastructure that \nimplements \ncybersecurity \nmeasures \nsimilar to the \nmeasures implemented \nfor the predicate and \nreference devices.",
+      "extraction_method": "native",
+      "character_count": 3368
+    },
+    {
+      "block_id": "K233438-P008-B001",
+      "page": 8,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "510(K) SUMMARY Page 4 of 7",
+      "text": "510(K) SUMMARY Page 4 of 7",
+      "extraction_method": "native",
+      "character_count": 26
+    },
+    {
+      "block_id": "K233438-P008-B002",
+      "page": 8,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 4 of 7",
+      "text": "communication with \naccess to the server via \nports 22 and 30-29 \nPredetermined \nChange Control \nPlan (PCCP) \nIncludes PCCP that \nallows for update of \nthe signal \npreprocessing, \nmachine learning \nmodel, probability \npost-processing, and \nsignal quality check. \nNo PCCP No PCCP Predicate and \nreference devices do \nnot include a PCCP. \nSummary of Tests \nBeacon Biosignals conducted the necessary non-clinical testing and clinical validation \ntesting of SleepStageML with results supporting the determination of substantial \nequivalence. Activities that were conducted included the following: \n• Software verification testing which included software code reviews, automated \ntesting, acceptance testing, labeling review, cybersecurity and data protection, \nwhich confirmed that all software requirements are developed as expected. \n• Design validation testing which simulated the intended use to confirm that the end-\nto-end functionality of SleepStageML meets the design requirements. \n• Study that utilized clinical data to demonstrate automatic scoring sleep study \nperformance. \n• Design traceability confirming that all requirement tracing is complete from design \ninputs to verification/validation and that all risk controls are implemented and \neffective. \nNon-Clinical Tests \nSupport for the substantial equivalence of SleepStageML was provided by requirements \nverification, risk management and software testing, at the unit, integration, and system \nlevels. Unit and integration tests verify the functionality for individual software parts; and \nsystem-level integration tests cover each specified requirement. System level tests were \ndefined with detailed protocols and objective pass/fail criteria and were clearly \ndocumented with test execution results for review. SleepStageML passed all unit, \nintegration, and system level testing demonstrating that all requirements were verified and \nvalidated.",
+      "extraction_method": "native",
+      "character_count": 1914
+    },
+    {
+      "block_id": "K233438-P008-B003",
+      "page": 8,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 4 of 7",
+      "text": "Clinical Validation Test \nThe efficacy of SleepStageML was established through a retrospective pivotal validation \nstudy using previously collected clinical polysomnography (PSG) recordings from a \nrepresentative set of 100 patients. Recordings for inclusion in the validation data set were \nrandomly selected from three level 1 clinical PSG data sources and were required to (1) \nhave all EEG channels recommended by the American Academy of Sleep Medicine \n(AASM), (2) have EEG sampling rates between 128 and 512Hz, (3) have a recording \nduration between 4 and 24 hours, and (4) be from patients of least 18 years of age, The \nincluded patients spanned a variety of ages (between 19 and 83), were balanced across sex \n(46 female and 54 male) and were stratified across clinical apnea categories (25 patients in \neach category, normal (AHI < 5), mild (5 ≤ AHI < 15), moderate (15 ≤ AHI < 30), and severe \n(AHI > 30)).",
+      "extraction_method": "native",
+      "character_count": 917
+    },
+    {
+      "block_id": "K233438-P008-B004",
+      "page": 8,
+      "ordinal": 4,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 4 of 7",
+      "text": "Each PSG recording was manually and independently sleep staged by three (3) registered \nPSG technologists (RPSGTs) each with at least 5 years of experience in clinical scoring of",
+      "extraction_method": "native",
+      "character_count": 178
+    },
+    {
+      "block_id": "K233438-P009-B001",
+      "page": 9,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "510(K) SUMMARY Page 5 of 7",
+      "text": "510(K) SUMMARY Page 5 of 7",
+      "extraction_method": "native",
+      "character_count": 26
+    },
+    {
+      "block_id": "K233438-P009-B002",
+      "page": 9,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 5 of 7",
+      "text": "sleep studies. To ensure that the sleep staging outputs obtained from the experts were of \nsufficient quality, several data-quality and consistency checks were performed. \nSleepStageML software performance was evaluated against the expert consensus sleep \nstages that were constructed using 2/3 majority scoring (i.e., the stage per epoch where at \nleast 2 of the 3 experts agree). \nObjective performance targets and acceptance criteria of positive agreement (PA), \nnegative agreement (NA), and overall agreement (OA) were predefined to demonstrate \nnon-inferiority to the identified predicate device, Sleep Profiler (K153412). These metrics \nwere computed for all 30-second epochs that had an expert consensus sleep stage \n(excluding epochs where all 3 RPSGTs disagreed) after pooling across all recordings in the \nstudy. \nTable 1 shows the SleepStageML clinical performance results as compared to the predicate \nreported results. Comparing the 95% bootstrapped confidence intervals and mean values \nto the reference values indicates that SleepStageML is non-inferior to the predicate device. \nTherefore, the results confirm that the positive, negative, and overall agreement \nperformances of SleepStageML are substantially equivalent to those of Sleep Profiler \n(K153412), respectively. \nTABLE 1: SLEEP STAGE ML CLINICAL PERFORMANCE RESULTS \nSleep Staging \nComparisons \nSleepStageML vs 2/3 Consensus Sleep Staging \nPerformance \nSleep Profiler (K153412) vs 2/3 Consensus \nSleep Staging Performance \nN=100 \nsubjects \nPercent Agreement (%) with 95% \npercentile bootstrap confidence \ninterval (N=5000 resamples) \nN=43 \nsubjects \nPoint-estimate of Percent \nAgreement (%) \nTotal \nEpochs \nOverall \nAgreement \n(OA) \nPositive \nAgreement \n(PA) \nNegative \nAgreement \n(NA) \nTotal \nEpochs \nOverall \nAgreement \n(OA) \nPositive \nAgreement \n(PA) \nNegative \nAgreement \n(NA) \nOverall epochs using 2/3 consensus scoring \nW 21,668 \n96.1% \n(95.4%, \n96.8%) \n88.9% \n(86.5%, \n91.2%) \n98.5% \n(98.2%, \n98.8%) \n7,424 89% 73% 94% \nN1 3,877 \n94.5% \n(93.7%, \n95.2%) \n58.4% \n(54.2%, \n62.4%) \n96.2% \n(95.4%, \n96.9%) \n1,752 89% 25% 93% \nN2 42,587 \n87.1% \n(85.9%, \n88.3%) \n79.8% \n(77.7%, \n81.8%) \n94.2% \n(93.2%, \n95.0%) \n12,582 81% 77% 84% \nN3 6,210 \n92.9% \n(91.8%, \n93.8%) \n93.0% \n(89.8%, \n95.7%) \n92.9% \n(91.7%, \n93.9%) \n4,704 91% 76% 94% \nR 12,641 \n97.3% \n(96.7%, \n97.9%) \n93.1% \n(91.5%, \n94.5%) \n98.0% \n(97.3%, \n98.6%) \n3,749 95% 74% 97% \nTotal 86,983 \nMulti-stage \nAgreement: \n84.02% \n— 31,361 — \nNo \nConsensus 2,289 — 1,150 —",
+      "extraction_method": "native",
+      "character_count": 2498
+    },
+    {
+      "block_id": "K233438-P010-B001",
+      "page": 10,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "510(K) SUMMARY Page 6 of 7",
+      "text": "510(K) SUMMARY Page 6 of 7",
+      "extraction_method": "native",
+      "character_count": 26
+    },
+    {
+      "block_id": "K233438-P010-B002",
+      "page": 10,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 6 of 7",
+      "text": "Conclusion \nNon-Clinical verification, validation, and clinical validation testing were conducted in \naccordance with FDA guidance recommendations to confirm the device design meets all \nspecifications and user needs. SleepStageML has passed all software verification and \nvalidation tests and its clinical validation testing results demonstrated effective \nperformance and non-inferiority to predicate device’s performance. It is therefore \nconcluded that SleepStageML is substantially equivalent to the predicate device. \nPredetermined Change Control Plan \nSleepStageML includes an authorized Predetermined Change Control Plan (PCCP) that \nallows for planned updates of the machine learning software device function (ML-DSF) and \nnon-ML algorithmic components to improve sleep staging performance within the existing \nintended use and indications for use. This PCCP allows for the modification of the \nalgorithmic components of SleepStageML including the signal preprocessing, machine \nlearning model, postprocessing, or signal quality check to achieve increased sleep staging \nperformance. The four modifications are summarized in Table 2 below. \nTABLE 2: SUMMARY OF PCCP MODIFICATIONS \n# Modification Description \n1 Update of Machine \nLearning Model \nSleepStageML’s sleep staging neural network may be modified for the \npurposes of improving sleep staging performance within the intended \nuse population by: \n• Retraining with an updated training/tuning dataset \n• Retraining with updated hyper-parameters, loss function, \noptimizer \n• Retraining with updated model selection criteria \n• Retraining with an updated neural network architecture with \nlimitations on model size and type \n2 Update of Signal \nPreprocessing \nSteps \nSleepStageML’s EEG signal preprocessing may be modified for the \npurposes of improving sleep staging performance within the intended \nuse population by: \n• Updating the parameters of the digital signal processing steps \n(e.g., filtering) applied to the EEG signals before being input to \nthe machine learning model \n3 Update of \nProbability \nPostprocessing \nSleepStageML’s probability postprocessing may be modified for the \npurposes of improving sleep staging performance within the intended \nuse population by: \n• Updating the methods by which sleep stages are generated \nfrom the model output sleep stage probabilities \n4 Update of Signal \nQuality Check \nSleepStageML’s signal quality check component may be modified for \nthe purposes of improving sleep staging performance within the \nintended use population by: \n• Updating the criteria/thresholds used to check that the input \nEEG signals are analyzable",
+      "extraction_method": "native",
+      "character_count": 2640
+    },
+    {
+      "block_id": "K233438-P010-B003",
+      "page": 10,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 6 of 7",
+      "text": "Modifications 1 and 2 above would trigger re-training of the machine learning model, while \nmodifications 3 and 4 would not trigger re-training of the machine learning model. \nThe testing of any modification to SleepStageML within the scope of the PCCP will include \ncomprehensive software verification and validation testing, including repeating all unit, \nintegration, and system level tests performed in the development for the original",
+      "extraction_method": "native",
+      "character_count": 439
+    },
+    {
+      "block_id": "K233438-P011-B001",
+      "page": 11,
+      "ordinal": 1,
+      "type": "heading",
+      "section": "510(K) SUMMARY Page 7 of 7",
+      "text": "510(K) SUMMARY Page 7 of 7",
+      "extraction_method": "native",
+      "character_count": 26
+    },
+    {
+      "block_id": "K233438-P011-B002",
+      "page": 11,
+      "ordinal": 2,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 7 of 7",
+      "text": "SleepStageML software. All software verification tests linked to requirements and \nspecifications must pass for a modification to be considered valid. In addition, clinical \nperformance validation will also be repeated and will require that the performance of any \nmodification to SleepStageML to be non-inferior in per-stage performance metrics to both \nthe original SleepStageML device and its predicate device. In addition, the performance of \nany modification to SleepStageML must also be non-inferior to the best performance \namong released versions of SleepStageML with respect to the multi-stage agreement. The \nacceptance criteria for the clinical performance validation are summarized in the Table 3 \nbelow, as well as the modifications for which each criterion is required to pass. \nTABLE 3: SUMMARY OF PCCP CLINICAL VALIDATION ACCEPTANCE CRITERIA \nAcceptance Criteria \nModifications that \nrequire passing \nthis criterion \nThe per-stage overall, positive, and negative agreements of the modified \nSleepStageML, as compared to human expert consensus, is non-inferior to \nboth the Original SleepStageML and the predicate device for full overnight \nrecordings. \n1, 2, 3, 4 \nThe percentage of human scorable recordings that are unanalyzable by the \nupdated SleepStageML is less than or equal to a predefined threshold. \n4 \nThe per-stage overall, positive, and negative agreements of the modified \nSleepStageML, as compared to human expert consensus, is non-inferior to \nboth the Original SleepStageML and the predicate device for 2-hour \nrecording segments. \n1, 2, 3, 4 \nThe per-stage overall, positive, and negative agreements of the modified \nSleepStageML, as compared to human expert consensus, is non-inferior to \nboth the Original SleepStageML and the predicate device for recordings with \nthe minimum number of AASM recommended EEG channels. \n1, 2, 3, 4 \nThe overall multi-stage agreement (across all 5 sleep stages) of the modified \nSleepStageML is non-inferior to the highest overall multi-stage agreement \nacross all released versions of SleepStageML. \n1, 2, 3, 4",
+      "extraction_method": "native",
+      "character_count": 2078
+    },
+    {
+      "block_id": "K233438-P011-B003",
+      "page": 11,
+      "ordinal": 3,
+      "type": "paragraph",
+      "section": "510(K) SUMMARY Page 7 of 7",
+      "text": "Upon a release of an updated version of SleepStageML based on this PCCP, \ncommunication will be sent to all external clinical users of SleepStageML, informing them \nthat a new version of SleepStageML is available, with a description of the release and its \nupdated performance.",
+      "extraction_method": "native",
+      "character_count": 277
+    }
+  ],
+  "claims": []
+}
