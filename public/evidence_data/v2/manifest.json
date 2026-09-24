@@ -1,0 +1,10 @@
+{
+ "schema_version": "2.0-prototype",
+ "status": "Prototype for review. One clearance only; v1 records remain canonical for the other 265 clearances.",
+ "documents": [
+  {"k_number": "K143272", "document": "documents/K143272.json", "pages": "pages/K143272/"}
+ ],
+ "review_packet": "review/review_packet_v2.json",
+ "review_workbook": "review/Evidence_Review_v2.xlsx",
+ "table83": "table83_verified_v2.json"
+}

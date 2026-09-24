@@ -121,6 +121,17 @@ This is the central handoff issue.
 Candidate claims must therefore be treated as a queue of machine suggestions,
 not as research findings.
 
+## Prototype v2 clearance page (K143272)
+
+`/510k/K143272/` now opens a prototype review workspace (`?view=legacy` shows
+the previous page; all other clearances are unchanged). It adds a reconstructed
+document with the comparison table and column provenance, synchronized page
+renders, linked measurement chains, per-claim evidence anchors with PDF crops,
+relationship review, and a verified-only Table 8.3 preview. Schema, audit, and
+migration: [`docs/EVIDENCE_SCHEMA_V2.md`](docs/EVIDENCE_SCHEMA_V2.md). Pipeline:
+[`pipeline/README.md`](pipeline/README.md). It has not been generalized to the
+corpus.
+
 ## Non-negotiable evidence rules
 
 - The original FDA PDF is the ultimate regulatory source.

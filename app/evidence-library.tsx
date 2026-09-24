@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
+import { ClearanceWorkspace } from "./evidence-v2/ClearanceWorkspace";
 
 type DocumentRow = {
   k_number:string; corpus:string; product_code:string; device_name:string; applicant:string;
@@ -19,6 +20,7 @@ type Block = {block_id:string; page:number; ordinal:number; type:string; section
 type EvidenceIndex = {stats:Record<string,any>; documents:DocumentRow[]; table83:any[]};
 type EvidenceDocument = {document:DocumentRow; pages:any[]; blocks:Block[]; claims:Claim[]};
 type Draft = Pick<Claim,"review_decision"|"reviewed_value"|"reviewer_date"|"reviewer_notes">;
+type V2Manifest = {documents:{k_number:string;document:string}[]; review_packet:string; review_workbook:string; table83:string};
 
 const decisionOptions=["pending","verified","edited and verified","rejected","needs clarification"];
 const fieldLabels:Record<string,string>={
@@ -63,6 +65,18 @@ function EvidenceIndexView({onExit}:{onExit?:()=>void}){
 function Metric({value,label}:{value:number;label:string}){return <article><strong>{value.toLocaleString()}</strong><span>{label}</span></article>}
 
 export function EvidenceDetail({kNumber}:{kNumber:string}){
+  const [forceLegacy]=useState(()=>typeof window!=="undefined"&&new URLSearchParams(window.location.search).get("view")==="legacy");
+  const [mode,setMode]=useState<"loading"|"v2"|"legacy">(forceLegacy?"legacy":"loading"); const [manifest,setManifest]=useState<V2Manifest|null>(null);
+  useEffect(()=>{
+    if(forceLegacy)return;
+    fetch(asset("evidence_data/v2/manifest.json")).then(r=>r.ok?r.json():null).then((m:V2Manifest|null)=>{if(m?.documents?.some(d=>d.k_number===kNumber)){setManifest(m);setMode("v2")}else setMode("legacy")}).catch(()=>setMode("legacy"));
+  },[kNumber,forceLegacy]);
+  if(mode==="loading")return <main className="evidenceShell loading"><div className="loadingMark"/><h1>Opening {kNumber}…</h1></main>;
+  if(mode==="v2"&&manifest)return <ClearanceWorkspace kNumber={kNumber} manifest={manifest}/>;
+  return <LegacyEvidenceDetail kNumber={kNumber}/>;
+}
+
+function LegacyEvidenceDetail({kNumber}:{kNumber:string}){
   const [data,setData]=useState<EvidenceDocument|null>(null); const [tab,setTab]=useState("document"); const [search,setSearch]=useState(""); const [drafts,setDrafts]=useState<Record<string,Draft>>({}); const [highlight,setHighlight]=useState(""); const importRef=useRef<HTMLInputElement>(null);
   useEffect(()=>{fetch(asset(`evidence_data/documents/${kNumber}.json`)).then(r=>r.json()).then((value:EvidenceDocument)=>{setData(value);const saved=localStorage.getItem(`evidence-review-${kNumber}`);if(saved)try{setDrafts(JSON.parse(saved))}catch{}})},[kNumber]);
   useEffect(()=>{if(data)localStorage.setItem(`evidence-review-${kNumber}`,JSON.stringify(drafts))},[data,drafts,kNumber]);

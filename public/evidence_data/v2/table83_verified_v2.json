@@ -1,0 +1,38 @@
+{
+ "schema_version": "2.0-prototype",
+ "generated_from": "review/review_packet_v2.json",
+ "rule": "Verified and edited-and-verified, non-stale claims connected through verified stated relationships only. Clearance and family counts are separate.",
+ "rows": [],
+ "excluded_chains": [
+  {
+   "k_number": "K143272",
+   "chain_id": "CHN-K143272-AIRFLOW",
+   "reason": "no verified physiological parameter"
+  },
+  {
+   "k_number": "K143272",
+   "chain_id": "CHN-K143272-EFFORT",
+   "reason": "no verified physiological parameter"
+  },
+  {
+   "k_number": "K143272",
+   "chain_id": "CHN-K143272-SPO2",
+   "reason": "no verified physiological parameter"
+  },
+  {
+   "k_number": "K143272",
+   "chain_id": "CHN-K143272-PULSE",
+   "reason": "no verified physiological parameter"
+  },
+  {
+   "k_number": "K143272",
+   "chain_id": "CHN-K143272-POSITION",
+   "reason": "no verified physiological parameter"
+  },
+  {
+   "k_number": "K143272",
+   "chain_id": "CHN-K143272-SNORING",
+   "reason": "no verified physiological parameter"
+  }
+ ]
+}
